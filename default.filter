@@ -1191,7 +1191,7 @@ ItemDisplay[imma]: %GOLD%Arcane Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%WHIT
 ItemDisplay[scou]: %GOLD%Orb of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%BLUE%MAP%WHITE%/ %YELLOW%MAP %WHITE%+ %GOLD%Item%NL%%WHITE%Downgrade to Common:}%CONTINUE%
 ItemDisplay[lbox]: %GOLD%Larzuk's Puzzlebox %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GOLD%Sockets %WHITE%Items}%CONTINUE%
 ItemDisplay[lpp]: %GOLD%Larzuk's Puzzlepiece %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%NOT %GOLD%Uniques %WHITE%or %DARK_GREEN%Sets%NL%%GOLD%Sockets %WHITE%Items}%CONTINUE%
-ItemDisplay[lmal]: %GOLD%Larzuk's Malus%MAP%
+ItemDisplay[lmal]: %GOLD%Larzuk's Malus%CONTINUE%
 ItemDisplay[upmp]: %GOLD%Cartographer's Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%WHITE%3x%WHITE%Map%TAN% (%WHITE%Tier:%ORANGE%x%TAN%) %WHITE%+ %GOLD%Item %WHITE%=%RED% MAP %TAN%(%WHITE%Tier:%ORANGE%x%WHITE%+1%TAN%)%NL%%RED%Higher Tier%WHITE%:}
 ItemDisplay[fort]: %GOLD%Orb of Fortification %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Halves %WHITE%Monsters Numbers%NL%%BLUE% Doubles %WHITE%Loot/Experience%NL%%ORANGE%Fortified%WHITE%: %YELLOW%MAP %WHITE%+ %GOLD%Item}%CONTINUE%
 
@@ -1220,8 +1220,8 @@ ItemDisplay[NMAG t37]: %WHITE%Pandemonium Citadel%ORANGE% Map%DOT-A8%
 ItemDisplay[NMAG t38]: %WHITE%Canyon of Sescheron%ORANGE% Map%DOT-A8%
 ItemDisplay[NMAG t39]: %WHITE%Kehjistan Marketplace%ORANGE% Map%DOT-A8%
 ItemDisplay[NMAG t3a]: %WHITE%Ashen Plains%ORANGE% Map%DOT-A8%
-ItemDisplay[NMAG t61]: %WHITE%Desert %PURPLE%Duel Arena%DOT-A8%
-ItemDisplay[NMAG t62]: %WHITE%Moor %PURPLE%Duel Arena%DOT-A8%
+ItemDisplay[NMAG t61]: %WHITE%Desert %RED%Duel Arena%DOT-A8%
+ItemDisplay[NMAG t62]: %WHITE%Moor %RED%Duel Arena%DOT-A8%
 
  //Magic
 ItemDisplay[MAG t11]: %BLUE%Ruins of Vizjun%ORANGE% Map%DOT-A8%
