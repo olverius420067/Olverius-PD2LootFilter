@@ -75,7 +75,7 @@ ItemDisplay[mp4 CLVL<45]: %BLUE%M %WHITE%great
 ItemDisplay[hp5]: //%RED%H %WHITE%super
 ItemDisplay[mp5]: //%BLUE%M %WHITE%super
 ItemDisplay[rvs]: //%PURPLE%r %WHITE%35%
-ItemDisplay[rvl]: //%PURPLE%R %WHITE%65%
+ItemDisplay[rvl]: %PURPLE%R %WHITE%65%
 
  //Tomes
  //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -590,9 +590,9 @@ ItemDisplay[WEAPON SUP ED>4]: %GRAY%[%RED%SUP%GRAY%] %NAME%%CONTINUE%
 ItemDisplay[ARMOR SUP ED>4]: %GRAY%[%BLUE%SUP%GRAY%] %NAME%%CONTINUE%
 ItemDisplay[(WEAPON OR ARMOR) NMAG !ID]: %NAME%  //Gambling
 ItemDisplay[ETH UNI]: %GRAY%[%WHITE%eth%GRAY%] %GOLD%%NAME%%CONTINUE%  //Ethereals
-ItemDisplay[ETH RARE]: %GRAY%[%WHITE%eth%GRAY%] %YELLOW%%NAME%%CONTINUE%
+ItemDisplay[ETH RARE]: //%GRAY%[%WHITE%eth%GRAY%] %YELLOW%%NAME%%CONTINUE%
 ItemDisplay[ETH MAG]: //%GRAY%[%WHITE%eth%GRAY%] %BLUE%%NAME%%CONTINUE%
-ItemDisplay[ETH NMAG]: %GRAY%[%WHITE%eth%GRAY%] %GRAY%%NAME%%CONTINUE%
+ItemDisplay[ETH NMAG]: //%GRAY%[%WHITE%eth%GRAY%] %GRAY%%NAME%%CONTINUE%
 ItemDisplay[SOCK>0]: %NAME% %TAN%[%WHITE%%SOCKETS%%TAN%]%CONTINUE%  //Sockets
 ItemDisplay[(ARMOR OR WEAPON) (MAG OR RARE) ID]: %NAME% %WHITE%(%TAN%%WHITE%%PRICE%%WHITE%)%CONTINUE%  //Prices after ID
 
@@ -1184,7 +1184,7 @@ ItemDisplay[(ARMOR OR WEAPON OR (aqv OR cqv)) (MAG OR RARE OR SET OR UNI OR CRAF
 
 ItemDisplay[wss]: %RED%Worldstone Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Corrupts %WHITE%Items}%CONTINUE%
 ItemDisplay[imra]: %GOLD%Zakarum Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%WHITE%MAP %WHITE%+ %GOLD%Item%WHITE% + %GREEN%Jewel %WHITE%+ %ORANGE%Rune>9%NL%%WHITE%Common to %YELLOW%Rare%WHITE%:}%CONTINUE%
-ItemDisplay[scrb]: %GOLD%Horadrim Scarab %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%GOLD%Item %WHITE%+ %GRAY%[%ORANGE%T3%GRAY%]%NL%%RED%Group Dungeon%WHITE%:}
+ItemDisplay[scrb]: %GOLD%Horadrim Scarab %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%GOLD%Item %WHITE%+ %GREEN%Tier 3 Map%NL%%RED%Group Dungeon%WHITE%:}
 ItemDisplay[rera]: %GOLD%Horadrim Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%YELLOW%MAP %WHITE%+ %GOLD%Item%WHITE% + Perf Gem + %ORANGE%Rune>9%NL%%GREEN%Reroll%WHITE%:}%CONTINUE%
 ItemDisplay[upma]: %GOLD%Angelic Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%BLUE%MAP %WHITE%+ %GOLD%Item%WHITE% + Perf %GRAY%O %WHITE%+ %ORANGE%Rune>9%NL%%BLUE%Magic %WHITE%to %YELLOW%Rare%WHITE%:}%CONTINUE%
 ItemDisplay[imma]: %GOLD%Arcane Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%WHITE%MAP + %GOLD%Item%WHITE% + %GREEn%Jewel %NL%%WHITE%Common to %BLUE%Magic%WHITE%:}%CONTINUE%
