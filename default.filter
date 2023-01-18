@@ -585,11 +585,11 @@ ItemDisplay[(SUP OR INF) !RW xmb]: Mesh Boots%CONTINUE%
  //II. PROCESSING
  //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-ItemDisplay[SUP ED<5]: %GRAY%[%GREEN%SUP%GRAY%] %NAME%%CONTINUE%  //Superiors
-ItemDisplay[WEAPON SUP ED>4]: %GRAY%[%RED%SUP%GRAY%] %NAME%%CONTINUE%
+ItemDisplay[SUP ED<5]: //%GRAY%[%GREEN%SUP%GRAY%] %NAME%%CONTINUE%  //Superiors
+ItemDisplay[WEAPON SUP ED>4]: //%GRAY%[%RED%SUP%GRAY%] %NAME%%CONTINUE%
 ItemDisplay[ARMOR SUP ED>4]: %GRAY%[%BLUE%SUP%GRAY%] %NAME%%CONTINUE%
 ItemDisplay[(WEAPON OR ARMOR) NMAG !ID]: %NAME%  //Gambling
-ItemDisplay[ETH UNI]: %GRAY%[%WHITE%eth%GRAY%] %GOLD%%NAME%%CONTINUE%  //Ethereals
+ItemDisplay[ETH UNI]: //%GRAY%[%WHITE%eth%GRAY%] %GOLD%%NAME%%CONTINUE%  //Ethereals
 ItemDisplay[ETH RARE]: //%GRAY%[%WHITE%eth%GRAY%] %YELLOW%%NAME%%CONTINUE%
 ItemDisplay[ETH MAG]: //%GRAY%[%WHITE%eth%GRAY%] %BLUE%%NAME%%CONTINUE%
 ItemDisplay[ETH NMAG]: //%GRAY%[%WHITE%eth%GRAY%] %GRAY%%NAME%%CONTINUE%
@@ -1162,12 +1162,12 @@ ItemDisplay[(wsp OR 9ws OR 7ws) SK117>0 NMAG !RW SOCK=5]: %DOT-A8%%TIER-3%%NAME%
 ItemDisplay[(wsp OR 9ws OR 7ws) !INF !ETH NMAG !RW SOCK=4]: %NAME%{%NAME%}
 ItemDisplay[7ws NMAG !RW SOCK>3]: %NAME%{%NAME%}
 ItemDisplay[7ws NMAG !RW SOCK>3 ED>4]: %NAME%{%NAME%}
-ItemDisplay[((SIN ELT) OR 9tw OR 9lw) (SK275>0 OR SK276>0 OR SK278>0 OR SK277>0) !INF ETH NMAG !RW SOCK=3]: %DOT-A8%%NAME%{%NAME%}
-ItemDisplay[((SIN ELT) OR 9tw OR 9lw) (SK275>0 OR SK276>0 OR SK278>0 OR SK257>2 OR SK266>2) !INF ETH NMAG !RW SOCK>3]: %DOT-A8%%NAME%{%NAME%}
-ItemDisplay[(9tw OR 7tw) (SK262>2 OR SK271>2 OR SK276>2) !INF NMAG !RW SOCK=3]: %DOT-A8%%NAME%{%NAME%}
-ItemDisplay[((SIN ELT) OR 9tw OR 9lw) ((SK254>2 OR SK252>2 OR SK255>2 OR SK260>2 OR SK275>2) OR ((SK254>0 OR SK255>0 OR SK260>0) AND (SK275>0 AND SK276>0)) OR ((SK254>1 OR SK255>1 OR SK260>1) AND (SK275>0 OR SK276>0 OR SK278>0))) !INF !ETH NMAG !RW SOCK=2]: %NAME%{%NAME%}
-ItemDisplay[SIN !(ktr OR wrb OR axf OR ces) (SK254>2 OR SK255>2 OR SK259>2 OR SK260>2 OR SK262>2 OR SK266>2 OR SK267>2 OR SK271>2 OR SK272>2 OR SK273>2 OR SK276>2 OR SK277>2 OR SK278>2 OR SK265>2 OR (SK278>1 AND SK265>1) OR SK366>2 OR SK280>2 OR SK252>2) !INF NMAG !RW SOCK=3]: %NAME%{%NAME%}
-ItemDisplay[((SIN ELT) OR 9tw OR 9lw) !INF ETH NMAG !RW SOCK>3]: %NAME%{%NAME%}
+ItemDisplay[((SIN ELT) OR 9tw OR 9lw) (SK275>0 OR SK276>0 OR SK278>0 OR SK277>0) !INF ETH NMAG !RW SOCK=3]: //%DOT-A8%%NAME%{%NAME%}
+ItemDisplay[((SIN ELT) OR 9tw OR 9lw) (SK275>0 OR SK276>0 OR SK278>0 OR SK257>2 OR SK266>2) !INF ETH NMAG !RW SOCK>3]: //%DOT-A8%%NAME%{%NAME%}
+ItemDisplay[(9tw OR 7tw) (SK262>2 OR SK271>2 OR SK276>2) !INF NMAG !RW SOCK=3]: //%DOT-A8%%NAME%{%NAME%}
+ItemDisplay[((SIN ELT) OR 9tw OR 9lw) ((SK254>2 OR SK252>2 OR SK255>2 OR SK260>2 OR SK275>2) OR ((SK254>0 OR SK255>0 OR SK260>0) AND (SK275>0 AND SK276>0)) OR ((SK254>1 OR SK255>1 OR SK260>1) AND (SK275>0 OR SK276>0 OR SK278>0))) !INF !ETH NMAG !RW SOCK=2]: //%NAME%{%NAME%}
+ItemDisplay[SIN !(ktr OR wrb OR axf OR ces) (SK254>2 OR SK255>2 OR SK259>2 OR SK260>2 OR SK262>2 OR SK266>2 OR SK267>2 OR SK271>2 OR SK272>2 OR SK273>2 OR SK276>2 OR SK277>2 OR SK278>2 OR SK265>2 OR (SK278>1 AND SK265>1) OR SK366>2 OR SK280>2 OR SK252>2) !INF NMAG !RW SOCK=3]: //%NAME%{%NAME%}
+ItemDisplay[((SIN ELT) OR 9tw OR 9lw) !INF ETH NMAG !RW SOCK>3]: //%NAME%{%NAME%}
 
 
  //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1363,35 +1363,8 @@ ItemDisplay[opl CLVL<41]: //
  //Gems < Flawless
 ItemDisplay[gcv OR gcy OR gcb OR gcg OR gcr OR gcw OR skc OR gfv OR gfy OR gfb OR gfg OR gfr OR gfw OR skf OR gsv OR gsy OR gsb OR gsg OR gsr OR gsw OR sku]: //
 
- //MISC#3A
- //Armors 
-ItemDisplay[HELM (cap OR skp OR hlm OR fhl OR msk OR bhm OR ghm OR crn OR xap OR xkp OR xlm OR xhl OR xsk OR xh9 OR xhm OR xrn OR uap OR ukp OR ulm OR uhl OR usk OR uh9 OR uhm OR urn OR dr1 OR dr2 OR dr3 OR dr4 OR dr5 OR ba1 OR ba2 OR ba3 OR ba4 OR ba5 OR dr6 OR dr7 OR dr8 OR dr9 OR dra OR ba6 OR ba7 OR ba8 OR ba9 OR baa OR drb OR drc OR drd OR dre OR drf OR bab OR bac OR bad OR bae OR baf) SOCK=0 NMAG !RW]: //
-ItemDisplay[CHEST (qui OR lea OR hla OR stu OR rng OR scl OR chn OR brs OR spl OR plt OR fld OR gth OR ltp OR ful OR aar OR xui OR xea OR xla OR xtu OR xng OR xcl OR xhn OR xrs OR xpl OR xlt OR xld OR xth OR xtp OR xul OR xar OR uui OR uea OR ula OR utu OR ung OR ucl OR uhn OR urs OR upl OR ult OR uld OR uth OR utp OR uul OR uar) SOCK=0 NMAG !RW]: //
-ItemDisplay[SHIELD (buc OR sml OR lrg OR spk OR kit OR bsh OR tow OR gts OR xuc OR xml OR xrg OR xpk OR xit OR xsh OR xow OR xts OR uuc OR uml OR urg OR upk OR uit OR ush OR uow OR uts OR pa1 OR pa2 OR pa3 OR pa4 OR pa5 OR ne1 OR ne2 OR ne3 OR ne4 OR ne5 OR pa6 OR pa7 OR pa8 OR pa9 OR paa OR ne6 OR ne7 OR ne8 OR ne9 OR nea OR pab OR pac OR pad OR pae OR paf OR neb OR neg OR ned OR nee OR nef) SOCK=0 NMAG !RW]: //
-ItemDisplay[GLOVES (lgl OR vgl OR mgl OR tgl OR hgl OR xlg OR xvg OR xmg OR xtg OR xhg OR ulg OR uvg OR umg OR utg OR uhg) SOCK=0 NMAG !RW]: //
-ItemDisplay[BOOTS (lbt OR vbt OR mbt OR tbt OR hbt OR xlb OR xvb OR xmb OR xtb OR xhb OR ulb OR uvb OR umb OR utb OR uhb) SOCK=0 NMAG !RW]: //
-ItemDisplay[BELT (lbl OR vbl OR mbl OR tbl OR hbl OR zlb OR zvb OR zmb OR ztb OR zhb OR ulc OR uvc OR umc OR utc OR uhc) SOCK=0 NMAG !RW]: //
-ItemDisplay[CIRC (ci0 OR ci1 OR ci2 OR ci3) SOCK=0 NMAG !RW]: //
 
- //Weapons
-ItemDisplay[AXE (hax OR axe OR 2ax OR mpi OR wax OR lax OR bax OR btx OR gax OR gix OR 9ha OR 9ax OR 92a OR 9mp OR 9wa OR 9la OR 9ba OR 9bt OR 9ga OR 9gi OR 7ha OR 7ax OR 72a OR 7mp OR 7wa OR 7la OR 7ba OR 7bt OR 7ga OR 7gi) SOCK=0 NMAG !RW]: //
-ItemDisplay[MACE (clb OR spc OR mac OR mst OR fla OR whm OR mau OR gma OR 9cl OR 9sp OR 9ma OR 9mt OR 9fl OR 9wh OR 9m9 OR 9gm OR 7cl OR 7sp OR 7ma OR 7mt OR 7fl OR 7wh OR 7m7 OR 7gm) SOCK=0 NMAG !RW]: //
-ItemDisplay[SWORD (ssd OR scm OR sbr OR flc OR crs OR bsd OR lsd OR wsd OR 2hs OR clm OR gis OR bsw OR flb OR gsd OR 9ss OR 9sm OR 9sb OR 9fc OR 9cr OR 9bs OR 9ls OR 9wd OR 92h OR 9cm OR 9gs OR 9b9 OR 9fb OR 9gd OR 7ss OR 7sm OR 7sb OR 7fc OR 7cr OR 7bs OR 7ls OR 7wd OR 72h OR 7cm OR 7gs OR 7b7 OR 7fb OR 7gd) SOCK=0 NMAG !RW]: //
-ItemDisplay[DAGGER (dgr OR dir OR kri OR bld OR 9dg OR 9di OR 9kr OR 9bl OR 7dg OR 7di OR 7kr OR 7bl) SOCK=0 NMAG !RW]: //
-ItemDisplay[THROWING (tkf OR tax OR bkf OR bal OR 9tk OR 9ta OR 9bk OR 9b8 OR 7tk OR 7ta OR 7bk OR 7b8) SOCK=0 NMAG !RW]: //
-ItemDisplay[JAV (jav OR pil OR ssp OR glv OR tsp OR 9ja OR 9pi OR 9s9 OR 9gl OR 9ts OR 7ja OR 7pi OR 7s7 OR 7gl OR 7ts) SOCK=0 NMAG !RW]: //
-ItemDisplay[SPEAR (spr OR tri OR brn OR spt OR pik OR 9sr OR 9tr OR 9br OR 9st OR 9p9 OR 7sr OR 7tr OR 7br OR 7st OR 7p7) SOCK=0 NMAG !RW]: //
-ItemDisplay[POLEARM (bar OR vou OR scy OR pax OR hal OR wsc OR 9b7 OR 9vo OR 9s8 OR 9pa OR 9h9 OR 9wc OR 7o7 OR 7vo OR 7s8 OR 7pa OR 7h7 OR 7wc) SOCK=0 NMAG !RW]: //
-ItemDisplay[BOW (sbw OR hbw OR lbw OR cbw OR sbb OR lbb OR swb OR lwb OR 8sb OR 8hb OR 8lb OR 8cb OR 8s8 OR 8l8 OR 8sw OR 8lw OR 6sb OR 6hb OR 6lb OR 6cb OR 6s7 OR 6l7 OR 6sw OR 6lw) SOCK=0 NMAG !RW]: //
-ItemDisplay[XBOW (lxb OR mxb OR hxb OR rxb OR 8lx OR 8mx OR 8hx OR 8rx OR 6lx OR 6mx OR 6hx OR 6rx) SOCK=0 NMAG !RW]: //
-ItemDisplay[STAFF (sst OR lst OR cst OR bst OR wst OR 8ss OR 8ls OR 8cs OR 8bs OR 8ws OR 6ss OR 6ls OR 6cs OR 6bs OR 6ws) SOCK=0 NMAG !RW]: //
-ItemDisplay[WAND (wnd OR ywn OR bwn OR gwn OR 9wn OR 9yw OR 9bw OR 9gw OR 7wn OR 7yw OR 7bw OR 7gw) SOCK=0 NMAG !RW]: //
-ItemDisplay[SCEPTER (scp OR gsc OR wsp OR 9sc OR 9qs OR 9ws OR 7sc OR 7qs OR 7ws) SOCK=0 NMAG !RW]: //
-ItemDisplay[SIN (ktr OR wrb OR axf OR ces OR clw OR btl OR skr OR 9ar PR 9wb OR 9xf OR 9cs OR 9lw OR 9tw OR 9qr OR 7ar OR 7wb OR 7xf OR 7cs OR 7lw OR 7tw OR 7qr) SOCK=0 NMAG !RW]: //
-ItemDisplay[SOR (ob1 OR ob2 OR ob3 OR ob4 OR ob5 OR ob6 OR ob7 OR ob8 OR ob9 OR oba OR obb OR obc OR obd OR obe OR obf) SOCK=0 NMAG !RW]: //
-ItemDisplay[ZON (am1 OR am2 OR am3 OR am4 OR am5 OR am6 OR am7 OR am8 OR am9 OR ama OR amb OR amc OR amd OR ame OR amf) SOCK=0 NMAG !RW]: //
-
- //MISC#3B
+ //MISC#3
 ItemDisplay[(ARMOR OR WEAPON) NMAG SOCK=1 !leg CLVL>5]: //
 ItemDisplay[(ARMOR OR WEAPON) !leg INF]: //
 ItemDisplay[(ARMOR OR WEAPON) MAG !ETH CLVL>40]: //
@@ -1437,7 +1410,7 @@ ItemDisplay[GLOVES NMAG CLVL>20]: //
 ItemDisplay[NMAG GLOVES CLVL>5]: //
 ItemDisplay[NMAG !ETH !SUP DEF<450 (uui OR uea OR ula OR utu)]: //
 ItemDisplay[MAG !ID GLOVES ILVL>5 ETH]: //
-ItemDisplay[MAG !ID GLOVES ILVL>5]: %NAME%
+ItemDisplay[MAG !ID GLOVES ILVL>5]: //
 ItemDisplay[BOOTS NMAG CLVL>20]: //
 ItemDisplay[ETH (MAG OR RARE) !ID BOOTS CLVL>20]: //
 ItemDisplay[NMAG BOOTS CLVL>5]: //
