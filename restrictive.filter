@@ -1284,26 +1284,26 @@ ItemDisplay[toa]: %GREEN%Token of Absolution%MAP%{%GREEN%Resets %WHITE%Skills}
 
  //UBER TRISTRAM
  //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[pk1]: %GRAY%Key of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Countess %WHITE%/ %GRAY%Blood Raven}
-ItemDisplay[pk2]: %GRAY%Key of Hatred %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Summoner %WHITE%/ %GRAY%Blood Witch}
-ItemDisplay[pk3]: %GRAY%Key of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Izual %WHITE%/ %GRAY%Nihlathak}
-ItemDisplay[dhn]: %GOLD%Diablo's Horn %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GOLD%Uber Tristram %WHITE%Ingredient}
-ItemDisplay[bey]: %GOLD%Baal's Eye %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GOLD%Uber Tristram %WHITE%Ingredient}
-ItemDisplay[mbr]: %GOLD%Mephisto's Brain %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GOLD%Uber Tristram %WHITE%Ingredient}
+ItemDisplay[pk1]: %GRAY%Key of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%GRAY%Countess %WHITE%/ %GRAY%Blood Raven%WHITE%]%NL%%GRAY%Uber Tristram Ingredient}
+ItemDisplay[pk2]: %GRAY%Key of Hatred %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%GRAY%Summoner %WHITE%/ %GRAY%Blood Witch%WHITE%]%NL%%GRAY%Uber Tristram Ingredient}
+ItemDisplay[pk3]: %GRAY%Key of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%GRAY%Izual %WHITE%/ %GRAY%Nihlathak%WHITE%]%NL%%GRAY%Uber Tristram Ingredient}
+ItemDisplay[dhn]: %GOLD%Diablo's Horn %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%GOLD%Uber Duriel%WHITE%]%NL%%GOLD%Uber Tristram %WHITE%Ingredient}
+ItemDisplay[bey]: %GOLD%Baal's Eye %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%GOLD%Lilith%WHITE%]%NL%%GOLD%Uber Tristram %WHITE%Ingredient}
+ItemDisplay[mbr]: %GOLD%Mephisto's Brain %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%GOLD%Uber Izual%WHITE%]%NL%%GOLD%Uber Tristram %WHITE%Ingredient}
 ItemDisplay[ubtm]: %GOLD%Pandemonium Talisman%MAP%{%GOLD%Uber Tristram Access}
 
  //DIABLO CLONE
  //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[dcho]: %RED%Black Soulstone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Diablo Clone %WHITE%Ingredient}
-ItemDisplay[dcso]: %RED%Prime Evil Soul %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Diablo Clone %WHITE%Ingredient}
-ItemDisplay[dcbl]: %RED%Pure Demonic Essence %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Diablo Clone %WHITE%Ingredient}
+ItemDisplay[dcho]: %RED%Black Soulstone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%RED%Uber Tristram%WHITE%]%%NL%RED%Diablo Clone %WHITE%Ingredient}
+ItemDisplay[dcso]: %RED%Prime Evil Soul %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%RED%Diablo %WHITE%/ %RED%Baal %WHITE%on %RED%Hell%WHITE%]%NL%%RED%Diablo Clone %WHITE%Ingredient}
+ItemDisplay[dcbl]: %RED%Pure Demonic Essence %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%RED%Map Bosses%WHITE%]%NL%%RED%Diablo Clone %WHITE%Ingredient}
 ItemDisplay[dcma]: %RED%Vision of Terror%YELLOW%%MAP%{%RED%Diablo Clone Access}
 
  //RATHMA
  //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[rtmf]: %PURPLE%Ancient Bone Fragment %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%PURPLE%Trang-Oul's Jawbone %WHITE%Ingredient}
-ItemDisplay[rtmv]: %PURPLE%Splinter of the Void %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%PURPLE%Rathma %WHITE%Ingredient}
-ItemDisplay[rtmo]: %PURPLE%Trang-Oul's Jawbone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%PURPLE%Rathma %WHITE%Ingredient}
+ItemDisplay[rtmv]: %PURPLE%Splinter of the Void %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%PURPLE%Mendeln Map Event%WHITE%]%NL%%PURPLE%Rathma %WHITE%Ingredient}
+ItemDisplay[rtmo]: %PURPLE%Trang-Oul's Jawbone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%PURPLE%Undead%WHITE%]%NL%%PURPLE%Rathma %WHITE%Ingredient}
 ItemDisplay[rtma]: %PURPLE%Voidstone%YELLOW%%MAP%{%PURPLE%Rathma Access}
 ItemDisplay[cwss]: %PURPLE%Tainted Worldstone Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%PURPLE%Corrupts %GOLD%Annihilus}
 ItemDisplay[rtp]: %BLUE%Horadrim Navigator %MAP%{%BLUE%Unlimited TP}
@@ -1312,9 +1312,9 @@ ItemDisplay[rid]: %RED%Horadrim Almanac %MAP%{%RED%Unlimited ID}
  //UBER ANCIENTS
  //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[uba]: %BLUE%Relic of the Ancients%MAP%{%BLUE%Uber Ancients Access}
-ItemDisplay[ubaa]: %BLUE%Sigil of Madawc %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Uber Ancients %WHITE%Ingredient}
-ItemDisplay[ubab]: %BLUE%Sigil of Talic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Uber Ancients %WHITE%Ingredient}
-ItemDisplay[ubac]: %BLUE%Sigil of Korlic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Uber Ancients %WHITE%Ingredient}
+ItemDisplay[ubaa]: %BLUE%Sigil of Madawc %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%BLUE%T1 Maps%WHITE%]%NL%%BLUE%Uber Ancients %WHITE%Ingredient}
+ItemDisplay[ubab]: %BLUE%Sigil of Talic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%BLUE%T2 Maps%WHITE%]%NL%%BLUE%Uber Ancients %WHITE%Ingredient}
+ItemDisplay[ubac]: %BLUE%Sigil of Korlic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%WHITE%[%BLUE%T3 Maps%WHITE%]%NL%%BLUE%Uber Ancients %WHITE%Ingredient}
 
  //OTHERS
  //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
