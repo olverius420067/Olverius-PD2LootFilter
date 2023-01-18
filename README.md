@@ -1,4 +1,4 @@
-# Ólverius' Loot Filter
+# name: Ólverius' Loot Filter
 # featuring: NODRULE (Co-founder - Path of Diablo)
 # game: Project D2
 # contact: http://twitch.tv/olverius_fisto
