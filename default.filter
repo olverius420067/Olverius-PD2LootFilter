@@ -819,6 +819,7 @@ ItemDisplay[cm1 LIFE>16]: %RED%Life %BLUE%Small Charm
  //Skillers
  //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[cm3 (TABSK0>0 AND FHR>0)]: %GRAY%Ama %PURPLE%Bow and Crossbow %TAN%Skiller %WHITE%+ %ORANGE%FHR
+ItemDisplay[cm3 (TABSK1>0 AND FHR>0)]: %GRAY%Ama %PURPLE%Passive and Magic %TAN%Skiller %WHITE%+ %ORANGE%FHR
 ItemDisplay[cm3 (TABSK2>0 AND FHR>0)]: %GRAY%Ama %PURPLE%Javelin and Spear %TAN%Skiller %WHITE%+ %ORANGE%FHR
 ItemDisplay[cm3 (TABSK8>0 AND FHR>0)]: %GRAY%Sor %PURPLE%Fire Spells %TAN%Skiller %WHITE%+ %ORANGE%FHR
 ItemDisplay[cm3 (TABSK9>0 AND FHR>0)]: %GRAY%Sor %PURPLE%Lightning Spells %TAN%Skiller %WHITE%+ %ORANGE%FHR
@@ -830,6 +831,8 @@ ItemDisplay[cm3 (TABSK24>0 AND FHR>0)]: %GRAY%Pal %PURPLE%Combat %TAN%Skiller %W
 ItemDisplay[cm3 (TABSK25>0 AND FHR>0)]: %GRAY%Pal %PURPLE%Offensive Auras %TAN%Skiller %WHITE%+ %ORANGE%FHR
 ItemDisplay[cm3 (TABSK26>0 AND FHR>0)]: %GRAY%Pal %PURPLE%Defensive Auras %TAN%Skiller %WHITE%+ %ORANGE%FHR
 ItemDisplay[cm3 (TABSK34>0 AND FHR>0)]: %GRAY%Bar %PURPLE%Warcries %TAN%Skiller %WHITE%+ %ORANGE%FHR
+ItemDisplay[cm3 (TABSK35>0 AND FHR>0)]: %GRAY%Bar %PURPLE%Combat Masteries %TAN%Skiller %WHITE%+ %ORANGE%FHR
+ItemDisplay[cm3 (TABSK36>0 AND FHR>0)]: %GRAY%Bar %PURPLE%Combat Skills %TAN%Skiller %WHITE%+ %ORANGE%FHR
 ItemDisplay[cm3 (TABSK40>0 AND FHR>0)]: %GRAY%Dru %PURPLE%Summoning %TAN%Skiller %WHITE%+ %ORANGE%FHR
 ItemDisplay[cm3 (TABSK41>0 AND FHR>0)]: %GRAY%Dru %PURPLE%Shape Shifting %TAN%Skiller %WHITE%+ %ORANGE%FHR
 ItemDisplay[cm3 (TABSK42>0 AND FHR>0)]: %GRAY%Dru %PURPLE%Elemental %TAN%Skiller %WHITE%+ %ORANGE%FHR
@@ -837,6 +840,7 @@ ItemDisplay[cm3 (TABSK48>0 AND FHR>0)]: %GRAY%Asa %PURPLE%Traps %TAN%Skiller %WH
 ItemDisplay[cm3 (TABSK49>0 AND FHR>0)]: %GRAY%Asa %PURPLE%Shadow Disciplines %TAN%Skiller %WHITE%+ %ORANGE%FHR
 ItemDisplay[cm3 (TABSK50>0 AND FHR>0)]: %GRAY%Asa %PURPLE%Martial Arts %TAN%Skiller %WHITE%+ %ORANGE%FHR
 ItemDisplay[cm3 (TABSK0>0 AND FRW>0)]: %GRAY%Ama %PURPLE%Bow and Crossbow %TAN%Skiller %WHITE%+ %ORANGE%frw
+ItemDisplay[cm3 (TABSK1>0 AND FRW>0)]: %GRAY%Ama %PURPLE%Passive and Magic %TAN%Skiller %WHITE%+ %ORANGE%frw
 ItemDisplay[cm3 (TABSK2>0 AND FRW>0)]: %GRAY%Ama %PURPLE%Javelin and Spear %TAN%Skiller %WHITE%+ %ORANGE%frw
 ItemDisplay[cm3 (TABSK8>0 AND FRW>0)]: %GRAY%Sor %PURPLE%Fire Spells %TAN%Skiller %WHITE%+ %ORANGE%frw
 ItemDisplay[cm3 (TABSK9>0 AND FRW>0)]: %GRAY%Sor %PURPLE%Lightning Spells %TAN%Skiller %WHITE%+ %ORANGE%frw
@@ -848,6 +852,8 @@ ItemDisplay[cm3 (TABSK24>0 AND FRW>0)]: %GRAY%Pal %PURPLE%Combat %TAN%Skiller %W
 ItemDisplay[cm3 (TABSK25>0 AND FRW>0)]: %GRAY%Pal %PURPLE%Offensive Auras %TAN%Skiller %WHITE%+ %ORANGE%frw
 ItemDisplay[cm3 (TABSK26>0 AND FRW>0)]: %GRAY%Pal %PURPLE%Defensive Auras %TAN%Skiller %WHITE%+ %ORANGE%frw
 ItemDisplay[cm3 (TABSK34>0 AND FRW>0)]: %GRAY%Bar %PURPLE%Warcries %TAN%Skiller %WHITE%+ %ORANGE%frw
+ItemDisplay[cm3 (TABSK35>0 AND FRW>0)]: %GRAY%Bar %PURPLE%Combat Masteries %TAN%Skiller %WHITE%+ %ORANGE%frw
+ItemDisplay[cm3 (TABSK36>0 AND FRW>0)]: %GRAY%Bar %PURPLE%Combat Skills %TAN%Skiller %WHITE%+ %ORANGE%frw
 ItemDisplay[cm3 (TABSK40>0 AND FRW>0)]: %GRAY%Dru %PURPLE%Summoning %TAN%Skiller %WHITE%+ %ORANGE%frw
 ItemDisplay[cm3 (TABSK41>0 AND FRW>0)]: %GRAY%Dru %PURPLE%Shape Shifting %TAN%Skiller %WHITE%+ %ORANGE%frw
 ItemDisplay[cm3 (TABSK42>0 AND FRW>0)]: %GRAY%Dru %PURPLE%Elemental %TAN%Skiller %WHITE%+ %ORANGE%frw
@@ -855,6 +861,7 @@ ItemDisplay[cm3 (TABSK48>0 AND FRW>0)]: %GRAY%Asa %PURPLE%Traps %TAN%Skiller %WH
 ItemDisplay[cm3 (TABSK49>0 AND FRW>0)]: %GRAY%Asa %PURPLE%Shadow Disciplines %TAN%Skiller %WHITE%+ %ORANGE%frw
 ItemDisplay[cm3 (TABSK50>0 AND FRW>0)]: %GRAY%Asa %PURPLE%Martial Arts %TAN%Skiller %WHITE%+ %ORANGE%frw
 ItemDisplay[cm3 (TABSK0>0 AND LIFE>0)]: %GRAY%Ama %PURPLE%Bow and Crossbow %TAN%Skiller %WHITE%+ %RED%Life
+ItemDisplay[cm3 (TABSK1>0 AND LIFE>0)]: %GRAY%Ama %PURPLE%Passive and Magic %TAN%Skiller %WHITE%+ %RED%Life
 ItemDisplay[cm3 (TABSK2>0 AND LIFE>0)]: %GRAY%Ama %PURPLE%Javelin and Spear %TAN%Skiller %WHITE%+ %RED%Life
 ItemDisplay[cm3 (TABSK8>0 AND LIFE>0)]: %GRAY%Sor %PURPLE%Fire Spells %TAN%Skiller %WHITE%+ %RED%Life
 ItemDisplay[cm3 (TABSK9>0 AND LIFE>0)]: %GRAY%Sor %PURPLE%Lightning Spells %TAN%Skiller %WHITE%+ %RED%Life
@@ -866,6 +873,8 @@ ItemDisplay[cm3 (TABSK24>0 AND LIFE>0)]: %GRAY%Pal %PURPLE%Combat %TAN%Skiller %
 ItemDisplay[cm3 (TABSK25>0 AND LIFE>0)]: %GRAY%Pal %PURPLE%Offensive Auras %TAN%Skiller %WHITE%+ %RED%Life
 ItemDisplay[cm3 (TABSK26>0 AND LIFE>0)]: %GRAY%Pal %PURPLE%Defensive Auras %TAN%Skiller %WHITE%+ %RED%Life
 ItemDisplay[cm3 (TABSK34>0 AND LIFE>0)]: %GRAY%Bar %PURPLE%Warcries %TAN%Skiller %WHITE%+ %RED%Life
+ItemDisplay[cm3 (TABSK35>0 AND LIFE>0)]: %GRAY%Bar %PURPLE%Combat Masteries %TAN%Skiller %WHITE%+ %RED%Life
+ItemDisplay[cm3 (TABSK36>0 AND LIFE>0)]: %GRAY%Bar %PURPLE%Combat Skills %TAN%Skiller %WHITE%+ %RED%Life
 ItemDisplay[cm3 (TABSK40>0 AND LIFE>0)]: %GRAY%Dru %PURPLE%Summoning %TAN%Skiller %WHITE%+ %RED%Life
 ItemDisplay[cm3 (TABSK41>0 AND LIFE>0)]: %GRAY%Dru %PURPLE%Shape Shifting %TAN%Skiller %WHITE%+ %RED%Life
 ItemDisplay[cm3 (TABSK42>0 AND LIFE>0)]: %GRAY%Dru %PURPLE%Elemental %TAN%Skiller %WHITE%+ %RED%Life
@@ -873,6 +882,7 @@ ItemDisplay[cm3 (TABSK48>0 AND LIFE>0)]: %GRAY%Asa %PURPLE%Traps %TAN%Skiller %W
 ItemDisplay[cm3 (TABSK49>0 AND LIFE>0)]: %GRAY%Asa %PURPLE%Shadow Disciplines %TAN%Skiller %WHITE%+ %RED%Life
 ItemDisplay[cm3 (TABSK50>0 AND LIFE>0)]: %GRAY%Asa %PURPLE%Martial Arts %TAN%Skiller %WHITE%+ %RED%Life
 ItemDisplay[cm3 TABSK0>0]: %GRAY%Ama %PURPLE%Bow and Crossbow %TAN%Skiller
+ItemDisplay[cm3 TABSK1>0]: %GRAY%Ama %PURPLE%Passive and Magic %TAN%Skiller
 ItemDisplay[cm3 TABSK2>0]: %GRAY%Ama %PURPLE%Javelin and Spear %TAN%Skiller
 ItemDisplay[cm3 TABSK8>0]: %GRAY%Sor %PURPLE%Fire Spells %TAN%Skiller
 ItemDisplay[cm3 TABSK9>0]: %GRAY%Sor %PURPLE%Lightning Spells %TAN%Skiller
@@ -884,6 +894,8 @@ ItemDisplay[cm3 TABSK24>0]: %GRAY%Pal %PURPLE%Combat %TAN%Skiller
 ItemDisplay[cm3 TABSK25>0]: %GRAY%Pal %PURPLE%Offensive Auras %TAN%Skiller
 ItemDisplay[cm3 TABSK26>0]: %GRAY%Pal %PURPLE%Defensive Auras %TAN%Skiller
 ItemDisplay[cm3 TABSK34>0]: %GRAY%Bar %PURPLE%Warcries %TAN%Skiller
+ItemDisplay[cm3 TABSK35>0]: %GRAY%Bar %PURPLE%Combat Masteries %TAN%Skiller
+ItemDisplay[cm3 TABSK36>0]: %GRAY%Bar %PURPLE%Combat Skills %TAN%Skiller
 ItemDisplay[cm3 TABSK40>0]: %GRAY%Dru %PURPLE%Summoning %TAN%Skiller
 ItemDisplay[cm3 TABSK41>0]: %GRAY%Dru %PURPLE%Shape Shifting %TAN%Skiller
 ItemDisplay[cm3 TABSK42>0]: %GRAY%Dru %PURPLE%Elemental %TAN%Skiller
