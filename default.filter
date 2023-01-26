@@ -1351,7 +1351,7 @@ ItemDisplay[NEC (neb) NMAG (!RW OR ETH) SOCK=0 CLVL<95]: %NAME%
 ItemDisplay[DIN (pab OR pac OR pae OR paf) NMAG (!RW OR ETH) SOCK=0 CLVL<95]: %NAME%
 
 //Socket 0B
-ItemDisplay[HELM (uh9 OR uhm OR urn) NMAG (!RW OR ETH) SOCK=0 CLVL>94]: 
+ItemDisplay[HELM (ghm OR uh9 OR uhm OR urn) NMAG (!RW OR ETH) SOCK=0 CLVL>94]: 
 ItemDisplay[CHEST (uui OR uea OR ula OR utu OR ung OR urs OR utp OR uar) NMAG (!RW OR ETH) SOCK=0 CLVL>94]: 
 ItemDisplay[SHIELD (uit OR ush OR uts) NMAG (!RW OR ETH) SOCK=0 CLVL>94]: 
 ItemDisplay[CIRC (ci3) NMAG (!RW OR ETH) SOCK=0 CLVL>94]: 
@@ -1454,8 +1454,8 @@ ItemDisplay[SOR (obb OR obd OR obe OR obf) NMAG (!RW OR ETH) SOCK<7]:
 ItemDisplay[ZON (ame OR amf) NMAG (!RW OR ETH) SOCK<7]: 
 
 //DEL#6
-ItemDisplay[(ARMOR OR WEAPON) (NORM OR EXC) !(ghm OR xtp) NMAG !RW CLVL<95]: %NAME%
-ItemDisplay[(ARMOR OR WEAPON) (NORM OR EXC) !(ghm OR xtp) NMAG !RW CLVL>94]: 
+ItemDisplay[(ARMOR OR WEAPON) ((NORM OR EXC) OR !(ghm OR xtp)) NMAG !RW CLVL<95]: %NAME%
+ItemDisplay[(ARMOR OR WEAPON) ((NORM OR EXC) OR !(ghm OR xtp)) NMAG !RW CLVL>94]: 
 ItemDisplay[(ARMOR OR WEAPON) (EXC OR ELT) (MAG OR RARE) !ID CLVL<95]: %NAME%
 ItemDisplay[(ARMOR OR WEAPON) (EXC OR ELT) (MAG OR RARE) !ID CLVL>94]: 
 ItemDisplay[(ARMOR OR WEAPON) NORM (MAG OR RARE) !ID]: 
