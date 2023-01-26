@@ -34,7 +34,7 @@
 //SK = Individual Skill
 //MAP/DOT = Notification Size
 //CLVL = Character Level
-//ED = Enhenced Damage / Defence
+//ED = Enhenced Damage [Red]/ Defence [Blue]
 //SOCK = Socket Number
 //RUNENUM = Rune Number
 
@@ -110,7 +110,6 @@ ItemDisplay[UNI]: %GOLD%%NAME%%CONTINUE%
 ItemDisplay[SET]: %GREEN%%NAME%%CONTINUE%
 ItemDisplay[RARE]: %YELLOW%%NAME%%CONTINUE%
 ItemDisplay[CRAFT]: %ORANGE%%NAME%%CONTINUE%
-
 
 //Item Names
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1146,6 +1145,7 @@ ItemDisplay[SIN (7ar OR 7cs OR 7lw OR 7tw OR 7qr) NMAG (!INF OR ETH) SOCK>2 !RW]
 ItemDisplay[SOR (obc) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
 ItemDisplay[ZON (amb OR amd) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
 
+
 //PROJECT D2
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[wss]: %RED%Worldstone Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Corrupts %WHITE%Items}%CONTINUE%
@@ -1294,7 +1294,6 @@ ItemDisplay[ubac]: %TAN%Sigil of Korlic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YEL
 //MISCELLANEOUS
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[UNI OR SET OR RW OR CRAFT]: %NAME% //Always Visible
-ItemDisplay[!(ARMOR OR WEAPON OR tbk OR ibk) QTY>0]: %NAME% %YELLOW%[%WHITE%%QTY%%YELLOW%]%CONTINUE% //Quantities
 ItemDisplay[(ARMOR OR WEAPON OR (aqv OR cqv)) (MAG OR RARE OR SET OR UNI OR CRAFT) ID]: %NAME% //ID-ing
 
 
@@ -1361,7 +1360,6 @@ ItemDisplay[BAR (bae) NMAG (!RW OR ETH) SOCK=0 CLVL>94]:
 ItemDisplay[NEC (neb) NMAG (!RW OR ETH) SOCK=0 CLVL>94]: 
 ItemDisplay[DIN (pab OR pac OR pae OR paf) NMAG (!RW OR ETH) SOCK=0 CLVL>94]: 
 
- 
 //Socket 1, 2, 3
 ItemDisplay[HELM (uh9 OR uhm OR urn) NMAG (!RW OR ETH) (SOCK=1 OR SOCK=2)]: 
 ItemDisplay[CHEST (uui OR uea OR ula OR utu OR ung OR urs OR utp OR uar) NMAG (!RW OR ETH) (SOCK=1 OR SOCK=2)]: 
