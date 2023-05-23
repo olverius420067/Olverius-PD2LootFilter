@@ -682,7 +682,7 @@ ItemDisplay[skls]: %WHITE%Flawless Skull %YELLOW%[%GRAY%O%YELLOW%]%GRAY%[%QTY%]{
 
 //Unstacked
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-//1-9 
+//Low Tier: 01-09 
 ItemDisplay[r01]: %TAN%El [%RUNENUM%] 
 ItemDisplay[r02]: %TAN%Eld [%RUNENUM%] 
 ItemDisplay[r03]: %TAN%Tir [%RUNENUM%] 
@@ -692,7 +692,8 @@ ItemDisplay[r06]: %TAN%Ith [%RUNENUM%]
 ItemDisplay[r07]: %TAN%Tal [%RUNENUM%] 
 ItemDisplay[r08]: %TAN%Ral [%RUNENUM%] 
 ItemDisplay[r09]: %TAN%Ort [%RUNENUM%] 
-//10-20
+
+//Mid Tier: 10-20
 ItemDisplay[r10]: %ORANGE%%RUNENAME% [%RUNENUM%]
 ItemDisplay[r11]: %ORANGE%%RUNENAME% [%RUNENUM%] 
 ItemDisplay[r12]: %ORANGE%%RUNENAME% [%RUNENUM%] 
@@ -704,7 +705,8 @@ ItemDisplay[r17]: %ORANGE%   %RUNENAME% [%RUNENUM%]
 ItemDisplay[r18]: %ORANGE%   %RUNENAME% [%RUNENUM%]%ORANGE%%MAP%
 ItemDisplay[r19]: %ORANGE%   %RUNENAME% [%RUNENUM%]%ORANGE%%MAP%
 ItemDisplay[r20]: %ORANGE%   %RUNENAME% [%RUNENUM%]%ORANGE%%MAP%
-//21-33
+
+//High Tier: 21-33
 ItemDisplay[r21]: %PURPLE%  oo %RED%%RUNENAME%%PURPLE% oo %RED%[%RUNENUM%]%PURPLE%%MAP%
 ItemDisplay[r22]: %PURPLE%  ooo %RED%%RUNENAME%%PURPLE% ooo %RED%[%RUNENUM%]%PURPLE%%MAP%
 ItemDisplay[r23]: %PURPLE%  ooo %RED%%RUNENAME%%PURPLE% ooo %RED%[%RUNENUM%]%PURPLE%%MAP%
@@ -721,7 +723,7 @@ ItemDisplay[r33]: %PURPLE% oooooooo %RED%%RUNENAME%%PURPLE% oooooooo %RED%[%RUNE
 
 //Stacked
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-//1-9 
+//Low Tier: 01-09 
 /El
 ItemDisplay[r01s]: %TAN%El [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]{%WHITE%AHS: %GRAY%+15 DEFENSE, +1 to LIGHT RADIUS %NL% %WHITE%W: %GRAY%+50 to ATTACK RATING, +1 to LIGHT RADIUS}
 /Eld
@@ -740,7 +742,8 @@ ItemDisplay[r07s]: %TAN%Tal [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]{%WHITE%S: %GRAY
 ItemDisplay[r08s]: %TAN%Ral [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]{%WHITE%S: %GRAY%+35% FIRE RES %NL% %WHITE%A/H: %GRAY%+30% FIRE RES %NL% %WHITE%W: %GRAY%+5-30 FIRE DAMAGE}
 /Ort 
 ItemDisplay[r09s]: %TAN%Ort [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]{%WHITE%S: %GRAY%+35% LIGHTNING RES %NL% %WHITE%A/H: %GRAY%+30% LIGHTNING RES %NL% %WHITE%W: %GRAY%+1-50 LIGHTNING DAMAGE} 
-//10-20
+
+//Mid Tier: 10-20
 /Thul
 ItemDisplay[r10s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%{%WHITE%S: %GRAY%+35% COLD RES %NL% %WHITE%A/H: %GRAY%+30% COLD RES %NL% %WHITE%W: %GRAY%+3-14 COLD DAMAGE}
 /Amn
@@ -763,7 +766,8 @@ ItemDisplay[r18s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANG
 ItemDisplay[r19s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%{%WHITE%WAHS:%GRAY%+10 to STRENGTH}
 /Lem
 ItemDisplay[r20s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%{%WHITE%AHS: %GRAY%+50% EXTRA GOLD from MONSTERS %NL% %WHITE%W: %GRAY%+75% EXTRA GOLD from MONSTERS}
-//21-33 
+
+//High Tier: 21-33
 /Pul
 ItemDisplay[r21s]: %PURPLE%  oo %RED%%RUNENAME%%PURPLE% oo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%{%WHITE%AHS: %GRAY%+30% ENHANCED DEFENSE %NL% %WHITE%W: %GRAY%+75% DAMAGE to DEMONS, +100 to ATTACK RATING AGAINST DEMONS}
 /Um
@@ -1098,7 +1102,7 @@ ItemDisplay[SOR !leg NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Plague, Venom%
 
 //Armors
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(urn OR ghm OR xtp OR utp OR uit OR pab OR pac OR paf) NMAG (!INF OR ETH) SOCK>1 !RW]: %DOT-A8%%NAME%{%NAME%}
+ItemDisplay[(urn OR ghm OR xtp OR xar OR utp OR uit OR pab OR pac OR paf) NMAG (!INF OR ETH) SOCK>1 !RW]: %DOT-A8%%NAME%{%NAME%}
 ItemDisplay[HELM (uh9 OR uhm) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
 ItemDisplay[CHEST (uui OR uea OR ula OR uld OR utu OR ung OR urs OR uar) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
 ItemDisplay[SHIELD (ush OR uts) NMAG (!INF OR ETH) SOCK=4 !RW]: //%NAME%{%NAME%}
@@ -1123,7 +1127,7 @@ ItemDisplay[BOW (6l7) NMAG (!INF OR ETH) SOCK>2 !RW]: %DOT-A8%%NAME%{%NAME%}
 ItemDisplay[XBOW (6rx) NMAG (!INF OR ETH) SOCK>3 !RW]: %DOT-A8%%NAME%{%NAME%}
 ItemDisplay[STAFF (6cs OR 6bs OR 6ws) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
 ItemDisplay[WAND (7bw) NMAG !INF SOCK>1 !RW]: //%NAME%{%NAME%}
-ItemDisplay[SCEPTER (7ws) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
+ItemDisplay[SCEPTER (7ws) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
 ItemDisplay[SIN (7ar OR 7cs OR 7lw OR 7tw OR 7qr) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
 ItemDisplay[SOR (obc) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
 ItemDisplay[ZON (amb OR amd) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
@@ -1230,11 +1234,11 @@ ItemDisplay[RARE t43]: %PURPLE%T4 %YELLOW%Sanctuary of Sin Map{%PURPLE%Dungeon}%
 
 //ESSENCES & TOKEN
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[tes]: %BLUE%Essence of Suffering %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Andariel %WHITE%/ %BLUE%Duriel}
-ItemDisplay[ceh]: %YELLOW%Essence of Hatred %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%Mephisto}
-ItemDisplay[bet]: %RED%Essence of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Diablo}
-ItemDisplay[fed]: %GREEN%Essence of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GREEN%Baal}
-ItemDisplay[toa]: %GRAY%Token of Absolution%MAP%{%GRAY%Resets %WHITE%Skills}
+ItemDisplay[tes]: %BLUE%Essence of Suffering %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%BLUE%Andariel %WHITE%/ %BLUE%Duriel%YELLOW%]%NL%%GRAY%Token of Absolution %WHITE%Ingredient}
+ItemDisplay[ceh]: %YELLOW%Essence of Hatred  %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%TAN%Mephisto%YELLOW%]%NL%%GRAY%Token of Absolution %WHITE%Ingredient}
+ItemDisplay[bet]: %RED%Essence of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%RED%Diablo%YELLOW%]%NL%%GRAY%Token of Absolution %WHITE%Ingredient}
+ItemDisplay[fed]: %GREEN%Essence of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GREEN%Baal%YELLOW%]%NL%%GRAY%Token of Absolution %WHITE%Ingredient}
+ItemDisplay[toa]: %GRAY%Token of Absolution%MAP%{%WHITE%Resets %GRAY%Skills %WHITE%/ %GRAY% Stats}
 
 //UBER TRISTRAM
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1253,7 +1257,7 @@ ItemDisplay[UNI cm3]: %DOT-A8%%NAME% //Gheed's
 //DIABLO CLONE
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[dcho]: %RED%Black Soulstone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%RED%Uber Tristram%YELLOW%]%NL%%RED%Diablo Clone %WHITE%Ingredient}
-ItemDisplay[dcso]: %RED%Prime Evil Soul %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%RED%Diablo %WHITE%/ %RED%Baal %WHITE%on %RED%Hell%YELLOW%]%NL%%RED%Diablo Clone %WHITE%Ingredient}
+ItemDisplay[dcso]: %RED%Prime Evil Soul %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%RED%Diablo %WHITE%/ %GREEN%Baal %WHITE%on %RED%Hell%YELLOW%]%NL%%RED%Diablo Clone %WHITE%Ingredient}
 ItemDisplay[dcbl]: %RED%Pure Demonic Essence %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%RED%Map Boss%YELLOW%]%NL%%RED%Diablo Clone %WHITE%Ingredient}
 ItemDisplay[dcma]: %RED%Vision of Terror%YELLOW%%MAP%{%RED%Diablo Clone Access}
 
