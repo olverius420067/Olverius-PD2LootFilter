@@ -991,15 +991,22 @@ ItemDisplay[(amu OR ghm OR gth OR hbt OR tow OR hbl OR hgl) SET !ID]: %NAME%%MAP
 
 //CRAFTING
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[GLOVES MAG ID]: %NAME% %ORANGE%(c){%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Ort %WHITE%+ %BLUE%Jewel%NL%%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Nef %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
-ItemDisplay[BOOTS MAG ID]: %NAME% %ORANGE%(c){%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Thul %WHITE%+ %BLUE%Jewel%NL%%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Eth %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
-ItemDisplay[BELT MAG ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Tal %WHITE%+ %BLUE%Jewel%NL%%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Ith %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
-ItemDisplay[SHIELD MAG ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Ith %WHITE%+ %BLUE%Jewel%NL%%RED%Safety: %WHITE%Perf %GREEN%O %WHITE%+ %ORANGE%Nef %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
-ItemDisplay[HELM MAG ID]: %NAME% %ORANGE%(c){%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Nef %WHITE%+ %BLUE%Jewel%NL%%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Ral %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
-ItemDisplay[CHEST MAG ID]: %NAME% %ORANGE%(c){%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Tal %WHITE%+ %BLUE%Jewel%NL%%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Thul %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
-ItemDisplay[WEAPON MAG ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Ort %WHITE%+ %BLUE%Jewel%NL%%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Tir %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
-ItemDisplay[amu MAG ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Amn %WHITE%+ %BLUE%Jewel%NL%%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Ral %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
-ItemDisplay[rin MAG ID]: %NAME% %ORANGE%(c){%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Amn %WHITE%+ %BLUE%Jewel%NL%%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Sol %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
+
+ID Blue and Yellow Items
+//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ItemDisplay[GLOVES (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Ort %WHITE%+ %BLUE%Jewel%NL%%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Nef %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
+ItemDisplay[BOOTS (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Thul %WHITE%+ %BLUE%Jewel%NL%%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Eth %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
+ItemDisplay[BELT (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Tal %WHITE%+ %BLUE%Jewel%NL%%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Ith %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
+ItemDisplay[SHIELD (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Ith %WHITE%+ %BLUE%Jewel%NL%%RED%Safety: %WHITE%Perf %GREEN%O %WHITE%+ %ORANGE%Nef %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
+ItemDisplay[HELM (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Nef %WHITE%+ %BLUE%Jewel%NL%%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Ral %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
+ItemDisplay[CHEST (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Tal %WHITE%+ %BLUE%Jewel%NL%%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Thul %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
+ItemDisplay[WEAPON (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Ort %WHITE%+ %BLUE%Jewel%NL%%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Tir %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
+ItemDisplay[amu (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Amn %WHITE%+ %BLUE%Jewel%NL%%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Ral %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
+ItemDisplay[rin (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Amn %WHITE%+ %BLUE%Jewel%NL%%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Sol %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
+
+//Un-ID Particular Blue and Yellow Items
+//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ItemDisplay[(neb OR neg OR ned OR nee OR nef) (MAG OR RARE) !ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Ith %WHITE%+ %BLUE%Jewel%NL%%RED%Safety: %WHITE%Perf %GREEN%O %WHITE%+ %ORANGE%Nef %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
 
 
 //UPGRADING
@@ -1333,7 +1340,8 @@ ItemDisplay[(amu OR rin) MAG !ID]:
 ItemDisplay[aqv OR cqv]: 
 ItemDisplay[key]: 
 
-//Whites, Blues, Yellow (except Head, Rings, Amulets)
-ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG OR RARE) !leg CLVL>20]:
+//Whites, Blues, Yellow (except ELT Necroheads, Rings, Amulets)
+ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG OR RARE) !(neb OR neg OR ned OR nee OR nef) !leg CLVL>20]:
+
 
 //END
