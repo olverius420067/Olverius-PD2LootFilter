@@ -1238,6 +1238,10 @@ ItemDisplay[RARE t41]: %PURPLE%T4 %YELLOW%Cathedral of Light Map{%PURPLE%Dungeon
 ItemDisplay[RARE t42]: %PURPLE%T4 %YELLOW%Plains of Torment Map{%PURPLE%Dungeon}%DOT-A8%
 ItemDisplay[RARE t43]: %PURPLE%T4 %YELLOW%Sanctuary of Sin Map{%PURPLE%Dungeon}%DOT-A8%
 
+//Unique
+ItemDisplay[t51]: %ORANGE%T3 GOLD%Zhar's Sanctum Map%DOT-A8%
+ItemDisplay[t52]: %ORANGE%T3 %GOLD%Stygian Caverns Map%DOT-A8%
+
 //ESSENCES & TOKEN
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[tes]: %BLUE%Essence of Suffering %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%BLUE%Andariel %WHITE%/ %BLUE%Duriel%YELLOW%]%NL%%GRAY%Token of Absolution %WHITE%Ingredient}
