@@ -1161,80 +1161,79 @@ ItemDisplay[rkey]: %GRAY%Skeleton Key %MAP%
 
 //MAPS
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- 
 //Normal
-ItemDisplay[NMAG t11]: %GREEN%T2 %WHITE%Ruins of Vizjun Map%DOT-A8%
-ItemDisplay[NMAG t12]: %DARK_GREEN%T1 %WHITE%Horazon's Memory Map%DOT-A8%
-ItemDisplay[NMAG t13]: %DARK_GREEN%T1 %WHITE%Bastion Keep Map%DOT-A8%
-ItemDisplay[NMAG t14]: %GREEN%T2 %WHITE%Sanatorium Map%DOT-A8%
-ItemDisplay[NMAG t15]: %GREEN%T2 %WHITE%Royal Crypts Map%DOT-A8%
-ItemDisplay[NMAG t16]: %DARK_GREEN%T1 %WHITE%Ruined Cistern Map%DOT-A8%
-ItemDisplay[NMAG t21]: %DARK_GREEN%T1 %WHITE%Phlegathon Map%DOT-A8%
-ItemDisplay[NMAG t22]: %DARK_GREEN%T1 %WHITE%Torajan Jungle Map%DOT-A8%
-ItemDisplay[NMAG t23]: %DARK_GREEN%T1 %WHITE%Arreat Battlefield Map%DOT-A8%
-ItemDisplay[NMAG t24]: %ORANGE%T3 %WHITE%Tomb of Zoltun Kulle Map%DOT-A8%
-ItemDisplay[NMAG t25]: %ORANGE%T3 %WHITE%Sewers of Harrogath Map%DOT-A8%
-ItemDisplay[NMAG t26]: %GREEN%T2 %WHITE%Shadows of Westmarch%DOT-A8%
-ItemDisplay[NMAG t31]: %ORANGE%T3 %WHITE%River of Blood Map%DOT-A8%
-ItemDisplay[NMAG t32]: %ORANGE%T3 %WHITE%Throne of Insanity Map%DOT-A8%
-ItemDisplay[NMAG t33]: %DARK_GREEN%T1 %WHITE%Lost Temple Map%DOT-A8%
-ItemDisplay[NMAG t34]: %GREEN%T2 %WHITE%Ancestral Trial Map%DOT-A8%
+ItemDisplay[NMAG t11]: %GREEN%T2 %WHITE%Ruins of Vizjun Map{%YELLOW%light 120 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t12]: %DARK_GREEN%T1 %WHITE%Horazon's Memory Map{%RED%fire 135 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t13]: %DARK_GREEN%T1 %WHITE%Bastion Keep Map{%TAN%phys 110 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t14]: %GREEN%T2 %WHITE%Sanatorium Map{%RED%fire 135 %BLUE%cold 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t15]: %GREEN%T2 %WHITE%Royal Crypts Map{%ORANGE%magic 150 %YELLOW%light 100 %GREEN%poison 105%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t16]: %DARK_GREEN%T1 %WHITE%Ruined Cistern Map{%ORANGE%magic 125 %BLUE%cold 115 %GREEN%poison 140%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t21]: %DARK_GREEN%T1 %WHITE%Phlegathon Map{%RED%fire 140 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t22]: %DARK_GREEN%T1 %WHITE%Torajan Jungle Map{%YELLOW%light 105 %BLUE%cold 140 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t23]: %DARK_GREEN%T1 %WHITE%Arreat Battlefield Map{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t24]: %ORANGE%T3 %WHITE%Tomb of Zoltun Kulle Map{%TAN%phys 105 %YELLOW%light 120 %BLUE%cold 150 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t25]: %ORANGE%T3 %WHITE%Sewers of Harrogath Map{%RED%fire 125 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t26]: %GREEN%T2 %WHITE%Shadows of Westmarch Map{%TAN%phys 100 %RED%fire 110 %BLUE%cold 150 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t31]: %ORANGE%T3 %WHITE%River of Blood Map{%ORANGE%magic 100 %RED%fire 125 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t32]: %ORANGE%T3 %WHITE%Throne of Insanity Map{%RED%fire 130 %GREEN%poison 115%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t33]: %DARK_GREEN%T1 %WHITE%Lost Temple Map{%RED%fire 120 %YELLOW%light 115 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t34]: %GREEN%T2 %WHITE%Ancestral Trial Map{%TAN%phys 110 %RED%fire 120 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t35]: %ORANGE%T3 %WHITE%Blood Moon Map%DOT-A8%
-ItemDisplay[NMAG t36]: %GREEN%T2 %WHITE%Fall of Caldeum Map%DOT-A8%
-ItemDisplay[NMAG t37]: %ORANGE%T3 %WHITE%Pandemonium Citadel Map%DOT-A8%
-ItemDisplay[NMAG t38]: %ORANGE%T3 %WHITE%Canyon of Sescheron Map%DOT-A8%
-ItemDisplay[NMAG t39]: %ORANGE%T3 %WHITE%Kehjistan Marketplace Map%DOT-A8%
-ItemDisplay[NMAG t3a]: %ORANGE%T3 %WHITE%Ashen Plains Map%DOT-A8%
+ItemDisplay[NMAG t36]: %GREEN%T2 %WHITE%Fall of Caldeum Map{%YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t37]: %ORANGE%T3 %WHITE%Pandemonium Citadel Map{%TAN%phys 110 %RED%fire 140 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t38]: %ORANGE%T3 %WHITE%Canyon of Sescheron Map{%YELLOW%light 160 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t39]: %ORANGE%T3 %WHITE%Kehjistan Marketplace Map{%BLUE%cold 130 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t3a]: %ORANGE%T3 %WHITE%Ashen Plains Map{%TAN%phys 120 %YELLOW%light 145 %GREEN%poison 130%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t61]: %GRAY%T6 %WHITE%Desert Duel Arena{%GRAY%PvP Arena}%DOT-A8%
 ItemDisplay[NMAG t62]: %GRAY%T6 %WHITE%Moor Duel Arena{%GRAY%PvP Arena}%DOT-A8%
 
 //Magic
-ItemDisplay[MAG t11]: %GREEN%T2 %BLUE%Ruins of Vizjun Map%DOT-A8%
-ItemDisplay[MAG t12]: %DARK_GREEN%T1 %BLUE%Horazon's Memory Map%DOT-A8%
-ItemDisplay[MAG t13]: %DARK_GREEN%T1 %BLUE%Bastion Keep Map%DOT-A8%
-ItemDisplay[MAG t14]: %GREEN%T2 %BLUE%Sanatorium Map%DOT-A8%
-ItemDisplay[MAG t15]: %GREEN%T2 %BLUE%Royal Crypts Map%DOT-A8%
-ItemDisplay[MAG t16]: %DARK_GREEN%T1 %BLUE%Ruined Cistern Map%DOT-A8%
-ItemDisplay[MAG t21]: %DARK_GREEN%T1 %BLUE%Phlegathon Map%DOT-A8%
-ItemDisplay[MAG t22]: %DARK_GREEN%T1 %BLUE%Torajan Jungle Map%DOT-A8%
-ItemDisplay[MAG t23]: %DARK_GREEN%T1 %BLUE%Arreat Battlefield Map%DOT-A8%
-ItemDisplay[MAG t24]: %ORANGE%T3 %BLUE%Tomb of Zoltun Kulle Map%DOT-A8%
-ItemDisplay[MAG t25]: %ORANGE%T3 %BLUE%Sewers of Harrogath Map%DOT-A8%
-ItemDisplay[MAG t26]: %GREEN%T2 %BLUE%Shadows of Westmarch%DOT-A8%
-ItemDisplay[MAG t31]: %ORANGE%T3 %BLUE%River of Blood Map%DOT-A8%
-ItemDisplay[MAG t32]: %ORANGE%T3 %BLUE%Throne of Insanity Map%DOT-A8%
-ItemDisplay[MAG t33]: %DARK_GREEN%T1 %BLUE%Lost Temple Map%DOT-A8%
-ItemDisplay[MAG t34]: %GREEN%T2 %BLUE%Ancestral Trial Map%DOT-A8%
+ItemDisplay[MAG t11]: %GREEN%T2 %BLUE%Ruins of Vizjun Map{%YELLOW%light 120 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t12]: %DARK_GREEN%T1 %BLUE%Horazon's Memory Map{%RED%fire 135 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t13]: %DARK_GREEN%T1 %BLUE%Bastion Keep Map{%TAN%phys 110 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t14]: %GREEN%T2 %BLUE%Sanatorium Map{%RED%fire 135 %BLUE%cold 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t15]: %GREEN%T2 %BLUE%Royal Crypts Map{%ORANGE%magic 150 %YELLOW%light 100 %GREEN%poison 105%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t16]: %DARK_GREEN%T1 %BLUE%Ruined Cistern Map{%ORANGE%magic 125 %BLUE%cold 115 %GREEN%poison 140%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t21]: %DARK_GREEN%T1 %BLUE%Phlegathon Map{%RED%fire 140 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t22]: %DARK_GREEN%T1 %BLUE%Torajan Jungle Map{%YELLOW%light 105 %BLUE%cold 140 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t23]: %DARK_GREEN%T1 %BLUE%Arreat Battlefield Map{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t24]: %ORANGE%T3 %BLUE%Tomb of Zoltun Kulle Map{%TAN%phys 105 %YELLOW%light 120 %BLUE%cold 150 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t25]: %ORANGE%T3 %BLUE%Sewers of Harrogath Map{%RED%fire 125 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t26]: %GREEN%T2 %BLUE%Shadows of Westmarch Map{%TAN%phys 100 %RED%fire 110 %BLUE%cold 150 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t31]: %ORANGE%T3 %BLUE%River of Blood Map{%ORANGE%magic 100 %RED%fire 125 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t32]: %ORANGE%T3 %BLUE%Throne of Insanity Map{%RED%fire 130 %GREEN%poison 115%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t33]: %DARK_GREEN%T1 %BLUE%Lost Temple Map{%RED%fire 120 %YELLOW%light 115 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t34]: %GREEN%T2 %BLUE%Ancestral Trial Map{%TAN%phys 110 %RED%fire 120 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t35]: %ORANGE%T3 %BLUE%Blood Moon Map%DOT-A8%
-ItemDisplay[MAG t36]: %GREEN%T2 %BLUE%Fall of Caldeum Map%DOT-A8%
-ItemDisplay[MAG t37]: %ORANGE%T3 %BLUE%Pandemonium Citadel Map%DOT-A8%
-ItemDisplay[MAG t38]: %ORANGE%T3 %BLUE%Canyon of Sescheron Map%DOT-A8%
-ItemDisplay[MAG t39]: %ORANGE%T3 %BLUE%Kehjistan Marketplace Map%DOT-A8%
-ItemDisplay[MAG t3a]: %ORANGE%T3 %BLUE%Ashen Plains Map%DOT-A8%
+ItemDisplay[MAG t36]: %GREEN%T2 %BLUE%Fall of Caldeum Map{%YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t37]: %ORANGE%T3 %BLUE%Pandemonium Citadel Map{%TAN%phys 110 %RED%fire 140 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t38]: %ORANGE%T3 %BLUE%Canyon of Sescheron Map{%YELLOW%light 160 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t39]: %ORANGE%T3 %BLUE%Kehjistan Marketplace Map{%BLUE%cold 130 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t3a]: %ORANGE%T3 %BLUE%Ashen Plains Map{%TAN%phys 120 %YELLOW%light 145 %GREEN%poison 130%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 
 //Rare
-ItemDisplay[RARE t11]: %GREEN%T2 %YELLOW%Ruins of Vizjun Map%DOT-A8%
-ItemDisplay[RARE t12]: %DARK_GREEN%T1 %YELLOW%Horazon's Memory Map%DOT-A8%
-ItemDisplay[RARE t13]: %DARK_GREEN%T1 %YELLOW%Bastion Keep Map%DOT-A8%
-ItemDisplay[RARE t14]: %GREEN%T2 %YELLOW%Sanatorium Map%DOT-A8%
-ItemDisplay[RARE t15]: %GREEN%T2 %YELLOW%Royal Crypts Map%DOT-A8%
-ItemDisplay[RARE t16]: %DARK_GREEN%T1 %YELLOW%Ruined Cistern Map%DOT-A8%
-ItemDisplay[RARE t21]: %DARK_GREEN%T1 %YELLOW%Phlegathon Map%DOT-A8%
-ItemDisplay[RARE t22]: %DARK_GREEN%T1 %YELLOW%Torajan Jungle Map%DOT-A8%
-ItemDisplay[RARE t23]: %DARK_GREEN%T1 %YELLOW%Arreat Battlefield Map%DOT-A8%
-ItemDisplay[RARE t24]: %ORANGE%T3 %YELLOW%Tomb of Zoltun Kulle Map%DOT-A8%
-ItemDisplay[RARE t25]: %ORANGE%T3 %YELLOW%Sewers of Harrogath Map%DOT-A8%
-ItemDisplay[RARE t26]: %GREEN%T2 %YELLOW%Shadows of Westmarch%DOT-A8%
-ItemDisplay[RARE t31]: %ORANGE%T3 %YELLOW%River of Blood Map%DOT-A8%
-ItemDisplay[RARE t32]: %ORANGE%T3 %YELLOW%Throne of Insanity Map%DOT-A8%
-ItemDisplay[RARE t33]: %DARK_GREEN%T1 %YELLOW%Lost Temple Map%DOT-A8%
-ItemDisplay[RARE t34]: %GREEN%T2 %YELLOW%Ancestral Trial Map%DOT-A8%
+ItemDisplay[RARE t11]: %GREEN%T2 %YELLOW%Ruins of Vizjun Map{%YELLOW%light 120 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t12]: %DARK_GREEN%T1 %YELLOW%Horazon's Memory Map{%RED%fire 135 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t13]: %DARK_GREEN%T1 %YELLOW%Bastion Keep Map{%TAN%phys 110 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t14]: %GREEN%T2 %YELLOW%Sanatorium Map{%RED%fire 135 %BLUE%cold 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t15]: %GREEN%T2 %YELLOW%Royal Crypts Map{%ORANGE%magic 150 %YELLOW%light 100 %GREEN%poison 105%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t16]: %DARK_GREEN%T1 %YELLOW%Ruined Cistern Map{%ORANGE%magic 125 %BLUE%cold 115 %GREEN%poison 140%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t21]: %DARK_GREEN%T1 %YELLOW%Phlegathon Map{%RED%fire 140 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t22]: %DARK_GREEN%T1 %YELLOW%Torajan Jungle Map{%YELLOW%light 105 %BLUE%cold 140 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t23]: %DARK_GREEN%T1 %YELLOW%Arreat Battlefield Map{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t24]: %ORANGE%T3 %YELLOW%Tomb of Zoltun Kulle Map{%TAN%phys 105 %YELLOW%light 120 %BLUE%cold 150 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t25]: %ORANGE%T3 %YELLOW%Sewers of Harrogath Map{%RED%fire 125 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t26]: %GREEN%T2 %YELLOW%Shadows of Westmarch Map{%TAN%phys 100 %RED%fire 110 %BLUE%cold 150 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t31]: %ORANGE%T3 %YELLOW%River of Blood Map{%ORANGE%magic 100 %RED%fire 125 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t32]: %ORANGE%T3 %YELLOW%Throne of Insanity Map{%RED%fire 130 %GREEN%poison 115%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t33]: %DARK_GREEN%T1 %YELLOW%Lost Temple Map{%RED%fire 120 %YELLOW%light 115 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t34]: %GREEN%T2 %YELLOW%Ancestral Trial Map{%TAN%phys 110 %RED%fire 120 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t35]: %ORANGE%T3 %YELLOW%Blood Moon Map%DOT-A8%
-ItemDisplay[RARE t36]: %GREEN%T2 %YELLOW%Fall of Caldeum Map%DOT-A8%
-ItemDisplay[RARE t37]: %ORANGE%T3 %YELLOW%Pandemonium Citadel Map%DOT-A8%
-ItemDisplay[RARE t38]: %ORANGE%T3 %YELLOW%Canyon of Sescheron Map%DOT-A8%
-ItemDisplay[RARE t39]: %ORANGE%T3 %YELLOW%Kehjistan Marketplace Map%DOT-A8%
-ItemDisplay[RARE t3a]: %ORANGE%T3 %YELLOW%Ashen Plains Map%DOT-A8%
+ItemDisplay[RARE t36]: %GREEN%T2 %YELLOW%Fall of Caldeum Map{%YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t37]: %ORANGE%T3 %YELLOW%Pandemonium Citadel Map{%TAN%phys 110 %RED%fire 140 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t38]: %ORANGE%T3 %YELLOW%Canyon of Sescheron Map{%YELLOW%light 160 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t39]: %ORANGE%T3 %YELLOW%Kehjistan Marketplace Map{%BLUE%cold 130 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t3a]: %ORANGE%T3 %YELLOW%Ashen Plains Map{%TAN%phys 120 %YELLOW%light 145 %GREEN%poison 130%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t41]: %PURPLE%T4 %YELLOW%Cathedral of Light Map{%PURPLE%Dungeon}%DOT-A8%
 ItemDisplay[RARE t42]: %PURPLE%T4 %YELLOW%Plains of Torment Map{%PURPLE%Dungeon}%DOT-A8%
 ItemDisplay[RARE t43]: %PURPLE%T4 %YELLOW%Sanctuary of Sin Map{%PURPLE%Dungeon}%DOT-A8%
