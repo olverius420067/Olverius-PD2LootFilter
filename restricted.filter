@@ -899,18 +899,18 @@ ItemDisplay[jew CRAFT ID (RES>0 OR STAT86>0 OR STAT138>0 OR MFIND>0 OR STAT79>0 
 //Stats
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[jew !UNI !SET RES>0]: %PURPLE% all res +%RES% %NAME%%CONTINUE%
-ItemDisplay[jew !UNI CRES>0 !(RES>0)]: %BLUE% cold res %STAT43%%%NAME%%CONTINUE%
-ItemDisplay[jew !UNI FRES>0 !(RES>0)]: %RED% fire res %STAT39%%%NAME%%CONTINUE%
-ItemDisplay[jew !UNI LRES>0 !(RES>0)]: %YELLOW% light res %STAT41%%%NAME%%CONTINUE%
-ItemDisplay[jew !UNI PRES>0 !(RES>0)]: %GREEN% poison res %STAT45%%%NAME%%CONTINUE%
+ItemDisplay[jew !UNI CRES>0 !(RES>0)]: //%BLUE% cold res %STAT43%%%NAME%%CONTINUE%
+ItemDisplay[jew !UNI FRES>0 !(RES>0)]: //%RED% fire res %STAT39%%%NAME%%CONTINUE%
+ItemDisplay[jew !UNI LRES>0 !(RES>0)]: //%YELLOW% light res %STAT41%%%NAME%%CONTINUE%
+ItemDisplay[jew !UNI PRES>0 !(RES>0)]: //%GREEN% poison res %STAT45%%%NAME%%CONTINUE%
 ItemDisplay[jew !UNI !SET STAT86>0]: %RED% laek +%STAT86% %NAME%%CONTINUE%
 ItemDisplay[jew !UNI !SET STAT138>0]: %BLUE% maek +%STAT138% %NAME%%CONTINUE%
-ItemDisplay[jew !UNI AR>0]: %GRAY% ar +%STAT19% %NAME%%CONTINUE%
+ItemDisplay[jew !UNI AR>0]: //%GRAY% ar +%STAT19% %NAME%%CONTINUE%
 ItemDisplay[jew STAT501>0]: %RED% ow +%STAT501% %NAME%%CONTINUE%
 ItemDisplay[jew MFIND>0]: %GREEN% mf %STAT80%% %NAME%%CONTINUE%
-ItemDisplay[jew STAT79>0]: %GOLD% gf %STAT79%% %NAME%%CONTINUE%
-ItemDisplay[jew FRW>0]: %ORANGE% frw %STAT96%% %NAME%%CONTINUE%
-ItemDisplay[jew FHR>0]: %ORANGE% fhr %STAT99%% %NAME%%CONTINUE%
+ItemDisplay[jew STAT79>0]: //%GOLD% gf %STAT79%% %NAME%%CONTINUE%
+ItemDisplay[jew FRW>0]: //%ORANGE% frw %STAT96%% %NAME%%CONTINUE%
+ItemDisplay[jew FHR>0]: //%ORANGE% fhr %STAT99%% %NAME%%CONTINUE%
 
 //Damage
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
