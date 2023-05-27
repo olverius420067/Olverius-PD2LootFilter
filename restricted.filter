@@ -613,7 +613,7 @@ ItemDisplay[(SUP OR INF) !RW amf]: Matriarchal Javelin%CONTINUE%
 //Ethereals
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[ETH UNI]: %GRAY%[%WHITE%eth%GRAY%] %WHITE%%NAME%%CONTINUE%
-ItemDisplay[ETH RARE]: //%GRAY%[%WHITE%eth%GRAY%] %YELLOW%%NAME%%CONTINUE%
+ItemDisplay[ETH RARE]: %GRAY%[%WHITE%eth%GRAY%] %YELLOW%%NAME%%CONTINUE%
 ItemDisplay[ETH MAG]: //%GRAY%[%WHITE%eth%GRAY%] %BLUE%%NAME%%CONTINUE%
 ItemDisplay[ETH NMAG]: %GRAY%[%WHITE%eth%GRAY%] %GRAY%%NAME%%CONTINUE%
 
@@ -817,9 +817,9 @@ ItemDisplay[(cm1 OR cm2 OR cm3) !UNI STR>0]: %RED% str %STAT0%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI DEX>0]: %GREEN% dex %STAT2%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI MFIND>0]: %GREEN% mf %STAT80%%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI STAT79>0]: %GOLD% gf %STAT79%%%NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI FRW>0]: %ORANGE% frw %NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI FHR>0]: %ORANGE% fhr %NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI AR>0]: %GRAY% AR %STAT19%%NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) !UNI FRW>0]: %ORANGE% frw %STAT96%%%NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) !UNI FHR>0]: %ORANGE% fhr %STAT99%%%NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) !UNI AR>0]: %GRAY% ar %STAT19%%NAME%%CONTINUE%
 
 //DMG (Damage)
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -877,6 +877,7 @@ ItemDisplay[cm2 UNI CLSK3>0]: %GRAY%pal %GOLD%%NAME%%CONTINUE%
 ItemDisplay[cm2 UNI CLSK4>0]: %GRAY%bar %GOLD%%NAME%%CONTINUE%
 ItemDisplay[cm2 UNI CLSK5>0]: %GRAY%dru %GOLD%%NAME%%CONTINUE%
 ItemDisplay[cm2 UNI CLSK6>0]: %GRAY%asa %GOLD%%NAME%%CONTINUE%
+
 
 //EQUIPMENT
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -936,10 +937,6 @@ ItemDisplay[WEAPON (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf
 ItemDisplay[amu (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Amn %WHITE%+ %BLUE%Jewel%NL%%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Ral %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
 ItemDisplay[rin (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Amn %WHITE%+ %BLUE%Jewel%NL%%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Sol %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
 
-//Un-ID Particular Blue and Yellow Items
-//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(neb OR neg OR ned OR nee OR nef) (MAG OR RARE) !ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Ith %WHITE%+ %BLUE%Jewel%NL%%RED%Safety: %WHITE%Perf %GREEN%O %WHITE%+ %ORANGE%Nef %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
-
 
 //UPGRADING
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -988,52 +985,52 @@ ItemDisplay[WEAPON ED=5 NMAG ILVL>20 !(SK36>0 OR SK37>0 OR SK38>0 OR SK39>0 OR S
 
 //Armors
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[CHEST NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GRAY%Prudence, Smoke, Stealth%NL%%GOLD%Runewords%WHITE%:%NAME%}%CONTINUE%
-ItemDisplay[CHEST NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Rain, Treachery, Wealth%NL%Lionheart, Myth, Peace, Principle,%NL%Enigma, Enlightenment, Gloom,%NL%%GOLD%Runewords%WHITE%: %GRAY%Bone, Dragon, Duress,%NAME%}%CONTINUE%
-ItemDisplay[CHEST NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Chains of Honor, Fortitude, Stone%NL%%GOLD%Runewords%WHITE%: %GRAY%Bramble,%NAME%}%CONTINUE%
-ItemDisplay[(HELM OR CIRC) NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GRAY%Lore, Nadir%NL%%GOLD%Runewords%WHITE%: %NAME%}%CONTINUE%
-ItemDisplay[(HELM OR CIRC) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Dream, Delirium, Radiance%NL%%GOLD%Runewords%WHITE%: %NAME%}%CONTINUE%
-ItemDisplay[SHIELD NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GRAY%Rhyme, Splendor%NL%%GOLD%Runewords%WHITE%:%NAME%}%CONTINUE%
-ItemDisplay[SHIELD NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Dragon, Dream, Sanctuary%NL%%GOLD%Runewords%WHITE%: %GRAY%Ancient's Pledge,%NAME%}%CONTINUE%
-ItemDisplay[DIN NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Exile, Phoenix, Spirit%NL%%GOLD%Runewords%WHITE%: %NAME%}%CONTINUE%
-ItemDisplay[(SHIELD AND !DIN) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Phoenix, Spirit%NL%%GOLD%Runewords%WHITE%: %NAME%}%CONTINUE%
+ItemDisplay[CHEST NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Prudence, Smoke, Stealth%NL%%GRAY%Runewords%WHITE%:%NAME%}%CONTINUE%
+ItemDisplay[CHEST NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Rain, Treachery, Wealth%NL%Lionheart, Myth, Peace, Principle,%NL%Enigma, Enlightenment, Gloom,%NL%%GRAY%Runewords%WHITE%: %GOLD%Bone, Dragon, Duress,%NAME%}%CONTINUE%
+ItemDisplay[CHEST NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Chains of Honor, Fortitude, Stone%NL%%GRAY%Runewords%WHITE%: %GOLD%Bramble,%NAME%}%CONTINUE%
+ItemDisplay[(HELM OR CIRC) NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Lore, Nadir%NL%%GRAY%Runewords%WHITE%: %NAME%}%CONTINUE%
+ItemDisplay[(HELM OR CIRC) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Dream, Delirium, Radiance%NL%%GRAY%Runewords%WHITE%: %NAME%}%CONTINUE%
+ItemDisplay[SHIELD NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Rhyme, Splendor%NL%%GRAY%Runewords%WHITE%:%NAME%}%CONTINUE%
+ItemDisplay[SHIELD NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Dragon, Dream, Sanctuary%NL%%GRAY%Runewords%WHITE%: %GOLD%Ancient's Pledge,%NAME%}%CONTINUE%
+ItemDisplay[DIN NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Exile, Phoenix, Spirit%NL%%GRAY%Runewords%WHITE%: %NAME%}%CONTINUE%
+ItemDisplay[(SHIELD AND !DIN) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Phoenix, Spirit%NL%%GRAY%Runewords%WHITE%: %NAME%}%CONTINUE%
 
 //Weapons
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[AXE NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Kingslayer, Oath, Passion, Phoenix%NL%Fortitude, Hand of Justice,%NL%%GOLD%Runewords%WHITE%: %GRAY%Famine,}%CONTINUE%
-ItemDisplay[AXE NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GRAY%Eternity, Grief, Honor%NL%Call to Arms, Death, Doom,%NL%%GOLD%Runewords%WHITE%: %GRAY%Beast,}%CONTINUE%
-ItemDisplay[(AXE OR SWORD OR (whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm)) NMAG (!INF OR ETH) SOCK=6 !RW]: %NAME%{%GRAY%Breath of the Dying, Last Wish, Silence%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[(AXE OR POLEARM OR SPEAR) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Malice, Plague, Venom%NL%Crescent Moon, Fury,%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[(clb OR spc OR mac OR mst OR fla OR 9cl OR 9sp OR 9ma OR 9mt OR 9fl OR 7cl OR 7sp OR 7ma OR 7mt OR 7fl) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Plague, Venom%NL%Black, Fury, Malice,%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[(fla OR 9fl OR 7fl) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Passion, Phoenix, Voice of Reason%NL%Hand of Justice, Heart of the Oak,%NL%%GOLD%Runewords%WHITE%: %GRAY%Fortitude, Oath,}%CONTINUE%
-ItemDisplay[(whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Malice, Plague, Venom%NL%Black, Fury, Lawbringer,%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[(whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Hand of Justice, Passion, Phoenix%NL%Famine, Fortitude,%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[(whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm) NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GRAY%Doom, Eternity, Honor%NL%Beast, Call to Arms,%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[SWORD NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Lawbringer, Malice, Plague, Venom%NL%Crescent Moon, Fury, King's Grace,%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[SWORD NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Phoenix, Spirit, Voice of Reason%NL%Hand of Justice, Kingslayer, Passion,%NL%%GOLD%Runewords%WHITE%: %GRAY%Fortitude, Oath,}%CONTINUE%
-ItemDisplay[SWORD NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GRAY%Destruction, Grief, Honor%NL%Eternity, Death, Doom,%NL%%GOLD%Runewords%WHITE%: %GRAY%Call to Arms,}%CONTINUE%
-ItemDisplay[WEAPON !(AXE OR SWORD OR whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm) NMAG (!INF OR ETH) SOCK=6 !RW]: %NAME%{%GRAY%Breath of the Dying, Silence%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[(POLEARM OR SPEAR OR JAV) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Passion, Phoenix, Pride, Rift%NL%Hand of Justice, Infinity, Insight,%NL%%GOLD%Runewords%WHITE%: %GRAY%Fortitude,}%CONTINUE%
-ItemDisplay[(POLEARM OR SPEAR OR JAV) NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GRAY%Eternity, Honor, Obedience%NL%Call to Arms, Destruction, Doom,%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GRAY%Zephyr%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Edge, Melody, Plague, Venom%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Passion, Phoenix, Voice of Reason, Wrath%NL%Fortitude, Hand of Justice, Harmony, Ice,%NL%%GOLD%Runewords%WHITE%: %GRAY%Brand, Faith,}%CONTINUE%
-ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GRAY%Call to Arms%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[WEAPON !(BOW OR XBOW OR SOR OR leg OR STAFF OR WAND OR SIN OR SWORD OR AXE OR mac OR mst OR fla OR 9ma OR 9mt OR 9fl OR 7ma OR 7mt OR 7fl) NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GRAY%Neophyte, Strength, Wind%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[WEAPON !(BOW OR XBOW OR SOR OR leg OR SIN OR AXE OR POLEARM OR SPEAR OR SWORD OR SCEPTER OR clb OR spc OR mac OR mst OR fla OR 9cl OR 9sp OR 9ma OR 9mt OR 9fl OR 7cl OR 7sp OR 7ma OR 7mt OR 7fl OR whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Plague, Venom%NL%%GRAY%Fury, Malice,%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[WEAPON !(BOW OR XBOW OR fla OR 9fl OR 7fl OR SWORD OR POLEARM OR SPEAR OR JAV OR SCEPTER OR AXE OR STAFF OR whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Hand of Justice, Passion, Phoenix%NL%%GOLD%Runewords%WHITE%: %GRAY%Fortitude,}%CONTINUE%
-ItemDisplay[WEAPON !(BOW OR XBOW OR SOR OR SCEPTER OR whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm OR AXE OR SWORD OR POLEARM OR SPEAR OR JAV) NMAG (!INF OR ETH) SOCK=5]: %NAME%{%GRAY%Call to Arms, Eternity, Honor%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[STAFF NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GRAY%Leaf, Strength, Wind%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[STAFF NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Insight, Memory, Passion, Phoenix, Spirit%NL%Hand of Justice, Heart of the Oak, Infinity,%NL%%GOLD%Runewords%WHITE%: %GRAY%Fortitude,}%CONTINUE%
-ItemDisplay[STAFF NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Eternity, Honor%NL%Call to Arms, Doom,%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[WAND NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GRAY%Strength, White, Wind%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[SCEPTER NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Malice, Plague, Venom%NL%Fury, King's Grace, Lawbringer,%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[SCEPTER NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GRAY%Insight, Passion, Phoenix, Rift%NL%Holy Thunder, Hand of Justice,%NL%%GOLD%Runewords%WHITE%: %GRAY%Fortitude,}%CONTINUE%
-ItemDisplay[SCEPTER NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GRAY%Call to Arms, Eternity, Honor%NL%%GOLD%Runewords%WHITE%: %GRAY%Beast,}%CONTINUE%
-ItemDisplay[(SIN OR SWORD OR AXE OR mac OR mst OR fla OR 9ma OR 9mt OR 9fl OR 7ma OR 7mt OR 7fl) !leg NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GRAY%Steel, Strength, Wind%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[SIN !INF NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Plague, Venom%NL%Lawbringer, Malice, Pattern,%NL%Crescent Moon, Fury, King's Grace,%NL%%GOLD%Runewords%WHITE%: %GRAY%Black, Chaos,}%CONTINUE%
-ItemDisplay[SOR NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GRAY%Neophyte%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[SOR !leg NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Plague, Venom%NL%%GOLD%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[AXE NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Kingslayer, Oath, Passion, Phoenix%NL%Fortitude, Hand of Justice,%NL%%GRAY%Runewords%WHITE%: %GOLD%Famine,}%CONTINUE%
+ItemDisplay[AXE NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GOLD%Eternity, Grief, Honor%NL%Call to Arms, Death, Doom,%NL%%GRAY%Runewords%WHITE%: %GOLD%Beast,}%CONTINUE%
+ItemDisplay[(AXE OR SWORD OR (whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm)) NMAG (!INF OR ETH) SOCK=6 !RW]: %NAME%{%GOLD%Breath of the Dying, Last Wish, Silence%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[(AXE OR POLEARM OR SPEAR) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Malice, Plague, Venom%NL%Crescent Moon, Fury,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[(clb OR spc OR mac OR mst OR fla OR 9cl OR 9sp OR 9ma OR 9mt OR 9fl OR 7cl OR 7sp OR 7ma OR 7mt OR 7fl) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Plague, Venom%NL%Black, Fury, Malice,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[(fla OR 9fl OR 7fl) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Passion, Phoenix, Voice of Reason%NL%Hand of Justice, Heart of the Oak,%NL%%GRAY%Runewords%WHITE%: %GRAY%Fortitude, Oath,}%CONTINUE%
+ItemDisplay[(whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Malice, Plague, Venom%NL%Black, Fury, Lawbringer,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[(whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Hand of Justice, Passion, Phoenix%NL%Famine, Fortitude,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[(whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm) NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GOLD%Doom, Eternity, Honor%NL%Beast, Call to Arms,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[SWORD NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Lawbringer, Malice, Plague, Venom%NL%Crescent Moon, Fury, King's Grace,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[SWORD NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Phoenix, Spirit, Voice of Reason%NL%Hand of Justice, Kingslayer, Passion,%NL%%GRAY%Runewords%WHITE%: %GOLD%Fortitude, Oath,}%CONTINUE%
+ItemDisplay[SWORD NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GOLD%Destruction, Grief, Honor%NL%Eternity, Death, Doom,%NL%%GRAY%Runewords%WHITE%: %GOLD%Call to Arms,}%CONTINUE%
+ItemDisplay[WEAPON !(AXE OR SWORD OR whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm) NMAG (!INF OR ETH) SOCK=6 !RW]: %NAME%{%GOLD%Breath of the Dying, Silence%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[(POLEARM OR SPEAR OR JAV) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Passion, Phoenix, Pride, Rift%NL%Hand of Justice, Infinity, Insight,%NL%%GRAY%Runewords%WHITE%: %GOLD%Fortitude,}%CONTINUE%
+ItemDisplay[(POLEARM OR SPEAR OR JAV) NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GOLD%Eternity, Honor, Obedience%NL%Call to Arms, Destruction, Doom,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Zephyr%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Edge, Melody, Plague, Venom%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Passion, Phoenix, Voice of Reason, Wrath%NL%Fortitude, Hand of Justice, Harmony, Ice,%NL%%GRAY%Runewords%WHITE%: %GOLD%Brand, Faith,}%CONTINUE%
+ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GOLD%Call to Arms%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[WEAPON !(BOW OR XBOW OR SOR OR leg OR STAFF OR WAND OR SIN OR SWORD OR AXE OR mac OR mst OR fla OR 9ma OR 9mt OR 9fl OR 7ma OR 7mt OR 7fl) NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Neophyte, Strength, Wind%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[WEAPON !(BOW OR XBOW OR SOR OR leg OR SIN OR AXE OR POLEARM OR SPEAR OR SWORD OR SCEPTER OR clb OR spc OR mac OR mst OR fla OR 9cl OR 9sp OR 9ma OR 9mt OR 9fl OR 7cl OR 7sp OR 7ma OR 7mt OR 7fl OR whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Plague, Venom%NL%%GOLD%Fury, Malice,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[WEAPON !(BOW OR XBOW OR fla OR 9fl OR 7fl OR SWORD OR POLEARM OR SPEAR OR JAV OR SCEPTER OR AXE OR STAFF OR whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Hand of Justice, Passion, Phoenix%NL%%GRAY%Runewords%WHITE%: %GOLD%Fortitude,}%CONTINUE%
+ItemDisplay[WEAPON !(BOW OR XBOW OR SOR OR SCEPTER OR whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm OR AXE OR SWORD OR POLEARM OR SPEAR OR JAV) NMAG (!INF OR ETH) SOCK=5]: %NAME%{%GOLD%Call to Arms, Eternity, Honor%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[STAFF NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Leaf, Strength, Wind%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[STAFF NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Insight, Memory, Passion, Phoenix, Spirit%NL%Hand of Justice, Heart of the Oak, Infinity,%NL%%GRAY%Runewords%WHITE%: %GOLD%Fortitude,}%CONTINUE%
+ItemDisplay[STAFF NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Eternity, Honor%NL%Call to Arms, Doom,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[WAND NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Strength, White, Wind%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[SCEPTER NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Malice, Plague, Venom%NL%Fury, King's Grace, Lawbringer,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[SCEPTER NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Insight, Passion, Phoenix, Rift%NL%Holy Thunder, Hand of Justice,%NL%%GRAY%Runewords%WHITE%: %GOLD%Fortitude,}%CONTINUE%
+ItemDisplay[SCEPTER NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GOLD%Call to Arms, Eternity, Honor%NL%%GRAY%Runewords%WHITE%: %GOLD%Beast,}%CONTINUE%
+ItemDisplay[(SIN OR SWORD OR AXE OR mac OR mst OR fla OR 9ma OR 9mt OR 9fl OR 7ma OR 7mt OR 7fl) !leg NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Steel, Strength, Wind%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[SIN !INF NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Plague, Venom%NL%Lawbringer, Malice, Pattern,%NL%Crescent Moon, Fury, King's Grace,%NL%%GRAY%Runewords%WHITE%: %GOLD%Black, Chaos,}%CONTINUE%
+ItemDisplay[SOR NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Neophyte%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[SOR !leg NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Plague, Venom%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
 
 
 //BASES FOR RUNEWORDS
@@ -1041,14 +1038,15 @@ ItemDisplay[SOR !leg NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GRAY%Plague, Venom%
 
 //Armors
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(urn OR ghm OR xtp OR xar OR utp OR uit OR pab OR pac OR paf) NMAG (!INF OR ETH) SOCK>1 !RW]: %DOT-A8%%NAME%{%NAME%}
+ItemDisplay[ghm NMAG (!INF OR ETH) SOCK>1 !RW]: %DOT-A8%%NAME%{%NAME%}
+ItemDisplay[(xtp OR xar OR utp OR uit OR pab OR pac OR paf) NMAG (!INF OR ETH) SOCK>2 !RW]: %DOT-A8%%NAME%{%NAME%}
 ItemDisplay[HELM (uh9 OR uhm) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
 ItemDisplay[CHEST (uui OR uea OR ula OR uld OR utu OR ung OR urs OR uar) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
 ItemDisplay[SHIELD (ush OR uts) NMAG (!INF OR ETH) SOCK=4 !RW]: //%NAME%{%NAME%}
 ItemDisplay[CIRC (ci3) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
 ItemDisplay[DRU (drd) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
 ItemDisplay[BAR (bae) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
-ItemDisplay[NEC (neb) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
+ItemDisplay[NEC (neb) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
 ItemDisplay[DIN (pae) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
 
 //Weapons
@@ -1065,7 +1063,7 @@ ItemDisplay[POLEARM (7o7 OR 7vo OR 7pa) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%
 ItemDisplay[BOW (6l7) NMAG (!INF OR ETH) SOCK>2 !RW]: %DOT-A8%%NAME%{%NAME%}
 ItemDisplay[XBOW (6rx) NMAG (!INF OR ETH) SOCK>3 !RW]: %DOT-A8%%NAME%{%NAME%}
 ItemDisplay[STAFF (6cs OR 6bs OR 6ws) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
-ItemDisplay[WAND (7bw) NMAG !INF SOCK>1 !RW]: //%NAME%{%NAME%}
+ItemDisplay[WAND (7bw) NMAG !INF SOCK>1 !RW]: %NAME%{%NAME%}
 ItemDisplay[SCEPTER (7ws) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
 ItemDisplay[SIN (7ar OR 7cs OR 7lw OR 7tw OR 7qr) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
 ItemDisplay[SOR (obc) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
@@ -1076,7 +1074,7 @@ ItemDisplay[ZON (amb OR amd) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[wss]: %RED%Worldstone Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Corrupts %WHITE%Items}%CONTINUE%
 ItemDisplay[imra]: %GOLD%Zakarum Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%WHITE%MAP %WHITE%+ %GOLD%Item%WHITE% + %GREEN%Jewel %WHITE%+ %ORANGE%Rune>9%NL%%WHITE%Common to %YELLOW%Rare%WHITE%:}%CONTINUE%
-ItemDisplay[scrb]: %GOLD%Horadrim Scarab %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%GOLD%Item %WHITE%+ %GREEN%Tier 3 Map%NL%%RED%Group Dungeon%WHITE%:}
+ItemDisplay[scrb]: %GOLD%Horadrim Scarab %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%GOLD%Item %WHITE%+ %ORANGE%Tier 3 Map%NL%%RED%Group Dungeon%WHITE%:}
 ItemDisplay[rera]: %GOLD%Horadrim Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%YELLOW%MAP %WHITE%+ %GOLD%Item%WHITE% + Perf Gem + %ORANGE%Rune>9%NL%%GREEN%Reroll%WHITE%:}%CONTINUE%
 ItemDisplay[upma]: %GOLD%Angelic Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%BLUE%MAP %WHITE%+ %GOLD%Item%WHITE% + Perf %GRAY%O %WHITE%+ %ORANGE%Rune>9%NL%%BLUE%Magic %WHITE%to %YELLOW%Rare%WHITE%:}%CONTINUE%
 ItemDisplay[imma]: %GOLD%Arcane Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%{%WHITE%MAP + %GOLD%Item%WHITE% + %GREEn%Jewel %NL%%WHITE%Common to %BLUE%Magic%WHITE%:}%CONTINUE%
@@ -1171,7 +1169,7 @@ ItemDisplay[RARE t42]: %PURPLE%T4 %YELLOW%Plains of Torment Map{%PURPLE%Dungeon}
 ItemDisplay[RARE t43]: %PURPLE%T4 %YELLOW%Sanctuary of Sin Map{%PURPLE%Dungeon}%DOT-A8%
 
 //Unique
-ItemDisplay[t51]: %ORANGE%T3 GOLD%Zhar's Sanctum Map%DOT-A8%
+ItemDisplay[t51]: %ORANGE%T3 %GOLD%Zhar's Sanctum Map%DOT-A8%
 ItemDisplay[t52]: %ORANGE%T3 %GOLD%Stygian Caverns Map%DOT-A8%
 
 //ESSENCES & TOKEN
@@ -1180,7 +1178,7 @@ ItemDisplay[tes]: %BLUE%Essence of Suffering %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%
 ItemDisplay[ceh]: %YELLOW%Essence of Hatred %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%TAN%Mephisto%YELLOW%]%NL%%GRAY%Token of Absolution %WHITE%Ingredient}
 ItemDisplay[bet]: %RED%Essence of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%RED%Diablo%YELLOW%]%NL%%GRAY%Token of Absolution %WHITE%Ingredient}
 ItemDisplay[fed]: %GREEN%Essence of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GREEN%Baal%YELLOW%]%NL%%GRAY%Token of Absolution %WHITE%Ingredient}
-ItemDisplay[toa]: %GRAY%Token of Absolution%MAP%{%WHITE%Resets %GRAY%Skills %WHITE%/ %GRAY% Stats}
+ItemDisplay[toa]: %GRAY%Token of Absolution%MAP%{%WHITE%Resets %GRAY%Skills %WHITE%/ %GRAY%Stats}
 
 //UBER TRISTRAM
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1230,7 +1228,6 @@ ItemDisplay[(ARMOR OR WEAPON OR (aqv OR cqv)) (MAG OR RARE OR SET OR UNI OR CRAF
 //3. RECYCLING
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-//DEL#1
 //Potions
 ItemDisplay[(hp1 OR mp1) CLVL>4]: 
 ItemDisplay[(hp2 OR mp2) CLVL>14]:
@@ -1275,8 +1272,7 @@ ItemDisplay[(amu OR rin) MAG !ID]:
 ItemDisplay[aqv OR cqv]: 
 ItemDisplay[key]: 
 
-//Whites, Blues, Yellow (except ELT Necroheads, Rings, Amulets)
-ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG OR RARE) !(neb OR neg OR ned OR nee OR nef) !leg CLVL>20]:
-
+//Whites, Blues, Yellow (except Wirt's Leg)
+ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG OR RARE) !leg CLVL>5]:
 
 //END
