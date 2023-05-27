@@ -884,12 +884,54 @@ ItemDisplay[cm2 UNI CLSK5>0]: %GRAY%dru %GOLD%%NAME%%CONTINUE%
 ItemDisplay[cm2 UNI CLSK6>0]: %GRAY%asa %GOLD%%NAME%%CONTINUE%
 
 
+//JEWELS
+//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+ItemDisplay[jew (MAG OR RARE) !ID]: %BLUE%%DOT-A8%%NAME%
+ItemDisplay[jew UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP%
+
+//Base
+//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ItemDisplay[jew MAG ID (RES>0 OR STAT86>0 OR STAT138>0 OR MFIND>0 OR STAT79>0 OR FRW>0 OR FHR>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STAT501>0)]: %NL%%DOT-A8%%BLUE% %NAME%%CONTINUE%
+ItemDisplay[jew RARE ID (RES>0 OR STAT86>0 OR STAT138>0 OR MFIND>0 OR STAT79>0 OR FRW>0 OR FHR>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STAT501>0)]: %NL%%DOT-A8%%YELLOW%%NAME%%CONTINUE%
+ItemDisplay[jew CRAFT ID (RES>0 OR STAT86>0 OR STAT138>0 OR MFIND>0 OR STAT79>0 OR FRW>0 OR FHR>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STAT501>0)]: %NL%%DOT-A8%%ORANGE%%NAME%%CONTINUE%
+
+//Stats
+//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ItemDisplay[jew !UNI !SET RES>0]: %PURPLE% all res +%RES% %NAME%%CONTINUE%
+ItemDisplay[jew !UNI CRES>0 !(RES>0)]: %BLUE% cold res %STAT43%%%NAME%%CONTINUE%
+ItemDisplay[jew !UNI FRES>0 !(RES>0)]: %RED% fire res %STAT39%%%NAME%%CONTINUE%
+ItemDisplay[jew !UNI LRES>0 !(RES>0)]: %YELLOW% light res %STAT41%%%NAME%%CONTINUE%
+ItemDisplay[jew !UNI PRES>0 !(RES>0)]: %GREEN% poison res %STAT45%%%NAME%%CONTINUE%
+ItemDisplay[jew !UNI !SET STAT86>0]: %RED% laek +%STAT86% %NAME%%CONTINUE%
+ItemDisplay[jew !UNI !SET STAT138>0]: %BLUE% maek +%STAT138% %NAME%%CONTINUE%
+ItemDisplay[jew !UNI AR>0]: %GRAY% ar +%STAT19%%NAME%%CONTINUE%
+ItemDisplay[jew STAT501>0]: %RED% ow +%STAT501% %NAME%%CONTINUE%
+ItemDisplay[jew MFIND>0]: %GREEN% mf %STAT80%% %NAME%%CONTINUE%
+ItemDisplay[jew STAT79>0]: %GOLD% gf %STAT79%% %NAME%%CONTINUE%
+ItemDisplay[jew FRW>0]: %ORANGE% frw %STAT96%% %NAME%%CONTINUE%
+ItemDisplay[jew FHR>0]: %ORANGE% fhr %STAT99%% %NAME%%CONTINUE%
+
+//Damage
+//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ItemDisplay[jew IAS>0]: %ORANGE% ias %NAME%%CONTINUE%
+ItemDisplay[jew EDAM>0]: %GREEN% ed %EDAM%% %NAME%%CONTINUE%
+ItemDisplay[jew MAXDMG>0]: %ORANGE% max dmg +%STAT24% %NAME%%CONTINUE%
+ItemDisplay[jew MINDMG>0]: %YELLOW% min dmg +%STAT23% %NAME%%CONTINUE%
+
+//Facet
+//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ItemDisplay[jew UNI STAT333>0]: %RED% fire %STAT333%/%STAT329%%GOLD% %NAME%%CONTINUE%
+ItemDisplay[jew UNI STAT334>0]: %YELLOW% light %STAT334%/%STAT330%%GOLD% %NAME%%CONTINUE%
+ItemDisplay[jew UNI STAT335>0]: %BLUE% cold %STAT335%/%STAT331% %GOLD% %NAME%%CONTINUE%
+ItemDisplay[jew UNI STAT336>0]: %GREEN% poison %STAT336%/%STAT332%%GOLD% %NAME%%CONTINUE%
+
+
 //EQUIPMENT
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 //Good
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[jew (MAG OR RARE) !ID]: %DARK_GREEN%%DOT-A8%%NAME%
 ItemDisplay[aqv RARE !ID]: %DOT-A8%%NAME%
 ItemDisplay[(jew OR rin OR amu OR CIRC) RARE !ID]: %DOT-A8%%NAME%
 
@@ -902,7 +944,6 @@ ItemDisplay[(uhl OR uth OR utb OR 7bs OR 7qr) UNI !ID]: %ORANGE%ooooooo %NAME%%O
 ItemDisplay[(rar OR rbe OR ram) UNI !ID]: %ORANGE%ooooooo %NAME%%ORANGE% ooooooo%MAP%
 ItemDisplay[(drf OR utp OR 7tw OR baf OR 7qs OR 6bs OR ned OR ulb OR ame OR 7fb OR utg) UNI !ID]: %ORANGE%ooooooo %NAME%%ORANGE% ooooooo%MAP%
 ItemDisplay[(ba6 OR 9ar OR dr2 OR ob6 OR am5 OR ne6) UNI !ID]: %ORANGE%ooooooo %NAME%%ORANGE% ooooooo%MAP%
-ItemDisplay[jew UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //Jewels: Facet
 
 //Mid Tier
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
