@@ -870,7 +870,7 @@ ItemDisplay[cm3 !UNI TABSK50>0]: %GRAY%asa %PURPLE%Martial Arts %TAN%Skiller%NAM
 //Unique
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 //stats
-ItemDisplay[(cm1 OR cm2) UNI STAT3>0]: %NAME%%RED% vit %STAT3%%CONTINUE% 
+ItemDisplay[(cm1 OR cm2) UNI STAT3>0]: %NAME%%RED% vit +%STAT3%%CONTINUE% 
 ItemDisplay[(cm1 OR cm2) UNI RES>0]: %NAME%%PURPLE% res %RES%%%CONTINUE%
 ItemDisplay[(cm1 OR cm2) UNI STAT85>0]: %NAME%%WHITE% xp %STAT85%%%CONTINUE%
 
