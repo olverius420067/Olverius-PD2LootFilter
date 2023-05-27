@@ -1212,9 +1212,9 @@ ItemDisplay[RARE t37]: %ORANGE%T3 %YELLOW%Pandemonium Citadel Map{%TAN%phys 110 
 ItemDisplay[RARE t38]: %ORANGE%T3 %YELLOW%Canyon of Sescheron Map{%YELLOW%light 160 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t39]: %ORANGE%T3 %YELLOW%Kehjistan Marketplace Map{%BLUE%cold 130 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t3a]: %ORANGE%T3 %YELLOW%Ashen Plains Map{%TAN%phys 120 %YELLOW%light 145 %GREEN%poison 130%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t41]: %PURPLE%T4 %YELLOW%Cathedral of Light Map{%PURPLE%Dungeon}%DOT-A8%
-ItemDisplay[RARE t42]: %PURPLE%T4 %YELLOW%Plains of Torment Map{%PURPLE%Dungeon}%DOT-A8%
-ItemDisplay[RARE t43]: %PURPLE%T4 %YELLOW%Sanctuary of Sin Map{%PURPLE%Dungeon}%DOT-A8%
+ItemDisplay[RARE t41]: %PURPLE%T4 %YELLOW%Cathedral of Light Map{%YELLOW%light 100/180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%phys 150/180 %ORANGE%magic 180 %RED%fire 100/180 %NL%%GOLD%High Immunities%WHITE%:%NL%%PURPLE%Dungeon}%DOT-A8%
+ItemDisplay[RARE t42]: %PURPLE%T4 %YELLOW%Plains of Torment Map{%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%phys 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:%NL%%PURPLE%Dungeon}%DOT-A8%
+ItemDisplay[RARE t43]: %PURPLE%T4 %YELLOW%Sanctuary of Sin Map{%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%phys 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:%NL%%PURPLE%Dungeon}%DOT-A8%
 
 //Unique
 ItemDisplay[t51]: %ORANGE%T3 %GOLD%Zhar's Sanctum Map%DOT-A8%
