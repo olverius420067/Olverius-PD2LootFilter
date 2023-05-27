@@ -811,20 +811,25 @@ ItemDisplay[(cm3) !UNI MAG (STAT79>0 OR STAT48>0 OR STAT49>0 OR STAT50>0 OR STAT
 
 //Stats#2
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI LIFE>0]: %RED% life %STAT7%%NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI MANA>0]: %BLUE% mana %STAT9%%NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI STR>0]: %RED% str %STAT0%%NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI DEX>0]: %GREEN% dex %STAT2%%NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm3) !UNI LIFE>0]: %RED% life +%STAT7%%NAME%%CONTINUE%
+ItemDisplay[cm2 !UNI LIFE>0]: //%RED% life +%STAT7%%NAME%%CONTINUE%
+ItemDisplay[cm1 !UNI MANA>0]: %BLUE% mana +%STAT9%%NAME%%CONTINUE%
+ItemDisplay[(cm2 OR cm3) !UNI MANA>0]: //%BLUE% mana +%STAT9%%NAME%%CONTINUE%
+ItemDisplay[cm1 !UNI STR>0]: %RED% str +%STAT0%%NAME%%CONTINUE%
+ItemDisplay[(cm2 OR cm3) !UNI STR>0]: //%RED% str +%STAT0%%NAME%%CONTINUE%
+ItemDisplay[cm1 !UNI DEX>0]: %GREEN% dex +%STAT2%%NAME%%CONTINUE%
+ItemDisplay[(cm2 OR cm3) !UNI DEX>0]: //%GREEN% dex +%STAT2%%NAME%%CONTINUE%
+ItemDisplay[cm1 !UNI AR>0]: %GRAY% ar +%STAT19%%NAME%%CONTINUE%
+ItemDisplay[(cm2 OR cm3) !UNI AR>0]: //%GRAY% ar +%STAT19%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI MFIND>0]: %GREEN% mf %STAT80%%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI STAT79>0]: %GOLD% gf %STAT79%%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI FRW>0]: %ORANGE% frw %STAT96%%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI FHR>0]: %ORANGE% fhr %STAT99%%%NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI AR>0]: %GRAY% ar %STAT19%%NAME%%CONTINUE%
 
 //DMG (Damage)
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI MAXDMG>0]: %TAN% max dmg %STAT24%%NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI RES>0]: %PURPLE% all res %RES%%%NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) !UNI MAXDMG>0]: %ORANGE% max dmg +%STAT24%%NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) !UNI RES>0]: %PURPLE% all res +%RES%%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI CRES>0 !(RES>0)]: %BLUE% cold res %STAT43%%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI FRES>0 !(RES>0)]: %RED% fire res %STAT39%%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI LRES>0 !(RES>0)]: %YELLOW% light res %STAT41%%%NAME%%CONTINUE%
