@@ -818,7 +818,7 @@ ItemDisplay[(cm1 OR cm2 OR cm3) !UNI MFIND>0]: %GREEN% mf %STAT80%%%NAME%%CONTIN
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI STAT79>0]: %GOLD% gf %STAT79%%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI FRW>0]: %ORANGE% frw %NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI FHR>0]: %ORANGE% fhr %NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI AR>0]: %GRAY% AR %STAT19%%NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) !UNI AR>0]: %GRAY% ar %STAT19%%NAME%%CONTINUE%
 
 //DMG (Damage)
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -936,9 +936,9 @@ ItemDisplay[WEAPON (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf
 ItemDisplay[amu (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Amn %WHITE%+ %BLUE%Jewel%NL%%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Ral %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
 ItemDisplay[rin (MAG OR RARE) ID]: %NAME% %ORANGE%(c){%RED%Caster: %WHITE%Perf %PURPLE%O %WHITE%+ %ORANGE%Amn %WHITE%+ %BLUE%Jewel%NL%%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Sol %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
 
-//Un-ID Particular Blue and Yellow Items
+//Un-ID Specific Blue and Yellow Items
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(neb OR neg OR ned OR nee OR nef) (MAG OR RARE) !ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Ith %WHITE%+ %BLUE%Jewel%NL%%RED%Safety: %WHITE%Perf %GREEN%O %WHITE%+ %ORANGE%Nef %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
+ItemDisplay[(add your specific item codes from https://projectdiablo2.miraheze.org/wiki/Item_Filtering, separated by OR, by replacing this text from ()) (MAG OR RARE) !ID]: %NAME% %ORANGE%(c){%RED%Blood: %WHITE%Perf %RED%O %WHITE%+ %ORANGE%Ith %WHITE%+ %BLUE%Jewel%NL%%RED%Safety: %WHITE%Perf %GREEN%O %WHITE%+ %ORANGE%Nef %WHITE%+ %BLUE%Jewel%NL%%TAN%Craft Recipe:}
 
 
 //UPGRADING
@@ -1171,7 +1171,7 @@ ItemDisplay[RARE t42]: %PURPLE%T4 %YELLOW%Plains of Torment Map{%PURPLE%Dungeon}
 ItemDisplay[RARE t43]: %PURPLE%T4 %YELLOW%Sanctuary of Sin Map{%PURPLE%Dungeon}%DOT-A8%
 
 //Unique
-ItemDisplay[t51]: %ORANGE%T3 GOLD%Zhar's Sanctum Map%DOT-A8%
+ItemDisplay[t51]: %ORANGE%T3 %GOLD%Zhar's Sanctum Map%DOT-A8%
 ItemDisplay[t52]: %ORANGE%T3 %GOLD%Stygian Caverns Map%DOT-A8%
 
 //ESSENCES & TOKEN
@@ -1275,8 +1275,8 @@ ItemDisplay[(amu OR rin) MAG !ID]:
 ItemDisplay[aqv OR cqv]: 
 ItemDisplay[key]: 
 
-//Whites, Blues, Yellow (except ELT Necroheads, Rings, Amulets)
-ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG OR RARE) !(neb OR neg OR ned OR nee OR nef) !leg CLVL>20]:
+//Whites, Blues, Yellow (except Specific Elites, Yellow Items and Wirt's Leg)
+ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG) !leg CLVL>5]: //!(add your specific item codes from https://projectdiablo2.miraheze.org/wiki/Item_Filtering, separated by OR, by replacing this text from () and add it between (NMAG OR MAG) and !leg) 
 
 //END
 
