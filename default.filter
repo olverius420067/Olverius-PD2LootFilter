@@ -1303,9 +1303,7 @@ ItemDisplay[GOLD<5000 CLVL>79]:
 //Inferior
 ItemDisplay[NMAG INF]:
 
-//Keys, Amulets and Rings
-ItemDisplay[(amu OR rin) MAG !ID]: 
-ItemDisplay[aqv OR cqv]: 
+//Keys
 ItemDisplay[key]: 
 
 //Whites, Blues, Yellow (except Wirt's Leg and Rare Items)
