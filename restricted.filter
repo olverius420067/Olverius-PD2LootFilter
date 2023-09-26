@@ -75,7 +75,7 @@ ItemDisplay[qf1]: %MAP%%GOLD%Khalim's Flail
 ItemDisplay[qf2]: %MAP%%GOLD%Khalim's Will
 ItemDisplay[mss]: %MAP%%GOLD%Mephisto's Soulstone
 ItemDisplay[hfh]: %MAP%%GOLD%Hellforge Hammer
-ItemDisplay[ice]: %MAP%GOLD%Malah's Potion
+ItemDisplay[ice]: %MAP%%GOLD%Malah's Potion
 ItemDisplay[tr2]: %MAP%%GOLD%Scroll of Resistance
 
 //Potions
@@ -814,13 +814,13 @@ ItemDisplay[(cm3) !UNI MAG (LIFE>0 OR MANA>0 OR STR>0 OR DEX>0 OR AR>0 OR MAXDMG
 ItemDisplay[(cm1 OR cm3) !UNI LIFE>0]: %RED% life +%STAT7%%NAME%%CONTINUE%
 ItemDisplay[cm2 !UNI LIFE>0]: %RED% life +%STAT7%%NAME%%CONTINUE%
 ItemDisplay[cm1 !UNI MANA>0]: %BLUE% mana +%STAT9%%NAME%%CONTINUE%
-ItemDisplay[(cm2 OR cm3) !UNI MANA>0]: //%BLUE% mana +%STAT9%%NAME%%CONTINUE%
+ItemDisplay[(cm2 OR cm3) !UNI MANA>0]: %BLUE% mana +%STAT9%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm3) !UNI STR>0]: %RED% str +%STAT0%%NAME%%CONTINUE%
-ItemDisplay[cm2 !UNI STR>0]: //%RED% str +%STAT0%%NAME%%CONTINUE%
+ItemDisplay[cm2 !UNI STR>0]: %RED% str +%STAT0%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm3) !UNI DEX>0]: %GREEN% dex +%STAT2%%NAME%%CONTINUE%
-ItemDisplay[cm2 !UNI DEX>0]: //%GREEN% dex +%STAT2%%NAME%%CONTINUE%
+ItemDisplay[cm2 !UNI DEX>0]: %GREEN% dex +%STAT2%%NAME%%CONTINUE%
 ItemDisplay[cm1 !UNI AR>0]: %GRAY% ar +%STAT19%%NAME%%CONTINUE%
-ItemDisplay[(cm2 OR cm3) !UNI AR>0]: //%GRAY% ar +%STAT19%%NAME%%CONTINUE%
+ItemDisplay[(cm2 OR cm3) !UNI AR>0]: %GRAY% ar +%STAT19%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI MAXDMG>0]: %ORANGE% max dmg +%STAT24%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI RES>0]: %PURPLE% all res +%RES%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI CRES>0 !(RES>0)]: %BLUE% cold res %STAT43%%%NAME%%CONTINUE%
@@ -883,7 +883,6 @@ ItemDisplay[cm2 UNI CLSK4>0]: %GRAY%bar %GOLD%%NAME%%CONTINUE%
 ItemDisplay[cm2 UNI CLSK5>0]: %GRAY%dru %GOLD%%NAME%%CONTINUE%
 ItemDisplay[cm2 UNI CLSK6>0]: %GRAY%asa %GOLD%%NAME%%CONTINUE%
 
-
 //JEWELS
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
@@ -892,40 +891,32 @@ ItemDisplay[jew UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP%
 
 //Base
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[jew MAG ID (RES>0 OR STAT86>0 OR STAT138>0 OR MFIND>0 OR STAT79>0 OR FRW>0 OR FHR>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STAT501>0)]: %NL%%DOT-A8%%BLUE% Jewel%CONTINUE%
-ItemDisplay[jew RARE ID (RES>0 OR STAT86>0 OR STAT138>0 OR MFIND>0 OR STAT79>0 OR FRW>0 OR FHR>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STAT501>0)]: %NL%%DOT-A8%%YELLOW%Jewel%CONTINUE%
-ItemDisplay[jew CRAFT ID (RES>0 OR STAT86>0 OR STAT138>0 OR MFIND>0 OR STAT79>0 OR FRW>0 OR FHR>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STAT501>0)]: %NL%%DOT-A8%%ORANGE%Jewel%CONTINUE%
+ItemDisplay[jew ID (STAT91<0 OR STAT501>0 OR RES>0 OR FHR>0 OR STAT86>0 OR STAT138>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STR>0 OR DEX>0 OR CRES>0 OR FRES>0 OR LRES>0 OR PRES>0 OR STAT1>0)]: %CONTINUE%
+ItemDisplay[jew ID (STAT91<0 OR STAT501>0 OR RES>0 OR FHR>0 OR STAT86>0 OR STAT138>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STR>0 OR DEX>0 OR CRES>0 OR FRES>0 OR LRES>0 OR PRES>0 OR STAT1>0)]: %DOT-50%%NAME%%NL%%CONTINUE%
+ItemDisplay[jew MAG ID (STAT91<0 OR STAT501>0 OR RES>0 OR FHR>0 OR STAT86>0 OR STAT138>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STR>0 OR CRES>0 OR FRES>0 OR LRES>0 OR PRES>0 OR STAT1>0)]: %NAME%%BLUE%jewel%CONTINUE%
+ItemDisplay[jew RARE ID (STAT91<0 OR STAT501>0 OR RES>0 OR FHR>0 OR STAT86>0 OR STAT138>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STR>0 OR CRES>0 OR FRES>0 OR LRES>0 OR PRES>0 OR STAT1>0)]: %NAME%%YELLOW%jewel%CONTINUE%
+ItemDisplay[jew CRAFT ID (STAT91<0 OR STAT501>0 OR RES>0 OR FHR>0 OR STAT86>0 OR STAT138>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STR>0 OR CRES>0 OR FRES>0 OR LRES>0 OR PRES>0 OR STAT1>0)]: %NAME%%ORANGE%jewel%CONTINUE%
 
 //Stats
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[jew !UNI !SET RES>0]: %PURPLE% all res +%RES% %NAME%%CONTINUE%
-ItemDisplay[jew !UNI CRES>0 !(RES>0)]: //%BLUE% cold res %STAT43%%%NAME%%CONTINUE%
-ItemDisplay[jew !UNI FRES>0 !(RES>0)]: //%RED% fire res %STAT39%%%NAME%%CONTINUE%
-ItemDisplay[jew !UNI LRES>0 !(RES>0)]: //%YELLOW% light res %STAT41%%%NAME%%CONTINUE%
-ItemDisplay[jew !UNI PRES>0 !(RES>0)]: //%GREEN% poison res %STAT45%%%NAME%%CONTINUE%
-ItemDisplay[jew !UNI !SET STAT86>0]: %RED% laek +%STAT86% %NAME%%CONTINUE%
-ItemDisplay[jew !UNI !SET STAT138>0]: %BLUE% maek +%STAT138% %NAME%%CONTINUE%
-ItemDisplay[jew !UNI AR>0]: //%GRAY% ar +%STAT19% %NAME%%CONTINUE%
-ItemDisplay[jew STAT501>0]: %RED% ow +%STAT501% %NAME%%CONTINUE%
-ItemDisplay[jew MFIND>0]: %GREEN% mf %STAT80%% %NAME%%CONTINUE%
-ItemDisplay[jew STAT79>0]: //%GOLD% gf %STAT79%% %NAME%%CONTINUE%
-ItemDisplay[jew FRW>0]: //%ORANGE% frw %STAT96%% %NAME%%CONTINUE%
-ItemDisplay[jew FHR>0]: //%ORANGE% fhr %STAT99%% %NAME%%CONTINUE%
-
-//Damage
-//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[jew IAS>0]: %ORANGE% ias %NAME%%CONTINUE%
-ItemDisplay[jew EDAM>0]: %GREEN% ed %EDAM%% %NAME%%CONTINUE%
-ItemDisplay[jew MAXDMG>0]: %ORANGE% max dmg +%STAT24% %NAME%%CONTINUE%
-ItemDisplay[jew MINDMG>0]: %YELLOW% min dmg +%STAT23% %NAME%%CONTINUE%
-
-//Facet
-//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[jew UNI STAT333>0]: %RED% fire %STAT333%/%STAT329%%GOLD% %NAME%%CONTINUE%
-ItemDisplay[jew UNI STAT334>0]: %YELLOW% light %STAT334%/%STAT330%%GOLD% %NAME%%CONTINUE%
-ItemDisplay[jew UNI STAT335>0]: %BLUE% cold %STAT335%/%STAT331% %GOLD% %NAME%%CONTINUE%
-ItemDisplay[jew UNI STAT336>0]: %GREEN% poison %STAT336%/%STAT332%%GOLD% %NAME%%CONTINUE%
-
+ItemDisplay[jew STAT91<0]: %GRAY%-req %NAME%%CONTINUE%
+ItemDisplay[jew IAS>0]: %GOLD%ias %NAME%%CONTINUE%
+ItemDisplay[jew !UNI STAT501>0]: %RED%+%STAT501% ow %NAME%%CONTINUE%
+ItemDisplay[jew EDAM>0]: %GREEN%%EDAM%% ed %NAME%%CONTINUE%
+ItemDisplay[jew STAT24>0 !(STAT23>0)]: %RED%%STAT24% max dmg %NAME%%CONTINUE%
+ItemDisplay[jew STAT23>0 !(STAT24>0)]: %BLUE%%STAT23% min dmg %NAME%%CONTINUE%
+ItemDisplay[jew STAT23>0 STAT24>0]: %RED%+(%STAT23%-%STAT24%)dmg %NAME%%CONTINUE%
+ItemDisplay[jew FHR>0]: %GOLD% fhr %NAME%%CONTINUE%
+ItemDisplay[jew !UNI !SET STAT86>0]: %RED%%STAT86% laek %NAME%%CONTINUE%
+ItemDisplay[jew !UNI !SET STAT138>0]: %BLUE%%STAT138% maek %NAME%%CONTINUE%
+ItemDisplay[jew !UNI !SET RES>0]: %PURPLE%%RES%% res %NAME%%CONTINUE%
+ItemDisplay[jew STR>0]: %RED% str +%STAT0%%NAME%%CONTINUE%
+ItemDisplay[jew DEX>0]: %GREEN% dex +%STAT2%%NAME%%CONTINUE%
+ItemDisplay[jew CRES>0 !(RES>0)]: %BLUE% cold res %STAT43%%%NAME%%CONTINUE%
+ItemDisplay[jew FRES>0 !(RES>0)]: %RED% fire res %STAT39%%%NAME%%CONTINUE%
+ItemDisplay[jew LRES>0 !(RES>0)]: %YELLOW% light res %STAT41%%%NAME%%CONTINUE%
+ItemDisplay[jew PRES>0 !(RES>0)]: %GREEN% poison res %STAT45%%%NAME%%CONTINUE%
+ItemDisplay[jew STAT1>0]: %BLUE% energy +%STAT1%%NAME%%CONTINUE%
 
 //EQUIPMENT
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1312,12 +1303,12 @@ ItemDisplay[GOLD<5000 CLVL>79]:
 //Inferior
 ItemDisplay[NMAG INF]:
 
-//Keys, Blues
+//Keys, Amulets and Rings
 ItemDisplay[(amu OR rin) MAG !ID]: 
 ItemDisplay[aqv OR cqv]: 
 ItemDisplay[key]: 
 
-//Whites, Blues, Yellow (except Wirt's Leg)
-ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG OR RARE) !leg CLVL>5]:
+//Whites, Blues, Yellow (except Wirt's Leg and Rare Items)
+ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG) !(leg OR RARE) CLVL>0]:
 
 //END
