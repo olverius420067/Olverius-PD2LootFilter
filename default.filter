@@ -1220,6 +1220,7 @@ ItemDisplay[RARE t3a]: %YELLOW%Ashen Plains Map{%TAN%phys 120 %YELLOW%light 145 
 ItemDisplay[RARE t41]: %YELLOW%Cathedral of Light Map{%YELLOW%light 100/180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%phys 150/180 %ORANGE%magic 180 %RED%fire 100/180 %NL%%GOLD%High Immunities%WHITE%:%NL%%PURPLE%Dungeon}%DOT-A8%
 ItemDisplay[RARE t42]: %YELLOW%Plains of Torment Map{%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%phys 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:%NL%%PURPLE%Dungeon}%DOT-A8%
 ItemDisplay[RARE t43]: %YELLOW%Sanctuary of Sin Map{%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%phys 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:%NL%%PURPLE%Dungeon}%DOT-A8%
+ItemDisplay[RARE t44]: %YELLOW%Steppes of Daken-Shar Map{%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%phys 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:%NL%%PURPLE%Dungeon}%DOT-A8%
 
 //Unique
 ItemDisplay[t51]: %GOLD%Zhar's Sanctum Map%DOT-A8%
