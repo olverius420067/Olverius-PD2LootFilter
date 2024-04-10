@@ -888,7 +888,7 @@ ItemDisplay[jew UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP%
 
 //Base
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[jew ID (STAT54>0 OR STAT55>0 OR STAT56>0 OR STAT91<0 OR STAT501>0 OR RES>0 OR FHR>0 OR STAT86>0 OR STAT138>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STR>0 OR DEX>0 OR CRES>0 OR FRES>0 OR LRES>0 OR PRES>0 OR STAT1>0 OR AR>0 OR MFIND>0 OR STAT79>0)]: %CONTINUE%
+ItemDisplay[jew ID (STAT54>0 OR STAT55>0 OR STAT56>0 OR STAT91<0 OR STAT501>0 OR RES>0 OR FHR>0 OR STAT86>0 OR STAT138>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STR>0 OR DEX>0 OR CRES>0 OR FRES>0 OR LRES>0 OR PRES>0 OR STAT1>0 OR AR>0 OR MFIND>0 OR STAT79>0 OR DEF>0)]: %CONTINUE%
 ItemDisplay[jew ID (STAT54>0 OR STAT55>0 OR STAT56>0 OR STAT91<0 OR STAT501>0 OR RES>0 OR FHR>0 OR STAT86>0 OR STAT138>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STR>0 OR DEX>0 OR CRES>0 OR FRES>0 OR LRES>0 OR PRES>0 OR STAT1>0 OR AR>0 OR MFIND>0 OR STAT79>0 OR DEF>0)]: %DOT-50%%NAME%%NL%%CONTINUE%
 ItemDisplay[jew MAG ID (STAT54>0 OR STAT55>0 OR STAT56>0 OR STAT91<0 OR STAT501>0 OR RES>0 OR FHR>0 OR STAT86>0 OR STAT138>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STR>0 OR CRES>0 OR FRES>0 OR LRES>0 OR PRES>0 OR STAT1>0 OR AR>0 OR MFIND>0 OR STAT79>0 OR DEF>0)]: %NAME%%BLUE%jewel%CONTINUE%
 ItemDisplay[jew RARE ID (STAT54>0 OR STAT55>0 OR STAT56>0 OR STAT91<0 OR STAT501>0 OR RES>0 OR FHR>0 OR STAT86>0 OR STAT138>0 OR IAS>0 OR EDAM>0 OR MINDMG>0 OR MAXDMG>0 OR STR>0 OR CRES>0 OR FRES>0 OR LRES>0 OR PRES>0 OR STAT1>0 OR AR>0 OR MFIND>0 OR STAT79>0 OR DEF>0)]: %NAME%%YELLOW%jewel%CONTINUE%
@@ -951,7 +951,7 @@ ItemDisplay[(tgl OR uvg OR uhg OR umg) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% oo
 ItemDisplay[(xh9 OR usk OR ci2 OR baa OR bac OR dra OR dre OR uhm OR uh9 OR xhm OR drd OR bae) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //Helmets
 ItemDisplay[(lbt OR xhb OR uhb OR tbt OR xvb OR xlb) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //Boots
 ItemDisplay[(nee OR pa9 OR nea OR uts OR uow OR xsh OR xow OR pae OR nef) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //Shields
-ItemDisplay[(72a OR 7fl OR 7kr OR 7cr OR 7gm OR 9tw OR oba OR ama OR 6ws OR obc OR 7lw OR amf OR 7wh OR 7s8) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //Weapons
+ItemDisplay[(72a OR 7fl OR 7kr OR 7cr OR 7gm OR 9tw OR oba OR ama OR 6ws OR obc OR 7lw OR amf OR 7wh OR 7s8 OR 9qs) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //Weapons
 
 //BAD
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1145,30 +1145,30 @@ ItemDisplay[pvpp]: %RED%Dueling Mana Potion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%
 //MAPS
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 //Normal
-ItemDisplay[NMAG t11]: %WHITE%Ruins of Vizjun Map{%YELLOW%light 120 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t12]: WHITE%Horazon's Memory Map{%RED%fire 135 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t13]: %WHITE%Bastion Keep Map{%TAN%phys 110 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t14]: %WHITE%Sanatorium Map{%RED%fire 135 %BLUE%cold 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t15]: %WHITE%Royal Crypts Map{%ORANGE%magic 150 %YELLOW%light 100 %GREEN%poison 105%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t16]: %WHITE%Ruined Cistern Map{%ORANGE%magic 125 %BLUE%cold 115 %GREEN%poison 140%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t21]: %WHITE%Phlegathon Map{%RED%fire 140 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t22]: %WHITE%Torajan Jungle Map{%YELLOW%light 105 %BLUE%cold 140 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t23]: %WHITE%Arreat Battlefield Map{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t24]: %WHITE%Tomb of Zoltun Kulle Map{%TAN%phys 105 %YELLOW%light 120 %BLUE%cold 150 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t25]: %WHITE%Sewers of Harrogath Map{%RED%fire 125 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t26]: %WHITE%Shadows of Westmarch Map{%TAN%phys 100 %RED%fire 110 %BLUE%cold 150 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t31]: %WHITE%River of Blood Map{%ORANGE%magic 100 %RED%fire 125 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t32]: %WHITE%Throne of Insanity Map{%RED%fire 130 %GREEN%poison 115%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t33]: %WHITE%Lost Temple Map{%RED%fire 120 %YELLOW%light 115 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t34]: %WHITE%Ancestral Trial Map{%TAN%phys 110 %RED%fire 120 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t35]: %WHITE%Blood Moon Map%DOT-A8%
-ItemDisplay[NMAG t36]: %WHITE%Fall of Caldeum Map{%YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t37]: %WHITE%Pandemonium Citadel Map{%TAN%phys 110 %RED%fire 140 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t38]: %WHITE%Canyon of Sescheron Map{%YELLOW%light 160 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t39]: %WHITE%Kehjistan Marketplace Map{%BLUE%cold 130 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t3a]: %WHITE%Ashen Plains Map{%TAN%phys 120 %YELLOW%light 145 %GREEN%poison 130%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t61]: %WHITE%Desert Duel Arena{%GRAY%PvP Arena}%DOT-A8%
-ItemDisplay[NMAG t62]: %WHITE%Moor Duel Arena{%GRAY%PvP Arena}%DOT-A8%
+ItemDisplay[NMAG t11]: %WHITE%Ruins of Vizjun Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 120 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t12]: %WHITE%Horazon's Memory Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 135 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t13]: %WHITE%Bastion Keep Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%TAN%phys 110 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t14]: %WHITE%Sanatorium Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 135 %BLUE%cold 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t15]: %WHITE%Royal Crypts Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%ORANGE%magic 150 %YELLOW%light 100 %GREEN%poison 105%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t16]: %WHITE%Ruined Cistern Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%ORANGE%magic 125 %BLUE%cold 115 %GREEN%poison 140%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t21]: %WHITE%Phlegathon Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 140 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t22]: %WHITE%Torajan Jungle Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 105 %BLUE%cold 140 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t23]: %WHITE%Arreat Battlefield Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t24]: %WHITE%Tomb of Zoltun Kulle Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%TAN%phys 105 %YELLOW%light 120 %BLUE%cold 150 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t25]: %WHITE%Sewers of Harrogath Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 125 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t26]: %WHITE%Shadows of Westmarch Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%TAN%phys 100 %RED%fire 110 %BLUE%cold 150 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t31]: %WHITE%River of Blood Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%ORANGE%magic 100 %RED%fire 125 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t32]: %WHITE%Throne of Insanity Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 130 %GREEN%poison 115%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t33]: %WHITE%Lost Temple Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 120 %YELLOW%light 115 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t34]: %WHITE%Ancestral Trial Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%TAN%phys 110 %RED%fire 120 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t35]: %WHITE%Blood Moon Map %YELLOW%[%WHITE%%QTY%%YELLOW%]%DOT-A8%
+ItemDisplay[NMAG t36]: %WHITE%Fall of Caldeum Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t37]: %WHITE%Pandemonium Citadel Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%TAN%phys 110 %RED%fire 140 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t38]: %WHITE%Canyon of Sescheron Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 160 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t39]: %WHITE%Kehjistan Marketplace Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 130 %GREEN%poison 110%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t3a]: %WHITE%Ashen Plains Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%TAN%phys 120 %YELLOW%light 145 %GREEN%poison 130%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t61]: %WHITE%Desert Duel Arena %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GRAY%PvP Arena}%DOT-A8%
+ItemDisplay[NMAG t62]: %WHITE%Moor Duel Arena %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GRAY%PvP Arena}%DOT-A8%
 
 //Magic
 ItemDisplay[MAG t11]: %BLUE%Ruins of Vizjun Map{%YELLOW%light 120 %GREEN%poison 120%NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
