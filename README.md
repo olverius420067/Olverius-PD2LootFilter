@@ -1,5 +1,4 @@
 # name: Olverius' Loot Filter
-# featuring: NODRULE (Co-founder - Path of Diablo)
 # game: Project Diablo 2
 # contact: http://twitch.tv/olverius_fist0
 # account: /w *olverius_fisto
