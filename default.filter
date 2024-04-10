@@ -10,6 +10,8 @@
 //[NOTE1] The idea started as a private filter in Path of Diablo, several years ago.
 //[NOTE2] The structure of the filter was inpired by Path of Diablo and the co-creator of it is NODRULE.
 //[NOTE3] The goal of the filter is to be easy to use by everyone. but mostly for the 99 pushers.
+//[NOTE4] It's useless to see white and blue items, because you can craft on yellow items, also all socketed items get only the sockets that you need to use.
+//[NOTE5] My filter is teaching you which items are the best, only those get notification.
 
 
 //LEGEND:
