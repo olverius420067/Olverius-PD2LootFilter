@@ -929,7 +929,7 @@ ItemDisplay[jew DEF>0]: %BLUE% def +%DEF% %NAME%%CONTINUE%
 
 //Good
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[aqv RARE !ID]: //%DOT-A8%%NAME%
+ItemDisplay[(aqv OR cqv) RARE !ID]: //%DOT-A8%%NAME%
 ItemDisplay[(jew OR rin OR amu OR CIRC) RARE !ID]: %DOT-A8%%NAME%
 
 //High Tier
