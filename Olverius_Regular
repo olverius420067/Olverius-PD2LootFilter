@@ -1463,7 +1463,7 @@ ItemDisplay[(amu OR rin) MAG !ID]:
 ItemDisplay[aqv OR cqv]: 
 ItemDisplay[key]: 
 
-//Whites (except Wirt's Leg, Blue and Rare Items)
+//Whites (except Wirt's Leg, Blue and Yellow Items)
 ItemDisplay[(NORM OR EXC OR ELT) NMAG !(leg OR MAG OR RARE) CLVL>0]:
 
 //END
