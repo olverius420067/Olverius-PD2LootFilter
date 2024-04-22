@@ -91,7 +91,7 @@ ItemDisplay[hp4 CLVL<45]: %RED%H %WHITE%great
 ItemDisplay[mp4 CLVL<45]: %BLUE%M %WHITE%great
 ItemDisplay[hp5]: //%RED%H %WHITE%super
 ItemDisplay[mp5]: //%BLUE%M %WHITE%super
-ItemDisplay[rvs]: //%PURPLE%r %WHITE%35%
+ItemDisplay[rvs]: %PURPLE%r %WHITE%35%
 ItemDisplay[rvl]: %PURPLE%R %WHITE%65%
 
 //Tomes
@@ -554,7 +554,7 @@ ItemDisplay[(SUP OR INF) !RW scp]: Scepter%CONTINUE%
 ItemDisplay[(SUP OR INF) !RW 9sc]: Rune Scepter%CONTINUE%
 ItemDisplay[(SUP OR INF) !RW 7sc]: Mighty Scepter%CONTINUE%
 ItemDisplay[(SUP OR INF) !RW gsc]: Grand Scepter%CONTINUE%
-ItemDisplay[(SUP OR INF) !RW 9qs]: Holy Water Sprinkler%CONTINUE%
+ItemDisplay[(SUP OR INF) !RW 9qs]: Holy Sprinkler%CONTINUE%
 ItemDisplay[(SUP OR INF) !RW 7qs]: Seraph Rod%CONTINUE%
 ItemDisplay[(SUP OR INF) !RW wsp]: War Scepter%CONTINUE%
 ItemDisplay[(SUP OR INF) !RW 9ws]: Divine Scepter%CONTINUE%
@@ -811,12 +811,12 @@ ItemDisplay[(cm3) !UNI MAG (LIFE>0 OR MANA>0 OR STR>0 OR DEX>0 OR AR>0 OR MAXDMG
 
 //Stats
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(cm1 OR cm2) !UNI LIFE>0]: //%RED% life +%STAT7%%NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2) !UNI LIFE>0]: %RED% life +%STAT7%%NAME%%CONTINUE%
 ItemDisplay[cm3 !UNI LIFE>0]: %RED% life +%STAT7%%NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI MANA>0]: //%BLUE% mana +%STAT9%%NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) !UNI MANA>0]: %BLUE% mana +%STAT9%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI STR>0]: %RED% str +%STAT0%%NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI DEX>0]: //%GREEN% dex +%STAT2%%NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI AR>0]: //%GRAY% ar +%STAT19%%NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) !UNI DEX>0]: %GREEN% dex +%STAT2%%NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) !UNI AR>0]: %GRAY% ar +%STAT19%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI MAXDMG>0]: %ORANGE% max dmg +%STAT24%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI RES>0]: %PURPLE% all res +%RES%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI CRES>0 !(RES>0)]: %BLUE% cd res %STAT43%%%NAME%%CONTINUE%
@@ -827,7 +827,7 @@ ItemDisplay[(cm1 OR cm2 OR cm3) !UNI MFIND>0]: %GREEN% mf %STAT80%%%NAME%%CONTIN
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI STAT79>0]: %GOLD% gf %STAT79%%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI FRW>0]: %ORANGE% frw %STAT96%%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) !UNI FHR>0]: %ORANGE% fhr %STAT99%%%NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) !UNI DEF>0]: //%BLUE% def +%DEF% %NAME%%CONTINUE%
+ItemDisplay[(cm1 OR cm2 OR cm3) !UNI DEF>0]: %BLUE% def +%DEF% %NAME%%CONTINUE%
 
 //Damage
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -838,7 +838,7 @@ ItemDisplay[(cm1 OR cm2 OR cm3) STAT357>0]: %ORANGE% mg dmg %STAT357%%NAME%%CONT
 ItemDisplay[(cm1 OR cm2 OR cm3) STAT329>0]: %RED% fr dmg %STAT329%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) STAT330>0]: %YELLOW% lt dmg %STAT330%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) STAT331>0]: %BLUE% cd dmg %STAT331%%NAME%%CONTINUE%
-ItemDisplay[(cm1 OR cm2 OR cm3) STAT58>0]: //
+ItemDisplay[(cm1 OR cm2 OR cm3) STAT58>0]: %GREEN% psn dmg %STAT58%%NAME%%CONTINUE%
 ItemDisplay[(cm1 OR cm2 OR cm3) STAT332>0]: %GREEN% psn dmg %STAT332%%NAME%%CONTINUE%
 
 //Skiller
@@ -915,10 +915,10 @@ ItemDisplay[jew CRES>0 !(RES>0)]: %BLUE% cd res %STAT43%%%NAME%%CONTINUE%
 ItemDisplay[jew FRES>0 !(RES>0)]: %RED% fr res %STAT39%%%NAME%%CONTINUE%
 ItemDisplay[jew LRES>0 !(RES>0)]: %YELLOW% lt res %STAT41%%%NAME%%CONTINUE%
 ItemDisplay[jew PRES>0 !(RES>0)]: %GREEN% psn res %STAT45%%%NAME%%CONTINUE%
-ItemDisplay[jew (STAT54>0 OR STAT55>0 OR STAT56>0)]: //
-ItemDisplay[jew FRES>0 !(RES>0)]: //
-ItemDisplay[jew LRES>0 !(RES>0)]: //
-ItemDisplay[jew PRES>0 !(RES>0)]: //
+ItemDisplay[jew (STAT54>0 OR STAT55>0 OR STAT56>0)]: %BLUE% cd dmg %STAT43%%%NAME%%CONTINUE%
+ItemDisplay[jew FRES>0 !(RES>0)]: %RED% fr dmg %STAT39%%%NAME%%CONTINUE%
+ItemDisplay[jew LRES>0 !(RES>0)]: %YELLOW% lt dmg %STAT41%%%NAME%%CONTINUE%
+ItemDisplay[jew PRES>0 !(RES>0)]: %GREEN% psn dmg %STAT45%%%NAME%%CONTINUE%
 ItemDisplay[jew STAT1>0]: %BLUE% en +%STAT1% %NAME%%CONTINUE%
 ItemDisplay[jew MFIND>0]: %GREEN% mf %STAT80%%%NAME%%CONTINUE%
 ItemDisplay[jew STAT79>0]: %GOLD% gf %STAT79%%%NAME%%CONTINUE%
@@ -929,7 +929,7 @@ ItemDisplay[jew DEF>0]: %BLUE% def +%DEF% %NAME%%CONTINUE%
 
 //Good
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(aqv OR cqv) RARE !ID]: //%DOT-A8%%NAME%
+ItemDisplay[aqv RARE !ID]: //%DOT-A8%%NAME%
 ItemDisplay[(jew OR rin OR amu OR CIRC) RARE !ID]: %DOT-A8%%NAME%
 
 //High Tier
@@ -1010,7 +1010,7 @@ ItemDisplay[(xmg) UNI !ID]: //Gloves
 ItemDisplay[(ztb) UNI !ID]: //Belts
 
 //Weapons
-ItemDisplay[(9wa OR 9sp OR 9wh OR 9gm OR 9ss OR 9fc OR 9wd OR 9fb OR 9dg OR 9s8 OR 8hb OR 8sw OR 8mx OR 8hx OR 8ws OR 9yw OR 9bw OR 9gw OR 9ws OR 9tw OR oba OR am7 OR am9 OR ama) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //Best-in Slot
+ItemDisplay[(9wa OR 9sp OR 9wh OR 9gm OR 9ss OR 9fc OR 9wd OR 9fb OR 9dg OR 9s8 OR 8hb OR 8sw OR 8mx OR 8hx OR 8ws OR 9yw OR 9bw OR 9gw OR 9ws OR 9qs OR 9tw OR oba OR am7 OR am9 OR ama) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //Best-in Slot
 ItemDisplay[(9wh OR 9gm OR 8ls OR 7pa OR 7bt OR 7gi OR 7wa OR 7m7 OR 7p7 OR 7gl OR 7b8 OR 7bk OR xpl) UNI ETH !ID]: %ORANGE%oooo %NAME%%ORANGE% oooo%MAP% //Merc
 ItemDisplay[(9ar OR ob6) UNI !ID]: %ORANGE%ooo %NAME%%ORANGE% ooo%MAP% //New
 ItemDisplay[(9ha OR 9ax OR 92a OR 9mp OR 9la OR 9ba OR 9bt OR 9ga OR 9gi) UNI !ID]: //Axes
@@ -1024,7 +1024,7 @@ ItemDisplay[(8sb OR 8lb OR 8cb OR 8s8 OR 8l8 OR 8lw) UNI !ID]: //Bows
 ItemDisplay[(8lx OR 8rx) UNI !ID]: //X-bows
 ItemDisplay[(8ss OR 8ls OR 8cs OR 8bs) UNI !ID]: //Staves
 ItemDisplay[(9wn) UNI !ID]: //Wands
-ItemDisplay[(9sc OR 9qs) UNI !ID]: //Scepters
+ItemDisplay[(9sc) UNI !ID]: //Scepters
 
 //Sets
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1216,10 +1216,10 @@ ItemDisplay[SOR !leg NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Plague, Venom%
 ItemDisplay[ghm NMAG (!INF OR ETH) SOCK>1 !RW]: %DOT-A8%%NAME%{%NAME%}
 ItemDisplay[(xtp OR xar OR utp OR uit OR pab OR pac OR paf) NMAG (!INF OR ETH) SOCK>2 !RW]: %DOT-A8%%NAME%{%NAME%}
 ItemDisplay[HELM (uh9 OR uhm) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
-ItemDisplay[CHEST (uui OR uea OR ula OR uld OR utu OR ung OR urs OR uar) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
+ItemDisplay[CHEST (uui OR uea OR ula OR uld OR utu OR ung OR urs OR uar OR ult OR uth) NMAG (!INF OR ETH) SOCK>1 !RW]: %NAME%{%NAME%}
 ItemDisplay[SHIELD (ush OR uts) NMAG (!INF OR ETH) SOCK=4 !RW]: //%NAME%{%NAME%}
 ItemDisplay[CIRC (ci3) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
-ItemDisplay[DRU (drd) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
+ItemDisplay[DRU (drd) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
 ItemDisplay[BAR (bae) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
 ItemDisplay[NEC (neb) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
 ItemDisplay[DIN (pae) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
@@ -1236,9 +1236,9 @@ ItemDisplay[SPEAR (7br OR 7p7) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
 ItemDisplay[POLEARM (7o7 OR 7vo OR 7pa OR 7s8 OR 7wc) NMAG (!INF OR ETH) SOCK>3 !RW]: %DOT-A8%%NAME%{%NAME%}
 ItemDisplay[BOW (6l7) NMAG (!INF OR ETH) SOCK>2 !RW]: %DOT-A8%%NAME%{%NAME%}
 ItemDisplay[XBOW (6rx) NMAG (!INF OR ETH) SOCK>3 !RW]: %DOT-A8%%NAME%{%NAME%}
-ItemDisplay[STAFF (6cs OR 6bs OR 6ws) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
+ItemDisplay[STAFF (6cs OR 6bs OR 6ws) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
 ItemDisplay[WAND (7bw) NMAG !INF SOCK>1 !RW]: %NAME%{%NAME%}
-ItemDisplay[SCEPTER (7ws OR wsp) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
+ItemDisplay[SCEPTER (7ws OR wsp) NMAG (!INF OR ETH) (SOCK=0 OR SOCK>2) !RW]: %NAME%{%NAME%}
 ItemDisplay[SIN (7ar OR 7cs OR 7lw OR 7tw OR 7qr) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
 ItemDisplay[SOR (obc) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
 ItemDisplay[ZON (amc) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
@@ -1264,8 +1264,8 @@ ItemDisplay[lmal]: %GOLD%Larzuk's Malus%CONTINUE%
 ItemDisplay[upmp]: %GOLD%Cartographer's Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
 ItemDisplay[fort]: %GOLD%Orb of Fortification %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
 ItemDisplay[jewf]: %TAN%Frag %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[lsvl]: %WHITE%Vial of Lightsong %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[llmr]: %ORANGE%Lilith's Mirror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
+ItemDisplay[lsvl]: %TAN%Vial of Lightsong %MAP%%CONTINUE%
+ItemDisplay[llmr]: %ORANGE%Lilith's Mirror %MAP%%CONTINUE%
 ItemDisplay[rkey]: %GRAY%Skeleton Key %MAP%%CONTINUE%
 ItemDisplay[crfb]: %ORANGE%Blood Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
 ItemDisplay[crfc]: %ORANGE%Caster Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
@@ -1397,7 +1397,7 @@ ItemDisplay[rtmf]: %BLUE%Ancient Bone Fragment %YELLOW%[%WHITE%%QTY%%YELLOW%]%MA
 ItemDisplay[rtmv]: %BLUE%Splinter of the Void %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%BLUE%Mendeln Map Event%YELLOW%]%NL%%TAN%Rathma %WHITE%Ingredient}
 ItemDisplay[cm2f]: %BLUE%Hellfire Ashes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%BLUE%Stackable Hellfire Torch%YELLOW%]%NL%%TAN%Rathma %WHITE%Ingredient}
 ItemDisplay[rtmo]: %BLUE%Trang-Oul's Jawbone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%BLUE%Undead Minion%YELLOW%]%NL%%BLUE%Rathma %WHITE%Ingredient}
-ItemDisplay[rtma]: %BLUE%Voidstone%YELLOW%%MAP%{%BLUE%Rathma Access}
+ItemDisplay[rtma]: %BLUE%Voidstone %YELLOW%%MAP%{%BLUE%Rathma Access}
 ItemDisplay[cwss]: %BLUE%Tainted Worldstone Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Corrupts %GOLD%Annihilus}
 ItemDisplay[rtp]: %BLUE%Horadrim Navigator %MAP%{%BLUE%Unlimited TP}
 ItemDisplay[rid]: %RED%Horadrim Almanac %MAP%{%RED%Unlimited ID}
@@ -1408,6 +1408,7 @@ ItemDisplay[uba]: %TAN%Relic of the Ancients%MAP%{%TAN%Uber Ancients Access}
 ItemDisplay[ubaa]: %TAN%Sigil of Madawc %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%DARK_GREEN%T1%YELLOW%]%NL%%TAN%Uber Ancients %WHITE%Ingredient}
 ItemDisplay[ubab]: %TAN%Sigil of Talic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GREEN%T2%YELLOW%]%NL%%TAN%Uber Ancients %WHITE%Ingredient}
 ItemDisplay[ubac]: %TAN%Sigil of Korlic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%ORANGE%T3%YELLOW%]%NL%%TAN%Uber Ancients %WHITE%Ingredient}
+
 
 //MISCELLANEOUS
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1463,7 +1464,7 @@ ItemDisplay[(amu OR rin) MAG !ID]:
 ItemDisplay[aqv OR cqv]: 
 ItemDisplay[key]: 
 
-//Whites, Blues, Yellow (except Wirt's Leg and Yellow Items)
+//Whites, Blues (except Wirt's Leg and Yellow Items)
 ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG) !(leg OR RARE) CLVL>0]:
 
 //END
