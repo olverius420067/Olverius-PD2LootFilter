@@ -915,10 +915,10 @@ ItemDisplay[jew CRES>0 !(RES>0)]: %BLUE% cd res %STAT43%%%NAME%%CONTINUE%
 ItemDisplay[jew FRES>0 !(RES>0)]: %RED% fr res %STAT39%%%NAME%%CONTINUE%
 ItemDisplay[jew LRES>0 !(RES>0)]: %YELLOW% lt res %STAT41%%%NAME%%CONTINUE%
 ItemDisplay[jew PRES>0 !(RES>0)]: %GREEN% psn res %STAT45%%%NAME%%CONTINUE%
-ItemDisplay[jew (STAT54>0 OR STAT55>0 OR STAT56>0)]: %BLUE% cd dmg %STAT43%%%NAME%%CONTINUE%
-ItemDisplay[jew FRES>0 !(RES>0)]: %RED% fr dmg %STAT39%%%NAME%%CONTINUE%
-ItemDisplay[jew LRES>0 !(RES>0)]: %YELLOW% lt dmg %STAT41%%%NAME%%CONTINUE%
-ItemDisplay[jew PRES>0 !(RES>0)]: %GREEN% psn dmg %STAT45%%%NAME%%CONTINUE%
+ItemDisplay[jew (STAT54>0 OR STAT55>0 OR STAT56>0)]: %BLUE% cd dmg %STAT54%%%NAME%%CONTINUE%
+ItemDisplay[jew STAT39>0]: %RED% fr dmg %STAT39%%%NAME%%CONTINUE%
+ItemDisplay[jew STAT41>0]: %YELLOW% lt dmg %STAT41%%%NAME%%CONTINUE%
+ItemDisplay[jew STAT45>0]: %GREEN% psn dmg %STAT45%%%NAME%%CONTINUE%
 ItemDisplay[jew STAT1>0]: %BLUE% en +%STAT1% %NAME%%CONTINUE%
 ItemDisplay[jew MFIND>0]: %GREEN% mf %STAT80%%%NAME%%CONTINUE%
 ItemDisplay[jew STAT79>0]: %GOLD% gf %STAT79%%%NAME%%CONTINUE%
@@ -1079,7 +1079,7 @@ ItemDisplay[(scp OR wsp) UNI !ID]: //Scepters
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 //Armors
-ItemDisplay[(hlm OR fhl OR msk OR ghm OR ci0 OR stu OR rng OR brs OR chn OR spl OR gth OR tow OR gts OR hgl OR hbt OR hbl OR ba5) SET !ID]: %NAME%%MAP% //Best-in Slot
+ItemDisplay[(ghm OR gth OR tow OR hgl OR hbt OR hbl OR ba5 OR !(hlm OR fhl OR msk OR ci0 OR stu OR rng OR brs OR chn OR spl)) SET !ID]: %NAME%%MAP% //Best-in Slot
 ItemDisplay[(cap OR skp OR bhm OR crn) SET !ID]: //Helms
 ItemDisplay[(qui OR lea OR ltp OR ful OR aar) SET !ID]: //Chests
 ItemDisplay[(buc OR sml OR lrg OR kit) SET !ID]: //Shields
@@ -1379,7 +1379,7 @@ ItemDisplay[dhn]: %GOLD%Diablo's Horn %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLO
 ItemDisplay[bey]: %GOLD%Baal's Eye %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GOLD%Lilith%YELLOW%]%NL%%GOLD%Uber Tristram %WHITE%Ingredient}
 ItemDisplay[mbr]: %GOLD%Mephisto's Brain %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GOLD%Uber Izual%YELLOW%]%NL%%GOLD%Uber Tristram %WHITE%Ingredient}
 ItemDisplay[ubtm]: %GOLD%Pandemonium Talisman%MAP%{%GOLD%Uber Tristram Access}
-ItemDisplay[std]: %GOLD%Standard of Heroes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%+10% %WHITE%Experience%NL%%BLUE%+20% %WHITE%Magic & Gold Find / Monster Density%NL%%DARK_GREEN%Heroic%WHITE%: %YELLOW%MAP %WHITE%+ %GOLD%Item}
+ItemDisplay[std]: %GOLD%Standard of Heroes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%
 ItemDisplay[UNI cm1]: %DOT-A8%%NAME% //Annihilus
 ItemDisplay[UNI cm2]: %DOT-A8%%NAME% //Torch
 ItemDisplay[UNI cm3]: %DOT-A8%%NAME% //Gheed's
@@ -1398,9 +1398,9 @@ ItemDisplay[rtmv]: %BLUE%Splinter of the Void %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP
 ItemDisplay[cm2f]: %BLUE%Hellfire Ashes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%BLUE%Stackable Hellfire Torch%YELLOW%]%NL%%TAN%Rathma %WHITE%Ingredient}
 ItemDisplay[rtmo]: %BLUE%Trang-Oul's Jawbone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%BLUE%Undead Minion%YELLOW%]%NL%%BLUE%Rathma %WHITE%Ingredient}
 ItemDisplay[rtma]: %BLUE%Voidstone %YELLOW%%MAP%{%BLUE%Rathma Access}
-ItemDisplay[cwss]: %BLUE%Tainted Worldstone Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Corrupts %GOLD%Annihilus}
-ItemDisplay[rtp]: %BLUE%Horadrim Navigator %MAP%{%BLUE%Unlimited TP}
-ItemDisplay[rid]: %RED%Horadrim Almanac %MAP%{%RED%Unlimited ID}
+ItemDisplay[cwss]: %BLUE%Tainted Worldstone Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%
+ItemDisplay[rtp]: %BLUE%Horadrim Navigator %MAP%
+ItemDisplay[rid]: %RED%Horadrim Almanac %MAP%
 
 //UBER ANCIENTS
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
