@@ -1263,22 +1263,22 @@ ItemDisplay[DIN (pae) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
 
 //Weapons
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(am1 OR am2 OR am7 OR amc OR 8sb OR ) NMAG (!INF OR ETH) SOCK>2 !RW]: %DOT-A8%%NAME%{%NAME%}
-ItemDisplay[AXE (7wa OR 72a OR 7la OR 7bt OR 7ga OR 7gi) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
-ItemDisplay[MACE (7gm OR fla OR 7wh OR 7m7) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
-ItemDisplay[SWORD (7cr OR crs OR 72h OR 7gs OR 7b7 OR 7fb) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
-ItemDisplay[DAGGER (7kr) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
+ItemDisplay[(amc OR 6l7 OR 6hx OR 6rx OR 7wa OR 7qr OR 7ws OR 7cr OR 6cs OR 8bs OR 72a OR 7kr OR 7xf OR obf OR 6ws OR 7gm OR fla) NMAG (!INF OR ETH) (SOCK>2 OR SOCK=6) !RW]: %DOT-A8%%NAME%{%NAME%}
+ItemDisplay[AXE (wax) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
+ItemDisplay[MACE (spc) NMAG (!INF OR ETH) SOCK>1 !RW]: //%NAME%{%NAME%}
+ItemDisplay[SWORD (crs OR 9cr OR 9gd OR 7gd OR 7gs OR 72h) NMAG (!INF OR ETH) (SOCK>2 OR SOCK=6) !RW]: %NAME%{%NAME%}
+ItemDisplay[DAGGER (9kr) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
 ItemDisplay[THROWING (7ta) NMAG (!INF OR ETH) !RW]: //%NAME%{%NAME%}
 ItemDisplay[JAV (7s7) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
-ItemDisplay[SPEAR (7br OR 7p7) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
-ItemDisplay[POLEARM (7o7 OR 7vo OR 7pa OR 7s8 OR 7wc) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
-ItemDisplay[BOW (6l7) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
-ItemDisplay[XBOW (6rx) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
-ItemDisplay[STAFF (6cs OR 6bs OR 6ws) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
-ItemDisplay[WAND (7bw) NMAG !INF SOCK>1 !RW]: %NAME%{%NAME%}
-ItemDisplay[SCEPTER (7ws OR wsp) NMAG (!INF OR ETH) (SOCK=0 OR SOCK>2) !RW]: //%NAME%{%NAME%}
-ItemDisplay[SIN (7ar OR 7cs OR 7lw OR 7tw OR 7qr) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
-ItemDisplay[SOR (obc) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
+ItemDisplay[SPEAR (9br OR 7p7) NMAG (!INF OR ETH) SOCK>3 !RW]: %NAME%{%NAME%}
+ItemDisplay[POLEARM (7o7 OR 7vo OR 7pa OR 7s8 OR 7wc OR 9wc) NMAG (!INF OR ETH) SOCK>3 !RW]: %DOT-A8%%NAME%{%NAME%}
+ItemDisplay[BOW (am1 OR am2 OR am7 OR 8sb OR 6hb) NMAG (!INF OR ETH) SOCK>1 !RW]: //%NAME%{%NAME%}
+ItemDisplay[XBOW (lxb) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
+ItemDisplay[STAFF (sst OR bst) NMAG (!INF OR ETH) SOCK>1 !RW]: //%NAME%{%NAME%}
+ItemDisplay[WAND (bwn) NMAG !INF SOCK>1 !RW]: //%NAME%{%NAME%}
+ItemDisplay[SCEPTER (gsc OR wsp) NMAG !INF SOCK>1 !RW]: %NAME%{%NAME%}
+ItemDisplay[SIN (9ar) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
+ItemDisplay[SOR (ob2) NMAG (!INF OR ETH) SOCK>1 !RW]: //%NAME%{%NAME%}
 ItemDisplay[ZON (amc) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
 
 
