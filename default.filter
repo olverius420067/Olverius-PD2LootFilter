@@ -819,8 +819,7 @@ ItemDisplay[cm1 !UNI (RES>0 AND LIFE>0)]: %PURPLE%ALL %WHITE%Res %RED%Life %GRAY
 ItemDisplay[cm1 !UNI (RES>0 AND FRW>0)]: %PURPLE%ALL %WHITE%Res %ORANGE%frw %GRAY%Small Charm
 ItemDisplay[cm1 !UNI (RES>0 AND FHR>0)]: %PURPLE%ALL %WHITE%Res %ORANGE%FHR %GRAY%Small Charm
 ItemDisplay[cm1 !UNI (RES>0 AND MFIND>0)]: %PURPLE%ALL %WHITE%Res %GREEN%MF %GRAY%Small Charm
-ItemDisplay[cm1 !UNI RES>0]: %PURPLE%5 All Res %GRAY%Small Charm
-ItemDisplay[cm1 !UNI RES>0]: %PURPLE%ALL %WHITE%Res %GRAY%Small Charm
+ItemDisplay[cm1 !UNI RES>0]: %PURPLE%All Res %GRAY%Small Charm
 ItemDisplay[cm1 !UNI ((FRES>9 AND LIFE>0) OR (FRES>4 AND LIFE>10) OR (FRES>0 AND LIFE>16))]: %RED%Fire %WHITE%Res %RED%Life %GRAY%Small Charm
 ItemDisplay[cm1 !UNI ((LRES>9 AND LIFE>0) OR (LRES>4 AND LIFE>10) OR (LRES>0 AND LIFE>16))]: %YELLOW%Light %WHITE%Res %RED%Life %GRAY%Small Charm
 ItemDisplay[cm1 !UNI ((CRES>9 AND LIFE>0) OR (CRES>4 AND LIFE>10) OR (CRES>0 AND LIFE>16))]: %BLUE%Cold %WHITE%Res %RED%Life %GRAY%Small Charm
