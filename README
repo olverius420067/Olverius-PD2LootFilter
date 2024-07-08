@@ -1,6 +1,6 @@
 name: Olverius' Loot Filter
 game: Project Diablo 2
-contact: http://twitch.tv/olverius_fist0
+contact: http://twitch.tv/olverius_fisto
 account: /w *olverius_fisto
 discord: olverius_fisto#0001
 install: \Diablo II\ProjectD2\filters\local, then open PD2 Launcher\Item Filter Profiles\local\OlveriusLF.
