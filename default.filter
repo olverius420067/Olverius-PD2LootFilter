@@ -948,12 +948,18 @@ ItemDisplay[ID cm3 ((TABSK0>0 OR TABSK1>0 OR TABSK2>0 OR TABSK8>0 OR TABSK9>0 OR
 
 //Unique Charms
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+//stats
+ItemDisplay[(cm1 OR cm2) UNI STAT3>0]: %NAME% %RED%%STAT3%%CONTINUE% 
+ItemDisplay[(cm1 OR cm2) UNI RES>0]: %NAME% %PURPLE%%RES%%CONTINUE%
+ItemDisplay[cm1 UNI STAT85>0]: %NAME% %WHITE%%STAT85%%%CONTINUE%
+
+//class
 ItemDisplay[cm2 UNI CLSK0>0]: %GRAY%ama %GOLD%%NAME%%CONTINUE%
 ItemDisplay[cm2 UNI CLSK1>0]: %GRAY%sor %GOLD%%NAME%%CONTINUE%
 ItemDisplay[cm2 UNI CLSK2>0]: %GRAY%nec %GOLD%%NAME%%CONTINUE%
 ItemDisplay[cm2 UNI CLSK3>0]: %GRAY%pal %GOLD%%NAME%%CONTINUE%
 ItemDisplay[cm2 UNI CLSK4>0]: %GRAY%bar %GOLD%%NAME%%CONTINUE%
-ItemDisplay[cm2 UNI CLSK5>0]: %GRAY%dru %GOLD%%NAME%%CONTINUE%
+ItemDisplay[cm2 UNI CLSK5>0]: %GRAY%dru %GOLD%%NAME%
 ItemDisplay[cm2 UNI CLSK6>0]: %GRAY%asa %GOLD%%NAME%%CONTINUE%
 
 //JEWELS
