@@ -844,10 +844,10 @@ ItemDisplay[cm1 !UNI (FRES>4 AND FHR>0)]: %RED%fire res %ORANGE%fhr %GRAY%Small 
 ItemDisplay[cm1 !UNI (LRES>4 AND FHR>0)]: %YELLOW%light res %ORANGE%fhr %GRAY%Small Charm
 ItemDisplay[cm1 !UNI (CRES>4 AND FHR>0)]: %BLUE%cold res %ORANGE%fhr %GRAY%Small Charm
 ItemDisplay[cm1 !UNI (PRES>4 AND FHR>0)]: %GREEN%psn res %ORANGE%fhr %GRAY%Small Charm
-ItemDisplay[cm1 !UNI ((FRES>9 AND MFIND>0) OR (FRES>4 AND MFIND>3) OR (FRES>0 AND MFIND>5))]: %RED%fire res %GREEN%MF %GRAY%Small Charm
-ItemDisplay[cm1 !UNI ((LRES>9 AND MFIND>0) OR (LRES>4 AND MFIND>3) OR (LRES>0 AND MFIND>5))]: %YELLOW%light res %GREEN%MF %GRAY%Small Charm
-ItemDisplay[cm1 !UNI ((CRES>9 AND MFIND>0) OR (CRES>4 AND MFIND>3) OR (CRES>0 AND MFIND>5))]: %BLUE%cold res %GREEN%MF %GRAY%Small Charm
-ItemDisplay[cm1 !UNI ((PRES>9 AND MFIND>0) OR (PRES>4 AND MFIND>3) OR (PRES>0 AND MFIND>5))]: %GREEN%psn res %GREEN%MF %GRAY%Small Charm
+ItemDisplay[cm1 !UNI ((FRES>9 AND MFIND>0) OR (FRES>4 AND MFIND>3) OR (FRES>0 AND MFIND>5))]: %RED%fire res %GREEN%mf %GRAY%Small Charm
+ItemDisplay[cm1 !UNI ((LRES>9 AND MFIND>0) OR (LRES>4 AND MFIND>3) OR (LRES>0 AND MFIND>5))]: %YELLOW%light res %GREEN%mf %GRAY%Small Charm
+ItemDisplay[cm1 !UNI ((CRES>9 AND MFIND>0) OR (CRES>4 AND MFIND>3) OR (CRES>0 AND MFIND>5))]: %BLUE%cold res %GREEN%mf %GRAY%Small Charm
+ItemDisplay[cm1 !UNI ((PRES>9 AND MFIND>0) OR (PRES>4 AND MFIND>3) OR (PRES>0 AND MFIND>5))]: %GREEN%psn res %GREEN%mf %GRAY%Small Charm
 
 
 //Large Charms
@@ -891,8 +891,8 @@ ItemDisplay[cm3 !UNI]: %GRAY%Grand Charm%CONTINUE%
 ItemDisplay[cm3 LIFE>34]: %RED%life %NAME%%CONTINUE%
 ItemDisplay[cm3 MANA>49]: %BLUE%mana %NAME%%CONTINUE%
 ItemDisplay[cm3 !UNI FHR=12]: %ORANGE%fhr %NAME%%CONTINUE%
-ItemDisplay[cm3 !UNI LRES>24]: %YELLOW%light res %NAME%%CONTINUE%
 ItemDisplay[cm3 !UNI FRES>24]: %RED%fire res %NAME%%CONTINUE%
+ItemDisplay[cm3 !UNI LRES>24]: %YELLOW%light res %NAME%%CONTINUE%
 ItemDisplay[cm3 !UNI CRES>24]: %BLUE%cold res %NAME%%CONTINUE%
 ItemDisplay[cm3 !UNI PRES>24]: %GREEN%psn res %NAME%%CONTINUE%
 ItemDisplay[cm3 !UNI FRW>6]: %ORANGE%frw %NAME%%CONTINUE%
@@ -960,10 +960,29 @@ ItemDisplay[cm2 UNI CLSK6>0]: %GRAY%asa %GOLD%%NAME%%CONTINUE%
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ItemDisplay[jew (MAG OR RARE) !ID]: %BLUE%%DOT-A8%%NAME%
-ItemDisplay[jew !UNI]: %GRAY%Jewel%CONTINUE%
 ItemDisplay[jew UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP%
 
 Part 1
+//▬▬▬▬▬▬▬▬▬▬▬▬▬
+ItemDisplay[jew !UNI]: %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI LIFE>14]: %RED%life %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI STAT86>2]: %RED%laek %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI MAEK>2]: %BLUE%maek %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI ED>34]: %RED%ed %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI MAXDMG>14]: %TAN%max dmg %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI RES>11]: %PURPLE%all res %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI FRES>24]: %RED%fire res %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI LRES>24]: %YELLOW%light res %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI CRES>24]: %BLUE%cold res %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI PRES>24]: %GREEN%psn res %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI STAT501>74]: %RED%bleed %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI STAT91=-15]: %DARK_GREEN%-req %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI IAS>0]: %GOLD%ias %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI STR>4]: %RED%str %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI DEX>4]: %GREEN%dex %GRAY%Jewel%CONTINUE%
+ItemDisplay[jew !UNI FHR>0]: %ORANGE%fhr %GRAY%Jewel%CONTINUE%
+
+Part 2
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[jew !UNI (ED>19 AND IAS>0)]: %RED%ed %GOLD%ias %GRAY%Jewel
 ItemDisplay[jew !UNI (ED>29 AND FHR>0)]: %RED%ed %ORANGE%fhr %GRAY%Jewel
@@ -978,10 +997,55 @@ ItemDisplay[jew !UNI (MAXDMG>9 AND STAT91=-15)]: %TAN%max dmg %DARK_GREEN%-req %
 ItemDisplay[jew !UNI (MAXDMG>12 AND MINDMG>9)]: %TAN%max dmg %TAN%min dmg %GRAY%Jewel
 ItemDisplay[jew !UNI (MAXDMG>9 AND IAS>0)]: %TAN%max dmg %GOLD%ias %GRAY%Jewel
 ItemDisplay[jew !UNI (MINDMG>9 AND IAS>0)]: %TAN%min dmg %GOLD%ias %GRAY%Jewel
-ItemDisplay[jew !UNI (MAXDMG>9 AND RES>9)]: %TAN%max dmg %PURPLE%all res %GRAY%Jewel
-ItemDisplay[jew !UNI (MINDMG>9 AND RES>9)]: %TAN%min dmg %PURPLE%all res %GRAY%Jewel
 ItemDisplay[jew !UNI (MAXDMG>9 AND FHR>0)]: %TAN%max dmg %ORANGE%fhr %GRAY%Jewel
 ItemDisplay[jew !UNI (MINDMG>9 AND FHR>0)]: %TAN%min dmg %ORANGE%fhr %GRAY%Jewel
+ItemDisplay[jew !UNI (MAXDMG>9 AND RES>9)]: %TAN%max dmg %PURPLE%all res %GRAY%Jewel
+ItemDisplay[jew !UNI (MINDMG>9 AND RES>9)]: %TAN%min dmg %PURPLE%all res %GRAY%Jewel
+ItemDisplay[jew !UNI (RES>9 AND STAT91=-15)]: %PURPLE%all res %DARK_GREEN%-req %GRAY%Jewel
+ItemDisplay[jew !UNI (FRES>24 AND STAT91=-15)]: %RED%fire res %DARK_GREEN%-req %GRAY%Jewel
+ItemDisplay[jew !UNI (LRES>24 AND STAT91=-15)]: %YELLOW%light res %DARK_GREEN%-req %GRAY%Jewel
+ItemDisplay[jew !UNI (CRES>24 AND STAT91=-15)]: %BLUE%cold res %DARK_GREEN%-req %GRAY%Jewel
+ItemDisplay[jew !UNI (PRES>24 AND STAT91=-15)]: %GREEN%psn res %DARK_GREEN%-req %GRAY%Jewel
+ItemDisplay[jew !UNI (IAS>0 AND RES>5)]:  %GOLD%ias %PURPLE%all res %GRAY%Jewel
+ItemDisplay[jew !UNI (IAS>0 AND FRES>14)]: %GOLD%ias %RED%fire res %GRAY%Jewel
+ItemDisplay[jew !UNI (IAS>0 AND CRES>19)]: %GOLD%ias %BLUE%cold res %GRAY%Jewel
+ItemDisplay[jew !UNI (IAS>0 AND LRES>19)]: %GOLD%ias %YELLOW%light res %GRAY%Jewel
+ItemDisplay[jew !UNI (IAS>0 AND PRES>19)]: %GOLD%ias %GREEN%psn res %GRAY%Jewel
+ItemDisplay[jew !UNI (FHR>0 AND FRES>24)]: %ORANGE%fhr %RED%fire res %GRAY%Jewel
+ItemDisplay[jew !UNI (FHR>0 AND CRES>24)]: %ORANGE%fhr %BLUE%cold res %GRAY%Jewel
+ItemDisplay[jew !UNI (FHR>0 AND LRES>24)]: %ORANGE%fhr %YELLOW%light res %GRAY%Jewel
+ItemDisplay[jew !UNI (FHR>0 AND PRES>24)]: %ORANGE%fhr %GREEN%psn res %GRAY%Jewel
+ItemDisplay[jew !UNI (FHR>0 AND RES>5)]: %ORANGE%fhr %PURPLE%all res %GRAY%Jewel
+ItemDisplay[jew !UNI (DEX>4 AND FRES>24)]: %GREEN%dex %RED%fire res %GRAY%Jewel
+ItemDisplay[jew !UNI (DEX>4 AND CRES>24)]: %GREEN%dex %BLUE%cold res %GRAY%Jewel
+ItemDisplay[jew !UNI (DEX>4 AND LRES>24)]: %GREEN%dex %YELLOW%light res %GRAY%Jewel
+ItemDisplay[jew !UNI (DEX>4 AND PRES>24)]: %GREEN%dex %GREEN%psn res %GRAY%Jewel
+ItemDisplay[jew !UNI (DEX>4 AND RES>9)]: %GREEN%dex %PURPLE%All %WHITE%Res %GRAY%Jewel
+ItemDisplay[jew !UNI (STR>4 AND FRES>24)]: %RED%str %RED%fire res %GRAY%Jewel
+ItemDisplay[jew !UNI (STR>4 AND CRES>24)]: %RED%str %BLUE%cold res %GRAY%Jewel
+ItemDisplay[jew !UNI (STR>4 AND LRES>24)]: %RED%str %YELLOW%light res %GRAY%Jewel
+ItemDisplay[jew !UNI (STR>4 AND PRES>24)]: %RED%str %GREEN%psn res %GRAY%Jewel
+ItemDisplay[jew !UNI (STR>4 AND RES>9)]: %RED%str %PURPLE%all res %GRAY%Jewel
+ItemDisplay[jew !UNI (LIFE>14 AND FRES>24)]: %RED%life %RED%fire res %GRAY%Jewel
+ItemDisplay[jew !UNI (LIFE>14 AND CRES>24)]: %RED%life %BLUE%cold res %GRAY%Jewel
+ItemDisplay[jew !UNI (LIFE>14 AND LRES>24)]: %RED%life %YELLOW%light res %GRAY%Jewel
+ItemDisplay[jew !UNI (LIFE>14 AND PRES>24)]: %RED%life %GREEN%psn res %GRAY%Jewel
+ItemDisplay[jew !UNI (LIFE>9 AND RES>9)]: %RED%life %PURPLE%all res %GRAY%Jewel
+ItemDisplay[jew !UNI (LIFE>9 AND MAEK>2)]: %RED%life %BLUE%maek %GRAY%Jewel
+ItemDisplay[jew !UNI (STR>4 AND MAEK>2)]: %RED%str %BLUE%maek %GRAY%Jewel
+ItemDisplay[jew !UNI (DEX>4 AND MAEK>2)]: %GREEN%dex %BLUE%maek %GRAY%Jewel
+ItemDisplay[jew !UNI (LIFE>9 AND STAT86>2)]: %RED%life %RED%laek %GRAY%Jewel
+ItemDisplay[jew !UNI (STR>4 AND STAT86>2)]: %RED%str %RED%laek %GRAY%Jewel
+ItemDisplay[jew !UNI (DEX>4 AND STAT86>2)]: %GREEN%dex %RED%laek %GRAY%Jewel
+ItemDisplay[jew !UNI (FHR>0 AND MAEK>2)]: %ORANGE%fhr %BLUE%maek %GRAY%Jewel
+ItemDisplay[jew !UNI (FHR>0 AND STAT86>2)]: %ORANGE%fhr %RED%laek %GRAY%Jewel
+ItemDisplay[jew !UNI (STAT86>2 AND STAT91=-15)]: %RED%laek %DARK_GREEN%-req %GRAY%Jewel
+ItemDisplay[jew !UNI (MAEK>2 AND STAT91=-15)]: %BLUE%maek %DARK_GREEN%-req %GRAY%Jewel
+ItemDisplay[jew !UNI (MAEK>2 AND IAS>0)]: %BLUE%maek %GOLD%ias %GRAY%Jewel
+ItemDisplay[jew !UNI (STAT86>2 AND IAS>0)]: %RED%laek %GOLD%ias %GRAY%Jewel
+ItemDisplay[jew !UNI (STAT501>74 AND IAS>0)]: %RED%bleed %GOLD%ias %GRAY%Jewel
+ItemDisplay[jew !UNI (STAT501>74 AND STAT91=-15)]: %RED%bleed %DARK_GREEN%-req %GRAY%Jewel
+
 
 //EQUIPMENT
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
