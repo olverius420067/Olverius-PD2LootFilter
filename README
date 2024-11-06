@@ -4,6 +4,5 @@ contact: http://twitch.tv/olverius_fisto
 account: /w *olverius_fisto
 discord: olverius_fisto#0001
 install: \Diablo II\ProjectD2\filters\local, then open PD2 Launcher\Item Filter Profiles\local\OlveriusLF.
-[note1:] The idea started as a private filter in Path of Diablo, several years ago and the co-creator is NODRULE.
-[note2:] This product is original, but the structure was inspired by KRYSZARD and some other aspects by RETROCRO.
-[note3:] This filter is teaching you which items are the best, only those get notification.
+[NOTE1:] This product is original, but the structure was inspired by KRYSZARD from Path of Diablo. This is not a tribute, but reflects my own vision.
+[NOTE2:] The filter is teaching you which items are the best, only those get notification.
