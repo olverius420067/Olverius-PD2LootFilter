@@ -1,4 +1,3 @@
-
 //name: Olverius' Loot Filter
 //game: Project Diablo 2
 //contact: twitch.tv/olverius_fisto 
@@ -733,7 +732,7 @@ ItemDisplay[r03s]: %TAN%Tir [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]
 /Nef
 ItemDisplay[r04s]: %TAN%Nef [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]
 /Eth
-ItemDisplay[r05s]: %TAN%Eth [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]{
+ItemDisplay[r05s]: %TAN%Eth [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]
 /Ith
 ItemDisplay[r06s]: %TAN%Ith [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]
 /Tal 
@@ -1295,8 +1294,8 @@ ItemDisplay[(HELM OR CIRC) NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Lore, Na
 ItemDisplay[(HELM OR CIRC) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Dream, Delirium, Radiance%NL%%GRAY%Runewords%WHITE%: %NAME%}%CONTINUE%
 ItemDisplay[SHIELD NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Rhyme, Splendor%NL%%GRAY%Runewords%WHITE%:%NAME%}%CONTINUE%
 ItemDisplay[SHIELD NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Dragon, Dream, Sanctuary%NL%%GRAY%Runewords%WHITE%: %GOLD%Ancient's Pledge,%NAME%}%CONTINUE%
-ItemDisplay[DIN NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Exile, Phoenix, Spirit%NL%%GRAY%Runewords%WHITE%: %NAME%}%CONTINUE%
-ItemDisplay[(SHIELD AND !DIN) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Phoenix, Spirit%NL%%GRAY%Runewords%WHITE%: %NAME%}%CONTINUE%
+ItemDisplay[DIN NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Exile, Epiphany, Phoenix, Spirit%NL%%GRAY%Runewords%WHITE%: %NAME%}%CONTINUE%
+ItemDisplay[(SHIELD AND !DIN) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Epiphany, Phoenix, Spirit%NL%%GRAY%Runewords%WHITE%: %NAME%}%CONTINUE%
 
 //Weapons
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1316,7 +1315,7 @@ ItemDisplay[WEAPON !(AXE OR SWORD OR whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7
 ItemDisplay[(POLEARM OR SPEAR OR JAV) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Passion, Phoenix, Pride, Rift%NL%Hand of Justice, Infinity, Insight,%NL%%GRAY%Runewords%WHITE%: %GOLD%Fortitude,}%CONTINUE%
 ItemDisplay[(POLEARM OR SPEAR OR JAV) NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GOLD%Eternity, Honor, Obedience%NL%Call to Arms, Destruction, Doom,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
 ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Zephyr%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
-ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Edge, Melody, Plague, Venom%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Edge, Melody, Loyalty, Plague, Purity, Venom%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
 ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Passion, Phoenix, Voice of Reason, Wrath%NL%Fortitude, Hand of Justice, Harmony, Ice,%NL%%GRAY%Runewords%WHITE%: %GOLD%Brand, Faith,}%CONTINUE%
 ItemDisplay[(BOW OR XBOW) NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GOLD%Call to Arms%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
 ItemDisplay[WEAPON !(BOW OR XBOW OR SOR OR leg OR STAFF OR WAND OR SIN OR SWORD OR AXE OR mac OR mst OR fla OR 9ma OR 9mt OR 9fl OR 7ma OR 7mt OR 7fl) NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Neophyte, Strength, Wind%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
@@ -1325,7 +1324,7 @@ ItemDisplay[WEAPON !(BOW OR XBOW OR fla OR 9fl OR 7fl OR SWORD OR POLEARM OR SPE
 ItemDisplay[WEAPON !(BOW OR XBOW OR SOR OR SCEPTER OR whm OR mau OR gma OR 9wh OR 9m9 OR 9gm OR 7wh OR 7m7 OR 7gm OR AXE OR SWORD OR POLEARM OR SPEAR OR JAV) NMAG (!INF OR ETH) SOCK=5]: %NAME%{%GOLD%Call to Arms, Eternity, Honor%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
 ItemDisplay[STAFF NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Leaf, Strength, Wind%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
 ItemDisplay[STAFF NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Insight, Memory, Passion, Phoenix, Spirit%NL%Hand of Justice, Heart of the Oak, Infinity,%NL%%GRAY%Runewords%WHITE%: %GOLD%Fortitude,}%CONTINUE%
-ItemDisplay[STAFF NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Eternity, Honor%NL%Call to Arms, Doom,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
+ItemDisplay[STAFF NMAG (!INF OR ETH) SOCK=5 !RW]: %NAME%{%GOLD%Eternity, Honor%NL%Call to Arms, Doom,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
 ItemDisplay[WAND NMAG (!INF OR ETH) SOCK=2 !RW]: %NAME%{%GOLD%Strength, White, Wind%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
 ItemDisplay[SCEPTER NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Malice, Plague, Venom%NL%Fury, King's Grace, Lawbringer,%NL%%GRAY%Runewords%WHITE%:}%CONTINUE%
 ItemDisplay[SCEPTER NMAG (!INF OR ETH) SOCK=4 !RW]: %NAME%{%GOLD%Insight, Passion, Phoenix, Rift%NL%Holy Thunder, Hand of Justice,%NL%%GRAY%Runewords%WHITE%: %GOLD%Fortitude,}%CONTINUE%
@@ -1351,9 +1350,9 @@ ItemDisplay[DIN (pae) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
 
 //Weapons
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(7qr OR 7xf OR 7kr OR obf OR 72h) NMAG (!INF OR ETH) SOCK=3 !RW]: %DOT-A8%%NAME%{%NAME%} //Best-in Slot 
+ItemDisplay[(7qr OR 7xf OR 7kr OR obf OR 72h OR 6ws) NMAG (!INF OR ETH) SOCK=3 !RW]: %DOT-A8%%NAME%{%NAME%} //Best-in Slot 
 ItemDisplay[(6hx OR 6rx OR 7wa OR 7ws OR 7cr OR 72a OR fla) NMAG (!INF OR ETH) SOCK>3 !RW]: %DOT-A8%%NAME%{%NAME%} //Best-in Slot
-ItemDisplay[(amc OR 6l7 OR 6cs OR 8bs OR 6ws OR cst) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%} //Good
+ItemDisplay[(amc OR 6l7 OR 6cs OR 8bs) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%} //Good
 ItemDisplay[(7gm OR 7gs OR 7gd OR 9gd) NMAG (!INF OR ETH) (SOCK=4 OR SOCK=5 OR SOCK=6) !RW]: %NAME%{%NAME%} //Good
 ItemDisplay[AXE (wax) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
 ItemDisplay[MACE (spc) NMAG (!INF OR ETH) SOCK>1 !RW]: //%NAME%{%NAME%}
@@ -1416,23 +1415,23 @@ ItemDisplay[NMAG t13]: %WHITE%Bastion Keep %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELL
 ItemDisplay[NMAG t14]: %WHITE%Sanatorium %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 125 %GREEN%poison 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t15]: %WHITE%Royal Crypts %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 125 %GREEN%poison 105 %ORANGE%magic 150 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t16]: %WHITE%Ruined Cistern %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 135 %BLUE%cold 115 %ORANGE%magic 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t17]: %WHITE%Halls of Torture %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]%DOT-A8%
+ItemDisplay[NMAG t17]: %WHITE%Halls of Torture %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%DARK_GREEN%Immunity Free Area}%DOT-A8%
 ItemDisplay[NMAG t21]: %WHITE%Phlegathon %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 140 %YELLOW%light 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t22]: %WHITE%Torajan Jungle %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 125 %YELLOW%light 105 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t23]: %WHITE%Arreat Battlefield %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t24]: %WHITE%Tomb of Zoltun Kulle %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 120 %GREEN%poison 110 %TAN%physical 105 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t25]: %WHITE%Sewers of Harrogath %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 135 %GREEN%poison 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t26]: %WHITE%Shadows of Westmarch %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GREEN%poison 135 %TAN%physical 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t27]: %WHITE%Demon Road %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%DARK_GREEN%Immunity Free Area}%DOT-A8%
-ItemDisplay[NMAG t28]: %WHITE%Skovos Stronghold %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%DARK_GREEN%Immunity Free Area}%DOT-A8%
+ItemDisplay[NMAG t27]: %WHITE%Demon Road %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 125 %GREEN%poison 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t28]: %WHITE%Skovos Stronghold %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 130 %RED%fire 125 %TAN%physical 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t31]: %WHITE%River of Blood %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%ORANGE%magic 100 %GREEN%poison 130 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t32]: %WHITE%Throne of Insanity %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 130 %YELLOW%light 130 %ORANGE%magic 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t32]: %WHITE%Throne of Insanity %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 130 %YELLOW%fire 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t33]: %WHITE%Lost Temple %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 120 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t34]: %WHITE%Ancestral Trial %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 130 %GREEN%poison 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t35]: %WHITE%Blood Moon %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GOLD%No High Immunities}%DOT-A8%
+ItemDisplay[NMAG t34]: %WHITE%Ancestral Trial %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GREEN%poison 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t35]: %WHITE%Blood Moon %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%DARK_GREEN%Immunity Free Area}%DOT-A8%
 ItemDisplay[NMAG t36]: %WHITE%Fall of Caldeum %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 100 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t37]: %WHITE%Pandemonium Citadel %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%TAN%physical 100 %GREEN%poison 130 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t38]: %WHITE%Canyon of Sescheron %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 160 %GREEN%poison 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[NMAG t38]: %WHITE%Canyon of Sescheron %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%TAN%physical 120 %YELLOW%light 160 %GREEN%poison 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t39]: %WHITE%Kehjistan Marketplace %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 125 %GREEN%poison 110 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t3a]: %WHITE%Ashen Plains %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 130 %GREEN%poison 130 %ORANGE%magic 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[NMAG t3b]: %WHITE%Imperial Palace %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]%DOT-A8%
@@ -1446,26 +1445,25 @@ ItemDisplay[MAG t13]: %BLUE%Bastion Keep %GREEN%Map{%RED%fire 125 %BLUE%cold 130
 ItemDisplay[MAG t14]: %BLUE%Sanatorium %GREEN%Map{%YELLOW%light 125 %GREEN%poison 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t15]: %BLUE%Royal Crypts %GREEN%Map{%BLUE%cold 125 %GREEN%poison 105 %ORANGE%magic 150 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t16]: %BLUE%Ruined Cistern %GREEN%Map{%RED%fire 135 %BLUE%cold 115 %ORANGE%magic 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t17]: %BLUE%Halls of Torture %GREEN%Map%DOT-A8%
+ItemDisplay[MAG t17]: %BLUE%Halls of Torture %GREEN%Map{%DARK_GREEN%Immunity Free Area}%DOT-A8%
 ItemDisplay[MAG t21]: %BLUE%Phlegathon %GREEN%Map{%RED%fire 140 %YELLOW%light 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t22]: %BLUE%Torajan Jungle %GREEN%Map{%RED%fire 125 %YELLOW%light 105 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t23]: %BLUE%Arreat Battlefield %GREEN%Map{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t24]: %BLUE%Tomb of Zoltun Kulle %GREEN%Map{%YELLOW%light 120 %GREEN%poison 110 %TAN%physical 105 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t25]: %BLUE%Sewers of Harrogath %GREEN%Map{%YELLOW%light 135 %GREEN%poison 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t26]: %BLUE%Shadows of Westmarch %GREEN%Map{%GREEN%poison 135 %TAN%physical 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t27]: %BLUE%Demon Road %GREEN%Map{%DARK_GREEN%Immunity Free Area}%DOT-A8%
-ItemDisplay[MAG t28]: %BLUE%Skovos Stronghold %GREEN%Map{%DARK_GREEN%Immunity Free Area}%DOT-A8%
+ItemDisplay[MAG t27]: %BLUE%Demon Road %GREEN%Map{%BLUE%cold 125 %GREEN%poison 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t28]: %BLUE%Skovos Stronghold %GREEN%Map{%YELLOW%light 130 %RED%fire 125 %TAN%physical 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t31]: %BLUE%River of Blood %GREEN%Map{%ORANGE%magic 100 %GREEN%poison 130 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t32]: %BLUE%Throne of Insanity %GREEN%Map{%BLUE%cold 130 %YELLOW%light 130 %ORANGE%magic 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t32]: %BLUE%Throne of Insanity %GREEN%Map{%BLUE%cold 130 %YELLOW%fire 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t33]: %BLUE%Lost Temple %GREEN%Map{%RED%fire 120 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t34]: %BLUE%Ancestral Trial %GREEN%Map{%YELLOW%light 130 %GREEN%poison 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t35]: %BLUE%Blood Moon %GREEN%Map{%GOLD%No High Immunities}%DOT-A8%
+ItemDisplay[MAG t34]: %BLUE%Ancestral Trial %GREEN%Map{%GREEN%poison 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t35]: %BLUE%Blood Moon %GREEN%Map{%DARK_GREEN%Immunity Free Area}%DOT-A8%
 ItemDisplay[MAG t36]: %BLUE%Fall of Caldeum %GREEN%Map{%YELLOW%light 100 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t37]: %BLUE%Pandemonium Citadel %GREEN%Map{%TAN%physical 100 %GREEN%poison 130 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t38]: %BLUE%Canyon of Sescheron %GREEN%Map{%YELLOW%light 160 %GREEN%poison 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t38]: %BLUE%Canyon of Sescheron %GREEN%Map{%TAN%physical 120 %YELLOW%light 160 %GREEN%poison 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t39]: %BLUE%Kehjistan Marketplace %GREEN%Map{%RED%fire 125 %GREEN%poison 110 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[MAG t3a]: %BLUE%Ashen Plains %GREEN%Map{%BLUE%cold 130 %GREEN%poison 130 %ORANGE%magic 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t3b]: %BLUE%Imperial Palace %GREEN%Map%DOT-A8%
 
 //Rare
 ItemDisplay[RARE t11]: %YELLOW%Ruins of Viz-jun %GREEN%Map{%RED%fire 130 %YELLOW%light 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
@@ -1474,23 +1472,23 @@ ItemDisplay[RARE t13]: %YELLOW%Bastion Keep %GREEN%Map{%RED%fire 125 %BLUE%cold 
 ItemDisplay[RARE t14]: %YELLOW%Sanatorium %GREEN%Map{%YELLOW%light 125 %GREEN%poison 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t15]: %YELLOW%Royal Crypts %GREEN%Map{%BLUE%cold 125 %GREEN%poison 105 %ORANGE%magic 150 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t16]: %YELLOW%Ruined Cistern %GREEN%Map{%RED%fire 135 %BLUE%cold 115 %ORANGE%magic 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t17]: %YELLOW%Halls of Torture %GREEN%Map%DOT-A8%
+ItemDisplay[RARE t17]: %YELLOW%Halls of Torture %GREEN%Map{%DARK_GREEN%Immunity Free Area}%DOT-A8%
 ItemDisplay[RARE t21]: %YELLOW%Phlegathon %GREEN%Map{%RED%fire 140 %YELLOW%light 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t22]: %YELLOW%Torajan Jungle %GREEN%Map{%RED%fire 125 %YELLOW%light 105 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t23]: %YELLOW%Arreat Battlefield %GREEN%Map{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t24]: %YELLOW%Tomb of Zoltun Kulle %GREEN%Map{%YELLOW%light 120 %GREEN%poison 110 %TAN%physical 105 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t25]: %YELLOW%Sewers of Harrogath %GREEN%Map{%YELLOW%light 135 %GREEN%poison 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t26]: %YELLOW%Shadows of Westmarch %GREEN%Map{%GREEN%poison 135 %TAN%physical 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t27]: %YELLOW%Demon Road %GREEN%Map{%DARK_GREEN%Immunity Free Area}%DOT-A8%
-ItemDisplay[RARE t28]: %YELLOW%Skovos Stronghold %GREEN%Map{%DARK_GREEN%Immunity Free Area}%DOT-A8%
+ItemDisplay[RARE t27]: %YELLOW%Demon Road %GREEN%Map{%BLUE%cold 125 %GREEN%poison 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t28]: %YELLOW%Skovos Stronghold %GREEN%Map{%YELLOW%light 130 %RED%fire 125 %TAN%physical 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t31]: %YELLOW%River of Blood %GREEN%Map{%ORANGE%magic 100 %GREEN%poison 130 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t32]: %YELLOW%Throne of Insanity %GREEN%Map{%BLUE%cold 130 %YELLOW%light 130 %ORANGE%magic 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t32]: %YELLOW%Throne of Insanity %GREEN%Map{%BLUE%cold 130 %YELLOW%fire 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t33]: %YELLOW%Lost Temple %GREEN%Map{%RED%fire 120 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t34]: %YELLOW%Ancestral Trial %GREEN%Map{%YELLOW%light 130 %GREEN%poison 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t35]: %YELLOW%Blood Moon %GREEN%Map{%GOLD%No High Immunities}%DOT-A8%
+ItemDisplay[RARE t34]: %YELLOW%Ancestral Trial %GREEN%Map{%GREEN%poison 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t35]: %YELLOW%Blood Moon %GREEN%Map{%DARK_GREEN%Immunity Free Area}%DOT-A8%
 ItemDisplay[RARE t36]: %YELLOW%Fall of Caldeum %GREEN%Map{%YELLOW%light 100 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t37]: %YELLOW%Pandemonium Citadel %GREEN%Map{%TAN%physical 100 %GREEN%poison 130 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t38]: %YELLOW%Canyon of Sescheron %GREEN%Map{%YELLOW%light 160 %GREEN%poison 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t38]: %YELLOW%Canyon of Sescheron %GREEN%Map{%TAN%physical 120 %YELLOW%light 160 %GREEN%poison 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t39]: %YELLOW%Kehjistan Marketplace %GREEN%Map{%RED%fire 125 %GREEN%poison 110 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 ItemDisplay[RARE t3a]: %YELLOW%Ashen Plains %GREEN%Map{%BLUE%cold 130 %GREEN%poison 130 %ORANGE%magic 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
 
@@ -1501,9 +1499,10 @@ ItemDisplay[RARE t44]: %YELLOW%Steppes of Daken-Shar {%YELLOW%light 180 %BLUE%co
 
 //Unique
 ItemDisplay[t51]: %GOLD%Zhar's Sanctum %ORANGE%Map%DOT-A8%
-ItemDisplay[t52]: %GOLD%Stygian Caverns %ORANGE%Map%DOT-A8%
+ItemDisplay[t52]: %GOLD%Warlord of Blood %ORANGE%Map%DOT-A8%
 ItemDisplay[t53]: %GOLD%Fallen Gardens %ORANGE%Map%DOT-A8%
 ItemDisplay[t54]: %GOLD%Imperial Palace %ORANGE%Map%DOT-A8%
+ItemDisplay[t55]: %GOLD%Outer Void %ORANGE%Map%DOT-A8%
 
 //ESSENCES & TOKEN
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
