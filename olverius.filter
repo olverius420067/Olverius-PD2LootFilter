@@ -799,7 +799,7 @@ ItemDisplay[r33s]: %PURPLE% oooooooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooo
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ItemDisplay[cm1 MAG !ID]: %DOT-9B%%BLUE%%NAME%
-ItemDisplay[cm2 MAG !ID]: %DOT-9B%%BLUE%%NAME%
+ItemDisplay[cm2 MAG !ID]: //%DOT-9B%%BLUE%%NAME%
 ItemDisplay[cm3 MAG !ID]: %DOT-9B%%BLUE%%NAME%
 
 //Small Charms
@@ -1351,7 +1351,7 @@ ItemDisplay[DIN (pae) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
 
 //Weapons
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(7qr OR 7xf OR 7kr OR obf OR 72h OR 6ws) NMAG (!INF OR ETH) SOCK=3 !RW]: %DOT-A8%%NAME%{%NAME%} //Best-in Slot 
+ItemDisplay[(7qr OR 7xf OR 7kr OR obf OR 72h OR 6ws) NMAG (!INF OR ETH) SOCK>3 !RW]: %DOT-A8%%NAME%{%NAME%} //Best-in Slot 
 ItemDisplay[(6hx OR 6rx OR 7wa OR 7ws OR 7cr OR 72a OR fla) NMAG (!INF OR ETH) SOCK>3 !RW]: %DOT-A8%%NAME%{%NAME%} //Best-in Slot
 ItemDisplay[(amc OR 6l7 OR 6cs OR 8bs) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%} //Good
 ItemDisplay[(7gm OR 7gs OR 7gd OR 9gd) NMAG (!INF OR ETH) (SOCK=4 OR SOCK=5 OR SOCK=6) !RW]: %NAME%{%NAME%} //Good
