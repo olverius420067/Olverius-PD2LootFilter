@@ -1185,12 +1185,18 @@ ItemDisplay[(9vo) SET !ID]: //Polearms
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 //Armors
-//▬▬▬▬▬
+//▬▬▬▬▬▬▬▬
+
+//UNIQUE
+
+//New
+ItemDisplay[(dr2) UNI ETH !ID]: //%NAME%-Quetzalcoatl%MAP% //Druid Helm
+ItemDisplay[(pa3) UNI ETH !ID]: //%NAME%-Sankekur's Fall%MAP% //Paladin Shield
 
 //Helms
 ItemDisplay[() UNI ETH !ID]: %NAME%-%MAP%
 ItemDisplay[(cap) UNI ETH !ID]: //%NAME%-Biggin's Bonnet%MAP%
-ItemDisplay[(skp) UNI ETH !ID]: //%NAME%-Tarnhelm%MAP%
+ItemDisplay[(skp) UNI ETH !ID]: %NAME%-Tarnhelm%MAP%
 ItemDisplay[(hlm) UNI ETH !ID]: //%NAME%-Coif of Glory%MAP%
 ItemDisplay[(fhl) UNI ETH !ID]: //%NAME%-Duskdeep%MAP%
 ItemDisplay[(msk) UNI ETH !ID]: //%NAME%-The Face of Horror%MAP%
@@ -1198,25 +1204,115 @@ ItemDisplay[(bhm) UNI ETH !ID]: //%NAME%-Wormskull%MAP%
 ItemDisplay[(ghm) UNI ETH !ID]: //%NAME%-Howltusk%MAP%
 ItemDisplay[(crn) UNI ETH !ID]: //%NAME%-Undead Crown%MAP%
 
+//Chests
+ItemDisplay[(qui) UNI ETH !ID]: //%NAME%-Greyform%MAP%
+ItemDisplay[(lea) UNI ETH !ID]: //%NAME%-Blinkbat's Form%MAP%
+ItemDisplay[(hla) UNI ETH !ID]: //%NAME%-The Centurion%MAP%
+ItemDisplay[(stu) UNI ETH !ID]: //%NAME%-Twitchthroe%MAP%
+ItemDisplay[(rng) UNI ETH !ID]: //%NAME%-Darkglow%MAP%
+ItemDisplay[(scl) UNI ETH !ID]: //%NAME%-Hawkmail%MAP%
+ItemDisplay[(chn) UNI ETH !ID]: //%NAME%-Sparking Mail%MAP%
+ItemDisplay[(brs) UNI ETH !ID]: //%NAME%-Venom Ward%MAP%
+ItemDisplay[(spl) UNI ETH !ID]: //%NAME%-Iceblink%MAP%
+ItemDisplay[(plt) UNI ETH !ID]: //%NAME%-Boneflesh%MAP%
+ItemDisplay[(fld) UNI ETH !ID]: %NAME%-ROCKFLEECE%MAP%
+ItemDisplay[(gth) UNI ETH !ID]: //%NAME%-Rattlecage%MAP%
+ItemDisplay[(ltp) UNI ETH !ID]: //%NAME%-Heavenly Garb%MAP%
+ItemDisplay[(ful) UNI ETH !ID]: //%NAME%-Goldskin%MAP%
+ItemDisplay[(aar) UNI ETH !ID]: //%NAME%-Silks of the Victor%MAP%
 
-//Weapons
-ItemDisplay[(hax OR mau OR mac OR mst OR scm OR 2hs OR flb OR dgr OR brn OR vou OR wsc OR hbw OR sbb OR hxb OR rxb OR lst OR cst OR bst OR wst OR ywn OR bwn OR gwn OR gsc) UNI !ID]: %NAME%%MAP% //Best-in Slot
-ItemDisplay[(gma OR 2hs OR flb) UNI ETH !ID]: %NAME%%MAP% //Merc
-ItemDisplay[(am5) UNI !ID]: %NAME%%MAP% //New
-ItemDisplay[(axe OR 2ax OR mpi OR wax OR lax OR bax OR btx OR gax OR gix) UNI !ID]: //Axes
-ItemDisplay[(clb OR spc OR fla OR whm) UNI !ID]: //Maces
-ItemDisplay[(ssd OR sbr OR flc OR bsd OR lsd OR wsd OR clm OR gis OR bsw OR gsd) UNI !ID]: //Swords	
-ItemDisplay[(dir OR kri OR bld) UNI !ID]: //Daggers
-ItemDisplay[(spr OR tri OR spt OR pik) UNI !ID]: //Spears
-ItemDisplay[(bar OR scy OR pax OR hal) UNI !ID]: //Polearms
-ItemDisplay[(sbw OR lbw OR cbw OR lbb OR swb OR lwb) UNI !ID]: //Bows
-ItemDisplay[(lxb OR mxb) UNI !ID]: //X-bows
-ItemDisplay[(sst) UNI !ID]: //Staves
-ItemDisplay[(wnd) UNI !ID]: //Wands
-ItemDisplay[(scp OR wsp) UNI !ID]: //Scepters
+//Shields
+ItemDisplay[(buc) UNI ETH !ID]: //%NAME%-Pelta Lunata%MAP%
+ItemDisplay[(sml) UNI ETH !ID]: //%NAME%-Umbral Disk%MAP%
+ItemDisplay[(lrg) UNI ETH !ID]: //%NAME%-Stormguild%MAP%
+ItemDisplay[(spk) UNI ETH !ID]: //%NAME%-Swordback Hold%MAP%
+ItemDisplay[(kit) UNI ETH !ID]: //%NAME%-Steelclash%MAP%
+ItemDisplay[(bsh) UNI ETH !ID]: //%NAME%-Wall of the Eyeless%MAP%
+ItemDisplay[(tow) UNI ETH !ID]: //%NAME%-Bverrit Keep%MAP%
+ItemDisplay[(gts) UNI ETH !ID]: //%NAME%-The Ward%MAP%
 
-//Sets
-//▬▬▬▬▬▬▬▬▬▬▬▬▬
+//Gloves
+ItemDisplay[(lgl) UNI ETH !ID]: //%NAME%-The Hand of Broc%MAP%
+ItemDisplay[(vgl) UNI ETH !ID]: //%NAME%-Bloodfist%MAP%
+ItemDisplay[(mgl) UNI ETH !ID]: %NAME%-Chance Guards%MAP%
+ItemDisplay[(tgl) UNI ETH !ID]: %NAME%-MAGEFIST%MAP%
+ItemDisplay[(hgl) UNI ETH !ID]: //%NAME%-Frostburn%MAP%
+
+//Boots
+ItemDisplay[(lbt) UNI ETH !ID]: %NAME%-HOTSPUR%MAP%
+ItemDisplay[(vbt) UNI ETH !ID]: //%NAME%-Gorefoot%MAP%
+ItemDisplay[(mbt) UNI ETH !ID]: //%NAME%-Treads of Cthon%MAP%
+ItemDisplay[(tbt) UNI ETH !ID]: %NAME%-Goblin Toe%MAP%
+ItemDisplay[(hbt) UNI ETH !ID]: %NAME%-Tearhaunch%MAP%
+
+//Belts
+ItemDisplay[(lbl) UNI ETH !ID]: %NAME%-LENYMO%MAP%
+ItemDisplay[(vbl) UNI ETH !ID]: //%NAME%-Snakecord%MAP%
+ItemDisplay[(mbl) UNI ETH !ID]: %NAME%-Nightsmoke%MAP%
+ItemDisplay[(tbl) UNI ETH !ID]: %NAME%-Goldwrap%MAP%
+ItemDisplay[(hbl) UNI ETH !ID]: //%NAME%-Bladebuckle%MAP%
+
+//SET
+
+//Helms
+ItemDisplay[() SET !ID]: %NAME%-%MAP%
+ItemDisplay[(cap) SET !ID]: //%NAME%-Infernal Cranium OR Sander's Paragon%MAP%
+ItemDisplay[(skp) SET !ID]: //%NAME%-Arcanna's Head%MAP%
+ItemDisplay[(hlm) SET !ID]: //%NAME%-Berserker's Headgear%MAP%
+ItemDisplay[(fhl) SET !ID]: //%NAME%-Isenhart's Horns%MAP%
+ItemDisplay[(msk) SET !ID]: //%NAME%-Cathan's Visage%MAP%
+ItemDisplay[(bhm) SET !ID]: //%NAME%-Tancred's Skull%MAP%
+ItemDisplay[(ghm) SET !ID]: %NAME%-SIGON'S VISOR%MAP%
+ItemDisplay[(crn) SET !ID]: //%NAME%-Iratha's Coil OR Milabrega's Diadem%MAP%
+
+//Circlets
+ItemDisplay[(ci0) SET !ID]: //%NAME%-Naj's Circlet%MAP%
+
+//Chests
+ItemDisplay[(qui) SET !ID]: //%NAME%-Arctic Furs%MAP%
+ItemDisplay[(lea) SET !ID]: //%NAME%-Vidala's Ambush%MAP%
+ItemDisplay[(stu) SET !ID]: %NAME%-Cow King's Hide%MAP%
+ItemDisplay[(rng) SET !ID]: %NAME%-Angelic Mantle%MAP%
+ItemDisplay[(chn) SET !ID]: //%NAME%-Cathan's Mesh%MAP%
+ItemDisplay[(brs) SET !ID]: //%NAME%-Isenhart's Case%MAP%
+ItemDisplay[(spl) SET !ID]: //%NAME%-Berserker's Hauberk%MAP%
+ItemDisplay[(gth) SET !ID]: %NAME%-SIGON'S SHELTER%MAP%
+ItemDisplay[(ltp) SET !ID]: //%NAME%-Arcanna's Flesh%MAP%
+ItemDisplay[(ful) SET !ID]: //%NAME%-Tancred's Spine%MAP%
+ItemDisplay[(aar) SET !ID]: //%NAME%-Milabrega's Robe%MAP%
+
+//Shields
+ItemDisplay[(buc) SET !ID]: //%NAME%-Hsarus' Iron Fist%MAP%
+ItemDisplay[(sml) SET !ID]: //%NAME%-Cleglaw's Claw%MAP%
+ItemDisplay[(lrg) SET !ID]: //%NAME%-Civerb's Ward%MAP%
+ItemDisplay[(kit) SET !ID]: //%NAME%-Milabrega's Orb%MAP%
+ItemDisplay[(tow) SET !ID]: //%NAME%-SIGON'S GUARD%MAP%
+ItemDisplay[(gts) SET !ID]: //%NAME%-Isenhart's Parry%MAP%
+
+//Gloves
+ItemDisplay[(lgl) SET !ID]: //%NAME%-Death's Hand%MAP%
+ItemDisplay[(vgl) SET !ID]: //%NAME%-Sander's Taboo%MAP%
+ItemDisplay[(mgl) SET !ID]: //%NAME%-Cleglaw's Pincers%MAP%
+ItemDisplay[(tgl) SET !ID]: //%NAME%-Arctic Mitts OR Iratha's Cuff%MAP%
+ItemDisplay[(hgl) SET !ID]: %NAME%-SIGON'S GAGE%MAP%
+
+//Boots
+ItemDisplay[(lbt) SET !ID]: //%NAME%-Tancred's Hobnails%MAP%
+ItemDisplay[(vbt) SET !ID]: %NAME%-Cow King's Hooves OR Sander's Riprap%MAP%
+ItemDisplay[(mbt) SET !ID]: //%NAME%-Hsarus' Iron Heel%MAP%
+ItemDisplay[(tbt) SET !ID]: //%NAME%-Vidala's Fetlock%MAP%
+ItemDisplay[(hbt) SET !ID]: %NAME%-SIGON'S SABOT%MAP%
+
+//Belts
+ItemDisplay[(lbl) SET !ID]: //%NAME%-Death's Guard%MAP%
+ItemDisplay[(vbl) SET !ID]: //%NAME%-Arctic Binding%MAP%
+ItemDisplay[(mbl) SET !ID]: //%NAME%-Hsarus' Iron Stay OR Hwanin's Blessing%MAP%
+ItemDisplay[(tbl) SET !ID]: //%NAME%-Infernal Sign OR Iratha's Cord%MAP%
+ItemDisplay[(hbl) SET !ID]: %NAME%-SIGON'S WRAP%MAP%
+
+//Barbarian Helms
+ItemDisplay[(hbl) SET !ID]: %DARK_GREEN%ooooo %NAME%-Immortal King's Will%DARK_GREEN% ooooo%MAP%
+
 
 //Armors
 ItemDisplay[(ghm OR gth OR tow OR hgl OR hbt OR hbl OR ba5 OR !(hlm OR fhl OR msk OR ci0 OR stu OR rng OR brs OR chn OR spl)) SET !ID]: %NAME% //Best-in Slot
