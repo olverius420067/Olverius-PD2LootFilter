@@ -8,7 +8,7 @@
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 
-//[NOTE1] This product is original, but the structure was inspired by KRYSZARD from Path of Diablo. This is not a tribute, but reflects my own vision.
+//[NOTE1] This product reflects my own vision, but the structure was inspired from Path of Diablo.
 //[NOTE2] The filter is teaching you which items are the best, only those get notification.
 
 
@@ -112,6 +112,14 @@ ItemDisplay[CRAFT]: %ORANGE%%NAME%%CONTINUE%
 
 //Item Names
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+//Jewellery
+ItemDisplay[(NMAG OR MAG OR RARE) !RW amu]: Amulet%CONTINUE%
+ItemDisplay[(NMAG OR MAG OR RARE) !RW rin]: Ring%CONTINUE%
+
+//Arrows and Bolts
+ItemDisplay[(NMAG OR MAG OR RARE) !RW aqv]: Arrows%CONTINUE%
+ItemDisplay[(NMAG OR MAG OR RARE) !RW cqv]: Bolts%CONTINUE%
+
 //Armors
 ItemDisplay[(NMAG OR MAG OR RARE) !RW cap]: Cap%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW xap]: War Hat%CONTINUE%
@@ -618,11 +626,11 @@ ItemDisplay[ETH NMAG]: %GRAY%[%WHITE%eth%GRAY%] %GRAY%%NAME%%CONTINUE%
 
 //Vendor
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[WAND NMAG !ETH (wnd OR ywn OR 9wn) ILVL>49 (SK73>0 OR SK79=3 OR SK82=3 OR SK83>1 OR SK85=3 OR SK86>1 OR SK87>0 OR SK88>0 OR SK89>0 OR SK90>1 OR SK91>1 OR SK92>0 OR SK93>0 OR SK94>0 OR SK95>0)]: //%GOLD%Vendor's Goldwand %WHITE%(%PRICE%)
-ItemDisplay[WAND NMAG !ETH SOCK=1 (SK73>0 OR SK79=3 OR SK82=3 OR SK83>1 OR SK85=3 OR SK86>1 OR SK87>0 OR SK88>0 OR SK89>0 OR SK90>1 OR SK91>1 OR SK92>0 OR SK93>0 OR SK94>0 OR SK95>0)]: //%GOLD%Vendor's Goldwand %WHITE%(%PRICE%)
-ItemDisplay[NMAG !ETH !ED=15 (7tk OR 7bk)]: //%GOLD%Vendor's Goldknife %WHITE%(%PRICE%)
-ItemDisplay[NMAG !ETH !ED=15 (7ta)]: //%GOLD%Vendor's Goldaxe %WHITE%(%PRICE%)
-ItemDisplay[WAND NMAG !RW !ETH (SK73>0 OR SK79=3 OR SK82=3 OR SK83>1 OR SK85=3 OR SK86>1 OR SK87>0 OR SK88>0 OR SK89>0 OR SK90>1 OR SK91>1 OR SK92>0 OR SK93>0 OR SK94>0 OR SK95>0)]: //%GOLD%Vendor's Goldwand %WHITE%(%PRICE%)
+ItemDisplay[WAND NMAG !ETH (wnd OR ywn OR 9wn) ILVL>49 (SK73>0 OR SK79=3 OR SK82=3 OR SK83>1 OR SK85=3 OR SK86>1 OR SK87>0 OR SK88>0 OR SK89>0 OR SK90>1 OR SK91>1 OR SK92>0 OR SK93>0 OR SK94>0 OR SK95>0)]: %GOLD%Malah's Goldwand %WHITE%(%PRICE%){%GRAY%Sell to a vendor for gold}
+ItemDisplay[WAND NMAG !ETH SOCK=1 (SK73>0 OR SK79=3 OR SK82=3 OR SK83>1 OR SK85=3 OR SK86>1 OR SK87>0 OR SK88>0 OR SK89>0 OR SK90>1 OR SK91>1 OR SK92>0 OR SK93>0 OR SK94>0 OR SK95>0)]: %GOLD%Malah's Goldwand %WHITE%(%PRICE%){%GRAY%Sell to a vendor for gold}
+ItemDisplay[NMAG !ETH !ED=15 (7tk OR 7bk)]: //%GOLD%Larzuk's Goldknife %WHITE%(%PRICE%){%GRAY%Sell to a vendor for gold}
+ItemDisplay[NMAG !ETH !ED=15 (7ta)]: //%GOLD%Larzuk's Goldaxe %WHITE%(%PRICE%){%GRAY%Sell to a vendor for gold}
+ItemDisplay[WAND NMAG !RW !ETH (SK73>0 OR SK79=3 OR SK82=3 OR SK83>1 OR SK85=3 OR SK86>1 OR SK87>0 OR SK88>0 OR SK89>0 OR SK90>1 OR SK91>1 OR SK92>0 OR SK93>0 OR SK94>0 OR SK95>0)]: %GOLD%Malah's Goldwand %WHITE%(%PRICE%){%GRAY%Sell to a vendor for gold}
 
 //Misc
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1079,12 +1087,12 @@ ItemDisplay[(bad) UNI !ID]: //Barbarian Helms
 ItemDisplay[(pae) UNI !ID]: //Paladin Shields
 
 //Weapons
-ItemDisplay[(7sp OR 7wh OR 7gm OR 7cr OR 7gd OR 7b8 OR 7o7 OR 7s8 OR 7wc OR 6lw OR 6rx OR 6ws OR 7bw OR 7gw OR 7qs OR 7sc OR obc OR obf OR amf) UNI !ID]: %ORANGE%ooooooo %NAME%%ORANGE% ooooooo%MAP% //Best-in Slot
+ItemDisplay[(7sp OR 7wh OR 7gm OR 7cr OR 7gd OR 7b8 OR 7o7 OR 7s8 OR 7wc OR 6lw OR 6rx OR 6ws OR 7bw OR 7gw OR 7qs OR 7gs OR 7sc OR obc OR obf OR amf) UNI !ID]: %ORANGE%ooooooo %NAME%%ORANGE% ooooooo%MAP% //Best-in Slot
 ItemDisplay[(9gm OR 7gm OR 7s8) UNI ETH !ID]: %ORANGE%oooooo %NAME%%ORANGE% oooooo%MAP% //Merc
 ItemDisplay[(7bs OR 7cm OR 7fb OR 7st OR 6bs OR 7tw OR 7qr OR ame OR ob7 OR 7xf OR 9b8) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //New
 ItemDisplay[(7ha OR 72a OR 7mp OR 7wa OR 7ba OR 7bt OR 7ga OR 7gl) UNI !ID]: //Axes
 ItemDisplay[(7cl OR 7mt OR 7fl OR 7m7) UNI !ID]: //Maces
-ItemDisplay[(7sm OR 7sb OR 7ls OR 7gs OR 7b7) UNI !ID]: //Swords	
+ItemDisplay[(7sm OR 7sb OR 7ls OR 7b7) UNI !ID]: //Swords	
 ItemDisplay[(7dg OR 7kr OR 7bl) UNI !ID]: //Daggers
 ItemDisplay[(7ta OR 7bk) UNI !ID]: //Throwing Axes & Knives
 ItemDisplay[(7s7 OR 7gl OR 7ts) UNI !ID]: //Javelins
@@ -1130,7 +1138,7 @@ ItemDisplay[(amu OR rin) SET !ID]: %NAME%%MAP% //Set Rings & Amulets
 //Armors
 ItemDisplay[(xap OR xkp OR xh9 OR xhm OR xrn OR ci2 OR xui OR xea OR xhn OR xrs OR xlt OR xld OR xth OR xtp OR xul OR xsh OR xow OR xlg OR xvg OR xtg OR xhg OR xlb OR xvb OR xmb OR xtb OR xhb OR zlb OR zvb OR zmb OR zhb OR dra OR baa OR pa9 OR nea) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //Best-in Slot
 ItemDisplay[(xh9 OR xhm OR xrn OR ci2) UNI ETH !ID]: %ORANGE%oooo %NAME%%ORANGE% oooo%MAP% //Merc
-ItemDisplay[(ba6 OR ne6) UNI !ID]: %ORANGE%ooo %NAME%%ORANGE% ooo%MAP% //New
+ItemDisplay[(ba6 OR ne6 OR drc) UNI !ID]: %ORANGE%ooo %NAME%%ORANGE% ooo%MAP% //New
 ItemDisplay[(xlm OR xhl OR xsk) UNI !ID]: //Helms
 ItemDisplay[(xla OR xtu OR xng OR xcl OR xpl OR xar) UNI !ID]: //Chests
 ItemDisplay[(xuc OR xml OR xrg OR xpk OR xit OR xts) UNI !ID]: //Shields
@@ -1177,15 +1185,19 @@ ItemDisplay[(9vo) SET !ID]: //Polearms
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 //Armors
-ItemDisplay[(skp OR bhm OR crn OR rng OR plt OR fld OR gth OR ltp OR ful OR aar OR kit OR gts OR mgl OR tgl OR hgl OR lbt OR vbt OR tbt OR hbt OR lbl OR mbl OR tbl) UNI !ID]: %NAME%%MAP% //Best-in Slot
-ItemDisplay[(crn OR plt OR fld OR gth OR ltp OR ful OR aar) UNI ETH !ID]: %NAME%%MAP% //Merc
-ItemDisplay[(dr2 OR pa3) UNI !ID]: %NAME%%MAP% //New
-ItemDisplay[(cap OR hlm OR msk) UNI !ID]: //Helms
-ItemDisplay[(qui OR lea OR hla OR stu OR scl OR chn OR brs OR spl) UNI !ID]: //Chests
-ItemDisplay[(buc OR sml OR lrg OR spk OR bsh OR tow) UNI !ID]: //Shields
-ItemDisplay[(lgl OR vgl) UNI !ID]: //Gloves
-ItemDisplay[(nbt) UNI !ID]: //Boots
-ItemDisplay[(vbl OR hbl) UNI !ID]: //Belts
+//▬▬▬▬▬
+
+//Helms
+ItemDisplay[() UNI ETH !ID]: %NAME%-%MAP%
+ItemDisplay[(cap) UNI ETH !ID]: //%NAME%-Biggin's Bonnet%MAP%
+ItemDisplay[(skp) UNI ETH !ID]: //%NAME%-Tarnhelm%MAP%
+ItemDisplay[(hlm) UNI ETH !ID]: //%NAME%-Coif of Glory%MAP%
+ItemDisplay[(fhl) UNI ETH !ID]: //%NAME%-Duskdeep%MAP%
+ItemDisplay[(msk) UNI ETH !ID]: //%NAME%-The Face of Horror%MAP%
+ItemDisplay[(bhm) UNI ETH !ID]: //%NAME%-Wormskull%MAP%
+ItemDisplay[(ghm) UNI ETH !ID]: //%NAME%-Howltusk%MAP%
+ItemDisplay[(crn) UNI ETH !ID]: //%NAME%-Undead Crown%MAP%
+
 
 //Weapons
 ItemDisplay[(hax OR mau OR mac OR mst OR scm OR 2hs OR flb OR dgr OR brn OR vou OR wsc OR hbw OR sbb OR hxb OR rxb OR lst OR cst OR bst OR wst OR ywn OR bwn OR gwn OR gsc) UNI !ID]: %NAME%%MAP% //Best-in Slot
@@ -1341,8 +1353,9 @@ ItemDisplay[SOR !leg NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Plague, Venom%
 
 //Armors
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(uap OR uh9 OR urn OR usk OR ci3 OR uui OR uar OR uit OR ush OR urs OR utp OR uth OR ucl OR pab OR pae OR paf OR nef OR xhm) NMAG (!INF OR ETH) SOCK>2 !RW]: %DOT-A8%%NAME%{%NAME%} //Best-in Slot
-ItemDisplay[HELM (ghm OR ci0 OR xsk OR xh9) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
+ItemDisplay[(uap OR uh9 OR urn OR usk OR ci3 OR uui OR uar OR uit OR ush OR urs OR utp OR uth OR ucl OR pab OR pae OR paf OR nef) NMAG (!INF OR ETH) SOCK>2 !RW]: %DOT-A8%%NAME%{%NAME%} //Best-in Slot
+ItemDisplay[(ghm OR xhm OR dr6 OR dr8) NMAG (!INF OR ETH) SOCK>1 !RW]: %DOT-A8%%NAME%{%NAME%} //Best-in Slot
+ItemDisplay[HELM (ci0 OR xsk OR xh9) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
 ItemDisplay[CHEST (xar OR uui OR uea OR ula OR utu OR ung OR ult OR xtp) NMAG (!INF OR ETH) SOCK>1 !RW]: %NAME%{%NAME%}
 ItemDisplay[SHIELD (lrg OR xsh OR uuc OR urg OR pa2 OR pac) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
 ItemDisplay[DRU (drb OR dr2 OR dr3) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
@@ -1392,7 +1405,7 @@ ItemDisplay[lpp]: %GOLD%Larzuk's Puzzlepiece %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%
 ItemDisplay[lmal]: %GOLD%Larzuk's Malus%CONTINUE%
 ItemDisplay[upmp]: %GOLD%Cartographer's Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
 ItemDisplay[fort]: %GOLD%Orb of Fortification %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[jewf]: %TAN%Frag %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
+ItemDisplay[jewf]: %TAN%Fragment %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
 ItemDisplay[lsvl]: %TAN%Vial of Lightsong %MAP%%CONTINUE%
 ItemDisplay[llmr]: %ORANGE%Lilith's Mirror %MAP%%CONTINUE%
 ItemDisplay[rkey]: %GRAY%Skeleton Key %MAP%%CONTINUE%
@@ -1507,20 +1520,20 @@ ItemDisplay[t55]: %GOLD%Outer Void %ORANGE%Map%DOT-A8%
 
 //ESSENCES & TOKEN
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[tes]: %BLUE%Essence of Suffering %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%BLUE%Andariel, Duriel%YELLOW%]%NL%%GRAY%Token of Absolution %WHITE%Ingredient}
-ItemDisplay[ceh]: %YELLOW%Essence of Hatred %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%TAN%Mephisto%YELLOW%]%NL%%GRAY%Token of Absolution %WHITE%Ingredient}
-ItemDisplay[bet]: %RED%Essence of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%RED%Diablo%YELLOW%]%NL%%GRAY%Token of Absolution %WHITE%Ingredient}
-ItemDisplay[fed]: %GREEN%Essence of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GREEN%Baal%YELLOW%]%NL%%GRAY%Token of Absolution %WHITE%Ingredient}
-ItemDisplay[toa]: %GRAY%Token of Absolution%MAP%{%WHITE%Resets %GRAY%Skills, Stats}
+ItemDisplay[tes]: %BLUE%Essence of Suffering %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Obtainable from Andariel or Duriel%NL%%WHITE%One of the ingredients for Token of Absolut}
+ItemDisplay[ceh]: %YELLOW%Essence of Hatred %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%Obtainable from Mephisto%NL%%WHITE%One of the ingredients for Token of Absolut}
+ItemDisplay[bet]: %RED%Essence of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Obtainable from Diablo%NL%%WHITE%One of the ingredients for Token of Absolut}
+ItemDisplay[fed]: %GREEN%Essence of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GREEN%Obtainable from Baal%NL%%WHITE%One of the ingredients for Token of Absolut}
+ItemDisplay[toa]: %GRAY%Token of Absolution%MAP%
 
 //UBER TRISTRAM
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[pk1]: %GRAY%Key of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GRAY%Countess, Blood Raven%YELLOW%]%NL%%GRAY%Uber Tristram %WHITE%Ingredient}
-ItemDisplay[pk2]: %GRAY%Key of Hatred %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GRAY%Summoner, Blood Witch%YELLOW%]%NL%%GRAY%Uber Tristram %WHITE%Ingredient}
-ItemDisplay[pk3]: %GRAY%Key of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GRAY%Izual, Nihlathak%YELLOW%]%NL%%GRAY%Uber Tristram %WHITE%Ingredient}
-ItemDisplay[dhn]: %GOLD%Diablo's Horn %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GOLD%Uber Duriel%YELLOW%]%NL%%GOLD%Uber Tristram %WHITE%Ingredient}
-ItemDisplay[bey]: %GOLD%Baal's Eye %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GOLD%Lilith%YELLOW%]%NL%%GOLD%Uber Tristram %WHITE%Ingredient}
-ItemDisplay[mbr]: %GOLD%Mephisto's Brain %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GOLD%Uber Izual%YELLOW%]%NL%%GOLD%Uber Tristram %WHITE%Ingredient}
+ItemDisplay[pk1]: %GRAY%Key of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Blood Raven and Countess%NL%%WHITE%One of the ingredients for Uber Tristram}
+ItemDisplay[pk2]: %GRAY%Key of Hatred %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Blood Witch and Summoner%NL%%WHITE%One of the ingredients for Uber Tristram}
+ItemDisplay[pk3]: %GRAY%Key of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Izual and Nihlathak%NL%%WHITE%One of the ingredients for Uber Tristram}
+ItemDisplay[dhn]: %GOLD%Diablo's Horn %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Uber Duriel%NL%%WHITE%One of the ingredients for Uber Tristram}
+ItemDisplay[bey]: %GOLD%Baal's Eye %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Uber Lilith%NL%%WHITE%One of the ingredients for Uber Tristram}
+ItemDisplay[mbr]: %GOLD%Mephisto's Brain %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Uber Izual%NL%%WHITE%One of the ingredients for Uber Tristram}
 ItemDisplay[ubtm]: %GOLD%Pandemonium Talisman%MAP%{%GOLD%Uber Tristram Access}
 ItemDisplay[std]: %GOLD%Standard of Heroes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%
 ItemDisplay[UNI cm1]: %DOT-A8%%NAME% //Annihilus
@@ -1529,17 +1542,17 @@ ItemDisplay[UNI cm3]: %DOT-A8%%NAME% //Gheed's
 
 //DIABLO CLONE
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[dcho]: %RED%Black Soulstone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%RED%Uber Tristram%YELLOW%]%NL%%RED%Diablo Clone %WHITE%Ingredient}
-ItemDisplay[dcso]: %RED%Prime Evil Soul %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%YELLOW%Mephisto, %RED%Diablo, %GREEN%Baal %WHITE%on %RED%Hell%YELLOW%]%NL%%RED%Diablo Clone %WHITE%Ingredient}
-ItemDisplay[dcbl]: %RED%Pure Demonic Essence %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%RED%Map Boss%YELLOW%]%NL%%RED%Diablo Clone %WHITE%Ingredient}
+ItemDisplay[dcho]: %RED%Black Soulstone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Obtainable from Uber Tristram%NL%%WHITE%One of the ingredients for Uber Tristram}
+ItemDisplay[dcso]: %RED%Prime Evil Soul %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Obtainable from Mephisto, Diablo or Baal from Hell%NL%%WHITE%One of the ingredients for Uber Tristram}
+ItemDisplay[dcbl]: %RED%Pure Demonic Essence %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Obtainable from Map Boss%NL%%WHITE%One of the ingredients for Uber Tristram}
 ItemDisplay[dcma]: %RED%Vision of Terror%YELLOW%%MAP%{%RED%Diablo Clone Access}
 
 //RATHMA
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[rtmf]: %BLUE%Ancient Bone Fragment %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Trang-Oul's Jawbone %WHITE%Ingredient}
-ItemDisplay[rtmv]: %BLUE%Splinter of the Void %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%BLUE%Mendeln Map Event%YELLOW%]%NL%%TAN%Rathma %WHITE%Ingredient}
-ItemDisplay[cm2f]: %BLUE%Hellfire Ashes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%BLUE%Stackable Hellfire Torch%YELLOW%]%NL%%TAN%Rathma %WHITE%Ingredient}
-ItemDisplay[rtmo]: %BLUE%Trang-Oul's Jawbone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%BLUE%Undead Minion%YELLOW%]%NL%%BLUE%Rathma %WHITE%Ingredient}
+ItemDisplay[rtmf]: %BLUE%Ancient Bone Fragment %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%An ingredient for Trang-Oul's Jawbone}
+ItemDisplay[rtmv]: %BLUE%Splinter of the Void %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Obtainable from Mendeln Map Event%NL%%WHITE%One of the ingredients for Rathma}
+ItemDisplay[cm2f]: %BLUE%Hellfire Ashes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Obtainable from destroying a Hellfire Torch%NL%%WHITE%One of the ingredients for Rathma}
+ItemDisplay[rtmo]: %BLUE%Trang-Oul's Jawbone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Obtainable from any Undead Minion%NL%%WHITE%One of the ingredients for Rathma}
 ItemDisplay[rtma]: %BLUE%Voidstone %YELLOW%%MAP%{%BLUE%Rathma Access}
 ItemDisplay[cwss]: %BLUE%Tainted Worldstone Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%
 ItemDisplay[rtp]: %BLUE%Horadrim Navigator %MAP%
@@ -1547,17 +1560,17 @@ ItemDisplay[rid]: %RED%Horadrim Almanac %MAP%
 
 //LUCION
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[lucb]: %GRAY%Demonic Insignia %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Lucion %WHITE%Ingredient}
-ItemDisplay[lucc]: %GRAY%Talisman of Transgression %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Lucion %WHITE%Ingredient}
-ItemDisplay[lucd]: %GRAY%Flesh of Malic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Lucion %WHITE%Ingredient}
+ItemDisplay[lucb]: %GRAY%Demonic Insignia %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Abbadon, Pit of Acheron and Infernal Pit%NL%%WHITE%One of the ingredients for Lucion}
+ItemDisplay[lucc]: %GRAY%Talisman of Transgression %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Corrupted Zones%NL%%WHITE%One of the ingredients for Lucion}
+ItemDisplay[lucd]: %GRAY%Flesh of Malic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Corrupted Zone%NL%%WHITE%One of the ingredients for Lucion}
 ItemDisplay[luca]: %GRAY%Shadow of Hatred %MAP%{%GRAY%Lucion Access}
 
 //UBER ANCIENTS
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[uba]: %TAN%Relic of the Ancients%MAP%{%TAN%Uber Ancients Access}
-ItemDisplay[ubaa]: %TAN%Sigil of Madawc %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%DARK_GREEN%T1%YELLOW%]%NL%%TAN%Uber Ancients %WHITE%Ingredient}
-ItemDisplay[ubab]: %TAN%Sigil of Talic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%GREEN%T2%YELLOW%]%NL%%TAN%Uber Ancients %WHITE%Ingredient}
-ItemDisplay[ubac]: %TAN%Sigil of Korlic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%[%ORANGE%T3%YELLOW%]%NL%%TAN%Uber Ancients %WHITE%Ingredient}
+ItemDisplay[ubaa]: %TAN%Sigil of Madawc %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%TAN%Obtainable from Tier 1 Map%NL%%WHITE%One of the ingredients for Uber Ancients}
+ItemDisplay[ubab]: %TAN%Sigil of Talic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%TAN%Obtainable from Tier 2 Map%NL%%WHITE%One of the ingredients for Uber Ancients}
+ItemDisplay[ubac]: %TAN%Sigil of Korlic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%TAN%Obtainable from Tier 3 Map%NL%%WHITE%One of the ingredients for Uber Ancients}
 
 
 //MISCELLANEOUS
@@ -1621,5 +1634,6 @@ ItemDisplay[MAG !ID jew ILVL<66]:
 
 //Whites, Blues (except Wirt's Leg and Yellow Items)
 ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG) !(leg OR RARE) CLVL>0]:
+
 
 //END
