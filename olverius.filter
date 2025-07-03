@@ -8,8 +8,8 @@
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 
-//[NOTE1] This product reflects my own vision, but the structure was inspired from Path of Diablo.
-//[NOTE2] The filter is teaching you which items are the best, only those get notification.
+//[NOTE1] This product represents my personal vision, although its structure was inspired by Path of Diablo.
+//[NOTE2] The filter helps you identify the best items, and only those trigger notifications.
 
 
 //LEGEND:
@@ -1691,21 +1691,21 @@ ItemDisplay[t55]: %GOLD%Outer Void %ORANGE%Map%DOT-A8%
 
 //ESSENCES & TOKEN
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[tes]: %BLUE%Essence of Suffering %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Obtainable from Andariel or Duriel%NL%%WHITE%One of the ingredients for Token of Absolut}
-ItemDisplay[ceh]: %YELLOW%Essence of Hatred %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%Obtainable from Mephisto%NL%%WHITE%One of the ingredients for Token of Absolut}
-ItemDisplay[bet]: %RED%Essence of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Obtainable from Diablo%NL%%WHITE%One of the ingredients for Token of Absolut}
-ItemDisplay[fed]: %GREEN%Essence of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GREEN%Obtainable from Baal%NL%%WHITE%One of the ingredients for Token of Absolut}
+ItemDisplay[tes]: %BLUE%Essence of Suffering %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Obtainable from Andariel or Duriel%NL%%GRAY%Required to create Token of Absolution}
+ItemDisplay[ceh]: %YELLOW%Essence of Hatred %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%YELLOW%Obtainable from Mephisto%NL%%GRAY%Required to create Token of Absolut}
+ItemDisplay[bet]: %RED%Essence of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Obtainable from Diablo%NL%%GRAY%Required to create Token of Absolut}
+ItemDisplay[fed]: %GREEN%Essence of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GREEN%Obtainable from Baal%NL%%GRAY%Required to create Token of Absolut}
 ItemDisplay[toa]: %GRAY%Token of Absolution%MAP%
 
 //UBER TRISTRAM
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[pk1]: %GRAY%Key of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Blood Raven and Countess%NL%%WHITE%One of the ingredients for Uber Tristram}
-ItemDisplay[pk2]: %GRAY%Key of Hatred %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Blood Witch and Summoner%NL%%WHITE%One of the ingredients for Uber Tristram}
-ItemDisplay[pk3]: %GRAY%Key of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Izual and Nihlathak%NL%%WHITE%One of the ingredients for Uber Tristram}
-ItemDisplay[dhn]: %GOLD%Diablo's Horn %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Uber Duriel%NL%%WHITE%One of the ingredients for Uber Tristram}
-ItemDisplay[bey]: %GOLD%Baal's Eye %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Uber Lilith%NL%%WHITE%One of the ingredients for Uber Tristram}
-ItemDisplay[mbr]: %GOLD%Mephisto's Brain %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Uber Izual%NL%%WHITE%One of the ingredients for Uber Tristram}
-ItemDisplay[ubtm]: %GOLD%Pandemonium Talisman%MAP%{%GOLD%Uber Tristram Access}
+ItemDisplay[pk1]: %GRAY%Key of Terror %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Blood Raven and Countess%NL%%WHITE%Required to access Uber Tristram}
+ItemDisplay[pk2]: %GRAY%Key of Hatred %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Blood Witch and Summoner%NL%%WHITE%Required to access Uber Tristram}
+ItemDisplay[pk3]: %GRAY%Key of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Izual and Nihlathak%NL%%WHITE%Required to access Uber Tristram}
+ItemDisplay[dhn]: %GOLD%Diablo's Horn %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Uber Duriel%NL%%TAN%Required to access Uber Tristram}
+ItemDisplay[bey]: %GOLD%Baal's Eye %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Lilith%NL%%TAN%Required to access Uber Tristram}
+ItemDisplay[mbr]: %GOLD%Mephisto's Brain %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Uber Izual%NL%%TAN%Required to access Uber Tristram}
+ItemDisplay[ubtm]: %GOLD%Pandemonium Talisman%MAP%{%TAN%Required to access Uber Tristram}
 ItemDisplay[std]: %GOLD%Standard of Heroes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%
 ItemDisplay[UNI cm1]: %DOT-A8%%NAME% //Annihilus
 ItemDisplay[UNI cm2]: %DOT-A8%%NAME% //Torch
@@ -1713,35 +1713,34 @@ ItemDisplay[UNI cm3]: %DOT-A8%%NAME% //Gheed's
 
 //DIABLO CLONE
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[dcho]: %RED%Black Soulstone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Obtainable from Uber Tristram%NL%%WHITE%One of the ingredients for Uber Tristram}
-ItemDisplay[dcso]: %RED%Prime Evil Soul %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Obtainable from Mephisto, Diablo or Baal from Hell%NL%%WHITE%One of the ingredients for Uber Tristram}
-ItemDisplay[dcbl]: %RED%Pure Demonic Essence %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%RED%Obtainable from Map Boss%NL%%WHITE%One of the ingredients for Uber Tristram}
-ItemDisplay[dcma]: %RED%Vision of Terror%YELLOW%%MAP%{%RED%Diablo Clone Access}
+ItemDisplay[dcho]: %RED%Black Soulstone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Uber Tristram once completed%NL%%RED%Required to access Diablo Clone}
+ItemDisplay[dcso]: %RED%Prime Evil Soul %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Mephisto, Diablo or Baal from Hell%NL%%RED%Required to access Diablo Clone}
+ItemDisplay[dcbl]: %RED%Pure Demonic Essence %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Map Bosses%NL%%RED%Required to access Diablo Clone}
+ItemDisplay[dcma]: %RED%Vision of Terror%YELLOW%%MAP%{%RED%Required to access Diablo Clone}
 
 //RATHMA
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[rtmf]: %BLUE%Ancient Bone Fragment %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%An ingredient for Trang-Oul's Jawbone}
-ItemDisplay[rtmv]: %BLUE%Splinter of the Void %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Obtainable from Mendeln Map Event%NL%%WHITE%One of the ingredients for Rathma}
-ItemDisplay[cm2f]: %BLUE%Hellfire Ashes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Obtainable from destroying a Hellfire Torch%NL%%WHITE%One of the ingredients for Rathma}
-ItemDisplay[rtmo]: %BLUE%Trang-Oul's Jawbone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%BLUE%Obtainable from any Undead Minion%NL%%WHITE%One of the ingredients for Rathma}
-ItemDisplay[rtma]: %BLUE%Voidstone %YELLOW%%MAP%{%BLUE%Rathma Access}
+ItemDisplay[rtmv]: %BLUE%Splinter of the Void %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Shadow of Mendeln Map Event%NL%%BLUE%Required to access Rathma}
+ItemDisplay[cm2f]: %BLUE%Hellfire Ashes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from stacking a Hellfire Torch%NL%%BLUE%Required to access Rathma}
+ItemDisplay[rtmo]: %BLUE%Trang-Oul's Jawbone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Any Undead enemies%NL%%BLUE%Required to access Rathma}
+ItemDisplay[rtma]: %BLUE%Voidstone %YELLOW%%MAP%{%BLUE%Required to access Rathma}
 ItemDisplay[cwss]: %BLUE%Tainted Worldstone Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%
 ItemDisplay[rtp]: %BLUE%Horadrim Navigator %MAP%
 ItemDisplay[rid]: %RED%Horadrim Almanac %MAP%
 
 //LUCION
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[lucb]: %GRAY%Demonic Insignia %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Abbadon, Pit of Acheron and Infernal Pit%NL%%WHITE%One of the ingredients for Lucion}
-ItemDisplay[lucc]: %GRAY%Talisman of Transgression %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Corrupted Zones%NL%%WHITE%One of the ingredients for Lucion}
-ItemDisplay[lucd]: %GRAY%Flesh of Malic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%GRAY%Obtainable from Corrupted Zone%NL%%WHITE%One of the ingredients for Lucion}
-ItemDisplay[luca]: %GRAY%Shadow of Hatred %MAP%{%GRAY%Lucion Access}
+ItemDisplay[lucb]: %GRAY%Demonic Insignia %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from "Red Portals" zones within Act 5%NL%%GRAY%Required to access Lucion}
+ItemDisplay[lucc]: %GRAY%Talisman of Transgression %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Corrupted Zones%NL%%GRAY%Required to access Lucion}
+ItemDisplay[lucd]: %GRAY%Flesh of Malic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Any Demon enemies%NL%%GRAY%Required to access Lucion}
+ItemDisplay[luca]: %GRAY%Shadow of Hatred %MAP%{%GRAY%Required to access Lucion}
 
 //UBER ANCIENTS
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[uba]: %TAN%Relic of the Ancients%MAP%{%TAN%Uber Ancients Access}
-ItemDisplay[ubaa]: %TAN%Sigil of Madawc %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%TAN%Obtainable from Tier 1 Map%NL%%WHITE%One of the ingredients for Uber Ancients}
-ItemDisplay[ubab]: %TAN%Sigil of Talic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%TAN%Obtainable from Tier 2 Map%NL%%WHITE%One of the ingredients for Uber Ancients}
-ItemDisplay[ubac]: %TAN%Sigil of Korlic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%TAN%Obtainable from Tier 3 Map%NL%%WHITE%One of the ingredients for Uber Ancients}
+ItemDisplay[ubaa]: %TAN%Sigil of Madawc %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Tier 1 Map Monsters%NL%%TAN%Required to access Uber Ancients}
+ItemDisplay[ubab]: %TAN%Sigil of Talic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Tier 2 Map Monsters%NL%%TAN%Required to access Uber Ancients}
+ItemDisplay[ubac]: %TAN%Sigil of Korlic %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Tier 3 Map Monsters%NL%%TAN%Required to access Uber Ancients}
+ItemDisplay[uba]: %TAN%Relic of the Ancients%MAP%{%TAN%Required to access Uber Ancients}
 
 
 //MISCELLANEOUS
