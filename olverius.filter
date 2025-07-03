@@ -1181,9 +1181,6 @@ ItemDisplay[(9vo) SET !ID]: //Polearms
 //Low Tier
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-//Uniques
-//▬▬▬▬▬▬▬▬▬▬▬▬▬
-
 //Armors
 //▬▬▬▬▬▬▬▬
 
@@ -1314,24 +1311,102 @@ ItemDisplay[(hbl) SET !ID]: %NAME%-SIGON'S WRAP%MAP%
 ItemDisplay[(hbl) SET !ID]: %DARK_GREEN%ooooo %NAME%-Immortal King's Will%DARK_GREEN% ooooo%MAP%
 
 
-//Armors
-ItemDisplay[(ghm OR gth OR tow OR hgl OR hbt OR hbl OR ba5 OR !(hlm OR fhl OR msk OR ci0 OR stu OR rng OR brs OR chn OR spl)) SET !ID]: %NAME% //Best-in Slot
-ItemDisplay[(cap OR skp OR bhm OR crn) SET !ID]: //Helms
-ItemDisplay[(qui OR lea OR ltp OR ful OR aar) SET !ID]: //Chests
-ItemDisplay[(buc OR sml OR lrg OR kit) SET !ID]: //Shields
-ItemDisplay[(lgl OR vgl OR mgl OR tgl) SET !ID]: //Gloves
-ItemDisplay[(lbt OR vbt OR mbt OR tbt) SET !ID]: //Boots
-ItemDisplay[(lbl OR vbl OR mbl OR tbl) SET !ID]: //Belts
-
 //Weapons
-ItemDisplay[(2ax OR sbr OR bsd OR bst) SET !ID]: %NAME% //Best-in Slot
-ItemDisplay[(mpi) SET !ID]: //Axes
-ItemDisplay[(lsd OR wsd) SET !ID]: //Swords	
-ItemDisplay[(dgr) SET !ID]: //Daggers
-ItemDisplay[(lbb OR swb) SET !ID]: //Bows
-ItemDisplay[(wst) SET !ID]: //Staves
-ItemDisplay[(bwn) SET !ID]: //Wands
-ItemDisplay[(gsc OR wsp) SET !ID]: //Scepters
+//▬▬▬▬▬▬▬▬
+
+//UNIQUE
+
+//New
+ItemDisplay[(am5) UNI ETH !ID]: //%NAME%-True Silver%MAP% //Amazon Weapon
+
+//Axes
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+
+//Maces
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+
+//Swords
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+
+//Daggers
+ItemDisplay[() UNI ETH !ID]: %NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+
+//Spears
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+
+//Polearms
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+
+//Bows
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+
+//X-bows
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+
+//Wands
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: %NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: %NAME%-%MAP%
+
+//Scepters
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+
 
 
 //CRAFTING
@@ -1721,15 +1796,15 @@ ItemDisplay[cm1 !UNI ID !(LIFE>10 OR MANA>10 OR MAXDMG>1 OR DEX>0 OR STR>0 OR FR
 //Inferior
 ItemDisplay[NMAG INF]:
 
-//Keys, Blue Amulets, Rings and Jewels
-ItemDisplay[(amu OR rin) MAG !ID]: 
+//Keys, Blue Rings and Jewels
+ItemDisplay[rin MAG !ID]:
 ItemDisplay[aqv OR cqv]: 
 ItemDisplay[key]: 
 ItemDisplay[MAG !ID jew ILVL<66]: 
 
-
-//Whites, Blues (except Wirt's Leg and Yellow Items)
-ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG) !(leg OR RARE) CLVL>0]:
+//Hide everything, but with exceptions
+ItemDisplay[(ung OR urs OR utp OR ulg OR uvg OR xvb OR ulb OR utb OR uhb OR ulc OR uvc OR umc) (NMAG OR MAG) !ID]: //Hiding normal and magic rarity
+ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG OR RARE) !(leg OR amu OR rin OR ung OR urs OR utp OR ulg OR uvg OR xvb OR ulb OR utb OR uhb OR ulc OR uvc OR umc) CLVL>0]: //Hiding everything, except the rarity you want
 
 
 //END
