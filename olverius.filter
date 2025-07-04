@@ -1282,297 +1282,297 @@ ItemDisplay[(UNI ETH !ID) nef]:
 //Weapons
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-ItemDisplay[(UNI ETH !ID)   hax]: 
-ItemDisplay[(UNI ETH !ID)   9ha]: 
-ItemDisplay[(UNI ETH !ID)   7ha]: 
-ItemDisplay[(UNI ETH !ID)   axe]: 
-ItemDisplay[(UNI ETH !ID)   9ax]: 
-ItemDisplay[(UNI ETH !ID)   7ax]: 
-ItemDisplay[(UNI ETH !ID)   2ax]: 
-ItemDisplay[(UNI ETH !ID)   92a]: 
-ItemDisplay[(UNI ETH !ID)   72a]: 
+ItemDisplay[(UNI ETH !ID) hax]: 
+ItemDisplay[(UNI ETH !ID) 9ha]: 
+ItemDisplay[(UNI ETH !ID) 7ha]: 
+ItemDisplay[(UNI ETH !ID) axe]: 
+ItemDisplay[(UNI ETH !ID) 9ax]: 
+ItemDisplay[(UNI ETH !ID) 7ax]: 
+ItemDisplay[(UNI ETH !ID) 2ax]: 
+ItemDisplay[(UNI ETH !ID) 92a]: 
+ItemDisplay[(UNI ETH !ID) 72a]: 
 ItemDisplay[(UNI ETH !ID) mpi]: 
-ItemDisplay[(UNI ETH !ID)   9mp]: 
-ItemDisplay[(UNI ETH !ID)   7mp]: 
-ItemDisplay[(UNI ETH !ID)   wax]: 
-ItemDisplay[(UNI ETH !ID)   9wa]: 
-ItemDisplay[(UNI ETH !ID)   7wa]: 
-ItemDisplay[(UNI ETH !ID)   lax]: 
-ItemDisplay[(UNI ETH !ID)   9la]: 
-ItemDisplay[(UNI ETH !ID)   7la]: 
-ItemDisplay[(UNI ETH !ID)   bax]: 
-ItemDisplay[(UNI ETH !ID)   9ba]: 
-ItemDisplay[(UNI ETH !ID)   7ba]: 
-ItemDisplay[(UNI ETH !ID)   btx]: 
-ItemDisplay[(UNI ETH !ID)   9bt]: 
-ItemDisplay[(UNI ETH !ID)   7bt]: 
-ItemDisplay[(UNI ETH !ID)   gax]: 
-ItemDisplay[(UNI ETH !ID)   9ga]: 
-ItemDisplay[(UNI ETH !ID)   7ga]: 
-ItemDisplay[(UNI ETH !ID)   gix]: 
-ItemDisplay[(UNI ETH !ID)   9gi]: 
-ItemDisplay[(UNI ETH !ID)   7gi]: 
-ItemDisplay[(UNI ETH !ID)   clb]: 
-ItemDisplay[(UNI ETH !ID)   9cl]: 
-ItemDisplay[(UNI ETH !ID)   7cl]: 
-ItemDisplay[(UNI ETH !ID)   spc]: 
-ItemDisplay[(UNI ETH !ID)   9sp]: 
-ItemDisplay[(UNI ETH !ID)   7sp]: 
-ItemDisplay[(UNI ETH !ID)   mac]: 
-ItemDisplay[(UNI ETH !ID)   9ma]: 
-ItemDisplay[(UNI ETH !ID)   7ma]: 
-ItemDisplay[(UNI ETH !ID)   mst]: 
-ItemDisplay[(UNI ETH !ID)   9mt]: 
-ItemDisplay[(UNI ETH !ID)   7mt]: 
-ItemDisplay[(UNI ETH !ID)   fla]: 
-ItemDisplay[(UNI ETH !ID)   9fl]: 
-ItemDisplay[(UNI ETH !ID)   7fl]: 
-ItemDisplay[(UNI ETH !ID)   whm]: 
-ItemDisplay[(UNI ETH !ID)   9wh]: 
-ItemDisplay[(UNI ETH !ID)   7wh]: 
-ItemDisplay[(UNI ETH !ID)   mau]: 
-ItemDisplay[(UNI ETH !ID)   9m9]: 
-ItemDisplay[(UNI ETH !ID)   7m7]: 
-ItemDisplay[(UNI ETH !ID)   gma]: 
-ItemDisplay[(UNI ETH !ID)   9gm]: 
-ItemDisplay[(UNI ETH !ID)   7gm]: 
-ItemDisplay[(UNI ETH !ID)   ssd]: 
-ItemDisplay[(UNI ETH !ID)   9ss]: 
-ItemDisplay[(UNI ETH !ID)   7ss]: 
-ItemDisplay[(UNI ETH !ID)   scm]: 
-ItemDisplay[(UNI ETH !ID)   9sm]: 
-ItemDisplay[(UNI ETH !ID)   7sm]: 
-ItemDisplay[(UNI ETH !ID)   sbr]: 
-ItemDisplay[(UNI ETH !ID)   9sb]: 
-ItemDisplay[(UNI ETH !ID)   7sb]: 
-ItemDisplay[(UNI ETH !ID)   flc]: 
-ItemDisplay[(UNI ETH !ID)   9fc]: 
-ItemDisplay[(UNI ETH !ID)   7fc]: 
-ItemDisplay[(UNI ETH !ID)   crs]: 
-ItemDisplay[(UNI ETH !ID)   9cr]: 
-ItemDisplay[(UNI ETH !ID)   7cr]: 
-ItemDisplay[(UNI ETH !ID)   bsd]: 
-ItemDisplay[(UNI ETH !ID)   9bs]: 
-ItemDisplay[(UNI ETH !ID)   7bs]: 
-ItemDisplay[(UNI ETH !ID)   lsd]: 
-ItemDisplay[(UNI ETH !ID)   9ls]: 
-ItemDisplay[(UNI ETH !ID)   7ls]: 
-ItemDisplay[(UNI ETH !ID)   wsd]: 
-ItemDisplay[(UNI ETH !ID)   9wd]: 
-ItemDisplay[(UNI ETH !ID)   7wd]: 
-ItemDisplay[(UNI ETH !ID)   2hs]: 
-ItemDisplay[(UNI ETH !ID)   92h]: 
-ItemDisplay[(UNI ETH !ID)   72h]: 
-ItemDisplay[(UNI ETH !ID)   clm]: 
-ItemDisplay[(UNI ETH !ID)   9cm]: 
-ItemDisplay[(UNI ETH !ID)   7cm]: 
-ItemDisplay[(UNI ETH !ID)   gis]: 
-ItemDisplay[(UNI ETH !ID)   9gs]: 
-ItemDisplay[(UNI ETH !ID)   7gs]: 
-ItemDisplay[(UNI ETH !ID)   bsw]: 
-ItemDisplay[(UNI ETH !ID)   9b9]: 
-ItemDisplay[(UNI ETH !ID)   7b7]: 
-ItemDisplay[(UNI ETH !ID)   flb]: 
-ItemDisplay[(UNI ETH !ID)   9fb]: 
-ItemDisplay[(UNI ETH !ID)   7fb]: 
-ItemDisplay[(UNI ETH !ID)   gsd]: 
-ItemDisplay[(UNI ETH !ID)   9gd]: 
-ItemDisplay[(UNI ETH !ID)   7gd]: 
-ItemDisplay[(UNI ETH !ID)   dgr]: 
-ItemDisplay[(UNI ETH !ID)   9dg]: 
-ItemDisplay[(UNI ETH !ID)   7dg]: 
-ItemDisplay[(UNI ETH !ID)   dir]: 
-ItemDisplay[(UNI ETH !ID)   9di]: 
-ItemDisplay[(UNI ETH !ID)   7di]: 
-ItemDisplay[(UNI ETH !ID)   kri]: 
-ItemDisplay[(UNI ETH !ID)   9kr]: 
-ItemDisplay[(UNI ETH !ID)   7kr]: 
-ItemDisplay[(UNI ETH !ID)   bld]: 
-ItemDisplay[(UNI ETH !ID)   9bl]: 
-ItemDisplay[(UNI ETH !ID)   7bl]: 
-ItemDisplay[(UNI ETH !ID)   tkf]: 
-ItemDisplay[(UNI ETH !ID)   9tk]: 
-ItemDisplay[(UNI ETH !ID)   7tk]: 
-ItemDisplay[(UNI ETH !ID)   tax]: 
-ItemDisplay[(UNI ETH !ID)   9ta]: 
-ItemDisplay[(UNI ETH !ID)   7ta]: 
-ItemDisplay[(UNI ETH !ID)   bkf]: 
-ItemDisplay[(UNI ETH !ID)   9bk]: 
-ItemDisplay[(UNI ETH !ID)   7bk]: 
-ItemDisplay[(UNI ETH !ID)   bal]: 
-ItemDisplay[(UNI ETH !ID)   9b8]: 
-ItemDisplay[(UNI ETH !ID)   7b8]: 
-ItemDisplay[(UNI ETH !ID)   jav]: 
-ItemDisplay[(UNI ETH !ID)   9ja]: 
-ItemDisplay[(UNI ETH !ID)   7ja]: 
-ItemDisplay[(UNI ETH !ID)   pil]: 
-ItemDisplay[(UNI ETH !ID)   9pi]: 
-ItemDisplay[(UNI ETH !ID)   7pi]: 
-ItemDisplay[(UNI ETH !ID)   ssp]: 
-ItemDisplay[(UNI ETH !ID)   9s9]: 
-ItemDisplay[(UNI ETH !ID)   7s7]: 
-ItemDisplay[(UNI ETH !ID)   glv]: 
-ItemDisplay[(UNI ETH !ID)   9gl]: 
-ItemDisplay[(UNI ETH !ID)   7gl]: 
-ItemDisplay[(UNI ETH !ID)   tsp]: 
-ItemDisplay[(UNI ETH !ID)   9ts]: 
-ItemDisplay[(UNI ETH !ID)   7ts]: 
-ItemDisplay[(UNI ETH !ID)   spr]: 
-ItemDisplay[(UNI ETH !ID)   9sr]: 
-ItemDisplay[(UNI ETH !ID)   7sr]: 
-ItemDisplay[(UNI ETH !ID)   tri]: 
-ItemDisplay[(UNI ETH !ID)   9tr]: 
-ItemDisplay[(UNI ETH !ID)   7tr]: 
-ItemDisplay[(UNI ETH !ID)   brn]: 
-ItemDisplay[(UNI ETH !ID)   9br]: 
-ItemDisplay[(UNI ETH !ID)   7br]: 
-ItemDisplay[(UNI ETH !ID)   spt]: 
-ItemDisplay[(UNI ETH !ID)   9st]: 
-ItemDisplay[(UNI ETH !ID)   7st]: 
-ItemDisplay[(UNI ETH !ID)   pik]: 
-ItemDisplay[(UNI ETH !ID)   9p9]: 
-ItemDisplay[(UNI ETH !ID)   7p7]: 
-ItemDisplay[(UNI ETH !ID)   bar]: 
-ItemDisplay[(UNI ETH !ID)   9b7]: 
-ItemDisplay[(UNI ETH !ID)   7o7]: 
-ItemDisplay[(UNI ETH !ID)   vou]: 
-ItemDisplay[(UNI ETH !ID)   9vo]: 
-ItemDisplay[(UNI ETH !ID)   7vo]: 
-ItemDisplay[(UNI ETH !ID)   scy]: 
-ItemDisplay[(UNI ETH !ID)   9s8]: 
-ItemDisplay[(UNI ETH !ID)   7s8]: 
-ItemDisplay[(UNI ETH !ID)   pax]: 
-ItemDisplay[(UNI ETH !ID)   9pa]: 
-ItemDisplay[(UNI ETH !ID)   7pa]: 
-ItemDisplay[(UNI ETH !ID)   hal]: 
-ItemDisplay[(UNI ETH !ID)   9h9]: 
-ItemDisplay[(UNI ETH !ID)   7h7]: 
-ItemDisplay[(UNI ETH !ID)   wsc]: 
-ItemDisplay[(UNI ETH !ID)   9wc]: 
-ItemDisplay[(UNI ETH !ID)   7wc]: 
-ItemDisplay[(UNI ETH !ID)   sbw]: 
-ItemDisplay[(UNI ETH !ID)   8sb]: 
-ItemDisplay[(UNI ETH !ID)   6sb]: 
-ItemDisplay[(UNI ETH !ID)   hbw]: 
-ItemDisplay[(UNI ETH !ID)   8hb]: 
-ItemDisplay[(UNI ETH !ID)   6hb]: 
-ItemDisplay[(UNI ETH !ID)   lbw]: 
-ItemDisplay[(UNI ETH !ID)   8lb]: 
-ItemDisplay[(UNI ETH !ID)   6lb]: 
-ItemDisplay[(UNI ETH !ID)   cbw]: 
-ItemDisplay[(UNI ETH !ID)   8cb]: 
-ItemDisplay[(UNI ETH !ID)   6cb]: 
-ItemDisplay[(UNI ETH !ID)   sbb]: 
-ItemDisplay[(UNI ETH !ID)   8s8]: 
-ItemDisplay[(UNI ETH !ID)   6s7]: 
-ItemDisplay[(UNI ETH !ID)   lbb]: 
-ItemDisplay[(UNI ETH !ID)   8l8]: 
-ItemDisplay[(UNI ETH !ID)   6l7]: 
-ItemDisplay[(UNI ETH !ID)   swb]: 
-ItemDisplay[(UNI ETH !ID)   8sw]: 
-ItemDisplay[(UNI ETH !ID)   6sw]: 
-ItemDisplay[(UNI ETH !ID)   lwb]: 
-ItemDisplay[(UNI ETH !ID)   8lw]: 
-ItemDisplay[(UNI ETH !ID)   6lw]: 
-ItemDisplay[(UNI ETH !ID)   lxb]: 
-ItemDisplay[(UNI ETH !ID)   8lx]: 
-ItemDisplay[(UNI ETH !ID)   6lx]: 
-ItemDisplay[(UNI ETH !ID)   mxb]: 
-ItemDisplay[(UNI ETH !ID)   8mx]: 
-ItemDisplay[(UNI ETH !ID)   6mx]: 
-ItemDisplay[(UNI ETH !ID)   hxb]: 
-ItemDisplay[(UNI ETH !ID)   8hx]: 
-ItemDisplay[(UNI ETH !ID)   6hx]: 
-ItemDisplay[(UNI ETH !ID)   rxb]: 
-ItemDisplay[(UNI ETH !ID)   8rx]: 
-ItemDisplay[(UNI ETH !ID)   6rx]: 
-ItemDisplay[(UNI ETH !ID)   sst]: 
-ItemDisplay[(UNI ETH !ID)   8ss]: 
-ItemDisplay[(UNI ETH !ID)   6ss]: 
-ItemDisplay[(UNI ETH !ID)   lst]: 
-ItemDisplay[(UNI ETH !ID)   8ls]: 
-ItemDisplay[(UNI ETH !ID)   6ls]: 
-ItemDisplay[(UNI ETH !ID)   cst]: 
-ItemDisplay[(UNI ETH !ID)   8cs]: 
-ItemDisplay[(UNI ETH !ID)   6cs]: 
-ItemDisplay[(UNI ETH !ID)   bst]: 
-ItemDisplay[(UNI ETH !ID)   8bs]: 
-ItemDisplay[(UNI ETH !ID)   6bs]: 
-ItemDisplay[(UNI ETH !ID)   wst]: 
-ItemDisplay[(UNI ETH !ID)   8ws]: 
-ItemDisplay[(UNI ETH !ID)   6ws]: 
-ItemDisplay[(UNI ETH !ID)   wnd]: 
-ItemDisplay[(UNI ETH !ID)   9wn]: 
-ItemDisplay[(UNI ETH !ID)   7wn]: 
-ItemDisplay[(UNI ETH !ID)   ywn]: 
-ItemDisplay[(UNI ETH !ID)   9yw]: 
-ItemDisplay[(UNI ETH !ID)   7yw]: 
-ItemDisplay[(UNI ETH !ID)   bwn]: 
-ItemDisplay[(UNI ETH !ID)   9bw]: 
-ItemDisplay[(UNI ETH !ID)   7bw]: 
-ItemDisplay[(UNI ETH !ID)   gwn]: 
-ItemDisplay[(UNI ETH !ID)   9gw]: 
-ItemDisplay[(UNI ETH !ID)   7gw]: 
-ItemDisplay[(UNI ETH !ID)   scp]: 
-ItemDisplay[(UNI ETH !ID)   9sc]: 
-ItemDisplay[(UNI ETH !ID)   7sc]: 
-ItemDisplay[(UNI ETH !ID)   gsc]: 
-ItemDisplay[(UNI ETH !ID)   9qs]: 
-ItemDisplay[(UNI ETH !ID)   7qs]: 
-ItemDisplay[(UNI ETH !ID)   wsp]: 
-ItemDisplay[(UNI ETH !ID)   9ws]: 
-ItemDisplay[(UNI ETH !ID)   7ws]: 
-ItemDisplay[(UNI ETH !ID)   ktr]: 
-ItemDisplay[(UNI ETH !ID)   9ar]: 
-ItemDisplay[(UNI ETH !ID)   7ar]: 
-ItemDisplay[(UNI ETH !ID)   wrb]: 
-ItemDisplay[(UNI ETH !ID)   9wb]: 
-ItemDisplay[(UNI ETH !ID)   7wb]: 
-ItemDisplay[(UNI ETH !ID)   axf]: 
-ItemDisplay[(UNI ETH !ID)   9xf]: 
-ItemDisplay[(UNI ETH !ID)   7xf]: 
-ItemDisplay[(UNI ETH !ID)   ces]: 
-ItemDisplay[(UNI ETH !ID)   9cs]: 
-ItemDisplay[(UNI ETH !ID)   7cs]: 
-ItemDisplay[(UNI ETH !ID)   clw]: 
-ItemDisplay[(UNI ETH !ID)   9lw]: 
-ItemDisplay[(UNI ETH !ID)   7lw]: 
-ItemDisplay[(UNI ETH !ID)   btl]: 
-ItemDisplay[(UNI ETH !ID)   9tw]: 
-ItemDisplay[(UNI ETH !ID)   7tw]: 
-ItemDisplay[(UNI ETH !ID)   skr]: 
-ItemDisplay[(UNI ETH !ID)   9qr]: 
-ItemDisplay[(UNI ETH !ID)   7qr]: 
-ItemDisplay[(UNI ETH !ID)   ob1]: 
-ItemDisplay[(UNI ETH !ID)   ob6]: 
-ItemDisplay[(UNI ETH !ID)   obb]: 
-ItemDisplay[(UNI ETH !ID)   ob2]: 
-ItemDisplay[(UNI ETH !ID)   ob7]: 
-ItemDisplay[(UNI ETH !ID)   obc]: 
-ItemDisplay[(UNI ETH !ID)   ob3]: 
-ItemDisplay[(UNI ETH !ID)   ob8]: 
-ItemDisplay[(UNI ETH !ID)   obd]: 
-ItemDisplay[(UNI ETH !ID)   ob4]: 
-ItemDisplay[(UNI ETH !ID)   ob9]: 
-ItemDisplay[(UNI ETH !ID)   obe]: 
-ItemDisplay[(UNI ETH !ID)   ob5]: 
-ItemDisplay[(UNI ETH !ID)   oba]: 
-ItemDisplay[(UNI ETH !ID)   obf]: 
-ItemDisplay[(UNI ETH !ID)   am1]: 
-ItemDisplay[(UNI ETH !ID)   am6]: 
-ItemDisplay[(UNI ETH !ID)   amb]: 
-ItemDisplay[(UNI ETH !ID)   am2]: 
-ItemDisplay[(UNI ETH !ID)   am7]: 
-ItemDisplay[(UNI ETH !ID)   amc]: 
-ItemDisplay[(UNI ETH !ID)   am3]: 
-ItemDisplay[(UNI ETH !ID)   am8]: 
-ItemDisplay[(UNI ETH !ID)   amd]: 
-ItemDisplay[(UNI ETH !ID)   am4]: 
-ItemDisplay[(UNI ETH !ID)   am9]: 
-ItemDisplay[(UNI ETH !ID)   ame]: 
-ItemDisplay[(UNI ETH !ID)   am5]: 
-ItemDisplay[(UNI ETH !ID)   ama]: 
-ItemDisplay[(UNI ETH !ID)   amf]: 
+ItemDisplay[(UNI ETH !ID) 9mp]: 
+ItemDisplay[(UNI ETH !ID) 7mp]: 
+ItemDisplay[(UNI ETH !ID) wax]: 
+ItemDisplay[(UNI ETH !ID) 9wa]: 
+ItemDisplay[(UNI ETH !ID) 7wa]: 
+ItemDisplay[(UNI ETH !ID) lax]: 
+ItemDisplay[(UNI ETH !ID) 9la]: 
+ItemDisplay[(UNI ETH !ID) 7la]: 
+ItemDisplay[(UNI ETH !ID) bax]: 
+ItemDisplay[(UNI ETH !ID) 9ba]: 
+ItemDisplay[(UNI ETH !ID) 7ba]: 
+ItemDisplay[(UNI ETH !ID) btx]: 
+ItemDisplay[(UNI ETH !ID) 9bt]: 
+ItemDisplay[(UNI ETH !ID) 7bt]: 
+ItemDisplay[(UNI ETH !ID) gax]: 
+ItemDisplay[(UNI ETH !ID) 9ga]: 
+ItemDisplay[(UNI ETH !ID) 7ga]: 
+ItemDisplay[(UNI ETH !ID) gix]: 
+ItemDisplay[(UNI ETH !ID) 9gi]: 
+ItemDisplay[(UNI ETH !ID) 7gi]: 
+ItemDisplay[(UNI ETH !ID) clb]: 
+ItemDisplay[(UNI ETH !ID) 9cl]: 
+ItemDisplay[(UNI ETH !ID) 7cl]: 
+ItemDisplay[(UNI ETH !ID) spc]: 
+ItemDisplay[(UNI ETH !ID) 9sp]: 
+ItemDisplay[(UNI ETH !ID) 7sp]: 
+ItemDisplay[(UNI ETH !ID) mac]: 
+ItemDisplay[(UNI ETH !ID) 9ma]: 
+ItemDisplay[(UNI ETH !ID) 7ma]: 
+ItemDisplay[(UNI ETH !ID) mst]: 
+ItemDisplay[(UNI ETH !ID) 9mt]: 
+ItemDisplay[(UNI ETH !ID) 7mt]: 
+ItemDisplay[(UNI ETH !ID) fla]: 
+ItemDisplay[(UNI ETH !ID) 9fl]: 
+ItemDisplay[(UNI ETH !ID) 7fl]: 
+ItemDisplay[(UNI ETH !ID) whm]: 
+ItemDisplay[(UNI ETH !ID) 9wh]: 
+ItemDisplay[(UNI ETH !ID) 7wh]: 
+ItemDisplay[(UNI ETH !ID) mau]: 
+ItemDisplay[(UNI ETH !ID) 9m9]: 
+ItemDisplay[(UNI ETH !ID) 7m7]: 
+ItemDisplay[(UNI ETH !ID) gma]: 
+ItemDisplay[(UNI ETH !ID) 9gm]: 
+ItemDisplay[(UNI ETH !ID) 7gm]: 
+ItemDisplay[(UNI ETH !ID) ssd]: 
+ItemDisplay[(UNI ETH !ID) 9ss]: 
+ItemDisplay[(UNI ETH !ID) 7ss]: 
+ItemDisplay[(UNI ETH !ID) scm]: 
+ItemDisplay[(UNI ETH !ID) 9sm]: 
+ItemDisplay[(UNI ETH !ID) 7sm]: 
+ItemDisplay[(UNI ETH !ID) sbr]: 
+ItemDisplay[(UNI ETH !ID) 9sb]: 
+ItemDisplay[(UNI ETH !ID) 7sb]: 
+ItemDisplay[(UNI ETH !ID) flc]: 
+ItemDisplay[(UNI ETH !ID) 9fc]: 
+ItemDisplay[(UNI ETH !ID) 7fc]: 
+ItemDisplay[(UNI ETH !ID) crs]: 
+ItemDisplay[(UNI ETH !ID) 9cr]: 
+ItemDisplay[(UNI ETH !ID) 7cr]: 
+ItemDisplay[(UNI ETH !ID) bsd]: 
+ItemDisplay[(UNI ETH !ID) 9bs]: 
+ItemDisplay[(UNI ETH !ID) 7bs]: 
+ItemDisplay[(UNI ETH !ID) lsd]: 
+ItemDisplay[(UNI ETH !ID) 9ls]: 
+ItemDisplay[(UNI ETH !ID) 7ls]: 
+ItemDisplay[(UNI ETH !ID) wsd]: 
+ItemDisplay[(UNI ETH !ID) 9wd]: 
+ItemDisplay[(UNI ETH !ID) 7wd]: 
+ItemDisplay[(UNI ETH !ID) 2hs]: 
+ItemDisplay[(UNI ETH !ID) 92h]: 
+ItemDisplay[(UNI ETH !ID) 72h]: 
+ItemDisplay[(UNI ETH !ID) clm]: 
+ItemDisplay[(UNI ETH !ID) 9cm]: 
+ItemDisplay[(UNI ETH !ID) 7cm]: 
+ItemDisplay[(UNI ETH !ID) gis]: 
+ItemDisplay[(UNI ETH !ID) 9gs]: 
+ItemDisplay[(UNI ETH !ID) 7gs]: 
+ItemDisplay[(UNI ETH !ID) bsw]: 
+ItemDisplay[(UNI ETH !ID) 9b9]: 
+ItemDisplay[(UNI ETH !ID) 7b7]: 
+ItemDisplay[(UNI ETH !ID) flb]: 
+ItemDisplay[(UNI ETH !ID) 9fb]: 
+ItemDisplay[(UNI ETH !ID) 7fb]: 
+ItemDisplay[(UNI ETH !ID) gsd]: 
+ItemDisplay[(UNI ETH !ID) 9gd]: 
+ItemDisplay[(UNI ETH !ID) 7gd]: 
+ItemDisplay[(UNI ETH !ID) dgr]: 
+ItemDisplay[(UNI ETH !ID) 9dg]: 
+ItemDisplay[(UNI ETH !ID) 7dg]: 
+ItemDisplay[(UNI ETH !ID) dir]: 
+ItemDisplay[(UNI ETH !ID) 9di]: 
+ItemDisplay[(UNI ETH !ID) 7di]: 
+ItemDisplay[(UNI ETH !ID) kri]: 
+ItemDisplay[(UNI ETH !ID) 9kr]: 
+ItemDisplay[(UNI ETH !ID) 7kr]: 
+ItemDisplay[(UNI ETH !ID) bld]: 
+ItemDisplay[(UNI ETH !ID) 9bl]: 
+ItemDisplay[(UNI ETH !ID) 7bl]: 
+ItemDisplay[(UNI ETH !ID) tkf]: 
+ItemDisplay[(UNI ETH !ID) 9tk]: 
+ItemDisplay[(UNI ETH !ID) 7tk]: 
+ItemDisplay[(UNI ETH !ID) tax]: 
+ItemDisplay[(UNI ETH !ID) 9ta]: 
+ItemDisplay[(UNI ETH !ID) 7ta]: 
+ItemDisplay[(UNI ETH !ID) bkf]: 
+ItemDisplay[(UNI ETH !ID) 9bk]: 
+ItemDisplay[(UNI ETH !ID) 7bk]: 
+ItemDisplay[(UNI ETH !ID) bal]: 
+ItemDisplay[(UNI ETH !ID) 9b8]: 
+ItemDisplay[(UNI ETH !ID) 7b8]: 
+ItemDisplay[(UNI ETH !ID) jav]: 
+ItemDisplay[(UNI ETH !ID) 9ja]: 
+ItemDisplay[(UNI ETH !ID) 7ja]: 
+ItemDisplay[(UNI ETH !ID) pil]: 
+ItemDisplay[(UNI ETH !ID) 9pi]: 
+ItemDisplay[(UNI ETH !ID) 7pi]: 
+ItemDisplay[(UNI ETH !ID) ssp]: 
+ItemDisplay[(UNI ETH !ID) 9s9]: 
+ItemDisplay[(UNI ETH !ID) 7s7]: 
+ItemDisplay[(UNI ETH !ID) glv]: 
+ItemDisplay[(UNI ETH !ID) 9gl]: 
+ItemDisplay[(UNI ETH !ID) 7gl]: 
+ItemDisplay[(UNI ETH !ID) tsp]: 
+ItemDisplay[(UNI ETH !ID) 9ts]: 
+ItemDisplay[(UNI ETH !ID) 7ts]: 
+ItemDisplay[(UNI ETH !ID) spr]: 
+ItemDisplay[(UNI ETH !ID) 9sr]: 
+ItemDisplay[(UNI ETH !ID) 7sr]: 
+ItemDisplay[(UNI ETH !ID) tri]: 
+ItemDisplay[(UNI ETH !ID) 9tr]: 
+ItemDisplay[(UNI ETH !ID) 7tr]: 
+ItemDisplay[(UNI ETH !ID) brn]: 
+ItemDisplay[(UNI ETH !ID) 9br]: 
+ItemDisplay[(UNI ETH !ID) 7br]: 
+ItemDisplay[(UNI ETH !ID) spt]: 
+ItemDisplay[(UNI ETH !ID) 9st]: 
+ItemDisplay[(UNI ETH !ID) 7st]: 
+ItemDisplay[(UNI ETH !ID) pik]: 
+ItemDisplay[(UNI ETH !ID) 9p9]: 
+ItemDisplay[(UNI ETH !ID) 7p7]: 
+ItemDisplay[(UNI ETH !ID) bar]: 
+ItemDisplay[(UNI ETH !ID) 9b7]: 
+ItemDisplay[(UNI ETH !ID) 7o7]: 
+ItemDisplay[(UNI ETH !ID) vou]: 
+ItemDisplay[(UNI ETH !ID) 9vo]: 
+ItemDisplay[(UNI ETH !ID) 7vo]: 
+ItemDisplay[(UNI ETH !ID) scy]: 
+ItemDisplay[(UNI ETH !ID) 9s8]: 
+ItemDisplay[(UNI ETH !ID) 7s8]: 
+ItemDisplay[(UNI ETH !ID) pax]: 
+ItemDisplay[(UNI ETH !ID) 9pa]: 
+ItemDisplay[(UNI ETH !ID) 7pa]: 
+ItemDisplay[(UNI ETH !ID) hal]: 
+ItemDisplay[(UNI ETH !ID) 9h9]: 
+ItemDisplay[(UNI ETH !ID) 7h7]: 
+ItemDisplay[(UNI ETH !ID) wsc]: 
+ItemDisplay[(UNI ETH !ID) 9wc]: 
+ItemDisplay[(UNI ETH !ID) 7wc]: 
+ItemDisplay[(UNI ETH !ID) sbw]: 
+ItemDisplay[(UNI ETH !ID) 8sb]: 
+ItemDisplay[(UNI ETH !ID) 6sb]: 
+ItemDisplay[(UNI ETH !ID) hbw]: 
+ItemDisplay[(UNI ETH !ID) 8hb]: 
+ItemDisplay[(UNI ETH !ID) 6hb]: 
+ItemDisplay[(UNI ETH !ID) lbw]: 
+ItemDisplay[(UNI ETH !ID) 8lb]: 
+ItemDisplay[(UNI ETH !ID) 6lb]: 
+ItemDisplay[(UNI ETH !ID) cbw]: 
+ItemDisplay[(UNI ETH !ID) 8cb]: 
+ItemDisplay[(UNI ETH !ID) 6cb]: 
+ItemDisplay[(UNI ETH !ID) sbb]: 
+ItemDisplay[(UNI ETH !ID) 8s8]: 
+ItemDisplay[(UNI ETH !ID) 6s7]: 
+ItemDisplay[(UNI ETH !ID) lbb]: 
+ItemDisplay[(UNI ETH !ID) 8l8]: 
+ItemDisplay[(UNI ETH !ID) 6l7]: 
+ItemDisplay[(UNI ETH !ID) swb]: 
+ItemDisplay[(UNI ETH !ID) 8sw]: 
+ItemDisplay[(UNI ETH !ID) 6sw]: 
+ItemDisplay[(UNI ETH !ID) lwb]: 
+ItemDisplay[(UNI ETH !ID) 8lw]: 
+ItemDisplay[(UNI ETH !ID) 6lw]: 
+ItemDisplay[(UNI ETH !ID) lxb]: 
+ItemDisplay[(UNI ETH !ID) 8lx]: 
+ItemDisplay[(UNI ETH !ID) 6lx]: 
+ItemDisplay[(UNI ETH !ID) mxb]: 
+ItemDisplay[(UNI ETH !ID) 8mx]: 
+ItemDisplay[(UNI ETH !ID) 6mx]: 
+ItemDisplay[(UNI ETH !ID) hxb]: 
+ItemDisplay[(UNI ETH !ID) 8hx]: 
+ItemDisplay[(UNI ETH !ID) 6hx]: 
+ItemDisplay[(UNI ETH !ID) rxb]: 
+ItemDisplay[(UNI ETH !ID) 8rx]: 
+ItemDisplay[(UNI ETH !ID) 6rx]: 
+ItemDisplay[(UNI ETH !ID) sst]: 
+ItemDisplay[(UNI ETH !ID) 8ss]: 
+ItemDisplay[(UNI ETH !ID) 6ss]: 
+ItemDisplay[(UNI ETH !ID) lst]: 
+ItemDisplay[(UNI ETH !ID) 8ls]: 
+ItemDisplay[(UNI ETH !ID) 6ls]: 
+ItemDisplay[(UNI ETH !ID) cst]: 
+ItemDisplay[(UNI ETH !ID) 8cs]: 
+ItemDisplay[(UNI ETH !ID) 6cs]: 
+ItemDisplay[(UNI ETH !ID) bst]: 
+ItemDisplay[(UNI ETH !ID) 8bs]: 
+ItemDisplay[(UNI ETH !ID) 6bs]: 
+ItemDisplay[(UNI ETH !ID) wst]: 
+ItemDisplay[(UNI ETH !ID) 8ws]: 
+ItemDisplay[(UNI ETH !ID) 6ws]: 
+ItemDisplay[(UNI ETH !ID) wnd]: 
+ItemDisplay[(UNI ETH !ID) 9wn]: 
+ItemDisplay[(UNI ETH !ID) 7wn]: 
+ItemDisplay[(UNI ETH !ID) ywn]: 
+ItemDisplay[(UNI ETH !ID) 9yw]: 
+ItemDisplay[(UNI ETH !ID) 7yw]: 
+ItemDisplay[(UNI ETH !ID) bwn]: 
+ItemDisplay[(UNI ETH !ID) 9bw]: 
+ItemDisplay[(UNI ETH !ID) 7bw]: 
+ItemDisplay[(UNI ETH !ID) gwn]: 
+ItemDisplay[(UNI ETH !ID) 9gw]: 
+ItemDisplay[(UNI ETH !ID) 7gw]: 
+ItemDisplay[(UNI ETH !ID) scp]: 
+ItemDisplay[(UNI ETH !ID) 9sc]: 
+ItemDisplay[(UNI ETH !ID) 7sc]: 
+ItemDisplay[(UNI ETH !ID) gsc]: 
+ItemDisplay[(UNI ETH !ID) 9qs]: 
+ItemDisplay[(UNI ETH !ID) 7qs]: 
+ItemDisplay[(UNI ETH !ID) wsp]: 
+ItemDisplay[(UNI ETH !ID) 9ws]: 
+ItemDisplay[(UNI ETH !ID) 7ws]: 
+ItemDisplay[(UNI ETH !ID) ktr]: 
+ItemDisplay[(UNI ETH !ID) 9ar]: 
+ItemDisplay[(UNI ETH !ID) 7ar]: 
+ItemDisplay[(UNI ETH !ID) wrb]: 
+ItemDisplay[(UNI ETH !ID) 9wb]: 
+ItemDisplay[(UNI ETH !ID) 7wb]: 
+ItemDisplay[(UNI ETH !ID) axf]: 
+ItemDisplay[(UNI ETH !ID) 9xf]: 
+ItemDisplay[(UNI ETH !ID) 7xf]: 
+ItemDisplay[(UNI ETH !ID) ces]: 
+ItemDisplay[(UNI ETH !ID) 9cs]: 
+ItemDisplay[(UNI ETH !ID) 7cs]: 
+ItemDisplay[(UNI ETH !ID) clw]: 
+ItemDisplay[(UNI ETH !ID) 9lw]: 
+ItemDisplay[(UNI ETH !ID) 7lw]: 
+ItemDisplay[(UNI ETH !ID) btl]: 
+ItemDisplay[(UNI ETH !ID) 9tw]: 
+ItemDisplay[(UNI ETH !ID) 7tw]: 
+ItemDisplay[(UNI ETH !ID) skr]: 
+ItemDisplay[(UNI ETH !ID) 9qr]: 
+ItemDisplay[(UNI ETH !ID) 7qr]: 
+ItemDisplay[(UNI ETH !ID) ob1]: 
+ItemDisplay[(UNI ETH !ID) ob6]: 
+ItemDisplay[(UNI ETH !ID) obb]: 
+ItemDisplay[(UNI ETH !ID) ob2]: 
+ItemDisplay[(UNI ETH !ID) ob7]: 
+ItemDisplay[(UNI ETH !ID) obc]: 
+ItemDisplay[(UNI ETH !ID) ob3]: 
+ItemDisplay[(UNI ETH !ID) ob8]: 
+ItemDisplay[(UNI ETH !ID) obd]: 
+ItemDisplay[(UNI ETH !ID) ob4]: 
+ItemDisplay[(UNI ETH !ID) ob9]: 
+ItemDisplay[(UNI ETH !ID) obe]: 
+ItemDisplay[(UNI ETH !ID) ob5]: 
+ItemDisplay[(UNI ETH !ID) oba]: 
+ItemDisplay[(UNI ETH !ID) obf]: 
+ItemDisplay[(UNI ETH !ID) am1]: 
+ItemDisplay[(UNI ETH !ID) am6]: 
+ItemDisplay[(UNI ETH !ID) amb]: 
+ItemDisplay[(UNI ETH !ID) am2]: 
+ItemDisplay[(UNI ETH !ID) am7]: 
+ItemDisplay[(UNI ETH !ID) amc]: 
+ItemDisplay[(UNI ETH !ID) am3]: 
+ItemDisplay[(UNI ETH !ID) am8]: 
+ItemDisplay[(UNI ETH !ID) amd]: 
+ItemDisplay[(UNI ETH !ID) am4]: 
+ItemDisplay[(UNI ETH !ID) am9]: 
+ItemDisplay[(UNI ETH !ID) ame]: 
+ItemDisplay[(UNI ETH !ID) am5]: 
+ItemDisplay[(UNI ETH !ID) ama]: 
+ItemDisplay[(UNI ETH !ID) amf]: 
 
 
 //SET
@@ -1581,503 +1581,503 @@ ItemDisplay[(UNI ETH !ID)   amf]:
 //Armors
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-ItemDisplay[(UNI ETH !ID) cap]: 
-ItemDisplay[(UNI ETH !ID) xap]: 
-ItemDisplay[(UNI ETH !ID) uap]: 
-ItemDisplay[(UNI ETH !ID) skp]: 
-ItemDisplay[(UNI ETH !ID) xkp]: 
-ItemDisplay[(UNI ETH !ID) ukp]: 
-ItemDisplay[(UNI ETH !ID) hlm]: 
-ItemDisplay[(UNI ETH !ID) xlm]: 
-ItemDisplay[(UNI ETH !ID) ulm]: 
-ItemDisplay[(UNI ETH !ID) fhl]: 
-ItemDisplay[(UNI ETH !ID) xhl]: 
-ItemDisplay[(UNI ETH !ID) uhl]: 
-ItemDisplay[(UNI ETH !ID) msk]: 
-ItemDisplay[(UNI ETH !ID) xsk]: 
-ItemDisplay[(UNI ETH !ID) usk]: 
-ItemDisplay[(UNI ETH !ID) bhm]: 
-ItemDisplay[(UNI ETH !ID) xh9]: 
-ItemDisplay[(UNI ETH !ID) uh9]: 
-ItemDisplay[(UNI ETH !ID) ghm]: 
-ItemDisplay[(UNI ETH !ID) xhm]: 
-ItemDisplay[(UNI ETH !ID) uhm]: 
-ItemDisplay[(UNI ETH !ID) crn]: 
-ItemDisplay[(UNI ETH !ID) xrn]: 
-ItemDisplay[(UNI ETH !ID) urn]: 
-ItemDisplay[(UNI ETH !ID) qui]: 
-ItemDisplay[(UNI ETH !ID) xui]: 
-ItemDisplay[(UNI ETH !ID) uui]: 
-ItemDisplay[(UNI ETH !ID) lea]: 
-ItemDisplay[(UNI ETH !ID) xea]: 
-ItemDisplay[(UNI ETH !ID) uea]: 
-ItemDisplay[(UNI ETH !ID) hla]: 
-ItemDisplay[(UNI ETH !ID) xla]: 
-ItemDisplay[(UNI ETH !ID) ula]: 
-ItemDisplay[(UNI ETH !ID) stu]: 
-ItemDisplay[(UNI ETH !ID) xtu]: 
-ItemDisplay[(UNI ETH !ID) utu]: 
-ItemDisplay[(UNI ETH !ID) rng]: 
-ItemDisplay[(UNI ETH !ID) xng]: 
-ItemDisplay[(UNI ETH !ID) ung]: 
-ItemDisplay[(UNI ETH !ID) scl]: 
-ItemDisplay[(UNI ETH !ID) xcl]: 
-ItemDisplay[(UNI ETH !ID) ucl]: 
-ItemDisplay[(UNI ETH !ID) brs]: 
-ItemDisplay[(UNI ETH !ID) xrs]: 
-ItemDisplay[(UNI ETH !ID) urs]: 
-ItemDisplay[(UNI ETH !ID) chn]: 
-ItemDisplay[(UNI ETH !ID) xhn]: 
-ItemDisplay[(UNI ETH !ID) uhn]: 
-ItemDisplay[(UNI ETH !ID) spl]: 
-ItemDisplay[(UNI ETH !ID) xpl]: 
-ItemDisplay[(UNI ETH !ID) upl]: 
-ItemDisplay[(UNI ETH !ID) ltp]: 
-ItemDisplay[(UNI ETH !ID) xtp]: 
-ItemDisplay[(UNI ETH !ID) utp]: 
-ItemDisplay[(UNI ETH !ID) fld]: 
-ItemDisplay[(UNI ETH !ID) xld]: 
-ItemDisplay[(UNI ETH !ID) uld]: 
-ItemDisplay[(UNI ETH !ID) plt]: 
-ItemDisplay[(UNI ETH !ID) xlt]: 
-ItemDisplay[(UNI ETH !ID) ult]: 
-ItemDisplay[(UNI ETH !ID) gth]: 
-ItemDisplay[(UNI ETH !ID) xth]: 
-ItemDisplay[(UNI ETH !ID) uth]: 
-ItemDisplay[(UNI ETH !ID) ful]: 
-ItemDisplay[(UNI ETH !ID) xul]: 
-ItemDisplay[(UNI ETH !ID) uul]: 
-ItemDisplay[(UNI ETH !ID) aar]: 
-ItemDisplay[(UNI ETH !ID) xar]: 
-ItemDisplay[(UNI ETH !ID) uar]: 
-ItemDisplay[(UNI ETH !ID) buc]: 
-ItemDisplay[(UNI ETH !ID) xuc]: 
-ItemDisplay[(UNI ETH !ID) uuc]: 
-ItemDisplay[(UNI ETH !ID) sml]: 
-ItemDisplay[(UNI ETH !ID) xml]: 
-ItemDisplay[(UNI ETH !ID) uml]: 
-ItemDisplay[(UNI ETH !ID) lrg]: 
-ItemDisplay[(UNI ETH !ID) xrg]: 
-ItemDisplay[(UNI ETH !ID) urg]: 
-ItemDisplay[(UNI ETH !ID) spk]: 
-ItemDisplay[(UNI ETH !ID) xpk]: 
-ItemDisplay[(UNI ETH !ID) upk]: 
-ItemDisplay[(UNI ETH !ID) kit]: 
-ItemDisplay[(UNI ETH !ID) xit]: 
-ItemDisplay[(UNI ETH !ID) uit]: 
-ItemDisplay[(UNI ETH !ID) bsh]: 
-ItemDisplay[(UNI ETH !ID) xsh]: 
-ItemDisplay[(UNI ETH !ID) ush]: 
-ItemDisplay[(UNI ETH !ID) tow]: 
-ItemDisplay[(UNI ETH !ID) xow]: 
-ItemDisplay[(UNI ETH !ID) uow]: 
-ItemDisplay[(UNI ETH !ID) gts]: 
-ItemDisplay[(UNI ETH !ID) xts]: 
-ItemDisplay[(UNI ETH !ID) uts]: 
-ItemDisplay[(UNI ETH !ID) lgl]: 
-ItemDisplay[(UNI ETH !ID) xlg]: 
-ItemDisplay[(UNI ETH !ID) ulg]: 
-ItemDisplay[(UNI ETH !ID) vgl]: 
-ItemDisplay[(UNI ETH !ID) xvg]: 
-ItemDisplay[(UNI ETH !ID) uvg]: 
-ItemDisplay[(UNI ETH !ID) mgl]: 
-ItemDisplay[(UNI ETH !ID) xmg]: 
-ItemDisplay[(UNI ETH !ID) umg]: 
-ItemDisplay[(UNI ETH !ID) tgl]: 
-ItemDisplay[(UNI ETH !ID) xtg]: 
-ItemDisplay[(UNI ETH !ID) utg]: 
-ItemDisplay[(UNI ETH !ID) hgl]: 
-ItemDisplay[(UNI ETH !ID) xhg]: 
-ItemDisplay[(UNI ETH !ID) uhg]: 
-ItemDisplay[(UNI ETH !ID) lbt]: 
-ItemDisplay[(UNI ETH !ID) xlb]: 
-ItemDisplay[(UNI ETH !ID) ulb]: 
-ItemDisplay[(UNI ETH !ID) vbt]: 
-ItemDisplay[(UNI ETH !ID) xvb]: 
-ItemDisplay[(UNI ETH !ID) uvb]: 
-ItemDisplay[(UNI ETH !ID) mbt]: 
-ItemDisplay[(UNI ETH !ID) xmb]: 
-ItemDisplay[(UNI ETH !ID) umb]: 
-ItemDisplay[(UNI ETH !ID) tbt]: 
-ItemDisplay[(UNI ETH !ID) xtb]: 
-ItemDisplay[(UNI ETH !ID) utb]: 
-ItemDisplay[(UNI ETH !ID) hbt]: 
-ItemDisplay[(UNI ETH !ID) xhb]: 
-ItemDisplay[(UNI ETH !ID) uhb]: 
-ItemDisplay[(UNI ETH !ID) lbl]: 
-ItemDisplay[(UNI ETH !ID) zlb]: 
-ItemDisplay[(UNI ETH !ID) ulc]: 
-ItemDisplay[(UNI ETH !ID) vbl]: 
-ItemDisplay[(UNI ETH !ID) zvb]: 
-ItemDisplay[(UNI ETH !ID) uvc]: 
-ItemDisplay[(UNI ETH !ID) mbl]: 
-ItemDisplay[(UNI ETH !ID) zmb]: 
-ItemDisplay[(UNI ETH !ID) umc]: 
-ItemDisplay[(UNI ETH !ID) tbl]: 
-ItemDisplay[(UNI ETH !ID) ztb]: 
-ItemDisplay[(UNI ETH !ID) utc]: 
-ItemDisplay[(UNI ETH !ID) hbl]: 
-ItemDisplay[(UNI ETH !ID) zhb]: 
-ItemDisplay[(UNI ETH !ID) uhc]: 
-ItemDisplay[(UNI ETH !ID) ci0]: 
-ItemDisplay[(UNI ETH !ID) ci2]: 
-ItemDisplay[(UNI ETH !ID) ci3]: 
-ItemDisplay[(UNI ETH !ID) ci1]: 
-ItemDisplay[(UNI ETH !ID) dr1]: 
-ItemDisplay[(UNI ETH !ID) dr6]: 
-ItemDisplay[(UNI ETH !ID) drb]: 
-ItemDisplay[(UNI ETH !ID) dr2]: 
-ItemDisplay[(UNI ETH !ID) dr7]: 
-ItemDisplay[(UNI ETH !ID) drc]: 
-ItemDisplay[(UNI ETH !ID) dr3]: 
-ItemDisplay[(UNI ETH !ID) dr8]: 
-ItemDisplay[(UNI ETH !ID) drd]: 
-ItemDisplay[(UNI ETH !ID) dr4]: 
-ItemDisplay[(UNI ETH !ID) dr9]: 
-ItemDisplay[(UNI ETH !ID) dre]: 
-ItemDisplay[(UNI ETH !ID) dr5]: 
-ItemDisplay[(UNI ETH !ID) dra]: 
-ItemDisplay[(UNI ETH !ID) drf]: 
-ItemDisplay[(UNI ETH !ID) ba1]: 
-ItemDisplay[(UNI ETH !ID) ba6]: 
-ItemDisplay[(UNI ETH !ID) bab]: 
-ItemDisplay[(UNI ETH !ID) ba2]: 
-ItemDisplay[(UNI ETH !ID) ba7]: 
-ItemDisplay[(UNI ETH !ID) bac]: 
-ItemDisplay[(UNI ETH !ID) ba3]: 
-ItemDisplay[(UNI ETH !ID) ba8]: 
-ItemDisplay[(UNI ETH !ID) bad]: 
-ItemDisplay[(UNI ETH !ID) ba4]: 
-ItemDisplay[(UNI ETH !ID) ba9]: 
-ItemDisplay[(UNI ETH !ID) bae]: 
-ItemDisplay[(UNI ETH !ID) ba5]: 
-ItemDisplay[(UNI ETH !ID) baa]: 
-ItemDisplay[(UNI ETH !ID) baf]: 
-ItemDisplay[(UNI ETH !ID) pa1]: 
-ItemDisplay[(UNI ETH !ID) pa6]: 
-ItemDisplay[(UNI ETH !ID) pab]: 
-ItemDisplay[(UNI ETH !ID) pa2]: 
-ItemDisplay[(UNI ETH !ID) pa7]: 
-ItemDisplay[(UNI ETH !ID) pac]: 
-ItemDisplay[(UNI ETH !ID) pa3]: 
-ItemDisplay[(UNI ETH !ID) pa8]: 
-ItemDisplay[(UNI ETH !ID) pad]: 
-ItemDisplay[(UNI ETH !ID) pa4]: 
-ItemDisplay[(UNI ETH !ID) pa9]: 
-ItemDisplay[(UNI ETH !ID) pae]: 
-ItemDisplay[(UNI ETH !ID) pa5]: 
-ItemDisplay[(UNI ETH !ID) paa]: 
-ItemDisplay[(UNI ETH !ID) paf]: 
-ItemDisplay[(UNI ETH !ID) ne1]: 
-ItemDisplay[(UNI ETH !ID) ne6]: 
-ItemDisplay[(UNI ETH !ID) neb]: 
-ItemDisplay[(UNI ETH !ID) ne2]: 
-ItemDisplay[(UNI ETH !ID) ne7]: 
-ItemDisplay[(UNI ETH !ID) neg]: 
-ItemDisplay[(UNI ETH !ID) ne3]: 
-ItemDisplay[(UNI ETH !ID) ne8]: 
-ItemDisplay[(UNI ETH !ID) ned]: 
-ItemDisplay[(UNI ETH !ID) ne4]: 
-ItemDisplay[(UNI ETH !ID) ne9]: 
-ItemDisplay[(UNI ETH !ID) nee]: 
-ItemDisplay[(UNI ETH !ID) ne5]: 
-ItemDisplay[(UNI ETH !ID) nea]: 
-ItemDisplay[(UNI ETH !ID) nef]: 
+ItemDisplay[(SET !ID) cap]: 
+ItemDisplay[(SET !ID) xap]: 
+ItemDisplay[(SET !ID) uap]: 
+ItemDisplay[(SET !ID) skp]: 
+ItemDisplay[(SET !ID) xkp]: 
+ItemDisplay[(SET !ID) ukp]: 
+ItemDisplay[(SET !ID) hlm]: 
+ItemDisplay[(SET !ID) xlm]: 
+ItemDisplay[(SET !ID) ulm]: 
+ItemDisplay[(SET !ID) fhl]: 
+ItemDisplay[(SET !ID) xhl]: 
+ItemDisplay[(SET !ID) uhl]: 
+ItemDisplay[(SET !ID) msk]: 
+ItemDisplay[(SET !ID) xsk]: 
+ItemDisplay[(SET !ID) usk]: 
+ItemDisplay[(SET !ID) bhm]: 
+ItemDisplay[(SET !ID) xh9]: 
+ItemDisplay[(SET !ID) uh9]: 
+ItemDisplay[(SET !ID) ghm]: 
+ItemDisplay[(SET !ID) xhm]: 
+ItemDisplay[(SET !ID) uhm]: 
+ItemDisplay[(SET !ID) crn]: 
+ItemDisplay[(SET !ID) xrn]: 
+ItemDisplay[(SET !ID) urn]: 
+ItemDisplay[(SET !ID) qui]: 
+ItemDisplay[(SET !ID) xui]: 
+ItemDisplay[(SET !ID) uui]: 
+ItemDisplay[(SET !ID) lea]: 
+ItemDisplay[(SET !ID) xea]: 
+ItemDisplay[(SET !ID) uea]: 
+ItemDisplay[(SET !ID) hla]: 
+ItemDisplay[(SET !ID) xla]: 
+ItemDisplay[(SET !ID) ula]: 
+ItemDisplay[(SET !ID) stu]: 
+ItemDisplay[(SET !ID) xtu]: 
+ItemDisplay[(SET !ID) utu]: 
+ItemDisplay[(SET !ID) rng]: 
+ItemDisplay[(SET !ID) xng]: 
+ItemDisplay[(SET !ID) ung]: 
+ItemDisplay[(SET !ID) scl]: 
+ItemDisplay[(SET !ID) xcl]: 
+ItemDisplay[(SET !ID) ucl]: 
+ItemDisplay[(SET !ID) brs]: 
+ItemDisplay[(SET !ID) xrs]: 
+ItemDisplay[(SET !ID) urs]: 
+ItemDisplay[(SET !ID) chn]: 
+ItemDisplay[(SET !ID) xhn]: 
+ItemDisplay[(SET !ID) uhn]: 
+ItemDisplay[(SET !ID) spl]: 
+ItemDisplay[(SET !ID) xpl]: 
+ItemDisplay[(SET !ID) upl]: 
+ItemDisplay[(SET !ID) ltp]: 
+ItemDisplay[(SET !ID) xtp]: 
+ItemDisplay[(SET !ID) utp]: 
+ItemDisplay[(SET !ID) fld]: 
+ItemDisplay[(SET !ID) xld]: 
+ItemDisplay[(SET !ID) uld]: 
+ItemDisplay[(SET !ID) plt]: 
+ItemDisplay[(SET !ID) xlt]: 
+ItemDisplay[(SET !ID) ult]: 
+ItemDisplay[(SET !ID) gth]: 
+ItemDisplay[(SET !ID) xth]: 
+ItemDisplay[(SET !ID) uth]: 
+ItemDisplay[(SET !ID) ful]: 
+ItemDisplay[(SET !ID) xul]: 
+ItemDisplay[(SET !ID) uul]: 
+ItemDisplay[(SET !ID) aar]: 
+ItemDisplay[(SET !ID) xar]: 
+ItemDisplay[(SET !ID) uar]: 
+ItemDisplay[(SET !ID) buc]: 
+ItemDisplay[(SET !ID) xuc]: 
+ItemDisplay[(SET !ID) uuc]: 
+ItemDisplay[(SET !ID) sml]: 
+ItemDisplay[(SET !ID) xml]: 
+ItemDisplay[(SET !ID) uml]: 
+ItemDisplay[(SET !ID) lrg]: 
+ItemDisplay[(SET !ID) xrg]: 
+ItemDisplay[(SET !ID) urg]: 
+ItemDisplay[(SET !ID) spk]: 
+ItemDisplay[(SET !ID) xpk]: 
+ItemDisplay[(SET !ID) upk]: 
+ItemDisplay[(SET !ID) kit]: 
+ItemDisplay[(SET !ID) xit]: 
+ItemDisplay[(SET !ID) uit]: 
+ItemDisplay[(SET !ID) bsh]: 
+ItemDisplay[(SET !ID) xsh]: 
+ItemDisplay[(SET !ID) ush]: 
+ItemDisplay[(SET !ID) tow]: 
+ItemDisplay[(SET !ID) xow]: 
+ItemDisplay[(SET !ID) uow]: 
+ItemDisplay[(SET !ID) gts]: 
+ItemDisplay[(SET !ID) xts]: 
+ItemDisplay[(SET !ID) uts]: 
+ItemDisplay[(SET !ID) lgl]: 
+ItemDisplay[(SET !ID) xlg]: 
+ItemDisplay[(SET !ID) ulg]: 
+ItemDisplay[(SET !ID) vgl]: 
+ItemDisplay[(SET !ID) xvg]: 
+ItemDisplay[(SET !ID) uvg]: 
+ItemDisplay[(SET !ID) mgl]: 
+ItemDisplay[(SET !ID) xmg]: 
+ItemDisplay[(SET !ID) umg]: 
+ItemDisplay[(SET !ID) tgl]: 
+ItemDisplay[(SET !ID) xtg]: 
+ItemDisplay[(SET !ID) utg]: 
+ItemDisplay[(SET !ID) hgl]: 
+ItemDisplay[(SET !ID) xhg]: 
+ItemDisplay[(SET !ID) uhg]: 
+ItemDisplay[(SET !ID) lbt]: 
+ItemDisplay[(SET !ID) xlb]: 
+ItemDisplay[(SET !ID) ulb]: 
+ItemDisplay[(SET !ID) vbt]: 
+ItemDisplay[(SET !ID) xvb]: 
+ItemDisplay[(SET !ID) uvb]: 
+ItemDisplay[(SET !ID) mbt]: 
+ItemDisplay[(SET !ID) xmb]: 
+ItemDisplay[(SET !ID) umb]: 
+ItemDisplay[(SET !ID) tbt]: 
+ItemDisplay[(SET !ID) xtb]: 
+ItemDisplay[(SET !ID) utb]: 
+ItemDisplay[(SET !ID) hbt]: 
+ItemDisplay[(SET !ID) xhb]: 
+ItemDisplay[(SET !ID) uhb]: 
+ItemDisplay[(SET !ID) lbl]: 
+ItemDisplay[(SET !ID) zlb]: 
+ItemDisplay[(SET !ID) ulc]: 
+ItemDisplay[(SET !ID) vbl]: 
+ItemDisplay[(SET !ID) zvb]: 
+ItemDisplay[(SET !ID) uvc]: 
+ItemDisplay[(SET !ID) mbl]: 
+ItemDisplay[(SET !ID) zmb]: 
+ItemDisplay[(SET !ID) umc]: 
+ItemDisplay[(SET !ID) tbl]: 
+ItemDisplay[(SET !ID) ztb]: 
+ItemDisplay[(SET !ID) utc]: 
+ItemDisplay[(SET !ID) hbl]: 
+ItemDisplay[(SET !ID) zhb]: 
+ItemDisplay[(SET !ID) uhc]: 
+ItemDisplay[(SET !ID) ci0]: 
+ItemDisplay[(SET !ID) ci2]: 
+ItemDisplay[(SET !ID) ci3]: 
+ItemDisplay[(SET !ID) ci1]: 
+ItemDisplay[(SET !ID) dr1]: 
+ItemDisplay[(SET !ID) dr6]: 
+ItemDisplay[(SET !ID) drb]: 
+ItemDisplay[(SET !ID) dr2]: 
+ItemDisplay[(SET !ID) dr7]: 
+ItemDisplay[(SET !ID) drc]: 
+ItemDisplay[(SET !ID) dr3]: 
+ItemDisplay[(SET !ID) dr8]: 
+ItemDisplay[(SET !ID) drd]: 
+ItemDisplay[(SET !ID) dr4]: 
+ItemDisplay[(SET !ID) dr9]: 
+ItemDisplay[(SET !ID) dre]: 
+ItemDisplay[(SET !ID) dr5]: 
+ItemDisplay[(SET !ID) dra]: 
+ItemDisplay[(SET !ID) drf]: 
+ItemDisplay[(SET !ID) ba1]: 
+ItemDisplay[(SET !ID) ba6]: 
+ItemDisplay[(SET !ID) bab]: 
+ItemDisplay[(SET !ID) ba2]: 
+ItemDisplay[(SET !ID) ba7]: 
+ItemDisplay[(SET !ID) bac]: 
+ItemDisplay[(SET !ID) ba3]: 
+ItemDisplay[(SET !ID) ba8]: 
+ItemDisplay[(SET !ID) bad]: 
+ItemDisplay[(SET !ID) ba4]: 
+ItemDisplay[(SET !ID) ba9]: 
+ItemDisplay[(SET !ID) bae]: 
+ItemDisplay[(SET !ID) ba5]: 
+ItemDisplay[(SET !ID) baa]: 
+ItemDisplay[(SET !ID) baf]: 
+ItemDisplay[(SET !ID) pa1]: 
+ItemDisplay[(SET !ID) pa6]: 
+ItemDisplay[(SET !ID) pab]: 
+ItemDisplay[(SET !ID) pa2]: 
+ItemDisplay[(SET !ID) pa7]: 
+ItemDisplay[(SET !ID) pac]: 
+ItemDisplay[(SET !ID) pa3]: 
+ItemDisplay[(SET !ID) pa8]: 
+ItemDisplay[(SET !ID) pad]: 
+ItemDisplay[(SET !ID) pa4]: 
+ItemDisplay[(SET !ID) pa9]: 
+ItemDisplay[(SET !ID) pae]: 
+ItemDisplay[(SET !ID) pa5]: 
+ItemDisplay[(SET !ID) paa]: 
+ItemDisplay[(SET !ID) paf]: 
+ItemDisplay[(SET !ID) ne1]: 
+ItemDisplay[(SET !ID) ne6]: 
+ItemDisplay[(SET !ID) neb]: 
+ItemDisplay[(SET !ID) ne2]: 
+ItemDisplay[(SET !ID) ne7]: 
+ItemDisplay[(SET !ID) neg]: 
+ItemDisplay[(SET !ID) ne3]: 
+ItemDisplay[(SET !ID) ne8]: 
+ItemDisplay[(SET !ID) ned]: 
+ItemDisplay[(SET !ID) ne4]: 
+ItemDisplay[(SET !ID) ne9]: 
+ItemDisplay[(SET !ID) nee]: 
+ItemDisplay[(SET !ID) ne5]: 
+ItemDisplay[(SET !ID) nea]: 
+ItemDisplay[(SET !ID) nef]: 
 
 //Weapons
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-ItemDisplay[(UNI ETH !ID)   hax]: 
-ItemDisplay[(UNI ETH !ID)   9ha]: 
-ItemDisplay[(UNI ETH !ID)   7ha]: 
-ItemDisplay[(UNI ETH !ID)   axe]: 
-ItemDisplay[(UNI ETH !ID)   9ax]: 
-ItemDisplay[(UNI ETH !ID)   7ax]: 
-ItemDisplay[(UNI ETH !ID)   2ax]: 
-ItemDisplay[(UNI ETH !ID)   92a]: 
-ItemDisplay[(UNI ETH !ID)   72a]: 
-ItemDisplay[(UNI ETH !ID) mpi]: 
-ItemDisplay[(UNI ETH !ID)   9mp]: 
-ItemDisplay[(UNI ETH !ID)   7mp]: 
-ItemDisplay[(UNI ETH !ID)   wax]: 
-ItemDisplay[(UNI ETH !ID)   9wa]: 
-ItemDisplay[(UNI ETH !ID)   7wa]: 
-ItemDisplay[(UNI ETH !ID)   lax]: 
-ItemDisplay[(UNI ETH !ID)   9la]: 
-ItemDisplay[(UNI ETH !ID)   7la]: 
-ItemDisplay[(UNI ETH !ID)   bax]: 
-ItemDisplay[(UNI ETH !ID)   9ba]: 
-ItemDisplay[(UNI ETH !ID)   7ba]: 
-ItemDisplay[(UNI ETH !ID)   btx]: 
-ItemDisplay[(UNI ETH !ID)   9bt]: 
-ItemDisplay[(UNI ETH !ID)   7bt]: 
-ItemDisplay[(UNI ETH !ID)   gax]: 
-ItemDisplay[(UNI ETH !ID)   9ga]: 
-ItemDisplay[(UNI ETH !ID)   7ga]: 
-ItemDisplay[(UNI ETH !ID)   gix]: 
-ItemDisplay[(UNI ETH !ID)   9gi]: 
-ItemDisplay[(UNI ETH !ID)   7gi]: 
-ItemDisplay[(UNI ETH !ID)   clb]: 
-ItemDisplay[(UNI ETH !ID)   9cl]: 
-ItemDisplay[(UNI ETH !ID)   7cl]: 
-ItemDisplay[(UNI ETH !ID)   spc]: 
-ItemDisplay[(UNI ETH !ID)   9sp]: 
-ItemDisplay[(UNI ETH !ID)   7sp]: 
-ItemDisplay[(UNI ETH !ID)   mac]: 
-ItemDisplay[(UNI ETH !ID)   9ma]: 
-ItemDisplay[(UNI ETH !ID)   7ma]: 
-ItemDisplay[(UNI ETH !ID)   mst]: 
-ItemDisplay[(UNI ETH !ID)   9mt]: 
-ItemDisplay[(UNI ETH !ID)   7mt]: 
-ItemDisplay[(UNI ETH !ID)   fla]: 
-ItemDisplay[(UNI ETH !ID)   9fl]: 
-ItemDisplay[(UNI ETH !ID)   7fl]: 
-ItemDisplay[(UNI ETH !ID)   whm]: 
-ItemDisplay[(UNI ETH !ID)   9wh]: 
-ItemDisplay[(UNI ETH !ID)   7wh]: 
-ItemDisplay[(UNI ETH !ID)   mau]: 
-ItemDisplay[(UNI ETH !ID)   9m9]: 
-ItemDisplay[(UNI ETH !ID)   7m7]: 
-ItemDisplay[(UNI ETH !ID)   gma]: 
-ItemDisplay[(UNI ETH !ID)   9gm]: 
-ItemDisplay[(UNI ETH !ID)   7gm]: 
-ItemDisplay[(UNI ETH !ID)   ssd]: 
-ItemDisplay[(UNI ETH !ID)   9ss]: 
-ItemDisplay[(UNI ETH !ID)   7ss]: 
-ItemDisplay[(UNI ETH !ID)   scm]: 
-ItemDisplay[(UNI ETH !ID)   9sm]: 
-ItemDisplay[(UNI ETH !ID)   7sm]: 
-ItemDisplay[(UNI ETH !ID)   sbr]: 
-ItemDisplay[(UNI ETH !ID)   9sb]: 
-ItemDisplay[(UNI ETH !ID)   7sb]: 
-ItemDisplay[(UNI ETH !ID)   flc]: 
-ItemDisplay[(UNI ETH !ID)   9fc]: 
-ItemDisplay[(UNI ETH !ID)   7fc]: 
-ItemDisplay[(UNI ETH !ID)   crs]: 
-ItemDisplay[(UNI ETH !ID)   9cr]: 
-ItemDisplay[(UNI ETH !ID)   7cr]: 
-ItemDisplay[(UNI ETH !ID)   bsd]: 
-ItemDisplay[(UNI ETH !ID)   9bs]: 
-ItemDisplay[(UNI ETH !ID)   7bs]: 
-ItemDisplay[(UNI ETH !ID)   lsd]: 
-ItemDisplay[(UNI ETH !ID)   9ls]: 
-ItemDisplay[(UNI ETH !ID)   7ls]: 
-ItemDisplay[(UNI ETH !ID)   wsd]: 
-ItemDisplay[(UNI ETH !ID)   9wd]: 
-ItemDisplay[(UNI ETH !ID)   7wd]: 
-ItemDisplay[(UNI ETH !ID)   2hs]: 
-ItemDisplay[(UNI ETH !ID)   92h]: 
-ItemDisplay[(UNI ETH !ID)   72h]: 
-ItemDisplay[(UNI ETH !ID)   clm]: 
-ItemDisplay[(UNI ETH !ID)   9cm]: 
-ItemDisplay[(UNI ETH !ID)   7cm]: 
-ItemDisplay[(UNI ETH !ID)   gis]: 
-ItemDisplay[(UNI ETH !ID)   9gs]: 
-ItemDisplay[(UNI ETH !ID)   7gs]: 
-ItemDisplay[(UNI ETH !ID)   bsw]: 
-ItemDisplay[(UNI ETH !ID)   9b9]: 
-ItemDisplay[(UNI ETH !ID)   7b7]: 
-ItemDisplay[(UNI ETH !ID)   flb]: 
-ItemDisplay[(UNI ETH !ID)   9fb]: 
-ItemDisplay[(UNI ETH !ID)   7fb]: 
-ItemDisplay[(UNI ETH !ID)   gsd]: 
-ItemDisplay[(UNI ETH !ID)   9gd]: 
-ItemDisplay[(UNI ETH !ID)   7gd]: 
-ItemDisplay[(UNI ETH !ID)   dgr]: 
-ItemDisplay[(UNI ETH !ID)   9dg]: 
-ItemDisplay[(UNI ETH !ID)   7dg]: 
-ItemDisplay[(UNI ETH !ID)   dir]: 
-ItemDisplay[(UNI ETH !ID)   9di]: 
-ItemDisplay[(UNI ETH !ID)   7di]: 
-ItemDisplay[(UNI ETH !ID)   kri]: 
-ItemDisplay[(UNI ETH !ID)   9kr]: 
-ItemDisplay[(UNI ETH !ID)   7kr]: 
-ItemDisplay[(UNI ETH !ID)   bld]: 
-ItemDisplay[(UNI ETH !ID)   9bl]: 
-ItemDisplay[(UNI ETH !ID)   7bl]: 
-ItemDisplay[(UNI ETH !ID)   tkf]: 
-ItemDisplay[(UNI ETH !ID)   9tk]: 
-ItemDisplay[(UNI ETH !ID)   7tk]: 
-ItemDisplay[(UNI ETH !ID)   tax]: 
-ItemDisplay[(UNI ETH !ID)   9ta]: 
-ItemDisplay[(UNI ETH !ID)   7ta]: 
-ItemDisplay[(UNI ETH !ID)   bkf]: 
-ItemDisplay[(UNI ETH !ID)   9bk]: 
-ItemDisplay[(UNI ETH !ID)   7bk]: 
-ItemDisplay[(UNI ETH !ID)   bal]: 
-ItemDisplay[(UNI ETH !ID)   9b8]: 
-ItemDisplay[(UNI ETH !ID)   7b8]: 
-ItemDisplay[(UNI ETH !ID)   jav]: 
-ItemDisplay[(UNI ETH !ID)   9ja]: 
-ItemDisplay[(UNI ETH !ID)   7ja]: 
-ItemDisplay[(UNI ETH !ID)   pil]: 
-ItemDisplay[(UNI ETH !ID)   9pi]: 
-ItemDisplay[(UNI ETH !ID)   7pi]: 
-ItemDisplay[(UNI ETH !ID)   ssp]: 
-ItemDisplay[(UNI ETH !ID)   9s9]: 
-ItemDisplay[(UNI ETH !ID)   7s7]: 
-ItemDisplay[(UNI ETH !ID)   glv]: 
-ItemDisplay[(UNI ETH !ID)   9gl]: 
-ItemDisplay[(UNI ETH !ID)   7gl]: 
-ItemDisplay[(UNI ETH !ID)   tsp]: 
-ItemDisplay[(UNI ETH !ID)   9ts]: 
-ItemDisplay[(UNI ETH !ID)   7ts]: 
-ItemDisplay[(UNI ETH !ID)   spr]: 
-ItemDisplay[(UNI ETH !ID)   9sr]: 
-ItemDisplay[(UNI ETH !ID)   7sr]: 
-ItemDisplay[(UNI ETH !ID)   tri]: 
-ItemDisplay[(UNI ETH !ID)   9tr]: 
-ItemDisplay[(UNI ETH !ID)   7tr]: 
-ItemDisplay[(UNI ETH !ID)   brn]: 
-ItemDisplay[(UNI ETH !ID)   9br]: 
-ItemDisplay[(UNI ETH !ID)   7br]: 
-ItemDisplay[(UNI ETH !ID)   spt]: 
-ItemDisplay[(UNI ETH !ID)   9st]: 
-ItemDisplay[(UNI ETH !ID)   7st]: 
-ItemDisplay[(UNI ETH !ID)   pik]: 
-ItemDisplay[(UNI ETH !ID)   9p9]: 
-ItemDisplay[(UNI ETH !ID)   7p7]: 
-ItemDisplay[(UNI ETH !ID)   bar]: 
-ItemDisplay[(UNI ETH !ID)   9b7]: 
-ItemDisplay[(UNI ETH !ID)   7o7]: 
-ItemDisplay[(UNI ETH !ID)   vou]: 
-ItemDisplay[(UNI ETH !ID)   9vo]: 
-ItemDisplay[(UNI ETH !ID)   7vo]: 
-ItemDisplay[(UNI ETH !ID)   scy]: 
-ItemDisplay[(UNI ETH !ID)   9s8]: 
-ItemDisplay[(UNI ETH !ID)   7s8]: 
-ItemDisplay[(UNI ETH !ID)   pax]: 
-ItemDisplay[(UNI ETH !ID)   9pa]: 
-ItemDisplay[(UNI ETH !ID)   7pa]: 
-ItemDisplay[(UNI ETH !ID)   hal]: 
-ItemDisplay[(UNI ETH !ID)   9h9]: 
-ItemDisplay[(UNI ETH !ID)   7h7]: 
-ItemDisplay[(UNI ETH !ID)   wsc]: 
-ItemDisplay[(UNI ETH !ID)   9wc]: 
-ItemDisplay[(UNI ETH !ID)   7wc]: 
-ItemDisplay[(UNI ETH !ID)   sbw]: 
-ItemDisplay[(UNI ETH !ID)   8sb]: 
-ItemDisplay[(UNI ETH !ID)   6sb]: 
-ItemDisplay[(UNI ETH !ID)   hbw]: 
-ItemDisplay[(UNI ETH !ID)   8hb]: 
-ItemDisplay[(UNI ETH !ID)   6hb]: 
-ItemDisplay[(UNI ETH !ID)   lbw]: 
-ItemDisplay[(UNI ETH !ID)   8lb]: 
-ItemDisplay[(UNI ETH !ID)   6lb]: 
-ItemDisplay[(UNI ETH !ID)   cbw]: 
-ItemDisplay[(UNI ETH !ID)   8cb]: 
-ItemDisplay[(UNI ETH !ID)   6cb]: 
-ItemDisplay[(UNI ETH !ID)   sbb]: 
-ItemDisplay[(UNI ETH !ID)   8s8]: 
-ItemDisplay[(UNI ETH !ID)   6s7]: 
-ItemDisplay[(UNI ETH !ID)   lbb]: 
-ItemDisplay[(UNI ETH !ID)   8l8]: 
-ItemDisplay[(UNI ETH !ID)   6l7]: 
-ItemDisplay[(UNI ETH !ID)   swb]: 
-ItemDisplay[(UNI ETH !ID)   8sw]: 
-ItemDisplay[(UNI ETH !ID)   6sw]: 
-ItemDisplay[(UNI ETH !ID)   lwb]: 
-ItemDisplay[(UNI ETH !ID)   8lw]: 
-ItemDisplay[(UNI ETH !ID)   6lw]: 
-ItemDisplay[(UNI ETH !ID)   lxb]: 
-ItemDisplay[(UNI ETH !ID)   8lx]: 
-ItemDisplay[(UNI ETH !ID)   6lx]: 
-ItemDisplay[(UNI ETH !ID)   mxb]: 
-ItemDisplay[(UNI ETH !ID)   8mx]: 
-ItemDisplay[(UNI ETH !ID)   6mx]: 
-ItemDisplay[(UNI ETH !ID)   hxb]: 
-ItemDisplay[(UNI ETH !ID)   8hx]: 
-ItemDisplay[(UNI ETH !ID)   6hx]: 
-ItemDisplay[(UNI ETH !ID)   rxb]: 
-ItemDisplay[(UNI ETH !ID)   8rx]: 
-ItemDisplay[(UNI ETH !ID)   6rx]: 
-ItemDisplay[(UNI ETH !ID)   sst]: 
-ItemDisplay[(UNI ETH !ID)   8ss]: 
-ItemDisplay[(UNI ETH !ID)   6ss]: 
-ItemDisplay[(UNI ETH !ID)   lst]: 
-ItemDisplay[(UNI ETH !ID)   8ls]: 
-ItemDisplay[(UNI ETH !ID)   6ls]: 
-ItemDisplay[(UNI ETH !ID)   cst]: 
-ItemDisplay[(UNI ETH !ID)   8cs]: 
-ItemDisplay[(UNI ETH !ID)   6cs]: 
-ItemDisplay[(UNI ETH !ID)   bst]: 
-ItemDisplay[(UNI ETH !ID)   8bs]: 
-ItemDisplay[(UNI ETH !ID)   6bs]: 
-ItemDisplay[(UNI ETH !ID)   wst]: 
-ItemDisplay[(UNI ETH !ID)   8ws]: 
-ItemDisplay[(UNI ETH !ID)   6ws]: 
-ItemDisplay[(UNI ETH !ID)   wnd]: 
-ItemDisplay[(UNI ETH !ID)   9wn]: 
-ItemDisplay[(UNI ETH !ID)   7wn]: 
-ItemDisplay[(UNI ETH !ID)   ywn]: 
-ItemDisplay[(UNI ETH !ID)   9yw]: 
-ItemDisplay[(UNI ETH !ID)   7yw]: 
-ItemDisplay[(UNI ETH !ID)   bwn]: 
-ItemDisplay[(UNI ETH !ID)   9bw]: 
-ItemDisplay[(UNI ETH !ID)   7bw]: 
-ItemDisplay[(UNI ETH !ID)   gwn]: 
-ItemDisplay[(UNI ETH !ID)   9gw]: 
-ItemDisplay[(UNI ETH !ID)   7gw]: 
-ItemDisplay[(UNI ETH !ID)   scp]: 
-ItemDisplay[(UNI ETH !ID)   9sc]: 
-ItemDisplay[(UNI ETH !ID)   7sc]: 
-ItemDisplay[(UNI ETH !ID)   gsc]: 
-ItemDisplay[(UNI ETH !ID)   9qs]: 
-ItemDisplay[(UNI ETH !ID)   7qs]: 
-ItemDisplay[(UNI ETH !ID)   wsp]: 
-ItemDisplay[(UNI ETH !ID)   9ws]: 
-ItemDisplay[(UNI ETH !ID)   7ws]: 
-ItemDisplay[(UNI ETH !ID)   ktr]: 
-ItemDisplay[(UNI ETH !ID)   9ar]: 
-ItemDisplay[(UNI ETH !ID)   7ar]: 
-ItemDisplay[(UNI ETH !ID)   wrb]: 
-ItemDisplay[(UNI ETH !ID)   9wb]: 
-ItemDisplay[(UNI ETH !ID)   7wb]: 
-ItemDisplay[(UNI ETH !ID)   axf]: 
-ItemDisplay[(UNI ETH !ID)   9xf]: 
-ItemDisplay[(UNI ETH !ID)   7xf]: 
-ItemDisplay[(UNI ETH !ID)   ces]: 
-ItemDisplay[(UNI ETH !ID)   9cs]: 
-ItemDisplay[(UNI ETH !ID)   7cs]: 
-ItemDisplay[(UNI ETH !ID)   clw]: 
-ItemDisplay[(UNI ETH !ID)   9lw]: 
-ItemDisplay[(UNI ETH !ID)   7lw]: 
-ItemDisplay[(UNI ETH !ID)   btl]: 
-ItemDisplay[(UNI ETH !ID)   9tw]: 
-ItemDisplay[(UNI ETH !ID)   7tw]: 
-ItemDisplay[(UNI ETH !ID)   skr]: 
-ItemDisplay[(UNI ETH !ID)   9qr]: 
-ItemDisplay[(UNI ETH !ID)   7qr]: 
-ItemDisplay[(UNI ETH !ID)   ob1]: 
-ItemDisplay[(UNI ETH !ID)   ob6]: 
-ItemDisplay[(UNI ETH !ID)   obb]: 
-ItemDisplay[(UNI ETH !ID)   ob2]: 
-ItemDisplay[(UNI ETH !ID)   ob7]: 
-ItemDisplay[(UNI ETH !ID)   obc]: 
-ItemDisplay[(UNI ETH !ID)   ob3]: 
-ItemDisplay[(UNI ETH !ID)   ob8]: 
-ItemDisplay[(UNI ETH !ID)   obd]: 
-ItemDisplay[(UNI ETH !ID)   ob4]: 
-ItemDisplay[(UNI ETH !ID)   ob9]: 
-ItemDisplay[(UNI ETH !ID)   obe]: 
-ItemDisplay[(UNI ETH !ID)   ob5]: 
-ItemDisplay[(UNI ETH !ID)   oba]: 
-ItemDisplay[(UNI ETH !ID)   obf]: 
-ItemDisplay[(UNI ETH !ID)   am1]: 
-ItemDisplay[(UNI ETH !ID)   am6]: 
-ItemDisplay[(UNI ETH !ID)   amb]: 
-ItemDisplay[(UNI ETH !ID)   am2]: 
-ItemDisplay[(UNI ETH !ID)   am7]: 
-ItemDisplay[(UNI ETH !ID)   amc]: 
-ItemDisplay[(UNI ETH !ID)   am3]: 
-ItemDisplay[(UNI ETH !ID)   am8]: 
-ItemDisplay[(UNI ETH !ID)   amd]: 
-ItemDisplay[(UNI ETH !ID)   am4]: 
-ItemDisplay[(UNI ETH !ID)   am9]: 
-ItemDisplay[(UNI ETH !ID)   ame]: 
-ItemDisplay[(UNI ETH !ID)   am5]: 
-ItemDisplay[(UNI ETH !ID)   ama]: 
-ItemDisplay[(UNI ETH !ID)   amf]: 
+ItemDisplay[(SET !ID) hax]: 
+ItemDisplay[(SET !ID) 9ha]: 
+ItemDisplay[(SET !ID) 7ha]: 
+ItemDisplay[(SET !ID) axe]: 
+ItemDisplay[(SET !ID) 9ax]: 
+ItemDisplay[(SET !ID) 7ax]: 
+ItemDisplay[(SET !ID) 2ax]: 
+ItemDisplay[(SET !ID) 92a]: 
+ItemDisplay[(SET !ID) 72a]: 
+ItemDisplay[(SET !ID) mpi]: 
+ItemDisplay[(SET !ID) 9mp]: 
+ItemDisplay[(SET !ID) 7mp]: 
+ItemDisplay[(SET !ID) wax]: 
+ItemDisplay[(SET !ID) 9wa]: 
+ItemDisplay[(SET !ID) 7wa]: 
+ItemDisplay[(SET !ID) lax]: 
+ItemDisplay[(SET !ID) 9la]: 
+ItemDisplay[(SET !ID) 7la]: 
+ItemDisplay[(SET !ID) bax]: 
+ItemDisplay[(SET !ID) 9ba]: 
+ItemDisplay[(SET !ID) 7ba]: 
+ItemDisplay[(SET !ID) btx]: 
+ItemDisplay[(SET !ID) 9bt]: 
+ItemDisplay[(SET !ID) 7bt]: 
+ItemDisplay[(SET !ID) gax]: 
+ItemDisplay[(SET !ID) 9ga]: 
+ItemDisplay[(SET !ID) 7ga]: 
+ItemDisplay[(SET !ID) gix]: 
+ItemDisplay[(SET !ID) 9gi]: 
+ItemDisplay[(SET !ID) 7gi]: 
+ItemDisplay[(SET !ID) clb]: 
+ItemDisplay[(SET !ID) 9cl]: 
+ItemDisplay[(SET !ID) 7cl]: 
+ItemDisplay[(SET !ID) spc]: 
+ItemDisplay[(SET !ID) 9sp]: 
+ItemDisplay[(SET !ID) 7sp]: 
+ItemDisplay[(SET !ID) mac]: 
+ItemDisplay[(SET !ID) 9ma]: 
+ItemDisplay[(SET !ID) 7ma]: 
+ItemDisplay[(SET !ID) mst]: 
+ItemDisplay[(SET !ID) 9mt]: 
+ItemDisplay[(SET !ID) 7mt]: 
+ItemDisplay[(SET !ID) fla]: 
+ItemDisplay[(SET !ID) 9fl]: 
+ItemDisplay[(SET !ID) 7fl]: 
+ItemDisplay[(SET !ID) whm]: 
+ItemDisplay[(SET !ID) 9wh]: 
+ItemDisplay[(SET !ID) 7wh]: 
+ItemDisplay[(SET !ID) mau]: 
+ItemDisplay[(SET !ID) 9m9]: 
+ItemDisplay[(SET !ID) 7m7]: 
+ItemDisplay[(SET !ID) gma]: 
+ItemDisplay[(SET !ID) 9gm]: 
+ItemDisplay[(SET !ID) 7gm]: 
+ItemDisplay[(SET !ID) ssd]: 
+ItemDisplay[(SET !ID) 9ss]: 
+ItemDisplay[(SET !ID) 7ss]: 
+ItemDisplay[(SET !ID) scm]: 
+ItemDisplay[(SET !ID) 9sm]: 
+ItemDisplay[(SET !ID) 7sm]: 
+ItemDisplay[(SET !ID) sbr]: 
+ItemDisplay[(SET !ID) 9sb]: 
+ItemDisplay[(SET !ID) 7sb]: 
+ItemDisplay[(SET !ID) flc]: 
+ItemDisplay[(SET !ID) 9fc]: 
+ItemDisplay[(SET !ID) 7fc]: 
+ItemDisplay[(SET !ID) crs]: 
+ItemDisplay[(SET !ID) 9cr]: 
+ItemDisplay[(SET !ID) 7cr]: 
+ItemDisplay[(SET !ID) bsd]: 
+ItemDisplay[(SET !ID) 9bs]: 
+ItemDisplay[(SET !ID) 7bs]: 
+ItemDisplay[(SET !ID) lsd]: 
+ItemDisplay[(SET !ID) 9ls]: 
+ItemDisplay[(SET !ID) 7ls]: 
+ItemDisplay[(SET !ID) wsd]: 
+ItemDisplay[(SET !ID) 9wd]: 
+ItemDisplay[(SET !ID) 7wd]: 
+ItemDisplay[(SET !ID) 2hs]: 
+ItemDisplay[(SET !ID) 92h]: 
+ItemDisplay[(SET !ID) 72h]: 
+ItemDisplay[(SET !ID) clm]: 
+ItemDisplay[(SET !ID) 9cm]: 
+ItemDisplay[(SET !ID) 7cm]: 
+ItemDisplay[(SET !ID) gis]: 
+ItemDisplay[(SET !ID) 9gs]: 
+ItemDisplay[(SET !ID) 7gs]: 
+ItemDisplay[(SET !ID) bsw]: 
+ItemDisplay[(SET !ID) 9b9]: 
+ItemDisplay[(SET !ID) 7b7]: 
+ItemDisplay[(SET !ID) flb]: 
+ItemDisplay[(SET !ID) 9fb]: 
+ItemDisplay[(SET !ID) 7fb]: 
+ItemDisplay[(SET !ID) gsd]: 
+ItemDisplay[(SET !ID) 9gd]: 
+ItemDisplay[(SET !ID) 7gd]: 
+ItemDisplay[(SET !ID) dgr]: 
+ItemDisplay[(SET !ID) 9dg]: 
+ItemDisplay[(SET !ID) 7dg]: 
+ItemDisplay[(SET !ID) dir]: 
+ItemDisplay[(SET !ID) 9di]: 
+ItemDisplay[(SET !ID) 7di]: 
+ItemDisplay[(SET !ID) kri]: 
+ItemDisplay[(SET !ID) 9kr]: 
+ItemDisplay[(SET !ID) 7kr]: 
+ItemDisplay[(SET !ID) bld]: 
+ItemDisplay[(SET !ID) 9bl]: 
+ItemDisplay[(SET !ID) 7bl]: 
+ItemDisplay[(SET !ID) tkf]: 
+ItemDisplay[(SET !ID) 9tk]: 
+ItemDisplay[(SET !ID) 7tk]: 
+ItemDisplay[(SET !ID) tax]: 
+ItemDisplay[(SET !ID) 9ta]: 
+ItemDisplay[(SET !ID) 7ta]: 
+ItemDisplay[(SET !ID) bkf]: 
+ItemDisplay[(SET !ID) 9bk]: 
+ItemDisplay[(SET !ID) 7bk]: 
+ItemDisplay[(SET !ID) bal]: 
+ItemDisplay[(SET !ID) 9b8]: 
+ItemDisplay[(SET !ID) 7b8]: 
+ItemDisplay[(SET !ID) jav]: 
+ItemDisplay[(SET !ID) 9ja]: 
+ItemDisplay[(SET !ID) 7ja]: 
+ItemDisplay[(SET !ID) pil]: 
+ItemDisplay[(SET !ID) 9pi]: 
+ItemDisplay[(SET !ID) 7pi]: 
+ItemDisplay[(SET !ID) ssp]: 
+ItemDisplay[(SET !ID) 9s9]: 
+ItemDisplay[(SET !ID) 7s7]: 
+ItemDisplay[(SET !ID) glv]: 
+ItemDisplay[(SET !ID) 9gl]: 
+ItemDisplay[(SET !ID) 7gl]: 
+ItemDisplay[(SET !ID) tsp]: 
+ItemDisplay[(SET !ID) 9ts]: 
+ItemDisplay[(SET !ID) 7ts]: 
+ItemDisplay[(SET !ID) spr]: 
+ItemDisplay[(SET !ID) 9sr]: 
+ItemDisplay[(SET !ID) 7sr]: 
+ItemDisplay[(SET !ID) tri]: 
+ItemDisplay[(SET !ID) 9tr]: 
+ItemDisplay[(SET !ID) 7tr]: 
+ItemDisplay[(SET !ID) brn]: 
+ItemDisplay[(SET !ID) 9br]: 
+ItemDisplay[(SET !ID) 7br]: 
+ItemDisplay[(SET !ID) spt]: 
+ItemDisplay[(SET !ID) 9st]: 
+ItemDisplay[(SET !ID) 7st]: 
+ItemDisplay[(SET !ID) pik]: 
+ItemDisplay[(SET !ID) 9p9]: 
+ItemDisplay[(SET !ID) 7p7]: 
+ItemDisplay[(SET !ID) bar]: 
+ItemDisplay[(SET !ID) 9b7]: 
+ItemDisplay[(SET !ID) 7o7]: 
+ItemDisplay[(SET !ID) vou]: 
+ItemDisplay[(SET !ID) 9vo]: 
+ItemDisplay[(SET !ID) 7vo]: 
+ItemDisplay[(SET !ID) scy]: 
+ItemDisplay[(SET !ID) 9s8]: 
+ItemDisplay[(SET !ID) 7s8]: 
+ItemDisplay[(SET !ID) pax]: 
+ItemDisplay[(SET !ID) 9pa]: 
+ItemDisplay[(SET !ID) 7pa]: 
+ItemDisplay[(SET !ID) hal]: 
+ItemDisplay[(SET !ID) 9h9]: 
+ItemDisplay[(SET !ID) 7h7]: 
+ItemDisplay[(SET !ID) wsc]: 
+ItemDisplay[(SET !ID) 9wc]: 
+ItemDisplay[(SET !ID) 7wc]: 
+ItemDisplay[(SET !ID) sbw]: 
+ItemDisplay[(SET !ID) 8sb]: 
+ItemDisplay[(SET !ID) 6sb]: 
+ItemDisplay[(SET !ID) hbw]: 
+ItemDisplay[(SET !ID) 8hb]: 
+ItemDisplay[(SET !ID) 6hb]: 
+ItemDisplay[(SET !ID) lbw]: 
+ItemDisplay[(SET !ID) 8lb]: 
+ItemDisplay[(SET !ID) 6lb]: 
+ItemDisplay[(SET !ID) cbw]: 
+ItemDisplay[(SET !ID) 8cb]: 
+ItemDisplay[(SET !ID) 6cb]: 
+ItemDisplay[(SET !ID) sbb]: 
+ItemDisplay[(SET !ID) 8s8]: 
+ItemDisplay[(SET !ID) 6s7]: 
+ItemDisplay[(SET !ID) lbb]: 
+ItemDisplay[(SET !ID) 8l8]: 
+ItemDisplay[(SET !ID) 6l7]: 
+ItemDisplay[(SET !ID) swb]: 
+ItemDisplay[(SET !ID) 8sw]: 
+ItemDisplay[(SET !ID) 6sw]: 
+ItemDisplay[(SET !ID) lwb]: 
+ItemDisplay[(SET !ID) 8lw]: 
+ItemDisplay[(SET !ID) 6lw]: 
+ItemDisplay[(SET !ID) lxb]: 
+ItemDisplay[(SET !ID) 8lx]: 
+ItemDisplay[(SET !ID) 6lx]: 
+ItemDisplay[(SET !ID) mxb]: 
+ItemDisplay[(SET !ID) 8mx]: 
+ItemDisplay[(SET !ID) 6mx]: 
+ItemDisplay[(SET !ID) hxb]: 
+ItemDisplay[(SET !ID) 8hx]: 
+ItemDisplay[(SET !ID) 6hx]: 
+ItemDisplay[(SET !ID) rxb]: 
+ItemDisplay[(SET !ID) 8rx]: 
+ItemDisplay[(SET !ID) 6rx]: 
+ItemDisplay[(SET !ID) sst]: 
+ItemDisplay[(SET !ID) 8ss]: 
+ItemDisplay[(SET !ID) 6ss]: 
+ItemDisplay[(SET !ID) lst]: 
+ItemDisplay[(SET !ID) 8ls]: 
+ItemDisplay[(SET !ID) 6ls]: 
+ItemDisplay[(SET !ID) cst]: 
+ItemDisplay[(SET !ID) 8cs]: 
+ItemDisplay[(SET !ID) 6cs]: 
+ItemDisplay[(SET !ID) bst]: 
+ItemDisplay[(SET !ID) 8bs]: 
+ItemDisplay[(SET !ID) 6bs]: 
+ItemDisplay[(SET !ID) wst]: 
+ItemDisplay[(SET !ID) 8ws]: 
+ItemDisplay[(SET !ID) 6ws]: 
+ItemDisplay[(SET !ID) wnd]: 
+ItemDisplay[(SET !ID) 9wn]: 
+ItemDisplay[(SET !ID) 7wn]: 
+ItemDisplay[(SET !ID) ywn]: 
+ItemDisplay[(SET !ID) 9yw]: 
+ItemDisplay[(SET !ID) 7yw]: 
+ItemDisplay[(SET !ID) bwn]: 
+ItemDisplay[(SET !ID) 9bw]: 
+ItemDisplay[(SET !ID) 7bw]: 
+ItemDisplay[(SET !ID) gwn]: 
+ItemDisplay[(SET !ID) 9gw]: 
+ItemDisplay[(SET !ID) 7gw]: 
+ItemDisplay[(SET !ID) scp]: 
+ItemDisplay[(SET !ID) 9sc]: 
+ItemDisplay[(SET !ID) 7sc]: 
+ItemDisplay[(SET !ID) gsc]: 
+ItemDisplay[(SET !ID) 9qs]: 
+ItemDisplay[(SET !ID) 7qs]: 
+ItemDisplay[(SET !ID) wsp]: 
+ItemDisplay[(SET !ID) 9ws]: 
+ItemDisplay[(SET !ID) 7ws]: 
+ItemDisplay[(SET !ID) ktr]: 
+ItemDisplay[(SET !ID) 9ar]: 
+ItemDisplay[(SET !ID) 7ar]: 
+ItemDisplay[(SET !ID) wrb]: 
+ItemDisplay[(SET !ID) 9wb]: 
+ItemDisplay[(SET !ID) 7wb]: 
+ItemDisplay[(SET !ID) axf]: 
+ItemDisplay[(SET !ID) 9xf]: 
+ItemDisplay[(SET !ID) 7xf]: 
+ItemDisplay[(SET !ID) ces]: 
+ItemDisplay[(SET !ID) 9cs]: 
+ItemDisplay[(SET !ID) 7cs]: 
+ItemDisplay[(SET !ID) clw]: 
+ItemDisplay[(SET !ID) 9lw]: 
+ItemDisplay[(SET !ID) 7lw]: 
+ItemDisplay[(SET !ID) btl]: 
+ItemDisplay[(SET !ID) 9tw]: 
+ItemDisplay[(SET !ID) 7tw]: 
+ItemDisplay[(SET !ID) skr]: 
+ItemDisplay[(SET !ID) 9qr]: 
+ItemDisplay[(SET !ID) 7qr]: 
+ItemDisplay[(SET !ID) ob1]: 
+ItemDisplay[(SET !ID) ob6]: 
+ItemDisplay[(SET !ID) obb]: 
+ItemDisplay[(SET !ID) ob2]: 
+ItemDisplay[(SET !ID) ob7]: 
+ItemDisplay[(SET !ID) obc]: 
+ItemDisplay[(SET !ID) ob3]: 
+ItemDisplay[(SET !ID) ob8]: 
+ItemDisplay[(SET !ID) obd]: 
+ItemDisplay[(SET !ID) ob4]: 
+ItemDisplay[(SET !ID) ob9]: 
+ItemDisplay[(SET !ID) obe]: 
+ItemDisplay[(SET !ID) ob5]: 
+ItemDisplay[(SET !ID) oba]: 
+ItemDisplay[(SET !ID) obf]: 
+ItemDisplay[(SET !ID) am1]: 
+ItemDisplay[(SET !ID) am6]: 
+ItemDisplay[(SET !ID) amb]: 
+ItemDisplay[(SET !ID) am2]: 
+ItemDisplay[(SET !ID) am7]: 
+ItemDisplay[(SET !ID) amc]: 
+ItemDisplay[(SET !ID) am3]: 
+ItemDisplay[(SET !ID) am8]: 
+ItemDisplay[(SET !ID) amd]: 
+ItemDisplay[(SET !ID) am4]: 
+ItemDisplay[(SET !ID) am9]: 
+ItemDisplay[(SET !ID) ame]: 
+ItemDisplay[(SET !ID) am5]: 
+ItemDisplay[(SET !ID) ama]: 
+ItemDisplay[(SET !ID) amf]: 
 
 
 //CRAFTING
