@@ -1145,80 +1145,78 @@ ItemDisplay[(UNI ETH !ID) uar]: %YELLOW%oooooooo %GOLD%Templar's Might / Tyrael'
 
 //Shields
 ItemDisplay[(UNI ETH !ID) buc]: //Pelta Lunata
-ItemDisplay[(UNI ETH !ID) xuc]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uuc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xuc]: //%YELLOW%oooooo %GOLD%Visceratuant %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) sml]: //Umbral Disk
-ItemDisplay[(UNI ETH !ID) xml]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uml]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xml]: //%YELLOW%oooooo %GOLD%Moser's Blessed Circle %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uml]: %YELLOW%oooooooo %GOLD%	Blackoak Shield %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) lrg]: //Stormguild
-ItemDisplay[(UNI ETH !ID) xrg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) urg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xrg]: %YELLOW%oooooo %GOLD%Stormchaser %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) urg]: %YELLOW%oooooooo %GOLD%Twilight's Reflection %YELLOW%oooooooo%BORDER-D3% //New
 ItemDisplay[(UNI ETH !ID) spk]: //Swordback Hold
-ItemDisplay[(UNI ETH !ID) xpk]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) upk]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xpk]: //%YELLOW%oooooo %GOLD%Lance Guard %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) upk]: //%YELLOW%oooooooo %GOLD%Spike Thorn %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) kit]: //Steelclash
-ItemDisplay[(UNI ETH !ID) xit]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uit]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xit]: %YELLOW%oooooo %GOLD%Tiamat's Rebuke %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uit]: %YELLOW%oooooooo %GOLD%Stormshield %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) bsh]: //Wall of the Eyeless
-ItemDisplay[(UNI ETH !ID) xsh]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) ush]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xsh]: %YELLOW%oooooo %GOLD%Lidless Wall %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ush]: %YELLOW%oooooooo %GOLD%Head Hunter's Glory %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) tow]: //Bverrit Keep
-ItemDisplay[(UNI ETH !ID) xow]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uow]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xow]: %YELLOW%oooooo %GOLD%Gerke's Sanctuary %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uow]: %YELLOW%oooooooo %GOLD%Medusa's Gaze %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) gts]: //The Ward
-ItemDisplay[(UNI ETH !ID) xts]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uts]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xts]: //%YELLOW%oooooo %GOLD%Radament's Sphere %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uts]: %YELLOW%oooooooo %GOLD%	Spirit Ward %YELLOW%oooooooo%BORDER-D3%
 
 //Gloves
 ItemDisplay[(UNI ETH !ID) lgl]: //The Hand of Broc
-ItemDisplay[(UNI ETH !ID) xlg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) ulg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xlg]: //%YELLOW%oooooo %GOLD%Venom Grip %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ulg]: %YELLOW%oooooooo %GOLD%Titan's Grip %YELLOW%oooooooo%BORDER-D3% //New
 ItemDisplay[(UNI ETH !ID) vgl]: //Bloodfist
-ItemDisplay[(UNI ETH !ID) xvg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uvg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xvg]: %YELLOW%oooooo %GOLD%Gravepalm %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uvg]: %YELLOW%oooooooo %GOLD%Dracul's Grasp %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) mgl]: Chance Guards
-ItemDisplay[(UNI ETH !ID) xmg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) umg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xmg]: %YELLOW%oooooo %GOLD%Ghoulhide %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) umg]: %YELLOW%oooooooo %GOLD%Soul Drainer %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) tgl]: Magefist
-ItemDisplay[(UNI ETH !ID) xtg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) utg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xtg]: %YELLOW%oooooo %GOLD%Lava Gout %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) utg]: %YELLOW%oooooooo %GOLD%Occultist %YELLOW%oooooooo%BORDER-D3% //New
 ItemDisplay[(UNI ETH !ID) hgl]: //Frostburn
-ItemDisplay[(UNI ETH !ID) xhg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uhg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xhg]: %YELLOW%oooooo %GOLD%Hellmouth %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uhg]: %YELLOW%oooooooo %GOLD%Steelrend %YELLOW%oooooooo%BORDER-D3%
 
 //Boots
 ItemDisplay[(UNI ETH !ID) lbt]: Hotspur
-ItemDisplay[(UNI ETH !ID) xlb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) ulb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xlb]: %YELLOW%oooooo %GOLD%Infernostride %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ulb]: %YELLOW%oooooooo %GOLD%Merman's Sprocket %YELLOW%oooooooo%BORDER-D3% //New
 ItemDisplay[(UNI ETH !ID) vbt]: //Gorefoot
-ItemDisplay[(UNI ETH !ID) xvb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uvb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xvb]: %YELLOW%oooooo %GOLD%Waterwalk %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uvb]: %YELLOW%oooooooo %GOLD%Sandstorm Trek %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) mbt]: //Treads of Cthon
-ItemDisplay[(UNI ETH !ID) xmb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) umb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xmb]: %YELLOW%oooooo %GOLD%Silkweave %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) umb]: %YELLOW%oooooooo %GOLD%Marrowwalk %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) tbt]: Goblin Toe
-ItemDisplay[(UNI ETH !ID) xtb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) utb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xtb]: %YELLOW%oooooo %GOLD%War Traveler %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) utb]: %YELLOW%oooooooo %GOLD%Ithereal's Path %YELLOW%oooooooo%BORDER-D3% //New
 ItemDisplay[(UNI ETH !ID) hbt]: Tearhaunch
-ItemDisplay[(UNI ETH !ID) xhb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uhb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) xhb]: %YELLOW%oooooo %GOLD%Gore Rider %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uhb]: %YELLOW%oooooooo %GOLD%Shadow Dancer %YELLOW%oooooooo%BORDER-D3%
 
 //Belts
 ItemDisplay[(UNI ETH !ID) lbl]: Lenymo
-ItemDisplay[(UNI ETH !ID) zlb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) ulc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) zlb]: %YELLOW%oooooo %GOLD%String of Ears %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ulc]: %YELLOW%oooooooo %GOLD%Arachnid Mesh %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) vbl]: //Snakecord
-ItemDisplay[(UNI ETH !ID) zvb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uvc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) zvb]: %YELLOW%oooooo %GOLD%Razortail %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uvc]: %YELLOW%oooooooo %GOLD%Nosferatu's Coil %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) mbl]: Nightsmoke
-ItemDisplay[(UNI ETH !ID) zmb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) umc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) zmb]: %YELLOW%oooooo %GOLD%Gloom's Trap %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) umc]: %YELLOW%oooooooo %GOLD%Verdungo's Hearty Cord %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) tbl]: Goldwrap
-ItemDisplay[(UNI ETH !ID) ztb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) utc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) ztb]: %YELLOW%oooooo %GOLD%Snowclash %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) rbe]: %YELLOW%oooooooo %GOLD%Band of Skulls %YELLOW%oooooooo%BORDER-D3% //New
 ItemDisplay[(UNI ETH !ID) hbl]: //Bladebuckle
-ItemDisplay[(UNI ETH !ID) zhb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uhc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) zhb]: %YELLOW%oooooo %GOLD%Thundergod's Vigor %YELLOW%oooooo%MAP-D3%
 
 //Druid Helms
 ItemDisplay[(UNI ETH !ID) dr6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
