@@ -1070,56 +1070,65 @@ ItemDisplay[(jew OR rin OR amu OR CIRC) RARE !ID]: %DOT-A8%%NAME%
 //High Tier
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-//Uniques
-//▬▬▬▬▬▬▬▬▬▬▬▬▬
-
 //Armors
-ItemDisplay[(uap OR ulm OR usk OR uh9 OR uhm OR urn OR ci3 OR uui OR utu OR upl OR uar OR uit OR uow OR uvg OR umg OR ulg OR uvb OR umb OR uhb OR ulc OR uvc OR umc OR drd OR bac OR bae OR pac OR nee OR nef) UNI !ID]: %ORANGE%ooooooo %NAME%%ORANGE% ooooooo%MAP% //Best-in Slot
-ItemDisplay[(uap OR ulm OR usk OR uh9 OR uhm OR urn OR ci3 OR uui OR utu OR upl OR uar OR uit OR uow OR uvg OR umg OR uvb OR umb OR uhb OR ulc OR uvc OR umc OR drd OR bac OR bae OR pac OR nee OR nef) UNI ETH !ID]: %ORANGE%oooooo %NAME%%ORANGE% oooooo%MAP% //Merc
-ItemDisplay[(uhl OR rar OR uth OR utp OR rbe OR drf OR baf OR ned OR paf OR dr6 OR ba7 OR uhc OR neg) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //New
-ItemDisplay[(uld OR uul) UNI !ID]: //Chests
-ItemDisplay[(uml OR upk OR ush OR uts) UNI !ID]: //Shields
-ItemDisplay[(utg OR uhg) UNI !ID]: //Gloves
-ItemDisplay[(ulb OR utb) UNI !ID]: //Boots
-ItemDisplay[(drb OR dre) UNI !ID]: //Druid Helms
-ItemDisplay[(bad) UNI !ID]: //Barbarian Helms
-ItemDisplay[(pae) UNI !ID]: //Paladin Shields
+//▬▬▬▬▬▬▬▬
+
+//UNIQUE
+
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
 
 //Weapons
-ItemDisplay[(7sp OR 7wh OR 7gm OR 7cr OR 7gd OR 7b8 OR 7o7 OR 7s8 OR 7wc OR 6lw OR 6rx OR 6ws OR 7bw OR 7gw OR 7qs OR 7gs OR 7sc OR obc OR obf OR amf) UNI !ID]: %ORANGE%ooooooo %NAME%%ORANGE% ooooooo%MAP% //Best-in Slot
-ItemDisplay[(9gm OR 7gm OR 7s8) UNI ETH !ID]: %ORANGE%oooooo %NAME%%ORANGE% oooooo%MAP% //Merc
-ItemDisplay[(7bs OR 7cm OR 7fb OR 7st OR 6bs OR 7tw OR 7qr OR ame OR ob7 OR 7xf OR 9b8) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //New
-ItemDisplay[(7ha OR 72a OR 7mp OR 7wa OR 7ba OR 7bt OR 7ga OR 7gl) UNI !ID]: //Axes
-ItemDisplay[(7cl OR 7mt OR 7fl OR 7m7) UNI !ID]: //Maces
-ItemDisplay[(7sm OR 7sb OR 7ls OR 7b7) UNI !ID]: //Swords	
-ItemDisplay[(7dg OR 7kr OR 7bl) UNI !ID]: //Daggers
-ItemDisplay[(7ta OR 7bk) UNI !ID]: //Throwing Axes & Knives
-ItemDisplay[(7s7 OR 7gl OR 7ts) UNI !ID]: //Javelins
-ItemDisplay[(7sr OR 7br OR 7p7) UNI !ID]: //Spears
-ItemDisplay[(7pa) UNI !ID]: //Polearms
-ItemDisplay[(6l7 OR 6sw) UNI !ID]: //Bows
-ItemDisplay[(6hx) UNI !ID]: //X-bows
-ItemDisplay[(6cs) UNI !ID]: //Staves
-ItemDisplay[(7ws) UNI !ID]: //Scepters
-ItemDisplay[(7wb OR 7cs OR 7lw) UNI !ID]: //Assassin Claws
-ItemDisplay[(amb OR amd) UNI !ID]: //Amazon Weapons
+//▬▬▬▬▬▬▬▬
 
-//Sets
-//▬▬▬▬▬▬▬▬▬▬▬▬▬
+//UNIQUE
 
-//Armors
-ItemDisplay[(uh9 OR urn OR ci3 OR ult OR uld OR uth OR uul OR uar OR ulg OR utc OR paf) SET !ID]: %DARK_GREEN%ooooooo %NAME%%DARK_GREEN% ooooooo%MAP% //Best-in Slot
-ItemDisplay[(uhm) SET !ID]: //Helms
-ItemDisplay[(uui OR ucl OR upl) SET !ID]: //Chests
-ItemDisplay[(uts) SET !ID]: //Shields
-ItemDisplay[(umc) SET !ID]: //Belts
-
-//Weapons
-ItemDisplay[(7m7 OR 7fb OR 7gd OR 6cs OR amc) SET !ID]: %DARK_GREEN%ooooooo %NAME%%DARK_GREEN% ooooooo%MAP% //Best-in Slot
-ItemDisplay[(7ma) SET !ID]: //Maces
-ItemDisplay[(7ls) SET !ID]: //Swords	
-ItemDisplay[(7ws) SET !ID]: //Scepters
-ItemDisplay[(7qr) SET !ID]: //Assassin Claws
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
 
 //Jewellery 
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1131,51 +1140,59 @@ ItemDisplay[(amu OR rin) SET !ID]: %NAME%%MAP% //Set Rings & Amulets
 //Mid Tier
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-//Uniques
-//▬▬▬▬▬▬▬▬▬▬▬▬▬
-
 //Armors
-ItemDisplay[(xap OR xkp OR xh9 OR xhm OR xrn OR ci2 OR xui OR xea OR xhn OR xrs OR xlt OR xld OR xth OR xtp OR xul OR xsh OR xow OR xlg OR xvg OR xtg OR xhg OR xlb OR xvb OR xmb OR xtb OR xhb OR zlb OR zvb OR zmb OR zhb OR dra OR baa OR pa9 OR nea) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //Best-in Slot
-ItemDisplay[(xh9 OR xhm OR xrn OR ci2) UNI ETH !ID]: %ORANGE%oooo %NAME%%ORANGE% oooo%MAP% //Merc
-ItemDisplay[(ba6 OR ne6 OR drc) UNI !ID]: %ORANGE%ooo %NAME%%ORANGE% ooo%MAP% //New
-ItemDisplay[(xlm OR xhl OR xsk) UNI !ID]: //Helms
-ItemDisplay[(xla OR xtu OR xng OR xcl OR xpl OR xar) UNI !ID]: //Chests
-ItemDisplay[(xuc OR xml OR xrg OR xpk OR xit OR xts) UNI !ID]: //Shields
-ItemDisplay[(xmg) UNI !ID]: //Gloves
-ItemDisplay[(ztb) UNI !ID]: Belts
+//▬▬▬▬▬▬▬▬
+
+//UNIQUE
+
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
 
 //Weapons
-ItemDisplay[(9wa OR 9sp OR 9wh OR 9gm OR 9ss OR 9fc OR 9wd OR 9fb OR 9dg OR 9s8 OR 8hb OR 8sw OR 8mx OR 8hx OR 8ws OR 9yw OR 9bw OR 9gw OR 9ws OR 9qs OR 9tw OR oba OR am7 OR am9 OR ama OR 8rx) UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP% //Best-in Slot
-ItemDisplay[(9wh OR 9gm OR 8ls OR 7pa OR 7bt OR 7gi OR 7wa OR 7m7 OR 7p7 OR 7gl OR 7b8 OR 7bk OR xpl) UNI ETH !ID]: %ORANGE%oooo %NAME%%ORANGE% oooo%MAP% //Merc
-ItemDisplay[(9ar OR ob6) UNI !ID]: %ORANGE%ooo %NAME%%ORANGE% ooo%MAP% //New
-ItemDisplay[(9ha OR 9ax OR 92a OR 9mp OR 9la OR 9ba OR 9bt OR 9ga OR 9gi) UNI !ID]: //Axes
-ItemDisplay[(9cl OR 9ma OR 9mt OR 9fl OR 9m9) UNI !ID]: //Maces
-ItemDisplay[(9sm OR 9sb OR 9cr OR 9ls OR 92h OR 9cm OR 9gs OR 9b9 OR 9gd) UNI !ID]: //Swords	
-ItemDisplay[(9di OR 9kr OR 9bl) UNI !ID]: //Daggers
-ItemDisplay[(9tk OR 9ta) UNI !ID]: //Throwing Axes & Knives
-ItemDisplay[(9sr OR 9tr OR 9br OR 9st OR 9p9) UNI !ID]: //Spears
-ItemDisplay[(9b7 OR 9vo OR 9pa OR 9h9 OR 9wc) UNI !ID]: //Polearms
-ItemDisplay[(8sb OR 8lb OR 8cb OR 8s8 OR 8l8 OR 8lw) UNI !ID]: //Bows
-ItemDisplay[(8lx) UNI !ID]: //X-bows
-ItemDisplay[(8ss OR 8ls OR 8cs OR 8bs) UNI !ID]: //Staves
-ItemDisplay[(9wn) UNI !ID]: //Wands
-ItemDisplay[(9sc) UNI !ID]: //Scepters
+//▬▬▬▬▬▬▬▬
 
-//Sets
-//▬▬▬▬▬▬▬▬▬▬▬▬▬
+//UNIQUE
 
-//Armors
-ItemDisplay[(xap OR xsk OR xhm OR xrs OR xrn OR xul OR xar OR xmg OR xtg OR xhg OR xlb OR xtb OR xhb OR zvb OR zmb OR ztb OR zhb OR dr8 OR ne9) SET !ID]: %DARK_GREEN%ooooo %NAME%%DARK_GREEN% ooooo%MAP% //Best-in Slot
-ItemDisplay[(xhl OR xh9) SET !ID]: //Helms
-ItemDisplay[(xcl) SET !ID]: //Chests
-ItemDisplay[(xml) SET !ID]: //Shields
-ItemDisplay[(xvg) SET !ID]: //Gloves
-ItemDisplay[(xmb) SET !ID]: //Boots
-
-//Weapons
-ItemDisplay[(9mt OR oba) SET !ID]: %DARK_GREEN%ooooo %NAME%%DARK_GREEN% ooooo%MAP% //Best-in Slot
-ItemDisplay[(9vo) SET !ID]: //Polearms
-
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
 
 //Low Tier
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1206,8 +1223,8 @@ ItemDisplay[(tgl) UNI ETH !ID]: %NAME%-Magefist%MAP%
 
 //Boots
 ItemDisplay[(lbt) UNI ETH !ID]: %NAME%-Hotspur%MAP%
-ItemDisplay[(tbt) UNI ETH !ID]: %NAME%-Goblin Toe%MAP%
-ItemDisplay[(hbt) UNI ETH !ID]: %NAME%-Tearhaunch%MAP%
+ItemDisplay[(tbt) UNI ETH !ID]: //%NAME%-Goblin Toe%MAP%
+ItemDisplay[(hbt) UNI ETH !ID]: //%NAME%-Tearhaunch%MAP%
 
 //Belts
 ItemDisplay[(lbl) UNI ETH !ID]: %NAME%-Lenymo%MAP%
@@ -1267,13 +1284,13 @@ ItemDisplay[(gwn) UNI ETH !ID]: %NAME%-Ume's Lament%MAP%
 //Set
 
 //Swords
-ItemDisplay[(sbr) UNI ETH !ID]: %NAME%-Angelic Sickle%MAP%
+ItemDisplay[(sbr) SET !ID]: %NAME%-Angelic Sickle%MAP%
 
 //Daggers
 ItemDisplay[(dgr) SET !ID]: %NAME%-Infernal Spire%MAP%
 
 //Wands
-ItemDisplay[(bwn) UNI ETH !ID]: %NAME%-Sander's Superstition%MAP%
+ItemDisplay[(bwn) SET !ID]: %NAME%-Sander's Superstition%MAP%
 
 
 //CRAFTING
