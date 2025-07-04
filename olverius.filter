@@ -2228,8 +2228,8 @@ ItemDisplay[jewf]: %TAN%Fragment %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
 ItemDisplay[rkey]: %GRAY%Skeleton Key %BORDER-1D%
 ItemDisplay[rtp]: %BLUE%Horadrim Navigator %BORDER-94%
 ItemDisplay[rid]: %RED%Horadrim Almanac %BORDER-D3%
-ItemDisplay[lsvl]: %WHITE%ooooooooooo %TAN%Vial of Lightsong %WHITE%ooooooooooo%BORDER-6A%
-ItemDisplay[llmr]: %WHITE%ooooooooooo %ORANGE%Lilith's Mirror %WHITE%ooooooooooo%BORDER-6A%
+ItemDisplay[lsvl]: %WHITE%ooooooooooo %GRAY%Vial of Lightsong %WHITE%ooooooooooo%BORDER-6A%
+ItemDisplay[llmr]: %WHITE%ooooooooooooo %GRAY%Lilith's Mirror %WHITE%ooooooooooooo%BORDER-6A%
 
 
 //MAPS
@@ -2324,7 +2324,7 @@ ItemDisplay[RARE t43]: %YELLOW%Sanctuary of Sin {%YELLOW%light 180 %BLUE%cold 12
 ItemDisplay[RARE t44]: %YELLOW%Steppes of Daken-Shar {%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%physical 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:}%BORDER-62%
 
 //Unique
-ItemDisplay[t51]: %GOLD%Zhar's Sanctum %ORANGE%Map%DOT-64%
+ItemDisplay[t51]: %GOLD%Zhar's Sanctum %ORANGE%Map%BORDER-64%
 ItemDisplay[t52]: %GOLD%Warlord of Blood %ORANGE%Map%DOT-64%
 ItemDisplay[t53]: %GOLD%Fallen Gardens %ORANGE%Map%DOT-64%
 ItemDisplay[t54]: %GOLD%Imperial Palace %ORANGE%Map%DOT-64%
