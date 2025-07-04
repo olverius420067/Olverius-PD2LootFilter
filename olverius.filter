@@ -1406,141 +1406,136 @@ ItemDisplay[(UNI ETH !ID) 9wc]: //%ORANGE%oooooo %GOLD%Grim's Burning Dead %ORAN
 ItemDisplay[(UNI ETH !ID) 7wc]: %ORANGE%oooooooo %GOLD%Stormspire %ORANGE%oooooooo%BORDER-D3%
 
 //Bows
-ItemDisplay[(UNI ETH !ID) sbw]: 
-ItemDisplay[(UNI ETH !ID) 8sb]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 6sb]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) hbw]: 
-ItemDisplay[(UNI ETH !ID) 8hb]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 6hb]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) lbw]: 
-ItemDisplay[(UNI ETH !ID) 8lb]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 6lb]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) cbw]: 
-ItemDisplay[(UNI ETH !ID) 8cb]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 6cb]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) sbb]: 
-ItemDisplay[(UNI ETH !ID) 8s8]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 6s7]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) lbb]: 
-ItemDisplay[(UNI ETH !ID) 8l8]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 6l7]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) swb]: 
-ItemDisplay[(UNI ETH !ID) 8sw]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 6sw]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) lwb]: 
-ItemDisplay[(UNI ETH !ID) 8lw]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 6lw]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) sbw]: //Pluckeye
+ItemDisplay[(UNI ETH !ID) 8sb]: //%ORANGE%oooooo %GOLD%Skystrike %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) hbw]: //Witherstring
+ItemDisplay[(UNI ETH !ID) 8hb]: //%ORANGE%oooooo %GOLD%Riphook %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) lbw]: //Raven Claw
+ItemDisplay[(UNI ETH !ID) 8lb]: //%ORANGE%oooooo %GOLD%Kuko Shakaku %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) cbw]: //Rogue's Bow
+ItemDisplay[(UNI ETH !ID) 8cb]: //%ORANGE%oooooo %GOLD%Endlesshail %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) sbb]: //Stormstrike
+ItemDisplay[(UNI ETH !ID) 8s8]: %ORANGE%oooooo %GOLD%Witchwild String %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) lbb]: //Wizendraw
+ItemDisplay[(UNI ETH !ID) 8l8]: //%ORANGE%oooooo %GOLD%Cliffkiller %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6l7]: %ORANGE%oooooooo %GOLD%Eaglehorn %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) swb]: //Hellclap
+ItemDisplay[(UNI ETH !ID) 8sw]: %ORANGE%oooooo %GOLD%Magewrath %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6sw]: %ORANGE%oooooooo %GOLD%Widowmaker %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) lwb]: //Blastbark
+ItemDisplay[(UNI ETH !ID) 8lw]: %ORANGE%oooooo %GOLD%Goldstrike Arch %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6lw]: %ORANGE%oooooooo %GOLD%Windforce %ORANGE%oooooooo%BORDER-D3%
 
 //X-bows
-ItemDisplay[(UNI ETH !ID) lxb]: 
+ItemDisplay[(UNI ETH !ID) lxb]: //
 ItemDisplay[(UNI ETH !ID) 8lx]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 6lx]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) mxb]: 
+ItemDisplay[(UNI ETH !ID) mxb]: //
 ItemDisplay[(UNI ETH !ID) 8mx]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 6mx]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) hxb]: 
+ItemDisplay[(UNI ETH !ID) hxb]: //
 ItemDisplay[(UNI ETH !ID) 8hx]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 6hx]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) rxb]: 
+ItemDisplay[(UNI ETH !ID) rxb]: //
 ItemDisplay[(UNI ETH !ID) 8rx]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 6rx]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
 
 //Staves
-ItemDisplay[(UNI ETH !ID) sst]: 
+ItemDisplay[(UNI ETH !ID) sst]: //
 ItemDisplay[(UNI ETH !ID) 8ss]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 6ss]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) lst]: 
+ItemDisplay[(UNI ETH !ID) lst]: //
 ItemDisplay[(UNI ETH !ID) 8ls]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 6ls]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) cst]: 
+ItemDisplay[(UNI ETH !ID) cst]: //
 ItemDisplay[(UNI ETH !ID) 8cs]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 6cs]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) bst]: 
+ItemDisplay[(UNI ETH !ID) bst]: //
 ItemDisplay[(UNI ETH !ID) 8bs]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 6bs]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) wst]: 
+ItemDisplay[(UNI ETH !ID) wst]: //
 ItemDisplay[(UNI ETH !ID) 8ws]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 6ws]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
 
 //Wands
-ItemDisplay[(UNI ETH !ID) wnd]: 
+ItemDisplay[(UNI ETH !ID) wnd]: //
 ItemDisplay[(UNI ETH !ID) 9wn]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7wn]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ywn]: 
+ItemDisplay[(UNI ETH !ID) ywn]: //
 ItemDisplay[(UNI ETH !ID) 9yw]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7yw]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) bwn]: 
+ItemDisplay[(UNI ETH !ID) bwn]: //
 ItemDisplay[(UNI ETH !ID) 9bw]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7bw]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) gwn]: 
+ItemDisplay[(UNI ETH !ID) gwn]: //
 ItemDisplay[(UNI ETH !ID) 9gw]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7gw]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
 
 //Scepters
-ItemDisplay[(UNI ETH !ID) scp]: 
+ItemDisplay[(UNI ETH !ID) scp]: //
 ItemDisplay[(UNI ETH !ID) 9sc]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7sc]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) gsc]: 
+ItemDisplay[(UNI ETH !ID) gsc]: //
 ItemDisplay[(UNI ETH !ID) 9qs]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7qs]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) wsp]: 
+ItemDisplay[(UNI ETH !ID) wsp]: //
 ItemDisplay[(UNI ETH !ID) 9ws]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7ws]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
 
 //Assassin Claws
-ItemDisplay[(UNI ETH !ID) ktr]: 
+ItemDisplay[(UNI ETH !ID) ktr]: //
 ItemDisplay[(UNI ETH !ID) 9ar]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7ar]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) wrb]: 
+ItemDisplay[(UNI ETH !ID) wrb]: //
 ItemDisplay[(UNI ETH !ID) 9wb]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7wb]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) axf]: 
+ItemDisplay[(UNI ETH !ID) axf]: //
 ItemDisplay[(UNI ETH !ID) 9xf]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7xf]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ces]: 
+ItemDisplay[(UNI ETH !ID) ces]: //
 ItemDisplay[(UNI ETH !ID) 9cs]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7cs]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) clw]: 
+ItemDisplay[(UNI ETH !ID) clw]: //
 ItemDisplay[(UNI ETH !ID) 9lw]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7lw]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) btl]: 
+ItemDisplay[(UNI ETH !ID) btl]: //
 ItemDisplay[(UNI ETH !ID) 9tw]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7tw]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) skr]: 
+ItemDisplay[(UNI ETH !ID) skr]: //
 ItemDisplay[(UNI ETH !ID) 9qr]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) 7qr]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
 
 //Sorc Orbs
-ItemDisplay[(UNI ETH !ID) ob1]: 
+ItemDisplay[(UNI ETH !ID) ob1]: //
 ItemDisplay[(UNI ETH !ID) ob6]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) obb]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ob2]: 
+ItemDisplay[(UNI ETH !ID) ob2]: //
 ItemDisplay[(UNI ETH !ID) ob7]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) obc]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ob3]: 
+ItemDisplay[(UNI ETH !ID) ob3]: //
 ItemDisplay[(UNI ETH !ID) ob8]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) obd]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ob4]: 
+ItemDisplay[(UNI ETH !ID) ob4]: //
 ItemDisplay[(UNI ETH !ID) ob9]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) obe]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ob5]: 
+ItemDisplay[(UNI ETH !ID) ob5]: //
 ItemDisplay[(UNI ETH !ID) oba]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) obf]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
 
 //Amazon Weapons
-ItemDisplay[(UNI ETH !ID) am1]: 
+ItemDisplay[(UNI ETH !ID) am1]: //
 ItemDisplay[(UNI ETH !ID) am6]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) amb]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) am2]: 
+ItemDisplay[(UNI ETH !ID) am2]: //
 ItemDisplay[(UNI ETH !ID) am7]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) amc]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) am3]: 
+ItemDisplay[(UNI ETH !ID) am3]: //
 ItemDisplay[(UNI ETH !ID) am8]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) amd]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) am4]: 
+ItemDisplay[(UNI ETH !ID) am4]: //
 ItemDisplay[(UNI ETH !ID) am9]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) ame]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) am5]: 
+ItemDisplay[(UNI ETH !ID) am5]: //
 ItemDisplay[(UNI ETH !ID) ama]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) amf]: //%ORANGE%oooooooo %GOLD% %ORANGE%oooooooo%BORDER-D3%
 
