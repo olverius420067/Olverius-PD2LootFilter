@@ -1064,218 +1064,209 @@ ItemDisplay[jew !UNI (STAT501>74 AND STAT91=-15)]: %RED%bleed %DARK_GREEN%-req %
 //EQUIPMENT
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-//Good
+//Amulets, Rings, Jools, Circlets, Quivers
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[aqv RARE !ID]: //%NAME%%DOT-0E%
+ItemDisplay[(aqv OR cqv) RARE !ID]: //%NAME%%DOT-0E%
 ItemDisplay[(jew OR rin OR amu OR CIRC) RARE !ID]: %NAME%%DOT-94%
-
-
-/UNIQUE
-//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 //Armors
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-ItemDisplay[(UNI ETH !ID) cap]: 
-ItemDisplay[(UNI ETH !ID) xap]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uap]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) skp]: 
-ItemDisplay[(UNI ETH !ID) xkp]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) ukp]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) hlm]: 
-ItemDisplay[(UNI ETH !ID) xlm]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) ulm]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) fhl]: 
-ItemDisplay[(UNI ETH !ID) xhl]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uhl]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) msk]: 
-ItemDisplay[(UNI ETH !ID) xsk]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) usk]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) bhm]: 
-ItemDisplay[(UNI ETH !ID) xh9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uh9]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ghm]: 
-ItemDisplay[(UNI ETH !ID) xhm]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uhm]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) crn]: 
-ItemDisplay[(UNI ETH !ID) xrn]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) urn]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) qui]: 
-ItemDisplay[(UNI ETH !ID) xui]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uui]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) lea]: 
-ItemDisplay[(UNI ETH !ID) xea]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uea]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) hla]: 
-ItemDisplay[(UNI ETH !ID) xla]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) ula]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) stu]: 
-ItemDisplay[(UNI ETH !ID) xtu]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) utu]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) rng]: 
-ItemDisplay[(UNI ETH !ID) xng]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) ung]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) scl]: 
-ItemDisplay[(UNI ETH !ID) xcl]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) ucl]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) brs]: 
-ItemDisplay[(UNI ETH !ID) xrs]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) urs]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) chn]: 
-ItemDisplay[(UNI ETH !ID) xhn]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uhn]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) spl]: 
-ItemDisplay[(UNI ETH !ID) xpl]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) upl]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ltp]: 
-ItemDisplay[(UNI ETH !ID) xtp]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) utp]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) fld]: 
-ItemDisplay[(UNI ETH !ID) xld]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uld]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) plt]: 
-ItemDisplay[(UNI ETH !ID) xlt]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) ult]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) gth]: 
-ItemDisplay[(UNI ETH !ID) xth]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uth]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ful]: 
-ItemDisplay[(UNI ETH !ID) xul]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uul]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) aar]: 
-ItemDisplay[(UNI ETH !ID) xar]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) uar]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) buc]: 
+//Helms
+ItemDisplay[(UNI ETH !ID) cap]: //Biggin's Bonnet
+ItemDisplay[(UNI ETH !ID) xap]: %YELLOW%oooooo %GOLD%Peasant Crown %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uap]: %YELLOW%oooooooo %GOLD%Harlequin Crest %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) skp]: Tarnhelm
+ItemDisplay[(UNI ETH !ID) xkp]: %YELLOW%oooooo %GOLD%Rockstopper %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) hlm]: //Coif of Glory
+ItemDisplay[(UNI ETH !ID) xlm]: //%YELLOW%oooooo %GOLD%Stealskull %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ulm]: %YELLOW%oooooooo %GOLD%Steel Shade %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) fhl]: //Duskdeep
+ItemDisplay[(UNI ETH !ID) xhl]: //%YELLOW%oooooo %GOLD%Darksight Helm %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uhl]: %YELLOW%oooooooo %GOLD%Overlord's Helm %YELLOW%oooooooo%BORDER-D3% //New
+ItemDisplay[(UNI ETH !ID) msk]: //The Face of Horror
+ItemDisplay[(UNI ETH !ID) xsk]: //%YELLOW%oooooo %GOLD%Blackhorn's Face %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) usk]: %YELLOW%oooooooo %GOLD%Andariel's Visage %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) bhm]: //Wormskull
+ItemDisplay[(UNI ETH !ID) xh9]: %YELLOW%oooooo %GOLD%Vampire Gaze %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uh9]: %YELLOW%oooooooo %GOLD%Giant Skull %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) ghm]: //Howltusk
+ItemDisplay[(UNI ETH !ID) xhm]: %YELLOW%oooooo %GOLD%Valkyrie Wing %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uhm]: %YELLOW%oooooooo %GOLD%Veil of Steel / Nightwing's Veil %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) crn]: //Undead Crown
+ItemDisplay[(UNI ETH !ID) xrn]: %YELLOW%oooooo %GOLD%Crown of Thieves %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) urn]: %YELLOW%oooooooo %GOLD%Crown of Ages %YELLOW%oooooooo%BORDER-D3%
+
+//Circlets
+ItemDisplay[(UNI ETH !ID) ci2]: %YELLOW%oooooooo %GOLD%Kira's Guardian %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) ci3]: %YELLOW%oooooooo %GOLD%Griffon's Eye %YELLOW%oooooooo%BORDER-D3%
+
+//Chests
+ItemDisplay[(UNI ETH !ID) qui]: //Greyform
+ItemDisplay[(UNI ETH !ID) xui]: //%YELLOW%oooooo %GOLD%Spirit Shroud %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uui]: %YELLOW%oooooooo %GOLD%Ormus' Robes %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) lea]: //Blinkbat's Form
+ItemDisplay[(UNI ETH !ID) xea]: %YELLOW%oooooo %GOLD%Skin of the Vipermagi %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) hla]: //The Centurion
+ItemDisplay[(UNI ETH !ID) xla]: //%YELLOW%oooooo %GOLD%Skin of the Flayed One %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) stu]: //Twitchthroe
+ItemDisplay[(UNI ETH !ID) xtu]: //%YELLOW%oooooo %GOLD%Iron Pelt %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) utu]: %YELLOW%oooooooo %GOLD%	The Gladiator's Bane %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) rng]: //Darkglow
+ItemDisplay[(UNI ETH !ID) xng]: //%YELLOW%oooooo %GOLD%Spirit Forge %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ung]: %YELLOW%oooooooo %GOLD%Wraithskin %YELLOW%oooooooo%BORDER-D3% //New
+ItemDisplay[(UNI ETH !ID) scl]: //Hawkmail
+ItemDisplay[(UNI ETH !ID) xcl]: %YELLOW%oooooo %GOLD%Crow Caw %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) brs]: //Venom Ward
+ItemDisplay[(UNI ETH !ID) xrs]: %YELLOW%oooooo %GOLD%Duriel's Shell %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) chn]: //Sparking Mail
+ItemDisplay[(UNI ETH !ID) xhn]: %YELLOW%oooooo %GOLD%Shaftstop %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) rar]: %YELLOW%oooooooo %GOLD%Cage of the Unsullied %YELLOW%oooooooo%BORDER-D3% //New
+ItemDisplay[(UNI ETH !ID) spl]: //Iceblink
+ItemDisplay[(UNI ETH !ID) xpl]: %YELLOW%oooooo %GOLD%Skullder's Ire %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) upl]: %YELLOW%oooooooo %GOLD%Arkaine's Valor %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) ltp]: //Heavenly Garb
+ItemDisplay[(UNI ETH !ID) xtp]: %YELLOW%oooooo %GOLD%Que-Hegan's Wisdom %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) utp]: %YELLOW%oooooooo %GOLD%Purgatory %YELLOW%oooooooo%BORDER-D3% //New
+ItemDisplay[(UNI ETH !ID) fld]: Rockfleece
+ItemDisplay[(UNI ETH !ID) xld]: //%YELLOW%oooooo %GOLD%Toothrow %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uld]: %YELLOW%oooooooo %GOLD%Leviathan %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) plt]: //Boneflesh
+ItemDisplay[(UNI ETH !ID) xlt]: %YELLOW%oooooo %GOLD%Guardian Angel %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) gth]: //Rattlecage
+ItemDisplay[(UNI ETH !ID) xth]: %YELLOW%oooooo %GOLD%Atma's Wail %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uth]: %YELLOW%oooooooo %GOLD%Dark Abyss %YELLOW%oooooooo%BORDER-D3% //New
+ItemDisplay[(UNI ETH !ID) ful]: //Goldskin
+ItemDisplay[(UNI ETH !ID) xul]: %YELLOW%oooooo %GOLD%Black Hades %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uul]: %YELLOW%oooooooo %GOLD%Steel Carapace %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) aar]: //Silks of the Victor
+ItemDisplay[(UNI ETH !ID) xar]: %YELLOW%oooooo %GOLD%Corpsemourn %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uar]: %YELLOW%oooooooo %GOLD%Templar's Might / Tyrael's Might %YELLOW%oooooooo%BORDER-D3%
+
+//Shields
+ItemDisplay[(UNI ETH !ID) buc]: //Pelta Lunata
 ItemDisplay[(UNI ETH !ID) xuc]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) uuc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) sml]: 
+ItemDisplay[(UNI ETH !ID) sml]: //Umbral Disk
 ItemDisplay[(UNI ETH !ID) xml]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) uml]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) lrg]:
+ItemDisplay[(UNI ETH !ID) lrg]: //Stormguild
 ItemDisplay[(UNI ETH !ID) xrg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) urg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) spk]: 
+ItemDisplay[(UNI ETH !ID) spk]: //Swordback Hold
 ItemDisplay[(UNI ETH !ID) xpk]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) upk]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) kit]: 
+ItemDisplay[(UNI ETH !ID) kit]: //Steelclash
 ItemDisplay[(UNI ETH !ID) xit]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) uit]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) bsh]: 
+ItemDisplay[(UNI ETH !ID) bsh]: //Wall of the Eyeless
 ItemDisplay[(UNI ETH !ID) xsh]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) ush]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) tow]: 
+ItemDisplay[(UNI ETH !ID) tow]: //Bverrit Keep
 ItemDisplay[(UNI ETH !ID) xow]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) uow]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) gts]: 
+ItemDisplay[(UNI ETH !ID) gts]: //The Ward
 ItemDisplay[(UNI ETH !ID) xts]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) uts]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) lgl]: 
+
+//Gloves
+ItemDisplay[(UNI ETH !ID) lgl]: //The Hand of Broc
 ItemDisplay[(UNI ETH !ID) xlg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) ulg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) vgl]: 
+ItemDisplay[(UNI ETH !ID) vgl]: //Bloodfist
 ItemDisplay[(UNI ETH !ID) xvg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) uvg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) mgl]: 
+ItemDisplay[(UNI ETH !ID) mgl]: Chance Guards
 ItemDisplay[(UNI ETH !ID) xmg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) umg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) tgl]: 
+ItemDisplay[(UNI ETH !ID) tgl]: Magefist
 ItemDisplay[(UNI ETH !ID) xtg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) utg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) hgl]: 
+ItemDisplay[(UNI ETH !ID) hgl]: //Frostburn
 ItemDisplay[(UNI ETH !ID) xhg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) uhg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) lbt]: 
+
+//Boots
+ItemDisplay[(UNI ETH !ID) lbt]: Hotspur
 ItemDisplay[(UNI ETH !ID) xlb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) ulb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) vbt]: 
+ItemDisplay[(UNI ETH !ID) vbt]: //Gorefoot
 ItemDisplay[(UNI ETH !ID) xvb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) uvb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) mbt]: 
+ItemDisplay[(UNI ETH !ID) mbt]: //Treads of Cthon
 ItemDisplay[(UNI ETH !ID) xmb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) umb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) tbt]: 
+ItemDisplay[(UNI ETH !ID) tbt]: Goblin Toe
 ItemDisplay[(UNI ETH !ID) xtb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) utb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) hbt]:
+ItemDisplay[(UNI ETH !ID) hbt]: Tearhaunch
 ItemDisplay[(UNI ETH !ID) xhb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) uhb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) lbl]: 
+
+//Belts
+ItemDisplay[(UNI ETH !ID) lbl]: Lenymo
 ItemDisplay[(UNI ETH !ID) zlb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) ulc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) vbl]: 
+ItemDisplay[(UNI ETH !ID) vbl]: //Snakecord
 ItemDisplay[(UNI ETH !ID) zvb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) uvc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) mbl]: 
+ItemDisplay[(UNI ETH !ID) mbl]: Nightsmoke
 ItemDisplay[(UNI ETH !ID) zmb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) umc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) tbl]: 
+ItemDisplay[(UNI ETH !ID) tbl]: Goldwrap
 ItemDisplay[(UNI ETH !ID) ztb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) utc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) hbl]: 
+ItemDisplay[(UNI ETH !ID) hbl]: //Bladebuckle
 ItemDisplay[(UNI ETH !ID) zhb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) uhc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ci0]: 
-ItemDisplay[(UNI ETH !ID) ci2]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ci3]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ci1]: 
-ItemDisplay[(UNI ETH !ID) dr1]: 
+
+//Druid Helms
 ItemDisplay[(UNI ETH !ID) dr6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) drb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) dr2]: 
+ItemDisplay[(UNI ETH !ID) dr2]: //Quetzalcoatl //New
 ItemDisplay[(UNI ETH !ID) dr7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) drc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) dr3]: 
 ItemDisplay[(UNI ETH !ID) dr8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) drd]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) dr4]: 
 ItemDisplay[(UNI ETH !ID) dr9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) dre]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) dr5]: 
 ItemDisplay[(UNI ETH !ID) dra]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) drf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ba1]: 
+
+//Barbarian Helms
 ItemDisplay[(UNI ETH !ID) ba6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) bab]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ba2]: 
 ItemDisplay[(UNI ETH !ID) ba7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) bac]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ba3]: 
 ItemDisplay[(UNI ETH !ID) ba8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) bad]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ba4]: 
 ItemDisplay[(UNI ETH !ID) ba9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) bae]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ba5]: 
 ItemDisplay[(UNI ETH !ID) baa]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) baf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) pa1]: 
+
+//Paladin Shields
 ItemDisplay[(UNI ETH !ID) pa6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) pab]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) pa2]: 
 ItemDisplay[(UNI ETH !ID) pa7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) pac]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) pa3]: 
+ItemDisplay[(UNI ETH !ID) pa3]: //Sankekur's Fall //New
 ItemDisplay[(UNI ETH !ID) pa8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) pad]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) pa4]: 
 ItemDisplay[(UNI ETH !ID) pa9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) pae]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) pa5]: 
 ItemDisplay[(UNI ETH !ID) paa]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) paf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ne1]: 
+
+//Necro Shields
 ItemDisplay[(UNI ETH !ID) ne6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) neb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ne2]: 
 ItemDisplay[(UNI ETH !ID) ne7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) neg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ne3]: 
 ItemDisplay[(UNI ETH !ID) ne8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) ned]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ne4]: 
 ItemDisplay[(UNI ETH !ID) ne9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) nee]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ne5]: 
 ItemDisplay[(UNI ETH !ID) nea]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
 ItemDisplay[(UNI ETH !ID) nef]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 
@@ -1582,503 +1573,502 @@ ItemDisplay[(UNI ETH !ID) amf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ItemDisplay[(SET !ID) cap]: 
-ItemDisplay[(SET !ID) xap]: 
-ItemDisplay[(SET !ID) uap]: 
+ItemDisplay[(SET !ID) xap]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uap]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) skp]: 
-ItemDisplay[(SET !ID) xkp]: 
-ItemDisplay[(SET !ID) ukp]: 
+ItemDisplay[(SET !ID) xkp]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ukp]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) hlm]: 
-ItemDisplay[(SET !ID) xlm]: 
-ItemDisplay[(SET !ID) ulm]: 
+ItemDisplay[(SET !ID) xlm]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ulm]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) fhl]: 
-ItemDisplay[(SET !ID) xhl]: 
-ItemDisplay[(SET !ID) uhl]: 
+ItemDisplay[(SET !ID) xhl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uhl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) msk]: 
-ItemDisplay[(SET !ID) xsk]: 
-ItemDisplay[(SET !ID) usk]: 
+ItemDisplay[(SET !ID) xsk]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) usk]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) bhm]: 
-ItemDisplay[(SET !ID) xh9]: 
-ItemDisplay[(SET !ID) uh9]: 
+ItemDisplay[(SET !ID) xh9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uh9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ghm]: 
-ItemDisplay[(SET !ID) xhm]: 
-ItemDisplay[(SET !ID) uhm]: 
+ItemDisplay[(SET !ID) xhm]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uhm]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) crn]: 
-ItemDisplay[(SET !ID) xrn]: 
-ItemDisplay[(SET !ID) urn]: 
+ItemDisplay[(SET !ID) xrn]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) urn]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) qui]: 
-ItemDisplay[(SET !ID) xui]: 
-ItemDisplay[(SET !ID) uui]: 
+ItemDisplay[(SET !ID) xui]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uui]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) lea]: 
-ItemDisplay[(SET !ID) xea]: 
-ItemDisplay[(SET !ID) uea]: 
+ItemDisplay[(SET !ID) xea]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uea]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) hla]: 
-ItemDisplay[(SET !ID) xla]: 
-ItemDisplay[(SET !ID) ula]: 
+ItemDisplay[(SET !ID) xla]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ula]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) stu]: 
-ItemDisplay[(SET !ID) xtu]: 
-ItemDisplay[(SET !ID) utu]: 
+ItemDisplay[(SET !ID) xtu]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) utu]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) rng]: 
-ItemDisplay[(SET !ID) xng]: 
-ItemDisplay[(SET !ID) ung]: 
+ItemDisplay[(SET !ID) xng]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ung]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) scl]: 
-ItemDisplay[(SET !ID) xcl]: 
-ItemDisplay[(SET !ID) ucl]: 
+ItemDisplay[(SET !ID) xcl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ucl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) brs]: 
-ItemDisplay[(SET !ID) xrs]: 
-ItemDisplay[(SET !ID) urs]: 
+ItemDisplay[(SET !ID) xrs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) urs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) chn]: 
-ItemDisplay[(SET !ID) xhn]: 
-ItemDisplay[(SET !ID) uhn]: 
+ItemDisplay[(SET !ID) xhn]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uhn]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) spl]: 
-ItemDisplay[(SET !ID) xpl]: 
-ItemDisplay[(SET !ID) upl]: 
+ItemDisplay[(SET !ID) xpl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) upl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ltp]: 
-ItemDisplay[(SET !ID) xtp]: 
-ItemDisplay[(SET !ID) utp]: 
+ItemDisplay[(SET !ID) xtp]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) utp]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) fld]: 
-ItemDisplay[(SET !ID) xld]: 
-ItemDisplay[(SET !ID) uld]: 
+ItemDisplay[(SET !ID) xld]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uld]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) plt]: 
-ItemDisplay[(SET !ID) xlt]: 
-ItemDisplay[(SET !ID) ult]: 
+ItemDisplay[(SET !ID) xlt]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ult]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) gth]: 
-ItemDisplay[(SET !ID) xth]: 
-ItemDisplay[(SET !ID) uth]: 
+ItemDisplay[(SET !ID) xth]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uth]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ful]: 
-ItemDisplay[(SET !ID) xul]: 
-ItemDisplay[(SET !ID) uul]: 
+ItemDisplay[(SET !ID) xul]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uul]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) aar]: 
-ItemDisplay[(SET !ID) xar]: 
-ItemDisplay[(SET !ID) uar]: 
+ItemDisplay[(SET !ID) xar]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uar]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) buc]: 
-ItemDisplay[(SET !ID) xuc]: 
-ItemDisplay[(SET !ID) uuc]: 
+ItemDisplay[(SET !ID) xuc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uuc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) sml]: 
-ItemDisplay[(SET !ID) xml]: 
-ItemDisplay[(SET !ID) uml]: 
-ItemDisplay[(SET !ID) lrg]: 
-ItemDisplay[(SET !ID) xrg]: 
-ItemDisplay[(SET !ID) urg]: 
+ItemDisplay[(SET !ID) xml]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uml]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) lrg]:
+ItemDisplay[(SET !ID) xrg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) urg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) spk]: 
-ItemDisplay[(SET !ID) xpk]: 
-ItemDisplay[(SET !ID) upk]: 
+ItemDisplay[(SET !ID) xpk]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) upk]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) kit]: 
-ItemDisplay[(SET !ID) xit]: 
-ItemDisplay[(SET !ID) uit]: 
+ItemDisplay[(SET !ID) xit]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uit]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) bsh]: 
-ItemDisplay[(SET !ID) xsh]: 
-ItemDisplay[(SET !ID) ush]: 
+ItemDisplay[(SET !ID) xsh]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ush]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) tow]: 
-ItemDisplay[(SET !ID) xow]: 
-ItemDisplay[(SET !ID) uow]: 
+ItemDisplay[(SET !ID) xow]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uow]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) gts]: 
-ItemDisplay[(SET !ID) xts]: 
-ItemDisplay[(SET !ID) uts]: 
+ItemDisplay[(SET !ID) xts]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uts]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) lgl]: 
-ItemDisplay[(SET !ID) xlg]: 
-ItemDisplay[(SET !ID) ulg]: 
+ItemDisplay[(SET !ID) xlg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ulg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) vgl]: 
-ItemDisplay[(SET !ID) xvg]: 
-ItemDisplay[(SET !ID) uvg]: 
+ItemDisplay[(SET !ID) xvg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uvg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) mgl]: 
-ItemDisplay[(SET !ID) xmg]: 
-ItemDisplay[(SET !ID) umg]: 
+ItemDisplay[(SET !ID) xmg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) umg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) tgl]: 
-ItemDisplay[(SET !ID) xtg]: 
-ItemDisplay[(SET !ID) utg]: 
+ItemDisplay[(SET !ID) xtg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) utg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) hgl]: 
-ItemDisplay[(SET !ID) xhg]: 
-ItemDisplay[(SET !ID) uhg]: 
+ItemDisplay[(SET !ID) xhg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uhg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) lbt]: 
-ItemDisplay[(SET !ID) xlb]: 
-ItemDisplay[(SET !ID) ulb]: 
+ItemDisplay[(SET !ID) xlb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ulb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) vbt]: 
-ItemDisplay[(SET !ID) xvb]: 
-ItemDisplay[(SET !ID) uvb]: 
+ItemDisplay[(SET !ID) xvb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uvb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) mbt]: 
-ItemDisplay[(SET !ID) xmb]: 
-ItemDisplay[(SET !ID) umb]: 
+ItemDisplay[(SET !ID) xmb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) umb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) tbt]: 
-ItemDisplay[(SET !ID) xtb]: 
-ItemDisplay[(SET !ID) utb]: 
-ItemDisplay[(SET !ID) hbt]: 
-ItemDisplay[(SET !ID) xhb]: 
-ItemDisplay[(SET !ID) uhb]: 
+ItemDisplay[(SET !ID) xtb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) utb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) hbt]:
+ItemDisplay[(SET !ID) xhb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uhb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) lbl]: 
-ItemDisplay[(SET !ID) zlb]: 
-ItemDisplay[(SET !ID) ulc]: 
+ItemDisplay[(SET !ID) zlb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ulc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) vbl]: 
-ItemDisplay[(SET !ID) zvb]: 
-ItemDisplay[(SET !ID) uvc]: 
+ItemDisplay[(SET !ID) zvb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uvc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) mbl]: 
-ItemDisplay[(SET !ID) zmb]: 
-ItemDisplay[(SET !ID) umc]: 
+ItemDisplay[(SET !ID) zmb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) umc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) tbl]: 
-ItemDisplay[(SET !ID) ztb]: 
-ItemDisplay[(SET !ID) utc]: 
+ItemDisplay[(SET !ID) ztb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) utc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) hbl]: 
-ItemDisplay[(SET !ID) zhb]: 
-ItemDisplay[(SET !ID) uhc]: 
+ItemDisplay[(SET !ID) zhb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) uhc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ci0]: 
-ItemDisplay[(SET !ID) ci2]: 
-ItemDisplay[(SET !ID) ci3]: 
+ItemDisplay[(SET !ID) ci2]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ci3]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ci1]: 
 ItemDisplay[(SET !ID) dr1]: 
-ItemDisplay[(SET !ID) dr6]: 
-ItemDisplay[(SET !ID) drb]: 
+ItemDisplay[(SET !ID) dr6]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) drb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) dr2]: 
-ItemDisplay[(SET !ID) dr7]: 
-ItemDisplay[(SET !ID) drc]: 
+ItemDisplay[(SET !ID) dr7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) drc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) dr3]: 
-ItemDisplay[(SET !ID) dr8]: 
-ItemDisplay[(SET !ID) drd]: 
+ItemDisplay[(SET !ID) dr8]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) drd]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) dr4]: 
-ItemDisplay[(SET !ID) dr9]: 
-ItemDisplay[(SET !ID) dre]: 
+ItemDisplay[(SET !ID) dr9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) dre]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) dr5]: 
-ItemDisplay[(SET !ID) dra]: 
-ItemDisplay[(SET !ID) drf]: 
+ItemDisplay[(SET !ID) dra]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) drf]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ba1]: 
-ItemDisplay[(SET !ID) ba6]: 
-ItemDisplay[(SET !ID) bab]: 
+ItemDisplay[(SET !ID) ba6]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) bab]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ba2]: 
-ItemDisplay[(SET !ID) ba7]: 
-ItemDisplay[(SET !ID) bac]: 
+ItemDisplay[(SET !ID) ba7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) bac]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ba3]: 
-ItemDisplay[(SET !ID) ba8]: 
-ItemDisplay[(SET !ID) bad]: 
+ItemDisplay[(SET !ID) ba8]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) bad]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ba4]: 
-ItemDisplay[(SET !ID) ba9]: 
-ItemDisplay[(SET !ID) bae]: 
+ItemDisplay[(SET !ID) ba9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) bae]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ba5]: 
-ItemDisplay[(SET !ID) baa]: 
-ItemDisplay[(SET !ID) baf]: 
+ItemDisplay[(SET !ID) baa]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) baf]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) pa1]: 
-ItemDisplay[(SET !ID) pa6]: 
-ItemDisplay[(SET !ID) pab]: 
+ItemDisplay[(SET !ID) pa6]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) pab]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) pa2]: 
-ItemDisplay[(SET !ID) pa7]: 
-ItemDisplay[(SET !ID) pac]: 
+ItemDisplay[(SET !ID) pa7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) pac]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) pa3]: 
-ItemDisplay[(SET !ID) pa8]: 
-ItemDisplay[(SET !ID) pad]: 
+ItemDisplay[(SET !ID) pa8]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) pad]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) pa4]: 
-ItemDisplay[(SET !ID) pa9]: 
-ItemDisplay[(SET !ID) pae]: 
+ItemDisplay[(SET !ID) pa9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) pae]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) pa5]: 
-ItemDisplay[(SET !ID) paa]: 
-ItemDisplay[(SET !ID) paf]: 
+ItemDisplay[(SET !ID) paa]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) paf]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ne1]: 
-ItemDisplay[(SET !ID) ne6]: 
-ItemDisplay[(SET !ID) neb]: 
+ItemDisplay[(SET !ID) ne6]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) neb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ne2]: 
-ItemDisplay[(SET !ID) ne7]: 
-ItemDisplay[(SET !ID) neg]: 
+ItemDisplay[(SET !ID) ne7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) neg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ne3]: 
-ItemDisplay[(SET !ID) ne8]: 
-ItemDisplay[(SET !ID) ned]: 
+ItemDisplay[(SET !ID) ne8]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ned]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ne4]: 
-ItemDisplay[(SET !ID) ne9]: 
-ItemDisplay[(SET !ID) nee]: 
+ItemDisplay[(SET !ID) ne9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) nee]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ne5]: 
-ItemDisplay[(SET !ID) nea]: 
-ItemDisplay[(SET !ID) nef]: 
+ItemDisplay[(SET !ID) nea]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) nef]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 
 //Weapons
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ItemDisplay[(SET !ID) hax]: 
-ItemDisplay[(SET !ID) 9ha]: 
-ItemDisplay[(SET !ID) 7ha]: 
+ItemDisplay[(SET !ID) 9ha]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7ha]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) axe]: 
-ItemDisplay[(SET !ID) 9ax]: 
-ItemDisplay[(SET !ID) 7ax]: 
+ItemDisplay[(SET !ID) 9ax]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7ax]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) 2ax]: 
-ItemDisplay[(SET !ID) 92a]: 
-ItemDisplay[(SET !ID) 72a]: 
+ItemDisplay[(SET !ID) 92a]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 72a]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) mpi]: 
-ItemDisplay[(SET !ID) 9mp]: 
-ItemDisplay[(SET !ID) 7mp]: 
+ItemDisplay[(SET !ID) 9mp]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7mp]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) wax]: 
-ItemDisplay[(SET !ID) 9wa]: 
-ItemDisplay[(SET !ID) 7wa]: 
+ItemDisplay[(SET !ID) 9wa]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7wa]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) lax]: 
-ItemDisplay[(SET !ID) 9la]: 
-ItemDisplay[(SET !ID) 7la]: 
+ItemDisplay[(SET !ID) 9la]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7la]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) bax]: 
-ItemDisplay[(SET !ID) 9ba]: 
-ItemDisplay[(SET !ID) 7ba]: 
+ItemDisplay[(SET !ID) 9ba]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7ba]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) btx]: 
-ItemDisplay[(SET !ID) 9bt]: 
-ItemDisplay[(SET !ID) 7bt]: 
+ItemDisplay[(SET !ID) 9bt]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7bt]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) gax]: 
-ItemDisplay[(SET !ID) 9ga]: 
-ItemDisplay[(SET !ID) 7ga]: 
+ItemDisplay[(SET !ID) 9ga]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7ga]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) gix]: 
-ItemDisplay[(SET !ID) 9gi]: 
-ItemDisplay[(SET !ID) 7gi]: 
+ItemDisplay[(SET !ID) 9gi]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7gi]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) clb]: 
-ItemDisplay[(SET !ID) 9cl]: 
-ItemDisplay[(SET !ID) 7cl]: 
+ItemDisplay[(SET !ID) 9cl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7cl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) spc]: 
-ItemDisplay[(SET !ID) 9sp]: 
-ItemDisplay[(SET !ID) 7sp]: 
+ItemDisplay[(SET !ID) 9sp]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7sp]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) mac]: 
-ItemDisplay[(SET !ID) 9ma]: 
-ItemDisplay[(SET !ID) 7ma]: 
+ItemDisplay[(SET !ID) 9ma]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7ma]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) mst]: 
-ItemDisplay[(SET !ID) 9mt]: 
-ItemDisplay[(SET !ID) 7mt]: 
+ItemDisplay[(SET !ID) 9mt]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7mt]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) fla]: 
-ItemDisplay[(SET !ID) 9fl]: 
-ItemDisplay[(SET !ID) 7fl]: 
+ItemDisplay[(SET !ID) 9fl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7fl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) whm]: 
-ItemDisplay[(SET !ID) 9wh]: 
-ItemDisplay[(SET !ID) 7wh]: 
+ItemDisplay[(SET !ID) 9wh]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7wh]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) mau]: 
-ItemDisplay[(SET !ID) 9m9]: 
-ItemDisplay[(SET !ID) 7m7]: 
+ItemDisplay[(SET !ID) 9m9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7m7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) gma]: 
-ItemDisplay[(SET !ID) 9gm]: 
-ItemDisplay[(SET !ID) 7gm]: 
+ItemDisplay[(SET !ID) 9gm]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7gm]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ssd]: 
-ItemDisplay[(SET !ID) 9ss]: 
-ItemDisplay[(SET !ID) 7ss]: 
+ItemDisplay[(SET !ID) 9ss]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7ss]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) scm]: 
-ItemDisplay[(SET !ID) 9sm]: 
-ItemDisplay[(SET !ID) 7sm]: 
+ItemDisplay[(SET !ID) 9sm]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7sm]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) sbr]: 
-ItemDisplay[(SET !ID) 9sb]: 
-ItemDisplay[(SET !ID) 7sb]: 
+ItemDisplay[(SET !ID) 9sb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7sb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) flc]: 
-ItemDisplay[(SET !ID) 9fc]: 
-ItemDisplay[(SET !ID) 7fc]: 
+ItemDisplay[(SET !ID) 9fc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7fc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) crs]: 
-ItemDisplay[(SET !ID) 9cr]: 
-ItemDisplay[(SET !ID) 7cr]: 
+ItemDisplay[(SET !ID) 9cr]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7cr]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) bsd]: 
-ItemDisplay[(SET !ID) 9bs]: 
-ItemDisplay[(SET !ID) 7bs]: 
+ItemDisplay[(SET !ID) 9bs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7bs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) lsd]: 
-ItemDisplay[(SET !ID) 9ls]: 
-ItemDisplay[(SET !ID) 7ls]: 
+ItemDisplay[(SET !ID) 9ls]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7ls]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) wsd]: 
-ItemDisplay[(SET !ID) 9wd]: 
-ItemDisplay[(SET !ID) 7wd]: 
+ItemDisplay[(SET !ID) 9wd]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7wd]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) 2hs]: 
-ItemDisplay[(SET !ID) 92h]: 
-ItemDisplay[(SET !ID) 72h]: 
+ItemDisplay[(SET !ID) 92h]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 72h]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) clm]: 
-ItemDisplay[(SET !ID) 9cm]: 
-ItemDisplay[(SET !ID) 7cm]: 
+ItemDisplay[(SET !ID) 9cm]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7cm]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) gis]: 
-ItemDisplay[(SET !ID) 9gs]: 
-ItemDisplay[(SET !ID) 7gs]: 
+ItemDisplay[(SET !ID) 9gs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7gs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) bsw]: 
-ItemDisplay[(SET !ID) 9b9]: 
-ItemDisplay[(SET !ID) 7b7]: 
+ItemDisplay[(SET !ID) 9b9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7b7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) flb]: 
-ItemDisplay[(SET !ID) 9fb]: 
-ItemDisplay[(SET !ID) 7fb]: 
+ItemDisplay[(SET !ID) 9fb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7fb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) gsd]: 
-ItemDisplay[(SET !ID) 9gd]: 
-ItemDisplay[(SET !ID) 7gd]: 
+ItemDisplay[(SET !ID) 9gd]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7gd]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) dgr]: 
-ItemDisplay[(SET !ID) 9dg]: 
-ItemDisplay[(SET !ID) 7dg]: 
+ItemDisplay[(SET !ID) 9dg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7dg]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) dir]: 
-ItemDisplay[(SET !ID) 9di]: 
-ItemDisplay[(SET !ID) 7di]: 
+ItemDisplay[(SET !ID) 9di]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7di]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) kri]: 
-ItemDisplay[(SET !ID) 9kr]: 
-ItemDisplay[(SET !ID) 7kr]: 
+ItemDisplay[(SET !ID) 9kr]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7kr]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) bld]: 
-ItemDisplay[(SET !ID) 9bl]: 
-ItemDisplay[(SET !ID) 7bl]: 
+ItemDisplay[(SET !ID) 9bl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7bl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) tkf]: 
-ItemDisplay[(SET !ID) 9tk]: 
-ItemDisplay[(SET !ID) 7tk]: 
+ItemDisplay[(SET !ID) 9tk]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7tk]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) tax]: 
-ItemDisplay[(SET !ID) 9ta]: 
-ItemDisplay[(SET !ID) 7ta]: 
+ItemDisplay[(SET !ID) 9ta]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7ta]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) bkf]: 
-ItemDisplay[(SET !ID) 9bk]: 
-ItemDisplay[(SET !ID) 7bk]: 
+ItemDisplay[(SET !ID) 9bk]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7bk]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) bal]: 
-ItemDisplay[(SET !ID) 9b8]: 
-ItemDisplay[(SET !ID) 7b8]: 
+ItemDisplay[(SET !ID) 9b8]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7b8]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) jav]: 
-ItemDisplay[(SET !ID) 9ja]: 
-ItemDisplay[(SET !ID) 7ja]: 
+ItemDisplay[(SET !ID) 9ja]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7ja]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) pil]: 
-ItemDisplay[(SET !ID) 9pi]: 
-ItemDisplay[(SET !ID) 7pi]: 
+ItemDisplay[(SET !ID) 9pi]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7pi]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ssp]: 
-ItemDisplay[(SET !ID) 9s9]: 
-ItemDisplay[(SET !ID) 7s7]: 
+ItemDisplay[(SET !ID) 9s9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7s7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) glv]: 
-ItemDisplay[(SET !ID) 9gl]: 
-ItemDisplay[(SET !ID) 7gl]: 
+ItemDisplay[(SET !ID) 9gl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7gl]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) tsp]: 
-ItemDisplay[(SET !ID) 9ts]: 
-ItemDisplay[(SET !ID) 7ts]: 
+ItemDisplay[(SET !ID) 9ts]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7ts]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) spr]: 
-ItemDisplay[(SET !ID) 9sr]: 
-ItemDisplay[(SET !ID) 7sr]: 
+ItemDisplay[(SET !ID) 9sr]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7sr]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) tri]: 
-ItemDisplay[(SET !ID) 9tr]: 
-ItemDisplay[(SET !ID) 7tr]: 
+ItemDisplay[(SET !ID) 9tr]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7tr]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) brn]: 
-ItemDisplay[(SET !ID) 9br]: 
-ItemDisplay[(SET !ID) 7br]: 
+ItemDisplay[(SET !ID) 9br]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7br]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) spt]: 
-ItemDisplay[(SET !ID) 9st]: 
-ItemDisplay[(SET !ID) 7st]: 
+ItemDisplay[(SET !ID) 9st]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7st]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) pik]: 
-ItemDisplay[(SET !ID) 9p9]: 
-ItemDisplay[(SET !ID) 7p7]: 
+ItemDisplay[(SET !ID) 9p9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7p7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) bar]: 
-ItemDisplay[(SET !ID) 9b7]: 
-ItemDisplay[(SET !ID) 7o7]: 
+ItemDisplay[(SET !ID) 9b7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7o7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) vou]: 
-ItemDisplay[(SET !ID) 9vo]: 
-ItemDisplay[(SET !ID) 7vo]: 
+ItemDisplay[(SET !ID) 9vo]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7vo]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) scy]: 
-ItemDisplay[(SET !ID) 9s8]: 
-ItemDisplay[(SET !ID) 7s8]: 
+ItemDisplay[(SET !ID) 9s8]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7s8]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) pax]: 
-ItemDisplay[(SET !ID) 9pa]: 
-ItemDisplay[(SET !ID) 7pa]: 
+ItemDisplay[(SET !ID) 9pa]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7pa]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) hal]: 
-ItemDisplay[(SET !ID) 9h9]: 
-ItemDisplay[(SET !ID) 7h7]: 
+ItemDisplay[(SET !ID) 9h9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7h7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) wsc]: 
-ItemDisplay[(SET !ID) 9wc]: 
-ItemDisplay[(SET !ID) 7wc]: 
+ItemDisplay[(SET !ID) 9wc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7wc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) sbw]: 
-ItemDisplay[(SET !ID) 8sb]: 
-ItemDisplay[(SET !ID) 6sb]: 
+ItemDisplay[(SET !ID) 8sb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6sb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) hbw]: 
-ItemDisplay[(SET !ID) 8hb]: 
-ItemDisplay[(SET !ID) 6hb]: 
+ItemDisplay[(SET !ID) 8hb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6hb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) lbw]: 
-ItemDisplay[(SET !ID) 8lb]: 
-ItemDisplay[(SET !ID) 6lb]: 
+ItemDisplay[(SET !ID) 8lb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6lb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) cbw]: 
-ItemDisplay[(SET !ID) 8cb]: 
-ItemDisplay[(SET !ID) 6cb]: 
+ItemDisplay[(SET !ID) 8cb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6cb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) sbb]: 
-ItemDisplay[(SET !ID) 8s8]: 
-ItemDisplay[(SET !ID) 6s7]: 
+ItemDisplay[(SET !ID) 8s8]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6s7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) lbb]: 
-ItemDisplay[(SET !ID) 8l8]: 
-ItemDisplay[(SET !ID) 6l7]: 
+ItemDisplay[(SET !ID) 8l8]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6l7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) swb]: 
-ItemDisplay[(SET !ID) 8sw]: 
-ItemDisplay[(SET !ID) 6sw]: 
+ItemDisplay[(SET !ID) 8sw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6sw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) lwb]: 
-ItemDisplay[(SET !ID) 8lw]: 
-ItemDisplay[(SET !ID) 6lw]: 
+ItemDisplay[(SET !ID) 8lw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6lw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) lxb]: 
-ItemDisplay[(SET !ID) 8lx]: 
-ItemDisplay[(SET !ID) 6lx]: 
+ItemDisplay[(SET !ID) 8lx]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6lx]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) mxb]: 
-ItemDisplay[(SET !ID) 8mx]: 
-ItemDisplay[(SET !ID) 6mx]: 
+ItemDisplay[(SET !ID) 8mx]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6mx]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) hxb]: 
-ItemDisplay[(SET !ID) 8hx]: 
-ItemDisplay[(SET !ID) 6hx]: 
+ItemDisplay[(SET !ID) 8hx]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6hx]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) rxb]: 
-ItemDisplay[(SET !ID) 8rx]: 
-ItemDisplay[(SET !ID) 6rx]: 
+ItemDisplay[(SET !ID) 8rx]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6rx]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) sst]: 
-ItemDisplay[(SET !ID) 8ss]: 
-ItemDisplay[(SET !ID) 6ss]: 
+ItemDisplay[(SET !ID) 8ss]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6ss]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) lst]: 
-ItemDisplay[(SET !ID) 8ls]: 
-ItemDisplay[(SET !ID) 6ls]: 
+ItemDisplay[(SET !ID) 8ls]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6ls]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) cst]: 
-ItemDisplay[(SET !ID) 8cs]: 
-ItemDisplay[(SET !ID) 6cs]: 
+ItemDisplay[(SET !ID) 8cs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6cs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) bst]: 
-ItemDisplay[(SET !ID) 8bs]: 
-ItemDisplay[(SET !ID) 6bs]: 
+ItemDisplay[(SET !ID) 8bs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6bs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) wst]: 
-ItemDisplay[(SET !ID) 8ws]: 
-ItemDisplay[(SET !ID) 6ws]: 
+ItemDisplay[(SET !ID) 8ws]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 6ws]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) wnd]: 
-ItemDisplay[(SET !ID) 9wn]: 
-ItemDisplay[(SET !ID) 7wn]: 
+ItemDisplay[(SET !ID) 9wn]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7wn]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ywn]: 
-ItemDisplay[(SET !ID) 9yw]: 
-ItemDisplay[(SET !ID) 7yw]: 
+ItemDisplay[(SET !ID) 9yw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7yw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) bwn]: 
-ItemDisplay[(SET !ID) 9bw]: 
-ItemDisplay[(SET !ID) 7bw]: 
+ItemDisplay[(SET !ID) 9bw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7bw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) gwn]: 
-ItemDisplay[(SET !ID) 9gw]: 
-ItemDisplay[(SET !ID) 7gw]: 
+ItemDisplay[(SET !ID) 9gw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7gw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) scp]: 
-ItemDisplay[(SET !ID) 9sc]: 
-ItemDisplay[(SET !ID) 7sc]: 
+ItemDisplay[(SET !ID) 9sc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7sc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) gsc]: 
-ItemDisplay[(SET !ID) 9qs]: 
-ItemDisplay[(SET !ID) 7qs]: 
+ItemDisplay[(SET !ID) 9qs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7qs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) wsp]: 
-ItemDisplay[(SET !ID) 9ws]: 
-ItemDisplay[(SET !ID) 7ws]: 
+ItemDisplay[(SET !ID) 9ws]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7ws]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ktr]: 
-ItemDisplay[(SET !ID) 9ar]: 
-ItemDisplay[(SET !ID) 7ar]: 
+ItemDisplay[(SET !ID) 9ar]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7ar]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) wrb]: 
-ItemDisplay[(SET !ID) 9wb]: 
-ItemDisplay[(SET !ID) 7wb]: 
+ItemDisplay[(SET !ID) 9wb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7wb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) axf]: 
-ItemDisplay[(SET !ID) 9xf]: 
-ItemDisplay[(SET !ID) 7xf]: 
+ItemDisplay[(SET !ID) 9xf]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7xf]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ces]: 
-ItemDisplay[(SET !ID) 9cs]: 
-ItemDisplay[(SET !ID) 7cs]: 
+ItemDisplay[(SET !ID) 9cs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7cs]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) clw]: 
-ItemDisplay[(SET !ID) 9lw]: 
-ItemDisplay[(SET !ID) 7lw]: 
+ItemDisplay[(SET !ID) 9lw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7lw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) btl]: 
-ItemDisplay[(SET !ID) 9tw]: 
-ItemDisplay[(SET !ID) 7tw]: 
+ItemDisplay[(SET !ID) 9tw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7tw]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) skr]: 
-ItemDisplay[(SET !ID) 9qr]: 
-ItemDisplay[(SET !ID) 7qr]: 
+ItemDisplay[(SET !ID) 9qr]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) 7qr]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ob1]: 
-ItemDisplay[(SET !ID) ob6]: 
-ItemDisplay[(SET !ID) obb]: 
+ItemDisplay[(SET !ID) ob6]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) obb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ob2]: 
-ItemDisplay[(SET !ID) ob7]: 
-ItemDisplay[(SET !ID) obc]: 
+ItemDisplay[(SET !ID) ob7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) obc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ob3]: 
-ItemDisplay[(SET !ID) ob8]: 
-ItemDisplay[(SET !ID) obd]: 
+ItemDisplay[(SET !ID) ob8]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) obd]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ob4]: 
-ItemDisplay[(SET !ID) ob9]: 
-ItemDisplay[(SET !ID) obe]: 
+ItemDisplay[(SET !ID) ob9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) obe]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) ob5]: 
-ItemDisplay[(SET !ID) oba]: 
-ItemDisplay[(SET !ID) obf]: 
+ItemDisplay[(SET !ID) oba]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) obf]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) am1]: 
-ItemDisplay[(SET !ID) am6]: 
-ItemDisplay[(SET !ID) amb]: 
+ItemDisplay[(SET !ID) am6]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) amb]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) am2]: 
-ItemDisplay[(SET !ID) am7]: 
-ItemDisplay[(SET !ID) amc]: 
+ItemDisplay[(SET !ID) am7]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) amc]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) am3]: 
-ItemDisplay[(SET !ID) am8]: 
-ItemDisplay[(SET !ID) amd]: 
+ItemDisplay[(SET !ID) am8]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) amd]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) am4]: 
-ItemDisplay[(SET !ID) am9]: 
-ItemDisplay[(SET !ID) ame]: 
+ItemDisplay[(SET !ID) am9]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) ame]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) am5]: 
-ItemDisplay[(SET !ID) ama]: 
-ItemDisplay[(SET !ID) amf]: 
-
+ItemDisplay[(SET !ID) ama]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) amf]: %DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 
 //CRAFTING
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -2377,10 +2367,10 @@ ItemDisplay[dhn]: %GOLD%Diablo's Horn %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_
 ItemDisplay[bey]: %GOLD%Baal's Eye %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Lilith%NL%%TAN%Required to access Uber Tristram}
 ItemDisplay[mbr]: %GOLD%Mephisto's Brain %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Uber Izual%NL%%TAN%Required to access Uber Tristram}
 ItemDisplay[ubtm]: %GOLD%Pandemonium Talisman%MAP%{%TAN%Required to access Uber Tristram}
-ItemDisplay[std]: %GOLD%Standard of Heroes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%
-ItemDisplay[UNI cm1]: %DOT-A8%%NAME% //Annihilus
-ItemDisplay[UNI cm2]: %DOT-A8%%NAME% //Torch
-ItemDisplay[UNI cm3]: %DOT-A8%%NAME% //Gheed's
+ItemDisplay[std]: %GOLD%Standard of Heroes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-D3%
+ItemDisplay[UNI cm1]: %GOLD%%NAME%%BORDER-1F% //Annihilus
+ItemDisplay[UNI cm2]: %GOLD%%NAME%%BORDER-1F% //Torch
+ItemDisplay[UNI cm3]: %GOLD%%NAME%%BORDER-1F% //Gheed's
 
 //DIABLO CLONE
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
