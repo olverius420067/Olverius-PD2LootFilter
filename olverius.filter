@@ -1219,54 +1219,34 @@ ItemDisplay[(UNI ETH !ID) hbl]: //Bladebuckle
 ItemDisplay[(UNI ETH !ID) zhb]: %YELLOW%oooooo %GOLD%Thundergod's Vigor %YELLOW%oooooo%MAP-D3%
 
 //Druid Helms
-ItemDisplay[(UNI ETH !ID) dr6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) drb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) drb]: %YELLOW%oooooooo %GOLD%Cerebus' Bite %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) dr2]: //Quetzalcoatl //New
-ItemDisplay[(UNI ETH !ID) dr7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) drc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) dr8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) drd]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) dr9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) dre]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) dra]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) drf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) drc]: %YELLOW%oooooooo %GOLD%Denmother %YELLOW%oooooooo%BORDER-D3% //New
+ItemDisplay[(UNI ETH !ID) drd]: %YELLOW%oooooooo %GOLD%Spirit Keeper %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) dre]: %YELLOW%oooooooo %GOLD%Ravenlore %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) dra]: %YELLOW%oooooo %GOLD%Jalal's Mane %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) drf]: %YELLOW%oooooooo %GOLD%Ursa's Nightmare %YELLOW%oooooooo%BORDER-D3% //New
 
 //Barbarian Helms
-ItemDisplay[(UNI ETH !ID) ba6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) bab]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ba7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) bac]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ba8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) bad]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ba9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) bae]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) baa]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) baf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) ba6]: %YELLOW%oooooo %GOLD%Cyclopean Roar %YELLOW%oooooo%MAP-D3% //New
+ItemDisplay[(UNI ETH !ID) bac]: %YELLOW%oooooooo %GOLD%Wolfhowl %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) bad]: //%YELLOW%oooooooo %GOLD%Demonhorn's Edge %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) bae]: %YELLOW%oooooooo %GOLD%	Halaberd's Reign %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) baa]: %YELLOW%oooooo %GOLD%Arreat's Face %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) baf]: %YELLOW%oooooooo %GOLD%Raekor's Virtue %YELLOW%oooooooo%BORDER-D3% //New
 
 //Paladin Shields
-ItemDisplay[(UNI ETH !ID) pa6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) pab]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) pa7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) pac]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) pac]: %YELLOW%oooooooo %GOLD%Alma Negra %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) pa3]: //Sankekur's Fall //New
-ItemDisplay[(UNI ETH !ID) pa8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) pad]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) pa9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) pae]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) paa]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) paf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) pa9]: %YELLOW%oooooo %GOLD%Herald of Zakarum %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) pae]: //%YELLOW%oooooooo %GOLD%Dragonscale %YELLOW%oooooooo%BORDER-D3%
 
 //Necro Shields
-ItemDisplay[(UNI ETH !ID) ne6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) neb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ne7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) neg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ne8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) ned]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ne9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) nee]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) nea]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) nef]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) ne6]: %YELLOW%oooooo %GOLD%Kalan's Legacy %YELLOW%oooooo%MAP-D3% //New
+ItemDisplay[(UNI ETH !ID) ned]: %YELLOW%oooooooo %GOLD%Martyrdom %YELLOW%oooooooo%BORDER-D3% //New
+ItemDisplay[(UNI ETH !ID) nee]: %YELLOW%oooooooo %GOLD%Boneflame %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) nea]: %YELLOW%oooooo %GOLD%Homunculus %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) nef]: %YELLOW%oooooooo %GOLD%Darkforce Spawn %YELLOW%oooooooo%BORDER-D3%
 
 //Weapons
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -2218,36 +2198,40 @@ ItemDisplay[ZON (amc) NMAG (!INF OR ETH) SOCK>3 !RW]: //%NAME%{%NAME%}
 
 //PROJECT D2
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[wss]: %RED%Worldstone Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[iwss]: %PURPLE%Catalyst Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[imra]: %GOLD%Zakarum Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
-ItemDisplay[irra]: %GOLD%Infused Zakarum Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
-ItemDisplay[scrb]: %GOLD%Horadrim Scarab %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
-ItemDisplay[rera]: %GOLD%Horadrim Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
-ItemDisplay[rrra]: %GOLD%Infused Horadrim Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
-ItemDisplay[upma]: %GOLD%Angelic Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
-ItemDisplay[urma]: %GOLD%Infused Angelic Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
-ItemDisplay[imma]: %GOLD%Arcane Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
-ItemDisplay[irma]: %GOLD%Infused Arcane Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
-ItemDisplay[scou]: %GOLD%Orb of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
-ItemDisplay[lbox]: %GOLD%Larzuk's Puzzlebox %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[lpp]: %GOLD%Larzuk's Puzzlepiece %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[lmal]: %GOLD%Larzuk's Malus%CONTINUE%
-ItemDisplay[upmp]: %GOLD%Cartographer's Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-A9%%CONTINUE%
-ItemDisplay[fort]: %GOLD%Orb of Fortification %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[jewf]: %TAN%Fragment %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[lsvl]: %TAN%Vial of Lightsong %MAP%%CONTINUE%
-ItemDisplay[llmr]: %ORANGE%Lilith's Mirror %MAP%%CONTINUE%
-ItemDisplay[rkey]: %GRAY%Skeleton Key %MAP%%CONTINUE%
-ItemDisplay[crfb]: %ORANGE%Blood Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[crfc]: %ORANGE%Caster Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[crfs]: %ORANGE%Safety Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[crfh]: %ORANGE%Hitpower Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[crfv]: %ORANGE%Vampiric Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[crfu]: %ORANGE%Bountiful Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[crfp]: %ORANGE%Brilliant Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[pvpp]: %RED%Dueling Mana Potion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
-ItemDisplay[imrn]: %GOLD%Demonic Cube %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTINUE%
+ItemDisplay[wss]: %RED%Worldstone Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-55%
+ItemDisplay[iwss]: %PURPLE%Catalyst Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-9B%
+ItemDisplay[imra]: %GOLD%Zakarum Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[irra]: %GOLD%Infused Zakarum Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[scrb]: %GOLD%Horadrim Scarab %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[rera]: %GOLD%Horadrim Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[rrra]: %GOLD%Infused Horadrim Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[upma]: %GOLD%Angelic Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[urma]: %GOLD%Infused Angelic Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[imma]: %GOLD%Arcane Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[irma]: %GOLD%Infused Arcane Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[scou]: %GOLD%Orb of Destruction %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[upmp]: %GOLD%Cartographer's Orb %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[fort]: %GOLD%Orb of Fortification %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[crfb]: %ORANGE%Blood Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0B%
+ItemDisplay[crfc]: %ORANGE%Caster Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0B%
+ItemDisplay[crfs]: %ORANGE%Safety Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0B%
+ItemDisplay[crfh]: %ORANGE%Hitpower Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0B%
+ItemDisplay[crfv]: %ORANGE%Vampiric Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0B%
+ItemDisplay[crfu]: %ORANGE%Bountiful Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0B%
+ItemDisplay[crfp]: %ORANGE%Brilliant Craft Infusion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0B%
+ItemDisplay[pvpp]: %RED%Dueling Mana Potion %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-94%
+ItemDisplay[imrn]: %GOLD%Demonic Cube %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-55%
+ItemDisplay[lbox]: %GOLD%Larzuk's Puzzlebox %YELLOW%[%WHITE%%QTY%%YELLOW%]%BORDER-D3%
+ItemDisplay[lpp]: %GOLD%Larzuk's Puzzlepiece %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-D3%
+ItemDisplay[lmal]: %GOLD%Larzuk's Malus%MAP-55%
+ItemDisplay[jewf]: %TAN%Fragment %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-0E%
+ItemDisplay[rkey]: %GRAY%Skeleton Key %BORDER-1D%
+ItemDisplay[rtp]: %BLUE%Horadrim Navigator %BORDER-94%
+ItemDisplay[rid]: %RED%Horadrim Almanac %BORDER-D3%
+ItemDisplay[lsvl]: %WHITE%ooooooooooo %TAN%Vial of Lightsong %WHITE%ooooooooooo%BORDER-6A%
+ItemDisplay[llmr]: %WHITE%ooooooooooo %ORANGE%Lilith's Mirror %WHITE%ooooooooooo%BORDER-6A%
+
+
 
 
 //MAPS
@@ -2384,8 +2368,6 @@ ItemDisplay[cm2f]: %BLUE%Hellfire Ashes %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DAR
 ItemDisplay[rtmo]: %BLUE%Trang-Oul's Jawbone %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%{%DARK_GREEN%Obtainable from Any Undead enemies%NL%%BLUE%Required to access Rathma}
 ItemDisplay[rtma]: %BLUE%Voidstone %YELLOW%%MAP%{%BLUE%Required to access Rathma}
 ItemDisplay[cwss]: %BLUE%Tainted Worldstone Shard %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%
-ItemDisplay[rtp]: %BLUE%Horadrim Navigator %MAP%
-ItemDisplay[rid]: %RED%Horadrim Almanac %MAP%
 
 //LUCION
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
