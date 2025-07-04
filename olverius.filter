@@ -1,4 +1,3 @@
-
 //name: Olverius' Loot Filter
 //game: Project Diablo 2
 //contact: twitch.tv/olverius_fisto 
@@ -1320,92 +1319,97 @@ ItemDisplay[(hbl) SET !ID]: %DARK_GREEN%ooooo %NAME%-Immortal King's Will%DARK_G
 ItemDisplay[(am5) UNI ETH !ID]: //%NAME%-True Silver%MAP% //Amazon Weapon
 
 //Axes
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(hax) UNI ETH !ID]: //%NAME%-The Gnasher%MAP%
+ItemDisplay[(axe) UNI ETH !ID]: //%NAME%-Deathspade%MAP%
+ItemDisplay[(2ax) UNI ETH !ID]: //%NAME%-Bladebone%MAP%
+ItemDisplay[(mpi) UNI ETH !ID]: //%NAME%-Skull Splitter%MAP%
+ItemDisplay[(wax) UNI ETH !ID]: //%NAME%-Rakescar%MAP%
+ItemDisplay[(lax) UNI ETH !ID]: //%NAME%-Axe of Fechmar%MAP%
+ItemDisplay[(bax) UNI ETH !ID]: //%NAME%-Goreshovel%MAP%
+ItemDisplay[(btx) UNI ETH !ID]: //%NAME%-The Chieftain%MAP%
+ItemDisplay[(gax) UNI ETH !ID]: //%NAME%-Brainhew%MAP%
+ItemDisplay[(gix) UNI ETH !ID]: //%NAME%-Humongous%MAP%
 
 //Maces
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(clb) UNI ETH !ID]: //%NAME%-Felloak%MAP%
+ItemDisplay[(spc) UNI ETH !ID]: //%NAME%-Stoutnail%MAP%
+ItemDisplay[(mac) UNI ETH !ID]: //%NAME%-Crushflange%MAP%
+ItemDisplay[(mst) UNI ETH !ID]: //%NAME%-Bloodrise%MAP%
+ItemDisplay[(fla) UNI ETH !ID]: //%NAME%-The General's Tan Do Li Ga%MAP%
+ItemDisplay[(whm) UNI ETH !ID]: //%NAME%-Ironstone%MAP%
+ItemDisplay[(mau) UNI ETH !ID]: //%NAME%-Bonesnap%MAP%
+ItemDisplay[(gma) UNI ETH !ID]: //%NAME%-Steeldriver%MAP%
 
 //Swords
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(ssd) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(scm) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(sbr) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(flc) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(crs) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(bsd) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(lsd) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(wsd) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(2hs) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(clm) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(gis) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(bsw) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(flb) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(gsd) UNI ETH !ID]: //%NAME%-%MAP%
 
 //Daggers
-ItemDisplay[() UNI ETH !ID]: %NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(dgr) UNI ETH !ID]: %NAME%-%MAP%
+ItemDisplay[(dir) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(kri) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(bld) UNI ETH !ID]: //%NAME%-%MAP%
 
 //Spears
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(spr) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(tri) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(brn) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(spt) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(pik) UNI ETH !ID]: //%NAME%-%MAP%
 
 //Polearms
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(bar) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(vou) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(scy) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(pax) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(hal) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(wsc) UNI ETH !ID]: //%NAME%-%MAP%
 
 //Bows
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(sbw) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(hbw) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(lbw) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(cbw) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(sbb) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(lbb) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(swb) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(lwb) UNI ETH !ID]: //%NAME%-%MAP%
 
 //X-bows
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(lxb) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(mxb) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(hxb) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(rxb) UNI ETH !ID]: //%NAME%-%MAP%
+
+//Staves
+ItemDisplay[(sst) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(lst) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(cst) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(bst) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(wst) UNI ETH !ID]: //%NAME%-%MAP%
 
 //Wands
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: %NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: %NAME%-%MAP%
+ItemDisplay[(wnd) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(ywn) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[bwn) UNI ETH !ID]: %NAME%-%MAP%
+ItemDisplay[(gwn) UNI ETH !ID]: %NAME%-%MAP%
 
 //Scepters
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
-ItemDisplay[() UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(scp) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(gsc) UNI ETH !ID]: //%NAME%-%MAP%
+ItemDisplay[(wsp) UNI ETH !ID]: //%NAME%-%MAP%
 
 
 
@@ -1804,6 +1808,5 @@ ItemDisplay[MAG !ID jew ILVL<66]:
 //Hide everything, but with exceptions
 ItemDisplay[(ung OR urs OR utp OR ulg OR uvg OR xvb OR ulb OR utb OR uhb OR ulc OR uvc OR umc) (NMAG OR MAG) !ID]: //Hiding normal and magic rarity
 ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG OR RARE) !(leg OR amu OR rin OR ung OR urs OR utp OR ulg OR uvg OR xvb OR ulb OR utb OR uhb OR ulc OR uvc OR umc) CLVL>0]: //Hiding everything, except the rarity you want
-
 
 //END
