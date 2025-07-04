@@ -31,13 +31,13 @@
 //RW = Runeword Items
 //TABSK = Group Skills
 //SK = Individual Skill
-//MAP/DOT = Notification Size
 //CLVL = Character Level
 //ED = Enhenced Damage [Red]/ Defence [Blue]
 //SOCK = Socket Number
 //RUNENUM = Rune Number
+//BORDER-XX = Large Map Notification
 //MAP-XX = Medium Map Notification
-//DOT-XX = Small Map Notification, where XX =  hexadecimal color code
+//DOT-XX = Small Map Notification, where XX = hexadecimal color code
 
 //SOURCES:
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1066,8 +1066,8 @@ ItemDisplay[jew !UNI (STAT501>74 AND STAT91=-15)]: %RED%bleed %DARK_GREEN%-req %
 
 //Good
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[aqv RARE !ID]: //%DOT-A8%%NAME%
-ItemDisplay[(jew OR rin OR amu OR CIRC) RARE !ID]: %DOT-A8%%NAME%
+ItemDisplay[aqv RARE !ID]: //%NAME%%DOT-0E%
+ItemDisplay[(jew OR rin OR amu OR CIRC) RARE !ID]: %NAME%%DOT-94%
 
 
 /UNIQUE
@@ -1077,502 +1077,502 @@ ItemDisplay[(jew OR rin OR amu OR CIRC) RARE !ID]: %DOT-A8%%NAME%
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ItemDisplay[(UNI ETH !ID) cap]: 
-ItemDisplay[(UNI ETH !ID) xap]: 
-ItemDisplay[(UNI ETH !ID) uap]: 
+ItemDisplay[(UNI ETH !ID) xap]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uap]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) skp]: 
-ItemDisplay[(UNI ETH !ID) xkp]: 
-ItemDisplay[(UNI ETH !ID) ukp]: 
+ItemDisplay[(UNI ETH !ID) xkp]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ukp]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) hlm]: 
-ItemDisplay[(UNI ETH !ID) xlm]: 
-ItemDisplay[(UNI ETH !ID) ulm]: 
+ItemDisplay[(UNI ETH !ID) xlm]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ulm]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) fhl]: 
-ItemDisplay[(UNI ETH !ID) xhl]: 
-ItemDisplay[(UNI ETH !ID) uhl]: 
+ItemDisplay[(UNI ETH !ID) xhl]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uhl]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) msk]: 
-ItemDisplay[(UNI ETH !ID) xsk]: 
-ItemDisplay[(UNI ETH !ID) usk]: 
+ItemDisplay[(UNI ETH !ID) xsk]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) usk]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) bhm]: 
-ItemDisplay[(UNI ETH !ID) xh9]: 
-ItemDisplay[(UNI ETH !ID) uh9]: 
+ItemDisplay[(UNI ETH !ID) xh9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uh9]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ghm]: 
-ItemDisplay[(UNI ETH !ID) xhm]: 
-ItemDisplay[(UNI ETH !ID) uhm]: 
+ItemDisplay[(UNI ETH !ID) xhm]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uhm]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) crn]: 
-ItemDisplay[(UNI ETH !ID) xrn]: 
-ItemDisplay[(UNI ETH !ID) urn]: 
+ItemDisplay[(UNI ETH !ID) xrn]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) urn]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) qui]: 
-ItemDisplay[(UNI ETH !ID) xui]: 
-ItemDisplay[(UNI ETH !ID) uui]: 
+ItemDisplay[(UNI ETH !ID) xui]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uui]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) lea]: 
-ItemDisplay[(UNI ETH !ID) xea]: 
-ItemDisplay[(UNI ETH !ID) uea]: 
+ItemDisplay[(UNI ETH !ID) xea]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uea]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) hla]: 
-ItemDisplay[(UNI ETH !ID) xla]: 
-ItemDisplay[(UNI ETH !ID) ula]: 
+ItemDisplay[(UNI ETH !ID) xla]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ula]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) stu]: 
-ItemDisplay[(UNI ETH !ID) xtu]: 
-ItemDisplay[(UNI ETH !ID) utu]: 
+ItemDisplay[(UNI ETH !ID) xtu]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) utu]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) rng]: 
-ItemDisplay[(UNI ETH !ID) xng]: 
-ItemDisplay[(UNI ETH !ID) ung]: 
+ItemDisplay[(UNI ETH !ID) xng]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ung]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) scl]: 
-ItemDisplay[(UNI ETH !ID) xcl]: 
-ItemDisplay[(UNI ETH !ID) ucl]: 
+ItemDisplay[(UNI ETH !ID) xcl]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ucl]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) brs]: 
-ItemDisplay[(UNI ETH !ID) xrs]: 
-ItemDisplay[(UNI ETH !ID) urs]: 
+ItemDisplay[(UNI ETH !ID) xrs]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) urs]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) chn]: 
-ItemDisplay[(UNI ETH !ID) xhn]: 
-ItemDisplay[(UNI ETH !ID) uhn]: 
+ItemDisplay[(UNI ETH !ID) xhn]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uhn]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) spl]: 
-ItemDisplay[(UNI ETH !ID) xpl]: 
-ItemDisplay[(UNI ETH !ID) upl]: 
+ItemDisplay[(UNI ETH !ID) xpl]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) upl]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ltp]: 
-ItemDisplay[(UNI ETH !ID) xtp]: 
-ItemDisplay[(UNI ETH !ID) utp]: 
+ItemDisplay[(UNI ETH !ID) xtp]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) utp]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) fld]: 
-ItemDisplay[(UNI ETH !ID) xld]: 
-ItemDisplay[(UNI ETH !ID) uld]: 
+ItemDisplay[(UNI ETH !ID) xld]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uld]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) plt]: 
-ItemDisplay[(UNI ETH !ID) xlt]: 
-ItemDisplay[(UNI ETH !ID) ult]: 
+ItemDisplay[(UNI ETH !ID) xlt]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ult]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) gth]: 
-ItemDisplay[(UNI ETH !ID) xth]: 
-ItemDisplay[(UNI ETH !ID) uth]: 
+ItemDisplay[(UNI ETH !ID) xth]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uth]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ful]: 
-ItemDisplay[(UNI ETH !ID) xul]: 
-ItemDisplay[(UNI ETH !ID) uul]: 
+ItemDisplay[(UNI ETH !ID) xul]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uul]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) aar]: 
-ItemDisplay[(UNI ETH !ID) xar]: 
-ItemDisplay[(UNI ETH !ID) uar]: 
+ItemDisplay[(UNI ETH !ID) xar]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uar]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) buc]: 
-ItemDisplay[(UNI ETH !ID) xuc]: 
-ItemDisplay[(UNI ETH !ID) uuc]: 
+ItemDisplay[(UNI ETH !ID) xuc]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uuc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) sml]: 
-ItemDisplay[(UNI ETH !ID) xml]: 
-ItemDisplay[(UNI ETH !ID) uml]: 
-ItemDisplay[(UNI ETH !ID) lrg]: 
-ItemDisplay[(UNI ETH !ID) xrg]: 
-ItemDisplay[(UNI ETH !ID) urg]: 
+ItemDisplay[(UNI ETH !ID) xml]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uml]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) lrg]:
+ItemDisplay[(UNI ETH !ID) xrg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) urg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) spk]: 
-ItemDisplay[(UNI ETH !ID) xpk]: 
-ItemDisplay[(UNI ETH !ID) upk]: 
+ItemDisplay[(UNI ETH !ID) xpk]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) upk]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) kit]: 
-ItemDisplay[(UNI ETH !ID) xit]: 
-ItemDisplay[(UNI ETH !ID) uit]: 
+ItemDisplay[(UNI ETH !ID) xit]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uit]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) bsh]: 
-ItemDisplay[(UNI ETH !ID) xsh]: 
-ItemDisplay[(UNI ETH !ID) ush]: 
+ItemDisplay[(UNI ETH !ID) xsh]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ush]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) tow]: 
-ItemDisplay[(UNI ETH !ID) xow]: 
-ItemDisplay[(UNI ETH !ID) uow]: 
+ItemDisplay[(UNI ETH !ID) xow]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uow]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) gts]: 
-ItemDisplay[(UNI ETH !ID) xts]: 
-ItemDisplay[(UNI ETH !ID) uts]: 
+ItemDisplay[(UNI ETH !ID) xts]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uts]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) lgl]: 
-ItemDisplay[(UNI ETH !ID) xlg]: 
-ItemDisplay[(UNI ETH !ID) ulg]: 
+ItemDisplay[(UNI ETH !ID) xlg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ulg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) vgl]: 
-ItemDisplay[(UNI ETH !ID) xvg]: 
-ItemDisplay[(UNI ETH !ID) uvg]: 
+ItemDisplay[(UNI ETH !ID) xvg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uvg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) mgl]: 
-ItemDisplay[(UNI ETH !ID) xmg]: 
-ItemDisplay[(UNI ETH !ID) umg]: 
+ItemDisplay[(UNI ETH !ID) xmg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) umg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) tgl]: 
-ItemDisplay[(UNI ETH !ID) xtg]: 
-ItemDisplay[(UNI ETH !ID) utg]: 
+ItemDisplay[(UNI ETH !ID) xtg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) utg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) hgl]: 
-ItemDisplay[(UNI ETH !ID) xhg]: 
-ItemDisplay[(UNI ETH !ID) uhg]: 
+ItemDisplay[(UNI ETH !ID) xhg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uhg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) lbt]: 
-ItemDisplay[(UNI ETH !ID) xlb]: 
-ItemDisplay[(UNI ETH !ID) ulb]: 
+ItemDisplay[(UNI ETH !ID) xlb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ulb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) vbt]: 
-ItemDisplay[(UNI ETH !ID) xvb]: 
-ItemDisplay[(UNI ETH !ID) uvb]: 
+ItemDisplay[(UNI ETH !ID) xvb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uvb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) mbt]: 
-ItemDisplay[(UNI ETH !ID) xmb]: 
-ItemDisplay[(UNI ETH !ID) umb]: 
+ItemDisplay[(UNI ETH !ID) xmb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) umb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) tbt]: 
-ItemDisplay[(UNI ETH !ID) xtb]: 
-ItemDisplay[(UNI ETH !ID) utb]: 
-ItemDisplay[(UNI ETH !ID) hbt]: 
-ItemDisplay[(UNI ETH !ID) xhb]: 
-ItemDisplay[(UNI ETH !ID) uhb]: 
+ItemDisplay[(UNI ETH !ID) xtb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) utb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) hbt]:
+ItemDisplay[(UNI ETH !ID) xhb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uhb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) lbl]: 
-ItemDisplay[(UNI ETH !ID) zlb]: 
-ItemDisplay[(UNI ETH !ID) ulc]: 
+ItemDisplay[(UNI ETH !ID) zlb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ulc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) vbl]: 
-ItemDisplay[(UNI ETH !ID) zvb]: 
-ItemDisplay[(UNI ETH !ID) uvc]: 
+ItemDisplay[(UNI ETH !ID) zvb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uvc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) mbl]: 
-ItemDisplay[(UNI ETH !ID) zmb]: 
-ItemDisplay[(UNI ETH !ID) umc]: 
+ItemDisplay[(UNI ETH !ID) zmb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) umc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) tbl]: 
-ItemDisplay[(UNI ETH !ID) ztb]: 
-ItemDisplay[(UNI ETH !ID) utc]: 
+ItemDisplay[(UNI ETH !ID) ztb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) utc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) hbl]: 
-ItemDisplay[(UNI ETH !ID) zhb]: 
-ItemDisplay[(UNI ETH !ID) uhc]: 
+ItemDisplay[(UNI ETH !ID) zhb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) uhc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ci0]: 
-ItemDisplay[(UNI ETH !ID) ci2]: 
-ItemDisplay[(UNI ETH !ID) ci3]: 
+ItemDisplay[(UNI ETH !ID) ci2]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) ci3]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ci1]: 
 ItemDisplay[(UNI ETH !ID) dr1]: 
-ItemDisplay[(UNI ETH !ID) dr6]: 
-ItemDisplay[(UNI ETH !ID) drb]: 
+ItemDisplay[(UNI ETH !ID) dr6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) drb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) dr2]: 
-ItemDisplay[(UNI ETH !ID) dr7]: 
-ItemDisplay[(UNI ETH !ID) drc]: 
+ItemDisplay[(UNI ETH !ID) dr7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) drc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) dr3]: 
-ItemDisplay[(UNI ETH !ID) dr8]: 
-ItemDisplay[(UNI ETH !ID) drd]: 
+ItemDisplay[(UNI ETH !ID) dr8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) drd]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) dr4]: 
-ItemDisplay[(UNI ETH !ID) dr9]: 
-ItemDisplay[(UNI ETH !ID) dre]: 
+ItemDisplay[(UNI ETH !ID) dr9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) dre]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) dr5]: 
-ItemDisplay[(UNI ETH !ID) dra]: 
-ItemDisplay[(UNI ETH !ID) drf]: 
+ItemDisplay[(UNI ETH !ID) dra]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) drf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ba1]: 
-ItemDisplay[(UNI ETH !ID) ba6]: 
-ItemDisplay[(UNI ETH !ID) bab]: 
+ItemDisplay[(UNI ETH !ID) ba6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) bab]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ba2]: 
-ItemDisplay[(UNI ETH !ID) ba7]: 
-ItemDisplay[(UNI ETH !ID) bac]: 
+ItemDisplay[(UNI ETH !ID) ba7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) bac]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ba3]: 
-ItemDisplay[(UNI ETH !ID) ba8]: 
-ItemDisplay[(UNI ETH !ID) bad]: 
+ItemDisplay[(UNI ETH !ID) ba8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) bad]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ba4]: 
-ItemDisplay[(UNI ETH !ID) ba9]: 
-ItemDisplay[(UNI ETH !ID) bae]: 
+ItemDisplay[(UNI ETH !ID) ba9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) bae]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ba5]: 
-ItemDisplay[(UNI ETH !ID) baa]: 
-ItemDisplay[(UNI ETH !ID) baf]: 
+ItemDisplay[(UNI ETH !ID) baa]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) baf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) pa1]: 
-ItemDisplay[(UNI ETH !ID) pa6]: 
-ItemDisplay[(UNI ETH !ID) pab]: 
+ItemDisplay[(UNI ETH !ID) pa6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) pab]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) pa2]: 
-ItemDisplay[(UNI ETH !ID) pa7]: 
-ItemDisplay[(UNI ETH !ID) pac]: 
+ItemDisplay[(UNI ETH !ID) pa7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) pac]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) pa3]: 
-ItemDisplay[(UNI ETH !ID) pa8]: 
-ItemDisplay[(UNI ETH !ID) pad]: 
+ItemDisplay[(UNI ETH !ID) pa8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) pad]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) pa4]: 
-ItemDisplay[(UNI ETH !ID) pa9]: 
-ItemDisplay[(UNI ETH !ID) pae]: 
+ItemDisplay[(UNI ETH !ID) pa9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) pae]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) pa5]: 
-ItemDisplay[(UNI ETH !ID) paa]: 
-ItemDisplay[(UNI ETH !ID) paf]: 
+ItemDisplay[(UNI ETH !ID) paa]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) paf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ne1]: 
-ItemDisplay[(UNI ETH !ID) ne6]: 
-ItemDisplay[(UNI ETH !ID) neb]: 
+ItemDisplay[(UNI ETH !ID) ne6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) neb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ne2]: 
-ItemDisplay[(UNI ETH !ID) ne7]: 
-ItemDisplay[(UNI ETH !ID) neg]: 
+ItemDisplay[(UNI ETH !ID) ne7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) neg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ne3]: 
-ItemDisplay[(UNI ETH !ID) ne8]: 
-ItemDisplay[(UNI ETH !ID) ned]: 
+ItemDisplay[(UNI ETH !ID) ne8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ned]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ne4]: 
-ItemDisplay[(UNI ETH !ID) ne9]: 
-ItemDisplay[(UNI ETH !ID) nee]: 
+ItemDisplay[(UNI ETH !ID) ne9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) nee]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ne5]: 
-ItemDisplay[(UNI ETH !ID) nea]: 
-ItemDisplay[(UNI ETH !ID) nef]: 
+ItemDisplay[(UNI ETH !ID) nea]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) nef]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 
 //Weapons
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ItemDisplay[(UNI ETH !ID) hax]: 
-ItemDisplay[(UNI ETH !ID) 9ha]: 
-ItemDisplay[(UNI ETH !ID) 7ha]: 
+ItemDisplay[(UNI ETH !ID) 9ha]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ha]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) axe]: 
-ItemDisplay[(UNI ETH !ID) 9ax]: 
-ItemDisplay[(UNI ETH !ID) 7ax]: 
+ItemDisplay[(UNI ETH !ID) 9ax]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ax]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) 2ax]: 
-ItemDisplay[(UNI ETH !ID) 92a]: 
-ItemDisplay[(UNI ETH !ID) 72a]: 
+ItemDisplay[(UNI ETH !ID) 92a]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 72a]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) mpi]: 
-ItemDisplay[(UNI ETH !ID) 9mp]: 
-ItemDisplay[(UNI ETH !ID) 7mp]: 
+ItemDisplay[(UNI ETH !ID) 9mp]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7mp]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) wax]: 
-ItemDisplay[(UNI ETH !ID) 9wa]: 
-ItemDisplay[(UNI ETH !ID) 7wa]: 
+ItemDisplay[(UNI ETH !ID) 9wa]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7wa]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) lax]: 
-ItemDisplay[(UNI ETH !ID) 9la]: 
-ItemDisplay[(UNI ETH !ID) 7la]: 
+ItemDisplay[(UNI ETH !ID) 9la]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7la]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) bax]: 
-ItemDisplay[(UNI ETH !ID) 9ba]: 
-ItemDisplay[(UNI ETH !ID) 7ba]: 
+ItemDisplay[(UNI ETH !ID) 9ba]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ba]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) btx]: 
-ItemDisplay[(UNI ETH !ID) 9bt]: 
-ItemDisplay[(UNI ETH !ID) 7bt]: 
+ItemDisplay[(UNI ETH !ID) 9bt]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7bt]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) gax]: 
-ItemDisplay[(UNI ETH !ID) 9ga]: 
-ItemDisplay[(UNI ETH !ID) 7ga]: 
+ItemDisplay[(UNI ETH !ID) 9ga]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ga]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) gix]: 
-ItemDisplay[(UNI ETH !ID) 9gi]: 
-ItemDisplay[(UNI ETH !ID) 7gi]: 
+ItemDisplay[(UNI ETH !ID) 9gi]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7gi]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) clb]: 
-ItemDisplay[(UNI ETH !ID) 9cl]: 
-ItemDisplay[(UNI ETH !ID) 7cl]: 
+ItemDisplay[(UNI ETH !ID) 9cl]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7cl]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) spc]: 
-ItemDisplay[(UNI ETH !ID) 9sp]: 
-ItemDisplay[(UNI ETH !ID) 7sp]: 
+ItemDisplay[(UNI ETH !ID) 9sp]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7sp]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) mac]: 
-ItemDisplay[(UNI ETH !ID) 9ma]: 
-ItemDisplay[(UNI ETH !ID) 7ma]: 
+ItemDisplay[(UNI ETH !ID) 9ma]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ma]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) mst]: 
-ItemDisplay[(UNI ETH !ID) 9mt]: 
-ItemDisplay[(UNI ETH !ID) 7mt]: 
+ItemDisplay[(UNI ETH !ID) 9mt]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7mt]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) fla]: 
-ItemDisplay[(UNI ETH !ID) 9fl]: 
-ItemDisplay[(UNI ETH !ID) 7fl]: 
+ItemDisplay[(UNI ETH !ID) 9fl]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7fl]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) whm]: 
-ItemDisplay[(UNI ETH !ID) 9wh]: 
-ItemDisplay[(UNI ETH !ID) 7wh]: 
+ItemDisplay[(UNI ETH !ID) 9wh]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7wh]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) mau]: 
-ItemDisplay[(UNI ETH !ID) 9m9]: 
-ItemDisplay[(UNI ETH !ID) 7m7]: 
+ItemDisplay[(UNI ETH !ID) 9m9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7m7]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) gma]: 
-ItemDisplay[(UNI ETH !ID) 9gm]: 
-ItemDisplay[(UNI ETH !ID) 7gm]: 
+ItemDisplay[(UNI ETH !ID) 9gm]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7gm]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ssd]: 
-ItemDisplay[(UNI ETH !ID) 9ss]: 
-ItemDisplay[(UNI ETH !ID) 7ss]: 
+ItemDisplay[(UNI ETH !ID) 9ss]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ss]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) scm]: 
-ItemDisplay[(UNI ETH !ID) 9sm]: 
-ItemDisplay[(UNI ETH !ID) 7sm]: 
+ItemDisplay[(UNI ETH !ID) 9sm]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7sm]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) sbr]: 
-ItemDisplay[(UNI ETH !ID) 9sb]: 
-ItemDisplay[(UNI ETH !ID) 7sb]: 
+ItemDisplay[(UNI ETH !ID) 9sb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7sb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) flc]: 
-ItemDisplay[(UNI ETH !ID) 9fc]: 
-ItemDisplay[(UNI ETH !ID) 7fc]: 
+ItemDisplay[(UNI ETH !ID) 9fc]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7fc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) crs]: 
-ItemDisplay[(UNI ETH !ID) 9cr]: 
-ItemDisplay[(UNI ETH !ID) 7cr]: 
+ItemDisplay[(UNI ETH !ID) 9cr]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7cr]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) bsd]: 
-ItemDisplay[(UNI ETH !ID) 9bs]: 
-ItemDisplay[(UNI ETH !ID) 7bs]: 
+ItemDisplay[(UNI ETH !ID) 9bs]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7bs]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) lsd]: 
-ItemDisplay[(UNI ETH !ID) 9ls]: 
-ItemDisplay[(UNI ETH !ID) 7ls]: 
+ItemDisplay[(UNI ETH !ID) 9ls]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ls]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) wsd]: 
-ItemDisplay[(UNI ETH !ID) 9wd]: 
-ItemDisplay[(UNI ETH !ID) 7wd]: 
+ItemDisplay[(UNI ETH !ID) 9wd]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7wd]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) 2hs]: 
-ItemDisplay[(UNI ETH !ID) 92h]: 
-ItemDisplay[(UNI ETH !ID) 72h]: 
+ItemDisplay[(UNI ETH !ID) 92h]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 72h]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) clm]: 
-ItemDisplay[(UNI ETH !ID) 9cm]: 
-ItemDisplay[(UNI ETH !ID) 7cm]: 
+ItemDisplay[(UNI ETH !ID) 9cm]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7cm]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) gis]: 
-ItemDisplay[(UNI ETH !ID) 9gs]: 
-ItemDisplay[(UNI ETH !ID) 7gs]: 
+ItemDisplay[(UNI ETH !ID) 9gs]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7gs]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) bsw]: 
-ItemDisplay[(UNI ETH !ID) 9b9]: 
-ItemDisplay[(UNI ETH !ID) 7b7]: 
+ItemDisplay[(UNI ETH !ID) 9b9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7b7]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) flb]: 
-ItemDisplay[(UNI ETH !ID) 9fb]: 
-ItemDisplay[(UNI ETH !ID) 7fb]: 
+ItemDisplay[(UNI ETH !ID) 9fb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7fb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) gsd]: 
-ItemDisplay[(UNI ETH !ID) 9gd]: 
-ItemDisplay[(UNI ETH !ID) 7gd]: 
+ItemDisplay[(UNI ETH !ID) 9gd]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7gd]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) dgr]: 
-ItemDisplay[(UNI ETH !ID) 9dg]: 
-ItemDisplay[(UNI ETH !ID) 7dg]: 
+ItemDisplay[(UNI ETH !ID) 9dg]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7dg]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) dir]: 
-ItemDisplay[(UNI ETH !ID) 9di]: 
-ItemDisplay[(UNI ETH !ID) 7di]: 
+ItemDisplay[(UNI ETH !ID) 9di]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7di]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) kri]: 
-ItemDisplay[(UNI ETH !ID) 9kr]: 
-ItemDisplay[(UNI ETH !ID) 7kr]: 
+ItemDisplay[(UNI ETH !ID) 9kr]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7kr]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) bld]: 
-ItemDisplay[(UNI ETH !ID) 9bl]: 
-ItemDisplay[(UNI ETH !ID) 7bl]: 
+ItemDisplay[(UNI ETH !ID) 9bl]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7bl]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) tkf]: 
-ItemDisplay[(UNI ETH !ID) 9tk]: 
-ItemDisplay[(UNI ETH !ID) 7tk]: 
+ItemDisplay[(UNI ETH !ID) 9tk]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7tk]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) tax]: 
-ItemDisplay[(UNI ETH !ID) 9ta]: 
-ItemDisplay[(UNI ETH !ID) 7ta]: 
+ItemDisplay[(UNI ETH !ID) 9ta]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ta]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) bkf]: 
-ItemDisplay[(UNI ETH !ID) 9bk]: 
-ItemDisplay[(UNI ETH !ID) 7bk]: 
+ItemDisplay[(UNI ETH !ID) 9bk]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7bk]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) bal]: 
-ItemDisplay[(UNI ETH !ID) 9b8]: 
-ItemDisplay[(UNI ETH !ID) 7b8]: 
+ItemDisplay[(UNI ETH !ID) 9b8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7b8]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) jav]: 
-ItemDisplay[(UNI ETH !ID) 9ja]: 
-ItemDisplay[(UNI ETH !ID) 7ja]: 
+ItemDisplay[(UNI ETH !ID) 9ja]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ja]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) pil]: 
-ItemDisplay[(UNI ETH !ID) 9pi]: 
-ItemDisplay[(UNI ETH !ID) 7pi]: 
+ItemDisplay[(UNI ETH !ID) 9pi]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7pi]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ssp]: 
-ItemDisplay[(UNI ETH !ID) 9s9]: 
-ItemDisplay[(UNI ETH !ID) 7s7]: 
+ItemDisplay[(UNI ETH !ID) 9s9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7s7]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) glv]: 
-ItemDisplay[(UNI ETH !ID) 9gl]: 
-ItemDisplay[(UNI ETH !ID) 7gl]: 
+ItemDisplay[(UNI ETH !ID) 9gl]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7gl]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) tsp]: 
-ItemDisplay[(UNI ETH !ID) 9ts]: 
-ItemDisplay[(UNI ETH !ID) 7ts]: 
+ItemDisplay[(UNI ETH !ID) 9ts]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ts]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) spr]: 
-ItemDisplay[(UNI ETH !ID) 9sr]: 
-ItemDisplay[(UNI ETH !ID) 7sr]: 
+ItemDisplay[(UNI ETH !ID) 9sr]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7sr]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) tri]: 
-ItemDisplay[(UNI ETH !ID) 9tr]: 
-ItemDisplay[(UNI ETH !ID) 7tr]: 
+ItemDisplay[(UNI ETH !ID) 9tr]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7tr]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) brn]: 
-ItemDisplay[(UNI ETH !ID) 9br]: 
-ItemDisplay[(UNI ETH !ID) 7br]: 
+ItemDisplay[(UNI ETH !ID) 9br]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7br]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) spt]: 
-ItemDisplay[(UNI ETH !ID) 9st]: 
-ItemDisplay[(UNI ETH !ID) 7st]: 
+ItemDisplay[(UNI ETH !ID) 9st]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7st]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) pik]: 
-ItemDisplay[(UNI ETH !ID) 9p9]: 
-ItemDisplay[(UNI ETH !ID) 7p7]: 
+ItemDisplay[(UNI ETH !ID) 9p9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7p7]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) bar]: 
-ItemDisplay[(UNI ETH !ID) 9b7]: 
-ItemDisplay[(UNI ETH !ID) 7o7]: 
+ItemDisplay[(UNI ETH !ID) 9b7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7o7]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) vou]: 
-ItemDisplay[(UNI ETH !ID) 9vo]: 
-ItemDisplay[(UNI ETH !ID) 7vo]: 
+ItemDisplay[(UNI ETH !ID) 9vo]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7vo]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) scy]: 
-ItemDisplay[(UNI ETH !ID) 9s8]: 
-ItemDisplay[(UNI ETH !ID) 7s8]: 
+ItemDisplay[(UNI ETH !ID) 9s8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7s8]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) pax]: 
-ItemDisplay[(UNI ETH !ID) 9pa]: 
-ItemDisplay[(UNI ETH !ID) 7pa]: 
+ItemDisplay[(UNI ETH !ID) 9pa]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7pa]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) hal]: 
-ItemDisplay[(UNI ETH !ID) 9h9]: 
-ItemDisplay[(UNI ETH !ID) 7h7]: 
+ItemDisplay[(UNI ETH !ID) 9h9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7h7]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) wsc]: 
-ItemDisplay[(UNI ETH !ID) 9wc]: 
-ItemDisplay[(UNI ETH !ID) 7wc]: 
+ItemDisplay[(UNI ETH !ID) 9wc]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7wc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) sbw]: 
-ItemDisplay[(UNI ETH !ID) 8sb]: 
-ItemDisplay[(UNI ETH !ID) 6sb]: 
+ItemDisplay[(UNI ETH !ID) 8sb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6sb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) hbw]: 
-ItemDisplay[(UNI ETH !ID) 8hb]: 
-ItemDisplay[(UNI ETH !ID) 6hb]: 
+ItemDisplay[(UNI ETH !ID) 8hb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6hb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) lbw]: 
-ItemDisplay[(UNI ETH !ID) 8lb]: 
-ItemDisplay[(UNI ETH !ID) 6lb]: 
+ItemDisplay[(UNI ETH !ID) 8lb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6lb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) cbw]: 
-ItemDisplay[(UNI ETH !ID) 8cb]: 
-ItemDisplay[(UNI ETH !ID) 6cb]: 
+ItemDisplay[(UNI ETH !ID) 8cb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6cb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) sbb]: 
-ItemDisplay[(UNI ETH !ID) 8s8]: 
-ItemDisplay[(UNI ETH !ID) 6s7]: 
+ItemDisplay[(UNI ETH !ID) 8s8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6s7]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) lbb]: 
-ItemDisplay[(UNI ETH !ID) 8l8]: 
-ItemDisplay[(UNI ETH !ID) 6l7]: 
+ItemDisplay[(UNI ETH !ID) 8l8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6l7]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) swb]: 
-ItemDisplay[(UNI ETH !ID) 8sw]: 
-ItemDisplay[(UNI ETH !ID) 6sw]: 
+ItemDisplay[(UNI ETH !ID) 8sw]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6sw]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) lwb]: 
-ItemDisplay[(UNI ETH !ID) 8lw]: 
-ItemDisplay[(UNI ETH !ID) 6lw]: 
+ItemDisplay[(UNI ETH !ID) 8lw]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6lw]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) lxb]: 
-ItemDisplay[(UNI ETH !ID) 8lx]: 
-ItemDisplay[(UNI ETH !ID) 6lx]: 
+ItemDisplay[(UNI ETH !ID) 8lx]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6lx]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) mxb]: 
-ItemDisplay[(UNI ETH !ID) 8mx]: 
-ItemDisplay[(UNI ETH !ID) 6mx]: 
+ItemDisplay[(UNI ETH !ID) 8mx]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6mx]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) hxb]: 
-ItemDisplay[(UNI ETH !ID) 8hx]: 
-ItemDisplay[(UNI ETH !ID) 6hx]: 
+ItemDisplay[(UNI ETH !ID) 8hx]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6hx]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) rxb]: 
-ItemDisplay[(UNI ETH !ID) 8rx]: 
-ItemDisplay[(UNI ETH !ID) 6rx]: 
+ItemDisplay[(UNI ETH !ID) 8rx]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6rx]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) sst]: 
-ItemDisplay[(UNI ETH !ID) 8ss]: 
-ItemDisplay[(UNI ETH !ID) 6ss]: 
+ItemDisplay[(UNI ETH !ID) 8ss]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6ss]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) lst]: 
-ItemDisplay[(UNI ETH !ID) 8ls]: 
-ItemDisplay[(UNI ETH !ID) 6ls]: 
+ItemDisplay[(UNI ETH !ID) 8ls]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6ls]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) cst]: 
-ItemDisplay[(UNI ETH !ID) 8cs]: 
-ItemDisplay[(UNI ETH !ID) 6cs]: 
+ItemDisplay[(UNI ETH !ID) 8cs]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6cs]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) bst]: 
-ItemDisplay[(UNI ETH !ID) 8bs]: 
-ItemDisplay[(UNI ETH !ID) 6bs]: 
+ItemDisplay[(UNI ETH !ID) 8bs]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6bs]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) wst]: 
-ItemDisplay[(UNI ETH !ID) 8ws]: 
-ItemDisplay[(UNI ETH !ID) 6ws]: 
+ItemDisplay[(UNI ETH !ID) 8ws]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 6ws]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) wnd]: 
-ItemDisplay[(UNI ETH !ID) 9wn]: 
-ItemDisplay[(UNI ETH !ID) 7wn]: 
+ItemDisplay[(UNI ETH !ID) 9wn]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7wn]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ywn]: 
-ItemDisplay[(UNI ETH !ID) 9yw]: 
-ItemDisplay[(UNI ETH !ID) 7yw]: 
+ItemDisplay[(UNI ETH !ID) 9yw]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7yw]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) bwn]: 
-ItemDisplay[(UNI ETH !ID) 9bw]: 
-ItemDisplay[(UNI ETH !ID) 7bw]: 
+ItemDisplay[(UNI ETH !ID) 9bw]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7bw]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) gwn]: 
-ItemDisplay[(UNI ETH !ID) 9gw]: 
-ItemDisplay[(UNI ETH !ID) 7gw]: 
+ItemDisplay[(UNI ETH !ID) 9gw]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7gw]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) scp]: 
-ItemDisplay[(UNI ETH !ID) 9sc]: 
-ItemDisplay[(UNI ETH !ID) 7sc]: 
+ItemDisplay[(UNI ETH !ID) 9sc]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7sc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) gsc]: 
-ItemDisplay[(UNI ETH !ID) 9qs]: 
-ItemDisplay[(UNI ETH !ID) 7qs]: 
+ItemDisplay[(UNI ETH !ID) 9qs]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7qs]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) wsp]: 
-ItemDisplay[(UNI ETH !ID) 9ws]: 
-ItemDisplay[(UNI ETH !ID) 7ws]: 
+ItemDisplay[(UNI ETH !ID) 9ws]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ws]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ktr]: 
-ItemDisplay[(UNI ETH !ID) 9ar]: 
-ItemDisplay[(UNI ETH !ID) 7ar]: 
+ItemDisplay[(UNI ETH !ID) 9ar]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ar]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) wrb]: 
-ItemDisplay[(UNI ETH !ID) 9wb]: 
-ItemDisplay[(UNI ETH !ID) 7wb]: 
+ItemDisplay[(UNI ETH !ID) 9wb]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7wb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) axf]: 
-ItemDisplay[(UNI ETH !ID) 9xf]: 
-ItemDisplay[(UNI ETH !ID) 7xf]: 
+ItemDisplay[(UNI ETH !ID) 9xf]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7xf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ces]: 
-ItemDisplay[(UNI ETH !ID) 9cs]: 
-ItemDisplay[(UNI ETH !ID) 7cs]: 
+ItemDisplay[(UNI ETH !ID) 9cs]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7cs]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) clw]: 
-ItemDisplay[(UNI ETH !ID) 9lw]: 
-ItemDisplay[(UNI ETH !ID) 7lw]: 
+ItemDisplay[(UNI ETH !ID) 9lw]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7lw]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) btl]: 
-ItemDisplay[(UNI ETH !ID) 9tw]: 
-ItemDisplay[(UNI ETH !ID) 7tw]: 
+ItemDisplay[(UNI ETH !ID) 9tw]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7tw]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) skr]: 
-ItemDisplay[(UNI ETH !ID) 9qr]: 
-ItemDisplay[(UNI ETH !ID) 7qr]: 
+ItemDisplay[(UNI ETH !ID) 9qr]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7qr]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ob1]: 
-ItemDisplay[(UNI ETH !ID) ob6]: 
-ItemDisplay[(UNI ETH !ID) obb]: 
+ItemDisplay[(UNI ETH !ID) ob6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) obb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ob2]: 
-ItemDisplay[(UNI ETH !ID) ob7]: 
-ItemDisplay[(UNI ETH !ID) obc]: 
+ItemDisplay[(UNI ETH !ID) ob7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) obc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ob3]: 
-ItemDisplay[(UNI ETH !ID) ob8]: 
-ItemDisplay[(UNI ETH !ID) obd]: 
+ItemDisplay[(UNI ETH !ID) ob8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) obd]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ob4]: 
-ItemDisplay[(UNI ETH !ID) ob9]: 
-ItemDisplay[(UNI ETH !ID) obe]: 
+ItemDisplay[(UNI ETH !ID) ob9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) obe]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) ob5]: 
-ItemDisplay[(UNI ETH !ID) oba]: 
-ItemDisplay[(UNI ETH !ID) obf]: 
+ItemDisplay[(UNI ETH !ID) oba]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) obf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) am1]: 
-ItemDisplay[(UNI ETH !ID) am6]: 
-ItemDisplay[(UNI ETH !ID) amb]: 
+ItemDisplay[(UNI ETH !ID) am6]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) amb]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) am2]: 
-ItemDisplay[(UNI ETH !ID) am7]: 
-ItemDisplay[(UNI ETH !ID) amc]: 
+ItemDisplay[(UNI ETH !ID) am7]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) amc]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) am3]: 
-ItemDisplay[(UNI ETH !ID) am8]: 
-ItemDisplay[(UNI ETH !ID) amd]: 
+ItemDisplay[(UNI ETH !ID) am8]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) amd]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) am4]: 
-ItemDisplay[(UNI ETH !ID) am9]: 
-ItemDisplay[(UNI ETH !ID) ame]: 
+ItemDisplay[(UNI ETH !ID) am9]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) ame]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 ItemDisplay[(UNI ETH !ID) am5]: 
-ItemDisplay[(UNI ETH !ID) ama]: 
-ItemDisplay[(UNI ETH !ID) amf]: 
+ItemDisplay[(UNI ETH !ID) ama]: %YELLOW%oooooo %GOLD% %YELLOW%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) amf]: %YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
 
 
 //SET
