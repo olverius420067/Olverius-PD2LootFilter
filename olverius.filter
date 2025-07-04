@@ -1346,66 +1346,46 @@ ItemDisplay[(UNI ETH !ID) 9gd]: //%ORANGE%oooooo %GOLD%Swordguard %ORANGE%oooooo
 ItemDisplay[(UNI ETH !ID) 7gd]: %YELLOW%oooooooo %GOLD%The Grandfather %YELLOW%oooooooo%BORDER-D3%
 
 //Daggers
-ItemDisplay[(UNI ETH !ID) dgr]: 
-ItemDisplay[(UNI ETH !ID) 9dg]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7dg]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) dir]: 
-ItemDisplay[(UNI ETH !ID) 9di]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7di]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) kri]: 
-ItemDisplay[(UNI ETH !ID) 9kr]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7kr]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) bld]: 
-ItemDisplay[(UNI ETH !ID) 9bl]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7bl]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) dgr]: Gull
+ItemDisplay[(UNI ETH !ID) 9dg]: //%ORANGE%oooooo %GOLD%Spineripper %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7dg]: %YELLOW%oooooooo %GOLD%Wizardspike %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) dir]: //The Diggler
+ItemDisplay[(UNI ETH !ID) 9di]: //%ORANGE%oooooo %GOLD%	Heart Carver %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7di]: %YELLOW%oooooooo %GOLD%Shatterblade %YELLOW%oooooooo%BORDER-D3% //New
+ItemDisplay[(UNI ETH !ID) kri]: //The Jade Tan Do
+ItemDisplay[(UNI ETH !ID) 9kr]: //%ORANGE%oooooo %GOLD%Blackbog's Sharp %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7kr]: %YELLOW%oooooooo %GOLD%Fleshripper %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) bld]: //Spectral Shard
+ItemDisplay[(UNI ETH !ID) 9bl]: %ORANGE%oooooo %GOLD%Stormspike %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7bl]: //%YELLOW%oooooooo %GOLD%Ghostflame %YELLOW%oooooooo%BORDER-D3%
 
 //Throwing Axes & Throwing Knives
-ItemDisplay[(UNI ETH !ID) tkf]: 
-ItemDisplay[(UNI ETH !ID) 9tk]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7tk]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) tax]: 
-ItemDisplay[(UNI ETH !ID) 9ta]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7ta]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) bkf]: 
-ItemDisplay[(UNI ETH !ID) 9bk]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7bk]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) bal]: 
-ItemDisplay[(UNI ETH !ID) 9b8]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7b8]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) 9tk]: //%ORANGE%oooooo %GOLD%Deathbit %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 9ta]: //%ORANGE%oooooo %GOLD%The Scalper %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7ta]: //%YELLOW%oooooooo %GOLD%Gimmershred %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) 7bk]: //%YELLOW%oooooooo %GOLD%Warshrike %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) 7b8]: %YELLOW%oooooooo %GOLD%Lacerator %YELLOW%oooooooo%BORDER-D3%
 
 //Javelins
-ItemDisplay[(UNI ETH !ID) jav]: 
-ItemDisplay[(UNI ETH !ID) 9ja]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7ja]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) pil]: 
-ItemDisplay[(UNI ETH !ID) 9pi]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7pi]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) ssp]: 
-ItemDisplay[(UNI ETH !ID) 9s9]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7s7]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) glv]: 
-ItemDisplay[(UNI ETH !ID) 9gl]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7gl]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) tsp]: 
-ItemDisplay[(UNI ETH !ID) 9ts]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7ts]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) 7s7]: //%YELLOW%oooooooo %GOLD%Demon's Arch %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) 7gl]: //%YELLOW%oooooooo %GOLD%Wraith Flight %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) 7ts]: %YELLOW%oooooooo %GOLD%Gargoyle's Bite %YELLOW%oooooooo%BORDER-D3%
 
 //Spears
-ItemDisplay[(UNI ETH !ID) spr]: 
-ItemDisplay[(UNI ETH !ID) 9sr]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7sr]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) tri]: 
-ItemDisplay[(UNI ETH !ID) 9tr]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7tr]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) brn]: 
-ItemDisplay[(UNI ETH !ID) 9br]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7br]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) spt]: 
-ItemDisplay[(UNI ETH !ID) 9st]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7st]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
-ItemDisplay[(UNI ETH !ID) pik]: 
-ItemDisplay[(UNI ETH !ID) 9p9]: //%ORANGE%oooooo %GOLD% %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI ETH !ID) 7p7]: //%YELLOW%oooooooo %GOLD% %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) spr]: //The Dragon Chang
+ItemDisplay[(UNI ETH !ID) 9sr]: //%ORANGE%oooooo %GOLD%The Impaler %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7sr]: //%YELLOW%oooooooo %GOLD%Arioc's Needle %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) tri]: //Razortine
+ItemDisplay[(UNI ETH !ID) 9tr]: //%ORANGE%oooooo %GOLD%Kelpie Snare %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) brn]: Bloodthief
+ItemDisplay[(UNI ETH !ID) 9br]: //%ORANGE%oooooo %GOLD%Soulfeast Tine %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7br]: //%YELLOW%oooooooo %GOLD%Viperfork %YELLOW%oooooooo%BORDER-D3%
+ItemDisplay[(UNI ETH !ID) spt]: //Lance of Yaggai
+ItemDisplay[(UNI ETH !ID) 9st]: //%ORANGE%oooooo %GOLD%Hone Sundan %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7st]: %YELLOW%oooooooo %GOLD%Uldyssian's Awakening %YELLOW%oooooooo%BORDER-D3% //New
+ItemDisplay[(UNI ETH !ID) pik]: //The Tannr Gorerod
+ItemDisplay[(UNI ETH !ID) 9p9]: //%ORANGE%oooooo %GOLD%Spire of Honor %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI ETH !ID) 7p7]: %YELLOW%oooooooo %GOLD%Steel Pillar %YELLOW%oooooooo%BORDER-D3%
 
 //Polearms
 ItemDisplay[(UNI ETH !ID) bar]: 
