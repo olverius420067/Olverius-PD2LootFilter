@@ -14,7 +14,7 @@
 //LEGEND:
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-//! = Except
+//! = Exception
 //NORM = Normal Quality
 //EXC = Exceptional Quality
 //ELT = Elite Quality
@@ -36,6 +36,8 @@
 //ED = Enhenced Damage [Red]/ Defence [Blue]
 //SOCK = Socket Number
 //RUNENUM = Rune Number
+//MAP-XX = Medium Map Notification
+//DOT-XX = Small Map Notification, where XX =  hexadecimal color code
 
 //SOURCES:
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -701,32 +703,32 @@ ItemDisplay[r08]: %TAN%Ral [%RUNENUM%]
 ItemDisplay[r09]: %TAN%Ort [%RUNENUM%] 
 
 //Mid Tier: 10-20
-ItemDisplay[r10]: %ORANGE%%RUNENAME% [%RUNENUM%]
-ItemDisplay[r11]: %ORANGE%%RUNENAME% [%RUNENUM%] 
-ItemDisplay[r12]: %ORANGE%%RUNENAME% [%RUNENUM%] 
-ItemDisplay[r13]: %ORANGE%%RUNENAME% [%RUNENUM%] 
-ItemDisplay[r14]: %ORANGE%%RUNENAME% [%RUNENUM%] 
-ItemDisplay[r15]: %ORANGE%%RUNENAME% [%RUNENUM%]
-ItemDisplay[r16]: %ORANGE%%RUNENAME% [%RUNENUM%] 
-ItemDisplay[r17]: %ORANGE%   %RUNENAME% [%RUNENUM%]
-ItemDisplay[r18]: %ORANGE%   %RUNENAME% [%RUNENUM%]%ORANGE%%MAP%
-ItemDisplay[r19]: %ORANGE%   %RUNENAME% [%RUNENUM%]%ORANGE%%MAP%
-ItemDisplay[r20]: %PURPLE% o %RED%%RUNENAME%%PURPLE% o %RED%[%RUNENUM%]%PURPLE%%MAP%
+ItemDisplay[r10]: %ORANGE%%RUNENAME% [%RUNENUM%]%MAP-0E%
+ItemDisplay[r11]: %ORANGE%%RUNENAME% [%RUNENUM%]%MAP-0E%
+ItemDisplay[r12]: %ORANGE%%RUNENAME% [%RUNENUM%]%MAP-0E%
+ItemDisplay[r13]: %ORANGE%%RUNENAME% [%RUNENUM%]%MAP-0E%
+ItemDisplay[r14]: %ORANGE%%RUNENAME% [%RUNENUM%]%MAP-0E%
+ItemDisplay[r15]: %ORANGE%%RUNENAME% [%RUNENUM%]%MAP-0E%
+ItemDisplay[r16]: %ORANGE%%RUNENAME% [%RUNENUM%]%MAP-0E%
+ItemDisplay[r17]: %ORANGE%   %RUNENAME% [%RUNENUM%]%MAP-0E%
+ItemDisplay[r18]: %ORANGE%   %RUNENAME% [%RUNENUM%]%MAP-0E%
+ItemDisplay[r19]: %ORANGE%   %RUNENAME% [%RUNENUM%]%MAP-0E%
+ItemDisplay[r20]: %PURPLE% o %RED%%RUNENAME%%PURPLE% o %RED%[%RUNENUM%]%MAP-0E%
 
 //High Tier: 21-33
-ItemDisplay[r21]: %PURPLE% oo %RED%%RUNENAME%%PURPLE% oo %RED%[%RUNENUM%]%PURPLE%%MAP%
-ItemDisplay[r22]: %PURPLE% ooo %RED%%RUNENAME%%PURPLE% ooo %RED%[%RUNENUM%]%PURPLE%%MAP%
-ItemDisplay[r23]: %PURPLE% ooo %RED%%RUNENAME%%PURPLE% ooo %RED%[%RUNENUM%]%PURPLE%%MAP%
-ItemDisplay[r24]: %PURPLE% oooo %RED%%RUNENAME%%PURPLE% oooo %RED%[%RUNENUM%]%PURPLE%%MAP%
-ItemDisplay[r25]: %PURPLE% ooooo %RED%%RUNENAME%%PURPLE% ooooo %RED%[%RUNENUM%]%PURPLE%%MAP%
-ItemDisplay[r26]: %PURPLE% oooooo %RED%%RUNENAME%%PURPLE% oooooo %RED%[%RUNENUM%]%PURPLE%%MAP%
-ItemDisplay[r27]: %PURPLE% ooooooo %RED%%RUNENAME%%PURPLE% ooooooo %RED%[%RUNENUM%]%PURPLE%%MAP%
-ItemDisplay[r28]: %PURPLE% ooooooooo %RED%%RUNENAME%%PURPLE% ooooooooo %RED%[%RUNENUM%]%PURPLE%%MAP%
-ItemDisplay[r29]: %PURPLE% ooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooo %RED%[%RUNENUM%]%PURPLE%%MAP%
-ItemDisplay[r30]: %PURPLE% ooooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooooo %RED%[%RUNENUM%]%PURPLE%%MAP%
-ItemDisplay[r31]: %PURPLE% oooooooooooo %RED%%RUNENAME%%PURPLE% oooooooooooo %RED%[%RUNENUM%]%PURPLE%%MAP%
-ItemDisplay[r32]: %PURPLE% ooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooo %RED%[%RUNENUM%]%PURPLE%%MAP%
-ItemDisplay[r33]: %PURPLE% oooooooooooooooo %RED%%RUNENAME%%PURPLE% oooooooooooooooo %RED%[%RUNENUM%]%PURPLE%%MAP%
+ItemDisplay[r21]: %PURPLE% oo %RED%%RUNENAME%%PURPLE% oo %RED%[%RUNENUM%]%BORDER-1F%
+ItemDisplay[r22]: %PURPLE% ooo %RED%%RUNENAME%%PURPLE% ooo %RED%[%RUNENUM%]%BORDER-1F%
+ItemDisplay[r23]: %PURPLE% ooo %RED%%RUNENAME%%PURPLE% ooo %RED%[%RUNENUM%]%BORDER-1F%
+ItemDisplay[r24]: %PURPLE% oooo %RED%%RUNENAME%%PURPLE% oooo %RED%[%RUNENUM%]%BORDER-1F%
+ItemDisplay[r25]: %PURPLE% ooooo %RED%%RUNENAME%%PURPLE% ooooo %RED%[%RUNENUM%]%BORDER-1F%
+ItemDisplay[r26]: %PURPLE% oooooo %RED%%RUNENAME%%PURPLE% oooooo %RED%[%RUNENUM%]%BORDER-1F%
+ItemDisplay[r27]: %PURPLE% ooooooo %RED%%RUNENAME%%PURPLE% ooooooo %RED%[%RUNENUM%]%BORDER-1F%
+ItemDisplay[r28]: %PURPLE% ooooooooo %RED%%RUNENAME%%PURPLE% ooooooooo %RED%[%RUNENUM%]%BORDER-1F%
+ItemDisplay[r29]: %PURPLE% ooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooo %RED%[%RUNENUM%]%BORDER-1F%
+ItemDisplay[r30]: %PURPLE% ooooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooooo %RED%[%RUNENUM%]%BORDER-1F%
+ItemDisplay[r31]: %PURPLE% oooooooooooo %RED%%RUNENAME%%PURPLE% oooooooooooo %RED%[%RUNENUM%]%BORDER-1F%
+ItemDisplay[r32]: %PURPLE% ooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooo %RED%[%RUNENUM%]%BORDER-1F%
+ItemDisplay[r33]: %PURPLE% oooooooooooooooo %RED%%RUNENAME%%PURPLE% oooooooooooooooo %RED%[%RUNENUM%]%BORDER-1F%
 
 //Stacked
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -752,62 +754,62 @@ ItemDisplay[r09s]: %TAN%Ort [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]
 
 //Mid Tier: 10-20
 /Thul
-ItemDisplay[r10s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%
+ItemDisplay[r10s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%MAP-0E%
 /Amn
-ItemDisplay[r11s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%
+ItemDisplay[r11s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%MAP-0E%
 /Sol
-ItemDisplay[r12s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%
+ItemDisplay[r12s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%MAP-0E%
 /Shael
-ItemDisplay[r13s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%
+ItemDisplay[r13s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%MAP-0E%
 /Dol
-ItemDisplay[r14s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%
+ItemDisplay[r14s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%MAP-0E%
 /Hel
-ItemDisplay[r15s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%
+ItemDisplay[r15s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%MAP-0E%
 /Io
-ItemDisplay[r16s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%
+ItemDisplay[r16s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%MAP-0E%
 /Lum
-ItemDisplay[r17s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%
+ItemDisplay[r17s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%MAP-0E%
 /Ko
-ItemDisplay[r18s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%
+ItemDisplay[r18s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%MAP-0E%
 /Fal
-ItemDisplay[r19s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%ORANGE%%MAP-63%
+ItemDisplay[r19s]: %ORANGE%%RUNENAME% [%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%MAP-0E%
 /Lem
-ItemDisplay[r20s]: %PURPLE% o %RED%%RUNENAME%%PURPLE% o %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r20s]: %PURPLE% o %RED%%RUNENAME%%PURPLE% o %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%MAP-0E%
 
 //High Tier: 21-33
 /Pul
-ItemDisplay[r21s]: %PURPLE% oo %RED%%RUNENAME%%PURPLE% oo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r21s]: %PURPLE% oo %RED%%RUNENAME%%PURPLE% oo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 /Um
-ItemDisplay[r22s]: %PURPLE% ooo %RED%%RUNENAME%%PURPLE% ooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r22s]: %PURPLE% ooo %RED%%RUNENAME%%PURPLE% ooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 /Mal
-ItemDisplay[r23s]: %PURPLE% ooo %RED%%RUNENAME%%PURPLE% ooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r23s]: %PURPLE% ooo %RED%%RUNENAME%%PURPLE% ooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 /Ist
-ItemDisplay[r24s]: %PURPLE% oooo %RED%%RUNENAME%%PURPLE% oooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r24s]: %PURPLE% oooo %RED%%RUNENAME%%PURPLE% oooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 /Gul 
-ItemDisplay[r25s]: %PURPLE% ooooo %RED%%RUNENAME%%PURPLE% ooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r25s]: %PURPLE% ooooo %RED%%RUNENAME%%PURPLE% ooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 /Vex
-ItemDisplay[r26s]: %PURPLE% oooooo %RED%%RUNENAME%%PURPLE% oooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r26s]: %PURPLE% oooooo %RED%%RUNENAME%%PURPLE% oooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 /Ohm
-ItemDisplay[r27s]: %PURPLE% ooooooo %RED%%RUNENAME%%PURPLE% ooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r27s]: %PURPLE% ooooooo %RED%%RUNENAME%%PURPLE% ooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 /Lo
-ItemDisplay[r28s]: %PURPLE% ooooooooo %RED%%RUNENAME%%PURPLE% ooooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r28s]: %PURPLE% ooooooooo %RED%%RUNENAME%%PURPLE% ooooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 /Sur
-ItemDisplay[r29s]: %PURPLE% ooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r29s]: %PURPLE% ooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 /Ber
-ItemDisplay[r30s]: %PURPLE% ooooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r30s]: %PURPLE% ooooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 /Jah
-ItemDisplay[r31s]: %PURPLE% oooooooooooo %RED%%RUNENAME%%PURPLE% oooooooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r31s]: %PURPLE% oooooooooooo %RED%%RUNENAME%%PURPLE% oooooooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 /Cham
-ItemDisplay[r32s]: %PURPLE% ooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r32s]: %PURPLE% ooooooooooo %RED%%RUNENAME%%PURPLE% ooooooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 /Zod
-ItemDisplay[r33s]: %PURPLE% oooooooooooooooo %RED%%RUNENAME%%PURPLE% oooooooooooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%PURPLE%%MAP%
+ItemDisplay[r33s]: %PURPLE% oooooooooooooooo %RED%%RUNENAME%%PURPLE% oooooooooooooooo %RED%[%RUNENUM%]%GRAY%[%GRAY%%QTY%%GRAY%]%BORDER-1F%
 
 //CHARMS
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-ItemDisplay[cm1 MAG !ID]: %DOT-9B%%BLUE%%NAME%
-ItemDisplay[cm2 MAG !ID]: //%DOT-9B%%BLUE%%NAME%
-ItemDisplay[cm3 MAG !ID]: %DOT-9B%%BLUE%%NAME%
+ItemDisplay[cm1 MAG !ID]: %BLUE%%NAME%%DOT-94%
+ItemDisplay[cm2 MAG !ID]: //%BLUE%%NAME%%DOT-94%
+ItemDisplay[cm3 MAG !ID]: %BLUE%%NAME%%DOT-94%
 
 //Small Charms
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -971,8 +973,8 @@ ItemDisplay[cm2 UNI CLSK6>0]: %GRAY%asa %GOLD%%NAME%%CONTINUE%
 //JEWELS
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-ItemDisplay[jew (MAG OR RARE) !ID]: %BLUE%%DOT-A8%%NAME%
-ItemDisplay[jew UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP%
+ItemDisplay[jew (MAG OR RARE) !ID]: %BLUE%%NAME%%MAP-1F%
+ItemDisplay[jew UNI !ID]: %ORANGE%ooooo %NAME%%ORANGE% ooooo%MAP-1F%
 
 Part 1
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1067,230 +1069,1015 @@ ItemDisplay[jew !UNI (STAT501>74 AND STAT91=-15)]: %RED%bleed %DARK_GREEN%-req %
 ItemDisplay[aqv RARE !ID]: //%DOT-A8%%NAME%
 ItemDisplay[(jew OR rin OR amu OR CIRC) RARE !ID]: %DOT-A8%%NAME%
 
-//High Tier
+
+/UNIQUE
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 //Armors
-//▬▬▬▬▬▬▬▬
-
-//UNIQUE
-
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-
-//Weapons
-//▬▬▬▬▬▬▬▬
-
-//UNIQUE
-
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooooo %NAME%-%ORANGE% oooooooo%MAP-62%
-
-//Jewellery 
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(amu OR rin) UNI !ID]: %RED%ooooooo %NAME%%RED% ooooooo%MAP% //Unique Rings & Amulets
-ItemDisplay[(ram) UNI !ID]: %RED%ooooo %NAME%%RED% ooooo%MAP% //New
-ItemDisplay[(amu OR rin) SET !ID]: %NAME%%MAP% //Set Rings & Amulets
 
-
-//Mid Tier
-//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-//Armors
-//▬▬▬▬▬▬▬▬
-
-//UNIQUE
-
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
+ItemDisplay[(UNI ETH !ID) cap]: 
+ItemDisplay[(UNI ETH !ID) xap]: 
+ItemDisplay[(UNI ETH !ID) uap]: 
+ItemDisplay[(UNI ETH !ID) skp]: 
+ItemDisplay[(UNI ETH !ID) xkp]: 
+ItemDisplay[(UNI ETH !ID) ukp]: 
+ItemDisplay[(UNI ETH !ID) hlm]: 
+ItemDisplay[(UNI ETH !ID) xlm]: 
+ItemDisplay[(UNI ETH !ID) ulm]: 
+ItemDisplay[(UNI ETH !ID) fhl]: 
+ItemDisplay[(UNI ETH !ID) xhl]: 
+ItemDisplay[(UNI ETH !ID) uhl]: 
+ItemDisplay[(UNI ETH !ID) msk]: 
+ItemDisplay[(UNI ETH !ID) xsk]: 
+ItemDisplay[(UNI ETH !ID) usk]: 
+ItemDisplay[(UNI ETH !ID) bhm]: 
+ItemDisplay[(UNI ETH !ID) xh9]: 
+ItemDisplay[(UNI ETH !ID) uh9]: 
+ItemDisplay[(UNI ETH !ID) ghm]: 
+ItemDisplay[(UNI ETH !ID) xhm]: 
+ItemDisplay[(UNI ETH !ID) uhm]: 
+ItemDisplay[(UNI ETH !ID) crn]: 
+ItemDisplay[(UNI ETH !ID) xrn]: 
+ItemDisplay[(UNI ETH !ID) urn]: 
+ItemDisplay[(UNI ETH !ID) qui]: 
+ItemDisplay[(UNI ETH !ID) xui]: 
+ItemDisplay[(UNI ETH !ID) uui]: 
+ItemDisplay[(UNI ETH !ID) lea]: 
+ItemDisplay[(UNI ETH !ID) xea]: 
+ItemDisplay[(UNI ETH !ID) uea]: 
+ItemDisplay[(UNI ETH !ID) hla]: 
+ItemDisplay[(UNI ETH !ID) xla]: 
+ItemDisplay[(UNI ETH !ID) ula]: 
+ItemDisplay[(UNI ETH !ID) stu]: 
+ItemDisplay[(UNI ETH !ID) xtu]: 
+ItemDisplay[(UNI ETH !ID) utu]: 
+ItemDisplay[(UNI ETH !ID) rng]: 
+ItemDisplay[(UNI ETH !ID) xng]: 
+ItemDisplay[(UNI ETH !ID) ung]: 
+ItemDisplay[(UNI ETH !ID) scl]: 
+ItemDisplay[(UNI ETH !ID) xcl]: 
+ItemDisplay[(UNI ETH !ID) ucl]: 
+ItemDisplay[(UNI ETH !ID) brs]: 
+ItemDisplay[(UNI ETH !ID) xrs]: 
+ItemDisplay[(UNI ETH !ID) urs]: 
+ItemDisplay[(UNI ETH !ID) chn]: 
+ItemDisplay[(UNI ETH !ID) xhn]: 
+ItemDisplay[(UNI ETH !ID) uhn]: 
+ItemDisplay[(UNI ETH !ID) spl]: 
+ItemDisplay[(UNI ETH !ID) xpl]: 
+ItemDisplay[(UNI ETH !ID) upl]: 
+ItemDisplay[(UNI ETH !ID) ltp]: 
+ItemDisplay[(UNI ETH !ID) xtp]: 
+ItemDisplay[(UNI ETH !ID) utp]: 
+ItemDisplay[(UNI ETH !ID) fld]: 
+ItemDisplay[(UNI ETH !ID) xld]: 
+ItemDisplay[(UNI ETH !ID) uld]: 
+ItemDisplay[(UNI ETH !ID) plt]: 
+ItemDisplay[(UNI ETH !ID) xlt]: 
+ItemDisplay[(UNI ETH !ID) ult]: 
+ItemDisplay[(UNI ETH !ID) gth]: 
+ItemDisplay[(UNI ETH !ID) xth]: 
+ItemDisplay[(UNI ETH !ID) uth]: 
+ItemDisplay[(UNI ETH !ID) ful]: 
+ItemDisplay[(UNI ETH !ID) xul]: 
+ItemDisplay[(UNI ETH !ID) uul]: 
+ItemDisplay[(UNI ETH !ID) aar]: 
+ItemDisplay[(UNI ETH !ID) xar]: 
+ItemDisplay[(UNI ETH !ID) uar]: 
+ItemDisplay[(UNI ETH !ID) buc]: 
+ItemDisplay[(UNI ETH !ID) xuc]: 
+ItemDisplay[(UNI ETH !ID) uuc]: 
+ItemDisplay[(UNI ETH !ID) sml]: 
+ItemDisplay[(UNI ETH !ID) xml]: 
+ItemDisplay[(UNI ETH !ID) uml]: 
+ItemDisplay[(UNI ETH !ID) lrg]: 
+ItemDisplay[(UNI ETH !ID) xrg]: 
+ItemDisplay[(UNI ETH !ID) urg]: 
+ItemDisplay[(UNI ETH !ID) spk]: 
+ItemDisplay[(UNI ETH !ID) xpk]: 
+ItemDisplay[(UNI ETH !ID) upk]: 
+ItemDisplay[(UNI ETH !ID) kit]: 
+ItemDisplay[(UNI ETH !ID) xit]: 
+ItemDisplay[(UNI ETH !ID) uit]: 
+ItemDisplay[(UNI ETH !ID) bsh]: 
+ItemDisplay[(UNI ETH !ID) xsh]: 
+ItemDisplay[(UNI ETH !ID) ush]: 
+ItemDisplay[(UNI ETH !ID) tow]: 
+ItemDisplay[(UNI ETH !ID) xow]: 
+ItemDisplay[(UNI ETH !ID) uow]: 
+ItemDisplay[(UNI ETH !ID) gts]: 
+ItemDisplay[(UNI ETH !ID) xts]: 
+ItemDisplay[(UNI ETH !ID) uts]: 
+ItemDisplay[(UNI ETH !ID) lgl]: 
+ItemDisplay[(UNI ETH !ID) xlg]: 
+ItemDisplay[(UNI ETH !ID) ulg]: 
+ItemDisplay[(UNI ETH !ID) vgl]: 
+ItemDisplay[(UNI ETH !ID) xvg]: 
+ItemDisplay[(UNI ETH !ID) uvg]: 
+ItemDisplay[(UNI ETH !ID) mgl]: 
+ItemDisplay[(UNI ETH !ID) xmg]: 
+ItemDisplay[(UNI ETH !ID) umg]: 
+ItemDisplay[(UNI ETH !ID) tgl]: 
+ItemDisplay[(UNI ETH !ID) xtg]: 
+ItemDisplay[(UNI ETH !ID) utg]: 
+ItemDisplay[(UNI ETH !ID) hgl]: 
+ItemDisplay[(UNI ETH !ID) xhg]: 
+ItemDisplay[(UNI ETH !ID) uhg]: 
+ItemDisplay[(UNI ETH !ID) lbt]: 
+ItemDisplay[(UNI ETH !ID) xlb]: 
+ItemDisplay[(UNI ETH !ID) ulb]: 
+ItemDisplay[(UNI ETH !ID) vbt]: 
+ItemDisplay[(UNI ETH !ID) xvb]: 
+ItemDisplay[(UNI ETH !ID) uvb]: 
+ItemDisplay[(UNI ETH !ID) mbt]: 
+ItemDisplay[(UNI ETH !ID) xmb]: 
+ItemDisplay[(UNI ETH !ID) umb]: 
+ItemDisplay[(UNI ETH !ID) tbt]: 
+ItemDisplay[(UNI ETH !ID) xtb]: 
+ItemDisplay[(UNI ETH !ID) utb]: 
+ItemDisplay[(UNI ETH !ID) hbt]: 
+ItemDisplay[(UNI ETH !ID) xhb]: 
+ItemDisplay[(UNI ETH !ID) uhb]: 
+ItemDisplay[(UNI ETH !ID) lbl]: 
+ItemDisplay[(UNI ETH !ID) zlb]: 
+ItemDisplay[(UNI ETH !ID) ulc]: 
+ItemDisplay[(UNI ETH !ID) vbl]: 
+ItemDisplay[(UNI ETH !ID) zvb]: 
+ItemDisplay[(UNI ETH !ID) uvc]: 
+ItemDisplay[(UNI ETH !ID) mbl]: 
+ItemDisplay[(UNI ETH !ID) zmb]: 
+ItemDisplay[(UNI ETH !ID) umc]: 
+ItemDisplay[(UNI ETH !ID) tbl]: 
+ItemDisplay[(UNI ETH !ID) ztb]: 
+ItemDisplay[(UNI ETH !ID) utc]: 
+ItemDisplay[(UNI ETH !ID) hbl]: 
+ItemDisplay[(UNI ETH !ID) zhb]: 
+ItemDisplay[(UNI ETH !ID) uhc]: 
+ItemDisplay[(UNI ETH !ID) ci0]: 
+ItemDisplay[(UNI ETH !ID) ci2]: 
+ItemDisplay[(UNI ETH !ID) ci3]: 
+ItemDisplay[(UNI ETH !ID) ci1]: 
+ItemDisplay[(UNI ETH !ID) dr1]: 
+ItemDisplay[(UNI ETH !ID) dr6]: 
+ItemDisplay[(UNI ETH !ID) drb]: 
+ItemDisplay[(UNI ETH !ID) dr2]: 
+ItemDisplay[(UNI ETH !ID) dr7]: 
+ItemDisplay[(UNI ETH !ID) drc]: 
+ItemDisplay[(UNI ETH !ID) dr3]: 
+ItemDisplay[(UNI ETH !ID) dr8]: 
+ItemDisplay[(UNI ETH !ID) drd]: 
+ItemDisplay[(UNI ETH !ID) dr4]: 
+ItemDisplay[(UNI ETH !ID) dr9]: 
+ItemDisplay[(UNI ETH !ID) dre]: 
+ItemDisplay[(UNI ETH !ID) dr5]: 
+ItemDisplay[(UNI ETH !ID) dra]: 
+ItemDisplay[(UNI ETH !ID) drf]: 
+ItemDisplay[(UNI ETH !ID) ba1]: 
+ItemDisplay[(UNI ETH !ID) ba6]: 
+ItemDisplay[(UNI ETH !ID) bab]: 
+ItemDisplay[(UNI ETH !ID) ba2]: 
+ItemDisplay[(UNI ETH !ID) ba7]: 
+ItemDisplay[(UNI ETH !ID) bac]: 
+ItemDisplay[(UNI ETH !ID) ba3]: 
+ItemDisplay[(UNI ETH !ID) ba8]: 
+ItemDisplay[(UNI ETH !ID) bad]: 
+ItemDisplay[(UNI ETH !ID) ba4]: 
+ItemDisplay[(UNI ETH !ID) ba9]: 
+ItemDisplay[(UNI ETH !ID) bae]: 
+ItemDisplay[(UNI ETH !ID) ba5]: 
+ItemDisplay[(UNI ETH !ID) baa]: 
+ItemDisplay[(UNI ETH !ID) baf]: 
+ItemDisplay[(UNI ETH !ID) pa1]: 
+ItemDisplay[(UNI ETH !ID) pa6]: 
+ItemDisplay[(UNI ETH !ID) pab]: 
+ItemDisplay[(UNI ETH !ID) pa2]: 
+ItemDisplay[(UNI ETH !ID) pa7]: 
+ItemDisplay[(UNI ETH !ID) pac]: 
+ItemDisplay[(UNI ETH !ID) pa3]: 
+ItemDisplay[(UNI ETH !ID) pa8]: 
+ItemDisplay[(UNI ETH !ID) pad]: 
+ItemDisplay[(UNI ETH !ID) pa4]: 
+ItemDisplay[(UNI ETH !ID) pa9]: 
+ItemDisplay[(UNI ETH !ID) pae]: 
+ItemDisplay[(UNI ETH !ID) pa5]: 
+ItemDisplay[(UNI ETH !ID) paa]: 
+ItemDisplay[(UNI ETH !ID) paf]: 
+ItemDisplay[(UNI ETH !ID) ne1]: 
+ItemDisplay[(UNI ETH !ID) ne6]: 
+ItemDisplay[(UNI ETH !ID) neb]: 
+ItemDisplay[(UNI ETH !ID) ne2]: 
+ItemDisplay[(UNI ETH !ID) ne7]: 
+ItemDisplay[(UNI ETH !ID) neg]: 
+ItemDisplay[(UNI ETH !ID) ne3]: 
+ItemDisplay[(UNI ETH !ID) ne8]: 
+ItemDisplay[(UNI ETH !ID) ned]: 
+ItemDisplay[(UNI ETH !ID) ne4]: 
+ItemDisplay[(UNI ETH !ID) ne9]: 
+ItemDisplay[(UNI ETH !ID) nee]: 
+ItemDisplay[(UNI ETH !ID) ne5]: 
+ItemDisplay[(UNI ETH !ID) nea]: 
+ItemDisplay[(UNI ETH !ID) nef]: 
 
 //Weapons
-//▬▬▬▬▬▬▬▬
+//▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-//UNIQUE
+ItemDisplay[(UNI ETH !ID)   hax]: 
+ItemDisplay[(UNI ETH !ID)   9ha]: 
+ItemDisplay[(UNI ETH !ID)   7ha]: 
+ItemDisplay[(UNI ETH !ID)   axe]: 
+ItemDisplay[(UNI ETH !ID)   9ax]: 
+ItemDisplay[(UNI ETH !ID)   7ax]: 
+ItemDisplay[(UNI ETH !ID)   2ax]: 
+ItemDisplay[(UNI ETH !ID)   92a]: 
+ItemDisplay[(UNI ETH !ID)   72a]: 
+ItemDisplay[(UNI ETH !ID) mpi]: 
+ItemDisplay[(UNI ETH !ID)   9mp]: 
+ItemDisplay[(UNI ETH !ID)   7mp]: 
+ItemDisplay[(UNI ETH !ID)   wax]: 
+ItemDisplay[(UNI ETH !ID)   9wa]: 
+ItemDisplay[(UNI ETH !ID)   7wa]: 
+ItemDisplay[(UNI ETH !ID)   lax]: 
+ItemDisplay[(UNI ETH !ID)   9la]: 
+ItemDisplay[(UNI ETH !ID)   7la]: 
+ItemDisplay[(UNI ETH !ID)   bax]: 
+ItemDisplay[(UNI ETH !ID)   9ba]: 
+ItemDisplay[(UNI ETH !ID)   7ba]: 
+ItemDisplay[(UNI ETH !ID)   btx]: 
+ItemDisplay[(UNI ETH !ID)   9bt]: 
+ItemDisplay[(UNI ETH !ID)   7bt]: 
+ItemDisplay[(UNI ETH !ID)   gax]: 
+ItemDisplay[(UNI ETH !ID)   9ga]: 
+ItemDisplay[(UNI ETH !ID)   7ga]: 
+ItemDisplay[(UNI ETH !ID)   gix]: 
+ItemDisplay[(UNI ETH !ID)   9gi]: 
+ItemDisplay[(UNI ETH !ID)   7gi]: 
+ItemDisplay[(UNI ETH !ID)   clb]: 
+ItemDisplay[(UNI ETH !ID)   9cl]: 
+ItemDisplay[(UNI ETH !ID)   7cl]: 
+ItemDisplay[(UNI ETH !ID)   spc]: 
+ItemDisplay[(UNI ETH !ID)   9sp]: 
+ItemDisplay[(UNI ETH !ID)   7sp]: 
+ItemDisplay[(UNI ETH !ID)   mac]: 
+ItemDisplay[(UNI ETH !ID)   9ma]: 
+ItemDisplay[(UNI ETH !ID)   7ma]: 
+ItemDisplay[(UNI ETH !ID)   mst]: 
+ItemDisplay[(UNI ETH !ID)   9mt]: 
+ItemDisplay[(UNI ETH !ID)   7mt]: 
+ItemDisplay[(UNI ETH !ID)   fla]: 
+ItemDisplay[(UNI ETH !ID)   9fl]: 
+ItemDisplay[(UNI ETH !ID)   7fl]: 
+ItemDisplay[(UNI ETH !ID)   whm]: 
+ItemDisplay[(UNI ETH !ID)   9wh]: 
+ItemDisplay[(UNI ETH !ID)   7wh]: 
+ItemDisplay[(UNI ETH !ID)   mau]: 
+ItemDisplay[(UNI ETH !ID)   9m9]: 
+ItemDisplay[(UNI ETH !ID)   7m7]: 
+ItemDisplay[(UNI ETH !ID)   gma]: 
+ItemDisplay[(UNI ETH !ID)   9gm]: 
+ItemDisplay[(UNI ETH !ID)   7gm]: 
+ItemDisplay[(UNI ETH !ID)   ssd]: 
+ItemDisplay[(UNI ETH !ID)   9ss]: 
+ItemDisplay[(UNI ETH !ID)   7ss]: 
+ItemDisplay[(UNI ETH !ID)   scm]: 
+ItemDisplay[(UNI ETH !ID)   9sm]: 
+ItemDisplay[(UNI ETH !ID)   7sm]: 
+ItemDisplay[(UNI ETH !ID)   sbr]: 
+ItemDisplay[(UNI ETH !ID)   9sb]: 
+ItemDisplay[(UNI ETH !ID)   7sb]: 
+ItemDisplay[(UNI ETH !ID)   flc]: 
+ItemDisplay[(UNI ETH !ID)   9fc]: 
+ItemDisplay[(UNI ETH !ID)   7fc]: 
+ItemDisplay[(UNI ETH !ID)   crs]: 
+ItemDisplay[(UNI ETH !ID)   9cr]: 
+ItemDisplay[(UNI ETH !ID)   7cr]: 
+ItemDisplay[(UNI ETH !ID)   bsd]: 
+ItemDisplay[(UNI ETH !ID)   9bs]: 
+ItemDisplay[(UNI ETH !ID)   7bs]: 
+ItemDisplay[(UNI ETH !ID)   lsd]: 
+ItemDisplay[(UNI ETH !ID)   9ls]: 
+ItemDisplay[(UNI ETH !ID)   7ls]: 
+ItemDisplay[(UNI ETH !ID)   wsd]: 
+ItemDisplay[(UNI ETH !ID)   9wd]: 
+ItemDisplay[(UNI ETH !ID)   7wd]: 
+ItemDisplay[(UNI ETH !ID)   2hs]: 
+ItemDisplay[(UNI ETH !ID)   92h]: 
+ItemDisplay[(UNI ETH !ID)   72h]: 
+ItemDisplay[(UNI ETH !ID)   clm]: 
+ItemDisplay[(UNI ETH !ID)   9cm]: 
+ItemDisplay[(UNI ETH !ID)   7cm]: 
+ItemDisplay[(UNI ETH !ID)   gis]: 
+ItemDisplay[(UNI ETH !ID)   9gs]: 
+ItemDisplay[(UNI ETH !ID)   7gs]: 
+ItemDisplay[(UNI ETH !ID)   bsw]: 
+ItemDisplay[(UNI ETH !ID)   9b9]: 
+ItemDisplay[(UNI ETH !ID)   7b7]: 
+ItemDisplay[(UNI ETH !ID)   flb]: 
+ItemDisplay[(UNI ETH !ID)   9fb]: 
+ItemDisplay[(UNI ETH !ID)   7fb]: 
+ItemDisplay[(UNI ETH !ID)   gsd]: 
+ItemDisplay[(UNI ETH !ID)   9gd]: 
+ItemDisplay[(UNI ETH !ID)   7gd]: 
+ItemDisplay[(UNI ETH !ID)   dgr]: 
+ItemDisplay[(UNI ETH !ID)   9dg]: 
+ItemDisplay[(UNI ETH !ID)   7dg]: 
+ItemDisplay[(UNI ETH !ID)   dir]: 
+ItemDisplay[(UNI ETH !ID)   9di]: 
+ItemDisplay[(UNI ETH !ID)   7di]: 
+ItemDisplay[(UNI ETH !ID)   kri]: 
+ItemDisplay[(UNI ETH !ID)   9kr]: 
+ItemDisplay[(UNI ETH !ID)   7kr]: 
+ItemDisplay[(UNI ETH !ID)   bld]: 
+ItemDisplay[(UNI ETH !ID)   9bl]: 
+ItemDisplay[(UNI ETH !ID)   7bl]: 
+ItemDisplay[(UNI ETH !ID)   tkf]: 
+ItemDisplay[(UNI ETH !ID)   9tk]: 
+ItemDisplay[(UNI ETH !ID)   7tk]: 
+ItemDisplay[(UNI ETH !ID)   tax]: 
+ItemDisplay[(UNI ETH !ID)   9ta]: 
+ItemDisplay[(UNI ETH !ID)   7ta]: 
+ItemDisplay[(UNI ETH !ID)   bkf]: 
+ItemDisplay[(UNI ETH !ID)   9bk]: 
+ItemDisplay[(UNI ETH !ID)   7bk]: 
+ItemDisplay[(UNI ETH !ID)   bal]: 
+ItemDisplay[(UNI ETH !ID)   9b8]: 
+ItemDisplay[(UNI ETH !ID)   7b8]: 
+ItemDisplay[(UNI ETH !ID)   jav]: 
+ItemDisplay[(UNI ETH !ID)   9ja]: 
+ItemDisplay[(UNI ETH !ID)   7ja]: 
+ItemDisplay[(UNI ETH !ID)   pil]: 
+ItemDisplay[(UNI ETH !ID)   9pi]: 
+ItemDisplay[(UNI ETH !ID)   7pi]: 
+ItemDisplay[(UNI ETH !ID)   ssp]: 
+ItemDisplay[(UNI ETH !ID)   9s9]: 
+ItemDisplay[(UNI ETH !ID)   7s7]: 
+ItemDisplay[(UNI ETH !ID)   glv]: 
+ItemDisplay[(UNI ETH !ID)   9gl]: 
+ItemDisplay[(UNI ETH !ID)   7gl]: 
+ItemDisplay[(UNI ETH !ID)   tsp]: 
+ItemDisplay[(UNI ETH !ID)   9ts]: 
+ItemDisplay[(UNI ETH !ID)   7ts]: 
+ItemDisplay[(UNI ETH !ID)   spr]: 
+ItemDisplay[(UNI ETH !ID)   9sr]: 
+ItemDisplay[(UNI ETH !ID)   7sr]: 
+ItemDisplay[(UNI ETH !ID)   tri]: 
+ItemDisplay[(UNI ETH !ID)   9tr]: 
+ItemDisplay[(UNI ETH !ID)   7tr]: 
+ItemDisplay[(UNI ETH !ID)   brn]: 
+ItemDisplay[(UNI ETH !ID)   9br]: 
+ItemDisplay[(UNI ETH !ID)   7br]: 
+ItemDisplay[(UNI ETH !ID)   spt]: 
+ItemDisplay[(UNI ETH !ID)   9st]: 
+ItemDisplay[(UNI ETH !ID)   7st]: 
+ItemDisplay[(UNI ETH !ID)   pik]: 
+ItemDisplay[(UNI ETH !ID)   9p9]: 
+ItemDisplay[(UNI ETH !ID)   7p7]: 
+ItemDisplay[(UNI ETH !ID)   bar]: 
+ItemDisplay[(UNI ETH !ID)   9b7]: 
+ItemDisplay[(UNI ETH !ID)   7o7]: 
+ItemDisplay[(UNI ETH !ID)   vou]: 
+ItemDisplay[(UNI ETH !ID)   9vo]: 
+ItemDisplay[(UNI ETH !ID)   7vo]: 
+ItemDisplay[(UNI ETH !ID)   scy]: 
+ItemDisplay[(UNI ETH !ID)   9s8]: 
+ItemDisplay[(UNI ETH !ID)   7s8]: 
+ItemDisplay[(UNI ETH !ID)   pax]: 
+ItemDisplay[(UNI ETH !ID)   9pa]: 
+ItemDisplay[(UNI ETH !ID)   7pa]: 
+ItemDisplay[(UNI ETH !ID)   hal]: 
+ItemDisplay[(UNI ETH !ID)   9h9]: 
+ItemDisplay[(UNI ETH !ID)   7h7]: 
+ItemDisplay[(UNI ETH !ID)   wsc]: 
+ItemDisplay[(UNI ETH !ID)   9wc]: 
+ItemDisplay[(UNI ETH !ID)   7wc]: 
+ItemDisplay[(UNI ETH !ID)   sbw]: 
+ItemDisplay[(UNI ETH !ID)   8sb]: 
+ItemDisplay[(UNI ETH !ID)   6sb]: 
+ItemDisplay[(UNI ETH !ID)   hbw]: 
+ItemDisplay[(UNI ETH !ID)   8hb]: 
+ItemDisplay[(UNI ETH !ID)   6hb]: 
+ItemDisplay[(UNI ETH !ID)   lbw]: 
+ItemDisplay[(UNI ETH !ID)   8lb]: 
+ItemDisplay[(UNI ETH !ID)   6lb]: 
+ItemDisplay[(UNI ETH !ID)   cbw]: 
+ItemDisplay[(UNI ETH !ID)   8cb]: 
+ItemDisplay[(UNI ETH !ID)   6cb]: 
+ItemDisplay[(UNI ETH !ID)   sbb]: 
+ItemDisplay[(UNI ETH !ID)   8s8]: 
+ItemDisplay[(UNI ETH !ID)   6s7]: 
+ItemDisplay[(UNI ETH !ID)   lbb]: 
+ItemDisplay[(UNI ETH !ID)   8l8]: 
+ItemDisplay[(UNI ETH !ID)   6l7]: 
+ItemDisplay[(UNI ETH !ID)   swb]: 
+ItemDisplay[(UNI ETH !ID)   8sw]: 
+ItemDisplay[(UNI ETH !ID)   6sw]: 
+ItemDisplay[(UNI ETH !ID)   lwb]: 
+ItemDisplay[(UNI ETH !ID)   8lw]: 
+ItemDisplay[(UNI ETH !ID)   6lw]: 
+ItemDisplay[(UNI ETH !ID)   lxb]: 
+ItemDisplay[(UNI ETH !ID)   8lx]: 
+ItemDisplay[(UNI ETH !ID)   6lx]: 
+ItemDisplay[(UNI ETH !ID)   mxb]: 
+ItemDisplay[(UNI ETH !ID)   8mx]: 
+ItemDisplay[(UNI ETH !ID)   6mx]: 
+ItemDisplay[(UNI ETH !ID)   hxb]: 
+ItemDisplay[(UNI ETH !ID)   8hx]: 
+ItemDisplay[(UNI ETH !ID)   6hx]: 
+ItemDisplay[(UNI ETH !ID)   rxb]: 
+ItemDisplay[(UNI ETH !ID)   8rx]: 
+ItemDisplay[(UNI ETH !ID)   6rx]: 
+ItemDisplay[(UNI ETH !ID)   sst]: 
+ItemDisplay[(UNI ETH !ID)   8ss]: 
+ItemDisplay[(UNI ETH !ID)   6ss]: 
+ItemDisplay[(UNI ETH !ID)   lst]: 
+ItemDisplay[(UNI ETH !ID)   8ls]: 
+ItemDisplay[(UNI ETH !ID)   6ls]: 
+ItemDisplay[(UNI ETH !ID)   cst]: 
+ItemDisplay[(UNI ETH !ID)   8cs]: 
+ItemDisplay[(UNI ETH !ID)   6cs]: 
+ItemDisplay[(UNI ETH !ID)   bst]: 
+ItemDisplay[(UNI ETH !ID)   8bs]: 
+ItemDisplay[(UNI ETH !ID)   6bs]: 
+ItemDisplay[(UNI ETH !ID)   wst]: 
+ItemDisplay[(UNI ETH !ID)   8ws]: 
+ItemDisplay[(UNI ETH !ID)   6ws]: 
+ItemDisplay[(UNI ETH !ID)   wnd]: 
+ItemDisplay[(UNI ETH !ID)   9wn]: 
+ItemDisplay[(UNI ETH !ID)   7wn]: 
+ItemDisplay[(UNI ETH !ID)   ywn]: 
+ItemDisplay[(UNI ETH !ID)   9yw]: 
+ItemDisplay[(UNI ETH !ID)   7yw]: 
+ItemDisplay[(UNI ETH !ID)   bwn]: 
+ItemDisplay[(UNI ETH !ID)   9bw]: 
+ItemDisplay[(UNI ETH !ID)   7bw]: 
+ItemDisplay[(UNI ETH !ID)   gwn]: 
+ItemDisplay[(UNI ETH !ID)   9gw]: 
+ItemDisplay[(UNI ETH !ID)   7gw]: 
+ItemDisplay[(UNI ETH !ID)   scp]: 
+ItemDisplay[(UNI ETH !ID)   9sc]: 
+ItemDisplay[(UNI ETH !ID)   7sc]: 
+ItemDisplay[(UNI ETH !ID)   gsc]: 
+ItemDisplay[(UNI ETH !ID)   9qs]: 
+ItemDisplay[(UNI ETH !ID)   7qs]: 
+ItemDisplay[(UNI ETH !ID)   wsp]: 
+ItemDisplay[(UNI ETH !ID)   9ws]: 
+ItemDisplay[(UNI ETH !ID)   7ws]: 
+ItemDisplay[(UNI ETH !ID)   ktr]: 
+ItemDisplay[(UNI ETH !ID)   9ar]: 
+ItemDisplay[(UNI ETH !ID)   7ar]: 
+ItemDisplay[(UNI ETH !ID)   wrb]: 
+ItemDisplay[(UNI ETH !ID)   9wb]: 
+ItemDisplay[(UNI ETH !ID)   7wb]: 
+ItemDisplay[(UNI ETH !ID)   axf]: 
+ItemDisplay[(UNI ETH !ID)   9xf]: 
+ItemDisplay[(UNI ETH !ID)   7xf]: 
+ItemDisplay[(UNI ETH !ID)   ces]: 
+ItemDisplay[(UNI ETH !ID)   9cs]: 
+ItemDisplay[(UNI ETH !ID)   7cs]: 
+ItemDisplay[(UNI ETH !ID)   clw]: 
+ItemDisplay[(UNI ETH !ID)   9lw]: 
+ItemDisplay[(UNI ETH !ID)   7lw]: 
+ItemDisplay[(UNI ETH !ID)   btl]: 
+ItemDisplay[(UNI ETH !ID)   9tw]: 
+ItemDisplay[(UNI ETH !ID)   7tw]: 
+ItemDisplay[(UNI ETH !ID)   skr]: 
+ItemDisplay[(UNI ETH !ID)   9qr]: 
+ItemDisplay[(UNI ETH !ID)   7qr]: 
+ItemDisplay[(UNI ETH !ID)   ob1]: 
+ItemDisplay[(UNI ETH !ID)   ob6]: 
+ItemDisplay[(UNI ETH !ID)   obb]: 
+ItemDisplay[(UNI ETH !ID)   ob2]: 
+ItemDisplay[(UNI ETH !ID)   ob7]: 
+ItemDisplay[(UNI ETH !ID)   obc]: 
+ItemDisplay[(UNI ETH !ID)   ob3]: 
+ItemDisplay[(UNI ETH !ID)   ob8]: 
+ItemDisplay[(UNI ETH !ID)   obd]: 
+ItemDisplay[(UNI ETH !ID)   ob4]: 
+ItemDisplay[(UNI ETH !ID)   ob9]: 
+ItemDisplay[(UNI ETH !ID)   obe]: 
+ItemDisplay[(UNI ETH !ID)   ob5]: 
+ItemDisplay[(UNI ETH !ID)   oba]: 
+ItemDisplay[(UNI ETH !ID)   obf]: 
+ItemDisplay[(UNI ETH !ID)   am1]: 
+ItemDisplay[(UNI ETH !ID)   am6]: 
+ItemDisplay[(UNI ETH !ID)   amb]: 
+ItemDisplay[(UNI ETH !ID)   am2]: 
+ItemDisplay[(UNI ETH !ID)   am7]: 
+ItemDisplay[(UNI ETH !ID)   amc]: 
+ItemDisplay[(UNI ETH !ID)   am3]: 
+ItemDisplay[(UNI ETH !ID)   am8]: 
+ItemDisplay[(UNI ETH !ID)   amd]: 
+ItemDisplay[(UNI ETH !ID)   am4]: 
+ItemDisplay[(UNI ETH !ID)   am9]: 
+ItemDisplay[(UNI ETH !ID)   ame]: 
+ItemDisplay[(UNI ETH !ID)   am5]: 
+ItemDisplay[(UNI ETH !ID)   ama]: 
+ItemDisplay[(UNI ETH !ID)   amf]: 
 
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-ItemDisplay[() UNI ETH !ID]: %ORANGE%oooooo %NAME%-%ORANGE% oooooo%DOT-A8%
-
-//Low Tier
-//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-//Armors
-//▬▬▬▬▬▬▬▬
-
-//UNIQUE
-
-//New
-ItemDisplay[(dr2) UNI ETH !ID]: //%NAME%-Quetzalcoatl%MAP% //Druid Helm
-ItemDisplay[(pa3) UNI ETH !ID]: //%NAME%-Sankekur's Fall%MAP% //Paladin Shield
-
-//Helms
-ItemDisplay[(skp) UNI ETH !ID]: %NAME%-Tarnhelm%MAP%
-
-//Chests
-ItemDisplay[(stu) UNI ETH !ID]: //%NAME%-Twitchthroe%MAP%
-ItemDisplay[(rng) UNI ETH !ID]: //%NAME%-Darkglow%MAP%
-ItemDisplay[(fld) UNI ETH !ID]: %NAME%-Rockfleece%MAP%
-ItemDisplay[(gth) UNI ETH !ID]: //%NAME%-Rattlecage%MAP%
-ItemDisplay[(ful) UNI ETH !ID]: //%NAME%-Goldskin%MAP%
-ItemDisplay[(aar) UNI ETH !ID]: //%NAME%-Silks of the Victor%MAP%
-
-//Gloves
-ItemDisplay[(mgl) UNI ETH !ID]: %NAME%-Chance Guards%MAP%
-ItemDisplay[(tgl) UNI ETH !ID]: %NAME%-Magefist%MAP%
-
-//Boots
-ItemDisplay[(lbt) UNI ETH !ID]: %NAME%-Hotspur%MAP%
-ItemDisplay[(tbt) UNI ETH !ID]: //%NAME%-Goblin Toe%MAP%
-ItemDisplay[(hbt) UNI ETH !ID]: //%NAME%-Tearhaunch%MAP%
-
-//Belts
-ItemDisplay[(lbl) UNI ETH !ID]: %NAME%-Lenymo%MAP%
-ItemDisplay[(vbl) UNI ETH !ID]: %NAME%-Snakecord%MAP%
-ItemDisplay[(mbl) UNI ETH !ID]: %NAME%-Nightsmoke%MAP%
-ItemDisplay[(tbl) UNI ETH !ID]: %NAME%-Goldwrap%MAP%
 
 //SET
+//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-//Helms
-ItemDisplay[(ghm) SET !ID]: %NAME%-Sigon's Visor%MAP%
+//Armors
+//▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-//Circlets
-ItemDisplay[(ci0) SET !ID]: //%NAME%-Naj's Circlet%MAP%
-
-//Chests
-ItemDisplay[(qui) SET !ID]: %NAME%-Arctic Furs%MAP%
-ItemDisplay[(stu) SET !ID]: %NAME%-Cow King's Hide%MAP%
-ItemDisplay[(rng) SET !ID]: %NAME%-Angelic Mantle%MAP%
-ItemDisplay[(gth) SET !ID]: %NAME%-Sigon's Shelter%MAP%
-
-//Shields
-ItemDisplay[(tow) SET !ID]: %NAME%-Sigon's Guard%MAP%
-
-//Gloves
-ItemDisplay[(hgl) SET !ID]: %NAME%-Sigon's Gage%MAP%
-
-//Boots
-ItemDisplay[(vbt) SET !ID]: %NAME%-Cow King's Hooves OR Sander's Riprap%MAP%
-ItemDisplay[(hbt) SET !ID]: %NAME%-Sigon's Sabot%MAP%
-
-//Belts
-ItemDisplay[(hbl) SET !ID]: %NAME%-Sigon's Wrap%MAP%
-
-//Barbarian Helms
-ItemDisplay[(ba5) SET !ID]: %DARK_GREEN%ooooo %NAME%-Immortal King's Will%DARK_GREEN% ooooo%MAP%
-
+ItemDisplay[(UNI ETH !ID) cap]: 
+ItemDisplay[(UNI ETH !ID) xap]: 
+ItemDisplay[(UNI ETH !ID) uap]: 
+ItemDisplay[(UNI ETH !ID) skp]: 
+ItemDisplay[(UNI ETH !ID) xkp]: 
+ItemDisplay[(UNI ETH !ID) ukp]: 
+ItemDisplay[(UNI ETH !ID) hlm]: 
+ItemDisplay[(UNI ETH !ID) xlm]: 
+ItemDisplay[(UNI ETH !ID) ulm]: 
+ItemDisplay[(UNI ETH !ID) fhl]: 
+ItemDisplay[(UNI ETH !ID) xhl]: 
+ItemDisplay[(UNI ETH !ID) uhl]: 
+ItemDisplay[(UNI ETH !ID) msk]: 
+ItemDisplay[(UNI ETH !ID) xsk]: 
+ItemDisplay[(UNI ETH !ID) usk]: 
+ItemDisplay[(UNI ETH !ID) bhm]: 
+ItemDisplay[(UNI ETH !ID) xh9]: 
+ItemDisplay[(UNI ETH !ID) uh9]: 
+ItemDisplay[(UNI ETH !ID) ghm]: 
+ItemDisplay[(UNI ETH !ID) xhm]: 
+ItemDisplay[(UNI ETH !ID) uhm]: 
+ItemDisplay[(UNI ETH !ID) crn]: 
+ItemDisplay[(UNI ETH !ID) xrn]: 
+ItemDisplay[(UNI ETH !ID) urn]: 
+ItemDisplay[(UNI ETH !ID) qui]: 
+ItemDisplay[(UNI ETH !ID) xui]: 
+ItemDisplay[(UNI ETH !ID) uui]: 
+ItemDisplay[(UNI ETH !ID) lea]: 
+ItemDisplay[(UNI ETH !ID) xea]: 
+ItemDisplay[(UNI ETH !ID) uea]: 
+ItemDisplay[(UNI ETH !ID) hla]: 
+ItemDisplay[(UNI ETH !ID) xla]: 
+ItemDisplay[(UNI ETH !ID) ula]: 
+ItemDisplay[(UNI ETH !ID) stu]: 
+ItemDisplay[(UNI ETH !ID) xtu]: 
+ItemDisplay[(UNI ETH !ID) utu]: 
+ItemDisplay[(UNI ETH !ID) rng]: 
+ItemDisplay[(UNI ETH !ID) xng]: 
+ItemDisplay[(UNI ETH !ID) ung]: 
+ItemDisplay[(UNI ETH !ID) scl]: 
+ItemDisplay[(UNI ETH !ID) xcl]: 
+ItemDisplay[(UNI ETH !ID) ucl]: 
+ItemDisplay[(UNI ETH !ID) brs]: 
+ItemDisplay[(UNI ETH !ID) xrs]: 
+ItemDisplay[(UNI ETH !ID) urs]: 
+ItemDisplay[(UNI ETH !ID) chn]: 
+ItemDisplay[(UNI ETH !ID) xhn]: 
+ItemDisplay[(UNI ETH !ID) uhn]: 
+ItemDisplay[(UNI ETH !ID) spl]: 
+ItemDisplay[(UNI ETH !ID) xpl]: 
+ItemDisplay[(UNI ETH !ID) upl]: 
+ItemDisplay[(UNI ETH !ID) ltp]: 
+ItemDisplay[(UNI ETH !ID) xtp]: 
+ItemDisplay[(UNI ETH !ID) utp]: 
+ItemDisplay[(UNI ETH !ID) fld]: 
+ItemDisplay[(UNI ETH !ID) xld]: 
+ItemDisplay[(UNI ETH !ID) uld]: 
+ItemDisplay[(UNI ETH !ID) plt]: 
+ItemDisplay[(UNI ETH !ID) xlt]: 
+ItemDisplay[(UNI ETH !ID) ult]: 
+ItemDisplay[(UNI ETH !ID) gth]: 
+ItemDisplay[(UNI ETH !ID) xth]: 
+ItemDisplay[(UNI ETH !ID) uth]: 
+ItemDisplay[(UNI ETH !ID) ful]: 
+ItemDisplay[(UNI ETH !ID) xul]: 
+ItemDisplay[(UNI ETH !ID) uul]: 
+ItemDisplay[(UNI ETH !ID) aar]: 
+ItemDisplay[(UNI ETH !ID) xar]: 
+ItemDisplay[(UNI ETH !ID) uar]: 
+ItemDisplay[(UNI ETH !ID) buc]: 
+ItemDisplay[(UNI ETH !ID) xuc]: 
+ItemDisplay[(UNI ETH !ID) uuc]: 
+ItemDisplay[(UNI ETH !ID) sml]: 
+ItemDisplay[(UNI ETH !ID) xml]: 
+ItemDisplay[(UNI ETH !ID) uml]: 
+ItemDisplay[(UNI ETH !ID) lrg]: 
+ItemDisplay[(UNI ETH !ID) xrg]: 
+ItemDisplay[(UNI ETH !ID) urg]: 
+ItemDisplay[(UNI ETH !ID) spk]: 
+ItemDisplay[(UNI ETH !ID) xpk]: 
+ItemDisplay[(UNI ETH !ID) upk]: 
+ItemDisplay[(UNI ETH !ID) kit]: 
+ItemDisplay[(UNI ETH !ID) xit]: 
+ItemDisplay[(UNI ETH !ID) uit]: 
+ItemDisplay[(UNI ETH !ID) bsh]: 
+ItemDisplay[(UNI ETH !ID) xsh]: 
+ItemDisplay[(UNI ETH !ID) ush]: 
+ItemDisplay[(UNI ETH !ID) tow]: 
+ItemDisplay[(UNI ETH !ID) xow]: 
+ItemDisplay[(UNI ETH !ID) uow]: 
+ItemDisplay[(UNI ETH !ID) gts]: 
+ItemDisplay[(UNI ETH !ID) xts]: 
+ItemDisplay[(UNI ETH !ID) uts]: 
+ItemDisplay[(UNI ETH !ID) lgl]: 
+ItemDisplay[(UNI ETH !ID) xlg]: 
+ItemDisplay[(UNI ETH !ID) ulg]: 
+ItemDisplay[(UNI ETH !ID) vgl]: 
+ItemDisplay[(UNI ETH !ID) xvg]: 
+ItemDisplay[(UNI ETH !ID) uvg]: 
+ItemDisplay[(UNI ETH !ID) mgl]: 
+ItemDisplay[(UNI ETH !ID) xmg]: 
+ItemDisplay[(UNI ETH !ID) umg]: 
+ItemDisplay[(UNI ETH !ID) tgl]: 
+ItemDisplay[(UNI ETH !ID) xtg]: 
+ItemDisplay[(UNI ETH !ID) utg]: 
+ItemDisplay[(UNI ETH !ID) hgl]: 
+ItemDisplay[(UNI ETH !ID) xhg]: 
+ItemDisplay[(UNI ETH !ID) uhg]: 
+ItemDisplay[(UNI ETH !ID) lbt]: 
+ItemDisplay[(UNI ETH !ID) xlb]: 
+ItemDisplay[(UNI ETH !ID) ulb]: 
+ItemDisplay[(UNI ETH !ID) vbt]: 
+ItemDisplay[(UNI ETH !ID) xvb]: 
+ItemDisplay[(UNI ETH !ID) uvb]: 
+ItemDisplay[(UNI ETH !ID) mbt]: 
+ItemDisplay[(UNI ETH !ID) xmb]: 
+ItemDisplay[(UNI ETH !ID) umb]: 
+ItemDisplay[(UNI ETH !ID) tbt]: 
+ItemDisplay[(UNI ETH !ID) xtb]: 
+ItemDisplay[(UNI ETH !ID) utb]: 
+ItemDisplay[(UNI ETH !ID) hbt]: 
+ItemDisplay[(UNI ETH !ID) xhb]: 
+ItemDisplay[(UNI ETH !ID) uhb]: 
+ItemDisplay[(UNI ETH !ID) lbl]: 
+ItemDisplay[(UNI ETH !ID) zlb]: 
+ItemDisplay[(UNI ETH !ID) ulc]: 
+ItemDisplay[(UNI ETH !ID) vbl]: 
+ItemDisplay[(UNI ETH !ID) zvb]: 
+ItemDisplay[(UNI ETH !ID) uvc]: 
+ItemDisplay[(UNI ETH !ID) mbl]: 
+ItemDisplay[(UNI ETH !ID) zmb]: 
+ItemDisplay[(UNI ETH !ID) umc]: 
+ItemDisplay[(UNI ETH !ID) tbl]: 
+ItemDisplay[(UNI ETH !ID) ztb]: 
+ItemDisplay[(UNI ETH !ID) utc]: 
+ItemDisplay[(UNI ETH !ID) hbl]: 
+ItemDisplay[(UNI ETH !ID) zhb]: 
+ItemDisplay[(UNI ETH !ID) uhc]: 
+ItemDisplay[(UNI ETH !ID) ci0]: 
+ItemDisplay[(UNI ETH !ID) ci2]: 
+ItemDisplay[(UNI ETH !ID) ci3]: 
+ItemDisplay[(UNI ETH !ID) ci1]: 
+ItemDisplay[(UNI ETH !ID) dr1]: 
+ItemDisplay[(UNI ETH !ID) dr6]: 
+ItemDisplay[(UNI ETH !ID) drb]: 
+ItemDisplay[(UNI ETH !ID) dr2]: 
+ItemDisplay[(UNI ETH !ID) dr7]: 
+ItemDisplay[(UNI ETH !ID) drc]: 
+ItemDisplay[(UNI ETH !ID) dr3]: 
+ItemDisplay[(UNI ETH !ID) dr8]: 
+ItemDisplay[(UNI ETH !ID) drd]: 
+ItemDisplay[(UNI ETH !ID) dr4]: 
+ItemDisplay[(UNI ETH !ID) dr9]: 
+ItemDisplay[(UNI ETH !ID) dre]: 
+ItemDisplay[(UNI ETH !ID) dr5]: 
+ItemDisplay[(UNI ETH !ID) dra]: 
+ItemDisplay[(UNI ETH !ID) drf]: 
+ItemDisplay[(UNI ETH !ID) ba1]: 
+ItemDisplay[(UNI ETH !ID) ba6]: 
+ItemDisplay[(UNI ETH !ID) bab]: 
+ItemDisplay[(UNI ETH !ID) ba2]: 
+ItemDisplay[(UNI ETH !ID) ba7]: 
+ItemDisplay[(UNI ETH !ID) bac]: 
+ItemDisplay[(UNI ETH !ID) ba3]: 
+ItemDisplay[(UNI ETH !ID) ba8]: 
+ItemDisplay[(UNI ETH !ID) bad]: 
+ItemDisplay[(UNI ETH !ID) ba4]: 
+ItemDisplay[(UNI ETH !ID) ba9]: 
+ItemDisplay[(UNI ETH !ID) bae]: 
+ItemDisplay[(UNI ETH !ID) ba5]: 
+ItemDisplay[(UNI ETH !ID) baa]: 
+ItemDisplay[(UNI ETH !ID) baf]: 
+ItemDisplay[(UNI ETH !ID) pa1]: 
+ItemDisplay[(UNI ETH !ID) pa6]: 
+ItemDisplay[(UNI ETH !ID) pab]: 
+ItemDisplay[(UNI ETH !ID) pa2]: 
+ItemDisplay[(UNI ETH !ID) pa7]: 
+ItemDisplay[(UNI ETH !ID) pac]: 
+ItemDisplay[(UNI ETH !ID) pa3]: 
+ItemDisplay[(UNI ETH !ID) pa8]: 
+ItemDisplay[(UNI ETH !ID) pad]: 
+ItemDisplay[(UNI ETH !ID) pa4]: 
+ItemDisplay[(UNI ETH !ID) pa9]: 
+ItemDisplay[(UNI ETH !ID) pae]: 
+ItemDisplay[(UNI ETH !ID) pa5]: 
+ItemDisplay[(UNI ETH !ID) paa]: 
+ItemDisplay[(UNI ETH !ID) paf]: 
+ItemDisplay[(UNI ETH !ID) ne1]: 
+ItemDisplay[(UNI ETH !ID) ne6]: 
+ItemDisplay[(UNI ETH !ID) neb]: 
+ItemDisplay[(UNI ETH !ID) ne2]: 
+ItemDisplay[(UNI ETH !ID) ne7]: 
+ItemDisplay[(UNI ETH !ID) neg]: 
+ItemDisplay[(UNI ETH !ID) ne3]: 
+ItemDisplay[(UNI ETH !ID) ne8]: 
+ItemDisplay[(UNI ETH !ID) ned]: 
+ItemDisplay[(UNI ETH !ID) ne4]: 
+ItemDisplay[(UNI ETH !ID) ne9]: 
+ItemDisplay[(UNI ETH !ID) nee]: 
+ItemDisplay[(UNI ETH !ID) ne5]: 
+ItemDisplay[(UNI ETH !ID) nea]: 
+ItemDisplay[(UNI ETH !ID) nef]: 
 
 //Weapons
-//▬▬▬▬▬▬▬▬
+//▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-//UNIQUE
-
-//New
-ItemDisplay[(am5) UNI ETH !ID]: //%NAME%-True Silver%MAP% //Amazon Weapon
-
-//Swords
-ItemDisplay[(scm) UNI ETH !ID]: %NAME%-Blood Crescent%MAP%
-
-//Daggers
-ItemDisplay[(dgr) UNI ETH !ID]: %NAME%-Gull%MAP%
-
-//Wands
-ItemDisplay[(bwn) UNI ETH !ID]: %NAME%-Gravenspine%MAP%
-ItemDisplay[(gwn) UNI ETH !ID]: %NAME%-Ume's Lament%MAP%
-
-//Set
-
-//Swords
-ItemDisplay[(sbr) SET !ID]: %NAME%-Angelic Sickle%MAP%
-
-//Daggers
-ItemDisplay[(dgr) SET !ID]: %NAME%-Infernal Spire%MAP%
-
-//Wands
-ItemDisplay[(bwn) SET !ID]: %NAME%-Sander's Superstition%MAP%
+ItemDisplay[(UNI ETH !ID)   hax]: 
+ItemDisplay[(UNI ETH !ID)   9ha]: 
+ItemDisplay[(UNI ETH !ID)   7ha]: 
+ItemDisplay[(UNI ETH !ID)   axe]: 
+ItemDisplay[(UNI ETH !ID)   9ax]: 
+ItemDisplay[(UNI ETH !ID)   7ax]: 
+ItemDisplay[(UNI ETH !ID)   2ax]: 
+ItemDisplay[(UNI ETH !ID)   92a]: 
+ItemDisplay[(UNI ETH !ID)   72a]: 
+ItemDisplay[(UNI ETH !ID) mpi]: 
+ItemDisplay[(UNI ETH !ID)   9mp]: 
+ItemDisplay[(UNI ETH !ID)   7mp]: 
+ItemDisplay[(UNI ETH !ID)   wax]: 
+ItemDisplay[(UNI ETH !ID)   9wa]: 
+ItemDisplay[(UNI ETH !ID)   7wa]: 
+ItemDisplay[(UNI ETH !ID)   lax]: 
+ItemDisplay[(UNI ETH !ID)   9la]: 
+ItemDisplay[(UNI ETH !ID)   7la]: 
+ItemDisplay[(UNI ETH !ID)   bax]: 
+ItemDisplay[(UNI ETH !ID)   9ba]: 
+ItemDisplay[(UNI ETH !ID)   7ba]: 
+ItemDisplay[(UNI ETH !ID)   btx]: 
+ItemDisplay[(UNI ETH !ID)   9bt]: 
+ItemDisplay[(UNI ETH !ID)   7bt]: 
+ItemDisplay[(UNI ETH !ID)   gax]: 
+ItemDisplay[(UNI ETH !ID)   9ga]: 
+ItemDisplay[(UNI ETH !ID)   7ga]: 
+ItemDisplay[(UNI ETH !ID)   gix]: 
+ItemDisplay[(UNI ETH !ID)   9gi]: 
+ItemDisplay[(UNI ETH !ID)   7gi]: 
+ItemDisplay[(UNI ETH !ID)   clb]: 
+ItemDisplay[(UNI ETH !ID)   9cl]: 
+ItemDisplay[(UNI ETH !ID)   7cl]: 
+ItemDisplay[(UNI ETH !ID)   spc]: 
+ItemDisplay[(UNI ETH !ID)   9sp]: 
+ItemDisplay[(UNI ETH !ID)   7sp]: 
+ItemDisplay[(UNI ETH !ID)   mac]: 
+ItemDisplay[(UNI ETH !ID)   9ma]: 
+ItemDisplay[(UNI ETH !ID)   7ma]: 
+ItemDisplay[(UNI ETH !ID)   mst]: 
+ItemDisplay[(UNI ETH !ID)   9mt]: 
+ItemDisplay[(UNI ETH !ID)   7mt]: 
+ItemDisplay[(UNI ETH !ID)   fla]: 
+ItemDisplay[(UNI ETH !ID)   9fl]: 
+ItemDisplay[(UNI ETH !ID)   7fl]: 
+ItemDisplay[(UNI ETH !ID)   whm]: 
+ItemDisplay[(UNI ETH !ID)   9wh]: 
+ItemDisplay[(UNI ETH !ID)   7wh]: 
+ItemDisplay[(UNI ETH !ID)   mau]: 
+ItemDisplay[(UNI ETH !ID)   9m9]: 
+ItemDisplay[(UNI ETH !ID)   7m7]: 
+ItemDisplay[(UNI ETH !ID)   gma]: 
+ItemDisplay[(UNI ETH !ID)   9gm]: 
+ItemDisplay[(UNI ETH !ID)   7gm]: 
+ItemDisplay[(UNI ETH !ID)   ssd]: 
+ItemDisplay[(UNI ETH !ID)   9ss]: 
+ItemDisplay[(UNI ETH !ID)   7ss]: 
+ItemDisplay[(UNI ETH !ID)   scm]: 
+ItemDisplay[(UNI ETH !ID)   9sm]: 
+ItemDisplay[(UNI ETH !ID)   7sm]: 
+ItemDisplay[(UNI ETH !ID)   sbr]: 
+ItemDisplay[(UNI ETH !ID)   9sb]: 
+ItemDisplay[(UNI ETH !ID)   7sb]: 
+ItemDisplay[(UNI ETH !ID)   flc]: 
+ItemDisplay[(UNI ETH !ID)   9fc]: 
+ItemDisplay[(UNI ETH !ID)   7fc]: 
+ItemDisplay[(UNI ETH !ID)   crs]: 
+ItemDisplay[(UNI ETH !ID)   9cr]: 
+ItemDisplay[(UNI ETH !ID)   7cr]: 
+ItemDisplay[(UNI ETH !ID)   bsd]: 
+ItemDisplay[(UNI ETH !ID)   9bs]: 
+ItemDisplay[(UNI ETH !ID)   7bs]: 
+ItemDisplay[(UNI ETH !ID)   lsd]: 
+ItemDisplay[(UNI ETH !ID)   9ls]: 
+ItemDisplay[(UNI ETH !ID)   7ls]: 
+ItemDisplay[(UNI ETH !ID)   wsd]: 
+ItemDisplay[(UNI ETH !ID)   9wd]: 
+ItemDisplay[(UNI ETH !ID)   7wd]: 
+ItemDisplay[(UNI ETH !ID)   2hs]: 
+ItemDisplay[(UNI ETH !ID)   92h]: 
+ItemDisplay[(UNI ETH !ID)   72h]: 
+ItemDisplay[(UNI ETH !ID)   clm]: 
+ItemDisplay[(UNI ETH !ID)   9cm]: 
+ItemDisplay[(UNI ETH !ID)   7cm]: 
+ItemDisplay[(UNI ETH !ID)   gis]: 
+ItemDisplay[(UNI ETH !ID)   9gs]: 
+ItemDisplay[(UNI ETH !ID)   7gs]: 
+ItemDisplay[(UNI ETH !ID)   bsw]: 
+ItemDisplay[(UNI ETH !ID)   9b9]: 
+ItemDisplay[(UNI ETH !ID)   7b7]: 
+ItemDisplay[(UNI ETH !ID)   flb]: 
+ItemDisplay[(UNI ETH !ID)   9fb]: 
+ItemDisplay[(UNI ETH !ID)   7fb]: 
+ItemDisplay[(UNI ETH !ID)   gsd]: 
+ItemDisplay[(UNI ETH !ID)   9gd]: 
+ItemDisplay[(UNI ETH !ID)   7gd]: 
+ItemDisplay[(UNI ETH !ID)   dgr]: 
+ItemDisplay[(UNI ETH !ID)   9dg]: 
+ItemDisplay[(UNI ETH !ID)   7dg]: 
+ItemDisplay[(UNI ETH !ID)   dir]: 
+ItemDisplay[(UNI ETH !ID)   9di]: 
+ItemDisplay[(UNI ETH !ID)   7di]: 
+ItemDisplay[(UNI ETH !ID)   kri]: 
+ItemDisplay[(UNI ETH !ID)   9kr]: 
+ItemDisplay[(UNI ETH !ID)   7kr]: 
+ItemDisplay[(UNI ETH !ID)   bld]: 
+ItemDisplay[(UNI ETH !ID)   9bl]: 
+ItemDisplay[(UNI ETH !ID)   7bl]: 
+ItemDisplay[(UNI ETH !ID)   tkf]: 
+ItemDisplay[(UNI ETH !ID)   9tk]: 
+ItemDisplay[(UNI ETH !ID)   7tk]: 
+ItemDisplay[(UNI ETH !ID)   tax]: 
+ItemDisplay[(UNI ETH !ID)   9ta]: 
+ItemDisplay[(UNI ETH !ID)   7ta]: 
+ItemDisplay[(UNI ETH !ID)   bkf]: 
+ItemDisplay[(UNI ETH !ID)   9bk]: 
+ItemDisplay[(UNI ETH !ID)   7bk]: 
+ItemDisplay[(UNI ETH !ID)   bal]: 
+ItemDisplay[(UNI ETH !ID)   9b8]: 
+ItemDisplay[(UNI ETH !ID)   7b8]: 
+ItemDisplay[(UNI ETH !ID)   jav]: 
+ItemDisplay[(UNI ETH !ID)   9ja]: 
+ItemDisplay[(UNI ETH !ID)   7ja]: 
+ItemDisplay[(UNI ETH !ID)   pil]: 
+ItemDisplay[(UNI ETH !ID)   9pi]: 
+ItemDisplay[(UNI ETH !ID)   7pi]: 
+ItemDisplay[(UNI ETH !ID)   ssp]: 
+ItemDisplay[(UNI ETH !ID)   9s9]: 
+ItemDisplay[(UNI ETH !ID)   7s7]: 
+ItemDisplay[(UNI ETH !ID)   glv]: 
+ItemDisplay[(UNI ETH !ID)   9gl]: 
+ItemDisplay[(UNI ETH !ID)   7gl]: 
+ItemDisplay[(UNI ETH !ID)   tsp]: 
+ItemDisplay[(UNI ETH !ID)   9ts]: 
+ItemDisplay[(UNI ETH !ID)   7ts]: 
+ItemDisplay[(UNI ETH !ID)   spr]: 
+ItemDisplay[(UNI ETH !ID)   9sr]: 
+ItemDisplay[(UNI ETH !ID)   7sr]: 
+ItemDisplay[(UNI ETH !ID)   tri]: 
+ItemDisplay[(UNI ETH !ID)   9tr]: 
+ItemDisplay[(UNI ETH !ID)   7tr]: 
+ItemDisplay[(UNI ETH !ID)   brn]: 
+ItemDisplay[(UNI ETH !ID)   9br]: 
+ItemDisplay[(UNI ETH !ID)   7br]: 
+ItemDisplay[(UNI ETH !ID)   spt]: 
+ItemDisplay[(UNI ETH !ID)   9st]: 
+ItemDisplay[(UNI ETH !ID)   7st]: 
+ItemDisplay[(UNI ETH !ID)   pik]: 
+ItemDisplay[(UNI ETH !ID)   9p9]: 
+ItemDisplay[(UNI ETH !ID)   7p7]: 
+ItemDisplay[(UNI ETH !ID)   bar]: 
+ItemDisplay[(UNI ETH !ID)   9b7]: 
+ItemDisplay[(UNI ETH !ID)   7o7]: 
+ItemDisplay[(UNI ETH !ID)   vou]: 
+ItemDisplay[(UNI ETH !ID)   9vo]: 
+ItemDisplay[(UNI ETH !ID)   7vo]: 
+ItemDisplay[(UNI ETH !ID)   scy]: 
+ItemDisplay[(UNI ETH !ID)   9s8]: 
+ItemDisplay[(UNI ETH !ID)   7s8]: 
+ItemDisplay[(UNI ETH !ID)   pax]: 
+ItemDisplay[(UNI ETH !ID)   9pa]: 
+ItemDisplay[(UNI ETH !ID)   7pa]: 
+ItemDisplay[(UNI ETH !ID)   hal]: 
+ItemDisplay[(UNI ETH !ID)   9h9]: 
+ItemDisplay[(UNI ETH !ID)   7h7]: 
+ItemDisplay[(UNI ETH !ID)   wsc]: 
+ItemDisplay[(UNI ETH !ID)   9wc]: 
+ItemDisplay[(UNI ETH !ID)   7wc]: 
+ItemDisplay[(UNI ETH !ID)   sbw]: 
+ItemDisplay[(UNI ETH !ID)   8sb]: 
+ItemDisplay[(UNI ETH !ID)   6sb]: 
+ItemDisplay[(UNI ETH !ID)   hbw]: 
+ItemDisplay[(UNI ETH !ID)   8hb]: 
+ItemDisplay[(UNI ETH !ID)   6hb]: 
+ItemDisplay[(UNI ETH !ID)   lbw]: 
+ItemDisplay[(UNI ETH !ID)   8lb]: 
+ItemDisplay[(UNI ETH !ID)   6lb]: 
+ItemDisplay[(UNI ETH !ID)   cbw]: 
+ItemDisplay[(UNI ETH !ID)   8cb]: 
+ItemDisplay[(UNI ETH !ID)   6cb]: 
+ItemDisplay[(UNI ETH !ID)   sbb]: 
+ItemDisplay[(UNI ETH !ID)   8s8]: 
+ItemDisplay[(UNI ETH !ID)   6s7]: 
+ItemDisplay[(UNI ETH !ID)   lbb]: 
+ItemDisplay[(UNI ETH !ID)   8l8]: 
+ItemDisplay[(UNI ETH !ID)   6l7]: 
+ItemDisplay[(UNI ETH !ID)   swb]: 
+ItemDisplay[(UNI ETH !ID)   8sw]: 
+ItemDisplay[(UNI ETH !ID)   6sw]: 
+ItemDisplay[(UNI ETH !ID)   lwb]: 
+ItemDisplay[(UNI ETH !ID)   8lw]: 
+ItemDisplay[(UNI ETH !ID)   6lw]: 
+ItemDisplay[(UNI ETH !ID)   lxb]: 
+ItemDisplay[(UNI ETH !ID)   8lx]: 
+ItemDisplay[(UNI ETH !ID)   6lx]: 
+ItemDisplay[(UNI ETH !ID)   mxb]: 
+ItemDisplay[(UNI ETH !ID)   8mx]: 
+ItemDisplay[(UNI ETH !ID)   6mx]: 
+ItemDisplay[(UNI ETH !ID)   hxb]: 
+ItemDisplay[(UNI ETH !ID)   8hx]: 
+ItemDisplay[(UNI ETH !ID)   6hx]: 
+ItemDisplay[(UNI ETH !ID)   rxb]: 
+ItemDisplay[(UNI ETH !ID)   8rx]: 
+ItemDisplay[(UNI ETH !ID)   6rx]: 
+ItemDisplay[(UNI ETH !ID)   sst]: 
+ItemDisplay[(UNI ETH !ID)   8ss]: 
+ItemDisplay[(UNI ETH !ID)   6ss]: 
+ItemDisplay[(UNI ETH !ID)   lst]: 
+ItemDisplay[(UNI ETH !ID)   8ls]: 
+ItemDisplay[(UNI ETH !ID)   6ls]: 
+ItemDisplay[(UNI ETH !ID)   cst]: 
+ItemDisplay[(UNI ETH !ID)   8cs]: 
+ItemDisplay[(UNI ETH !ID)   6cs]: 
+ItemDisplay[(UNI ETH !ID)   bst]: 
+ItemDisplay[(UNI ETH !ID)   8bs]: 
+ItemDisplay[(UNI ETH !ID)   6bs]: 
+ItemDisplay[(UNI ETH !ID)   wst]: 
+ItemDisplay[(UNI ETH !ID)   8ws]: 
+ItemDisplay[(UNI ETH !ID)   6ws]: 
+ItemDisplay[(UNI ETH !ID)   wnd]: 
+ItemDisplay[(UNI ETH !ID)   9wn]: 
+ItemDisplay[(UNI ETH !ID)   7wn]: 
+ItemDisplay[(UNI ETH !ID)   ywn]: 
+ItemDisplay[(UNI ETH !ID)   9yw]: 
+ItemDisplay[(UNI ETH !ID)   7yw]: 
+ItemDisplay[(UNI ETH !ID)   bwn]: 
+ItemDisplay[(UNI ETH !ID)   9bw]: 
+ItemDisplay[(UNI ETH !ID)   7bw]: 
+ItemDisplay[(UNI ETH !ID)   gwn]: 
+ItemDisplay[(UNI ETH !ID)   9gw]: 
+ItemDisplay[(UNI ETH !ID)   7gw]: 
+ItemDisplay[(UNI ETH !ID)   scp]: 
+ItemDisplay[(UNI ETH !ID)   9sc]: 
+ItemDisplay[(UNI ETH !ID)   7sc]: 
+ItemDisplay[(UNI ETH !ID)   gsc]: 
+ItemDisplay[(UNI ETH !ID)   9qs]: 
+ItemDisplay[(UNI ETH !ID)   7qs]: 
+ItemDisplay[(UNI ETH !ID)   wsp]: 
+ItemDisplay[(UNI ETH !ID)   9ws]: 
+ItemDisplay[(UNI ETH !ID)   7ws]: 
+ItemDisplay[(UNI ETH !ID)   ktr]: 
+ItemDisplay[(UNI ETH !ID)   9ar]: 
+ItemDisplay[(UNI ETH !ID)   7ar]: 
+ItemDisplay[(UNI ETH !ID)   wrb]: 
+ItemDisplay[(UNI ETH !ID)   9wb]: 
+ItemDisplay[(UNI ETH !ID)   7wb]: 
+ItemDisplay[(UNI ETH !ID)   axf]: 
+ItemDisplay[(UNI ETH !ID)   9xf]: 
+ItemDisplay[(UNI ETH !ID)   7xf]: 
+ItemDisplay[(UNI ETH !ID)   ces]: 
+ItemDisplay[(UNI ETH !ID)   9cs]: 
+ItemDisplay[(UNI ETH !ID)   7cs]: 
+ItemDisplay[(UNI ETH !ID)   clw]: 
+ItemDisplay[(UNI ETH !ID)   9lw]: 
+ItemDisplay[(UNI ETH !ID)   7lw]: 
+ItemDisplay[(UNI ETH !ID)   btl]: 
+ItemDisplay[(UNI ETH !ID)   9tw]: 
+ItemDisplay[(UNI ETH !ID)   7tw]: 
+ItemDisplay[(UNI ETH !ID)   skr]: 
+ItemDisplay[(UNI ETH !ID)   9qr]: 
+ItemDisplay[(UNI ETH !ID)   7qr]: 
+ItemDisplay[(UNI ETH !ID)   ob1]: 
+ItemDisplay[(UNI ETH !ID)   ob6]: 
+ItemDisplay[(UNI ETH !ID)   obb]: 
+ItemDisplay[(UNI ETH !ID)   ob2]: 
+ItemDisplay[(UNI ETH !ID)   ob7]: 
+ItemDisplay[(UNI ETH !ID)   obc]: 
+ItemDisplay[(UNI ETH !ID)   ob3]: 
+ItemDisplay[(UNI ETH !ID)   ob8]: 
+ItemDisplay[(UNI ETH !ID)   obd]: 
+ItemDisplay[(UNI ETH !ID)   ob4]: 
+ItemDisplay[(UNI ETH !ID)   ob9]: 
+ItemDisplay[(UNI ETH !ID)   obe]: 
+ItemDisplay[(UNI ETH !ID)   ob5]: 
+ItemDisplay[(UNI ETH !ID)   oba]: 
+ItemDisplay[(UNI ETH !ID)   obf]: 
+ItemDisplay[(UNI ETH !ID)   am1]: 
+ItemDisplay[(UNI ETH !ID)   am6]: 
+ItemDisplay[(UNI ETH !ID)   amb]: 
+ItemDisplay[(UNI ETH !ID)   am2]: 
+ItemDisplay[(UNI ETH !ID)   am7]: 
+ItemDisplay[(UNI ETH !ID)   amc]: 
+ItemDisplay[(UNI ETH !ID)   am3]: 
+ItemDisplay[(UNI ETH !ID)   am8]: 
+ItemDisplay[(UNI ETH !ID)   amd]: 
+ItemDisplay[(UNI ETH !ID)   am4]: 
+ItemDisplay[(UNI ETH !ID)   am9]: 
+ItemDisplay[(UNI ETH !ID)   ame]: 
+ItemDisplay[(UNI ETH !ID)   am5]: 
+ItemDisplay[(UNI ETH !ID)   ama]: 
+ItemDisplay[(UNI ETH !ID)   amf]: 
 
 
 //CRAFTING
@@ -1478,100 +2265,100 @@ ItemDisplay[imrn]: %GOLD%Demonic Cube %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP%%CONTIN
 //MAPS
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 //Normal
-ItemDisplay[NMAG t11]: %WHITE%Ruins of Viz-jun %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 130 %YELLOW%light 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t12]: %WHITE%Horazon's Memory %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 135 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t13]: %WHITE%Bastion Keep %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 125 %BLUE%cold 130 %TAN%physical 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t14]: %WHITE%Sanatorium %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 125 %GREEN%poison 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t15]: %WHITE%Royal Crypts %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 125 %GREEN%poison 105 %ORANGE%magic 150 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t16]: %WHITE%Ruined Cistern %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 135 %BLUE%cold 115 %ORANGE%magic 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t17]: %WHITE%Halls of Torture %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%DARK_GREEN%Immunity Free Area}%DOT-A8%
-ItemDisplay[NMAG t21]: %WHITE%Phlegathon %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 140 %YELLOW%light 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t22]: %WHITE%Torajan Jungle %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 125 %YELLOW%light 105 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t23]: %WHITE%Arreat Battlefield %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t24]: %WHITE%Tomb of Zoltun Kulle %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 120 %GREEN%poison 110 %TAN%physical 105 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t25]: %WHITE%Sewers of Harrogath %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 135 %GREEN%poison 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t26]: %WHITE%Shadows of Westmarch %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GREEN%poison 135 %TAN%physical 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t27]: %WHITE%Demon Road %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 125 %GREEN%poison 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t28]: %WHITE%Skovos Stronghold %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 130 %RED%fire 125 %TAN%physical 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t31]: %WHITE%River of Blood %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%ORANGE%magic 100 %GREEN%poison 130 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t32]: %WHITE%Throne of Insanity %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 130 %YELLOW%fire 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t33]: %WHITE%Lost Temple %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 120 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t34]: %WHITE%Ancestral Trial %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GREEN%poison 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t35]: %WHITE%Blood Moon %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%DARK_GREEN%Immunity Free Area}%DOT-A8%
-ItemDisplay[NMAG t36]: %WHITE%Fall of Caldeum %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 100 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t37]: %WHITE%Pandemonium Citadel %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%TAN%physical 100 %GREEN%poison 130 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t38]: %WHITE%Canyon of Sescheron %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%TAN%physical 120 %YELLOW%light 160 %GREEN%poison 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t39]: %WHITE%Kehjistan Marketplace %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 125 %GREEN%poison 110 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t3a]: %WHITE%Ashen Plains %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 130 %GREEN%poison 130 %ORANGE%magic 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[NMAG t3b]: %WHITE%Imperial Palace %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]%DOT-A8%
-ItemDisplay[NMAG t61]: %WHITE%Desert Duel Arena %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GRAY%PvP Arena}%DOT-A8%
-ItemDisplay[NMAG t62]: %WHITE%Moor Duel Arena %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GRAY%PvP Arena}%DOT-A8%
+ItemDisplay[NMAG t11]: %WHITE%Ruins of Viz-jun %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 130 %YELLOW%light 120 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t12]: %WHITE%Horazon's Memory %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 135 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t13]: %WHITE%Bastion Keep %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 125 %BLUE%cold 130 %TAN%physical 110 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t14]: %WHITE%Sanatorium %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 125 %GREEN%poison 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t15]: %WHITE%Royal Crypts %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 125 %GREEN%poison 105 %ORANGE%magic 150 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t16]: %WHITE%Ruined Cistern %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 135 %BLUE%cold 115 %ORANGE%magic 125 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t17]: %WHITE%Halls of Torture %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%DARK_GREEN%Immunity Free Area}%MAP-84%
+ItemDisplay[NMAG t21]: %WHITE%Phlegathon %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 140 %YELLOW%light 125 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t22]: %WHITE%Torajan Jungle %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 125 %YELLOW%light 105 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t23]: %WHITE%Arreat Battlefield %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t24]: %WHITE%Tomb of Zoltun Kulle %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 120 %GREEN%poison 110 %TAN%physical 105 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t25]: %WHITE%Sewers of Harrogath %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 135 %GREEN%poison 125 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t26]: %WHITE%Shadows of Westmarch %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GREEN%poison 135 %TAN%physical 100 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t27]: %WHITE%Demon Road %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 125 %GREEN%poison 135 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t28]: %WHITE%Skovos Stronghold %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 130 %RED%fire 125 %TAN%physical 125 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t31]: %WHITE%River of Blood %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%ORANGE%magic 100 %GREEN%poison 130 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t32]: %WHITE%Throne of Insanity %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 130 %YELLOW%fire 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t33]: %WHITE%Lost Temple %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 120 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t34]: %WHITE%Ancestral Trial %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GREEN%poison 120 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t35]: %WHITE%Blood Moon %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%DARK_GREEN%Immunity Free Area}%MAP-84%
+ItemDisplay[NMAG t36]: %WHITE%Fall of Caldeum %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%YELLOW%light 100 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t37]: %WHITE%Pandemonium Citadel %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%TAN%physical 100 %GREEN%poison 130 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t38]: %WHITE%Canyon of Sescheron %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%TAN%physical 120 %YELLOW%light 160 %GREEN%poison 110 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t39]: %WHITE%Kehjistan Marketplace %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%RED%fire 125 %GREEN%poison 110 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t3a]: %WHITE%Ashen Plains %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]{%BLUE%cold 130 %GREEN%poison 130 %ORANGE%magic 120 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[NMAG t3b]: %WHITE%Imperial Palace %GREEN%Map %YELLOW%[%WHITE%%QTY%%YELLOW%]%MAP-84%
+ItemDisplay[NMAG t61]: %WHITE%Desert Duel Arena %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GRAY%PvP Arena}%MAP-84%
+ItemDisplay[NMAG t62]: %WHITE%Moor Duel Arena %YELLOW%[%WHITE%%QTY%%YELLOW%]{%GRAY%PvP Arena}%MAP-84%
 
 //Magic
-ItemDisplay[MAG t11]: %BLUE%Ruins of Viz-jun %GREEN%Map{%RED%fire 130 %YELLOW%light 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t12]: %BLUE%Horazon's Memory %GREEN%Map{%RED%fire 135 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t13]: %BLUE%Bastion Keep %GREEN%Map{%RED%fire 125 %BLUE%cold 130 %TAN%physical 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t14]: %BLUE%Sanatorium %GREEN%Map{%YELLOW%light 125 %GREEN%poison 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t15]: %BLUE%Royal Crypts %GREEN%Map{%BLUE%cold 125 %GREEN%poison 105 %ORANGE%magic 150 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t16]: %BLUE%Ruined Cistern %GREEN%Map{%RED%fire 135 %BLUE%cold 115 %ORANGE%magic 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t17]: %BLUE%Halls of Torture %GREEN%Map{%DARK_GREEN%Immunity Free Area}%DOT-A8%
-ItemDisplay[MAG t21]: %BLUE%Phlegathon %GREEN%Map{%RED%fire 140 %YELLOW%light 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t22]: %BLUE%Torajan Jungle %GREEN%Map{%RED%fire 125 %YELLOW%light 105 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t23]: %BLUE%Arreat Battlefield %GREEN%Map{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t24]: %BLUE%Tomb of Zoltun Kulle %GREEN%Map{%YELLOW%light 120 %GREEN%poison 110 %TAN%physical 105 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t25]: %BLUE%Sewers of Harrogath %GREEN%Map{%YELLOW%light 135 %GREEN%poison 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t26]: %BLUE%Shadows of Westmarch %GREEN%Map{%GREEN%poison 135 %TAN%physical 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t27]: %BLUE%Demon Road %GREEN%Map{%BLUE%cold 125 %GREEN%poison 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t28]: %BLUE%Skovos Stronghold %GREEN%Map{%YELLOW%light 130 %RED%fire 125 %TAN%physical 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t31]: %BLUE%River of Blood %GREEN%Map{%ORANGE%magic 100 %GREEN%poison 130 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t32]: %BLUE%Throne of Insanity %GREEN%Map{%BLUE%cold 130 %YELLOW%fire 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t33]: %BLUE%Lost Temple %GREEN%Map{%RED%fire 120 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t34]: %BLUE%Ancestral Trial %GREEN%Map{%GREEN%poison 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t35]: %BLUE%Blood Moon %GREEN%Map{%DARK_GREEN%Immunity Free Area}%DOT-A8%
-ItemDisplay[MAG t36]: %BLUE%Fall of Caldeum %GREEN%Map{%YELLOW%light 100 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t37]: %BLUE%Pandemonium Citadel %GREEN%Map{%TAN%physical 100 %GREEN%poison 130 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t38]: %BLUE%Canyon of Sescheron %GREEN%Map{%TAN%physical 120 %YELLOW%light 160 %GREEN%poison 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t39]: %BLUE%Kehjistan Marketplace %GREEN%Map{%RED%fire 125 %GREEN%poison 110 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[MAG t3a]: %BLUE%Ashen Plains %GREEN%Map{%BLUE%cold 130 %GREEN%poison 130 %ORANGE%magic 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[MAG t11]: %BLUE%Ruins of Viz-jun %GREEN%Map{%RED%fire 130 %YELLOW%light 120 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t12]: %BLUE%Horazon's Memory %GREEN%Map{%RED%fire 135 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t13]: %BLUE%Bastion Keep %GREEN%Map{%RED%fire 125 %BLUE%cold 130 %TAN%physical 110 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t14]: %BLUE%Sanatorium %GREEN%Map{%YELLOW%light 125 %GREEN%poison 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t15]: %BLUE%Royal Crypts %GREEN%Map{%BLUE%cold 125 %GREEN%poison 105 %ORANGE%magic 150 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t16]: %BLUE%Ruined Cistern %GREEN%Map{%RED%fire 135 %BLUE%cold 115 %ORANGE%magic 125 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t17]: %BLUE%Halls of Torture %GREEN%Map{%DARK_GREEN%Immunity Free Area}%MAP-84%
+ItemDisplay[MAG t21]: %BLUE%Phlegathon %GREEN%Map{%RED%fire 140 %YELLOW%light 125 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t22]: %BLUE%Torajan Jungle %GREEN%Map{%RED%fire 125 %YELLOW%light 105 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t23]: %BLUE%Arreat Battlefield %GREEN%Map{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t24]: %BLUE%Tomb of Zoltun Kulle %GREEN%Map{%YELLOW%light 120 %GREEN%poison 110 %TAN%physical 105 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t25]: %BLUE%Sewers of Harrogath %GREEN%Map{%YELLOW%light 135 %GREEN%poison 125 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t26]: %BLUE%Shadows of Westmarch %GREEN%Map{%GREEN%poison 135 %TAN%physical 100 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t27]: %BLUE%Demon Road %GREEN%Map{%BLUE%cold 125 %GREEN%poison 135 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t28]: %BLUE%Skovos Stronghold %GREEN%Map{%YELLOW%light 130 %RED%fire 125 %TAN%physical 125 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t31]: %BLUE%River of Blood %GREEN%Map{%ORANGE%magic 100 %GREEN%poison 130 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t32]: %BLUE%Throne of Insanity %GREEN%Map{%BLUE%cold 130 %YELLOW%fire 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t33]: %BLUE%Lost Temple %GREEN%Map{%RED%fire 120 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t34]: %BLUE%Ancestral Trial %GREEN%Map{%GREEN%poison 120 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t35]: %BLUE%Blood Moon %GREEN%Map{%DARK_GREEN%Immunity Free Area}%MAP-84%
+ItemDisplay[MAG t36]: %BLUE%Fall of Caldeum %GREEN%Map{%YELLOW%light 100 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t37]: %BLUE%Pandemonium Citadel %GREEN%Map{%TAN%physical 100 %GREEN%poison 130 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t38]: %BLUE%Canyon of Sescheron %GREEN%Map{%TAN%physical 120 %YELLOW%light 160 %GREEN%poison 110 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t39]: %BLUE%Kehjistan Marketplace %GREEN%Map{%RED%fire 125 %GREEN%poison 110 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[MAG t3a]: %BLUE%Ashen Plains %GREEN%Map{%BLUE%cold 130 %GREEN%poison 130 %ORANGE%magic 120 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
 
 //Rare
-ItemDisplay[RARE t11]: %YELLOW%Ruins of Viz-jun %GREEN%Map{%RED%fire 130 %YELLOW%light 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t12]: %YELLOW%Horazon's Memory %GREEN%Map{%RED%fire 135 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t13]: %YELLOW%Bastion Keep %GREEN%Map{%RED%fire 125 %BLUE%cold 130 %TAN%physical 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t14]: %YELLOW%Sanatorium %GREEN%Map{%YELLOW%light 125 %GREEN%poison 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t15]: %YELLOW%Royal Crypts %GREEN%Map{%BLUE%cold 125 %GREEN%poison 105 %ORANGE%magic 150 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t16]: %YELLOW%Ruined Cistern %GREEN%Map{%RED%fire 135 %BLUE%cold 115 %ORANGE%magic 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t17]: %YELLOW%Halls of Torture %GREEN%Map{%DARK_GREEN%Immunity Free Area}%DOT-A8%
-ItemDisplay[RARE t21]: %YELLOW%Phlegathon %GREEN%Map{%RED%fire 140 %YELLOW%light 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t22]: %YELLOW%Torajan Jungle %GREEN%Map{%RED%fire 125 %YELLOW%light 105 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t23]: %YELLOW%Arreat Battlefield %GREEN%Map{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t24]: %YELLOW%Tomb of Zoltun Kulle %GREEN%Map{%YELLOW%light 120 %GREEN%poison 110 %TAN%physical 105 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t25]: %YELLOW%Sewers of Harrogath %GREEN%Map{%YELLOW%light 135 %GREEN%poison 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t26]: %YELLOW%Shadows of Westmarch %GREEN%Map{%GREEN%poison 135 %TAN%physical 100 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t27]: %YELLOW%Demon Road %GREEN%Map{%BLUE%cold 125 %GREEN%poison 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t28]: %YELLOW%Skovos Stronghold %GREEN%Map{%YELLOW%light 130 %RED%fire 125 %TAN%physical 125 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t31]: %YELLOW%River of Blood %GREEN%Map{%ORANGE%magic 100 %GREEN%poison 130 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t32]: %YELLOW%Throne of Insanity %GREEN%Map{%BLUE%cold 130 %YELLOW%fire 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t33]: %YELLOW%Lost Temple %GREEN%Map{%RED%fire 120 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t34]: %YELLOW%Ancestral Trial %GREEN%Map{%GREEN%poison 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t35]: %YELLOW%Blood Moon %GREEN%Map{%DARK_GREEN%Immunity Free Area}%DOT-A8%
-ItemDisplay[RARE t36]: %YELLOW%Fall of Caldeum %GREEN%Map{%YELLOW%light 100 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t37]: %YELLOW%Pandemonium Citadel %GREEN%Map{%TAN%physical 100 %GREEN%poison 130 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t38]: %YELLOW%Canyon of Sescheron %GREEN%Map{%TAN%physical 120 %YELLOW%light 160 %GREEN%poison 110 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t39]: %YELLOW%Kehjistan Marketplace %GREEN%Map{%RED%fire 125 %GREEN%poison 110 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t3a]: %YELLOW%Ashen Plains %GREEN%Map{%BLUE%cold 130 %GREEN%poison 130 %ORANGE%magic 120 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t11]: %YELLOW%Ruins of Viz-jun %GREEN%Map{%RED%fire 130 %YELLOW%light 120 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t12]: %YELLOW%Horazon's Memory %GREEN%Map{%RED%fire 135 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t13]: %YELLOW%Bastion Keep %GREEN%Map{%RED%fire 125 %BLUE%cold 130 %TAN%physical 110 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t14]: %YELLOW%Sanatorium %GREEN%Map{%YELLOW%light 125 %GREEN%poison 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t15]: %YELLOW%Royal Crypts %GREEN%Map{%BLUE%cold 125 %GREEN%poison 105 %ORANGE%magic 150 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t16]: %YELLOW%Ruined Cistern %GREEN%Map{%RED%fire 135 %BLUE%cold 115 %ORANGE%magic 125 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t17]: %YELLOW%Halls of Torture %GREEN%Map{%DARK_GREEN%Immunity Free Area}%MAP-84%
+ItemDisplay[RARE t21]: %YELLOW%Phlegathon %GREEN%Map{%RED%fire 140 %YELLOW%light 125 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t22]: %YELLOW%Torajan Jungle %GREEN%Map{%RED%fire 125 %YELLOW%light 105 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t23]: %YELLOW%Arreat Battlefield %GREEN%Map{%RED%fire 130 %YELLOW%light 100 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t24]: %YELLOW%Tomb of Zoltun Kulle %GREEN%Map{%YELLOW%light 120 %GREEN%poison 110 %TAN%physical 105 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t25]: %YELLOW%Sewers of Harrogath %GREEN%Map{%YELLOW%light 135 %GREEN%poison 125 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t26]: %YELLOW%Shadows of Westmarch %GREEN%Map{%GREEN%poison 135 %TAN%physical 100 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t27]: %YELLOW%Demon Road %GREEN%Map{%BLUE%cold 125 %GREEN%poison 135 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t28]: %YELLOW%Skovos Stronghold %GREEN%Map{%YELLOW%light 130 %RED%fire 125 %TAN%physical 125 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t31]: %YELLOW%River of Blood %GREEN%Map{%ORANGE%magic 100 %GREEN%poison 130 %BLUE%cold 180 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t32]: %YELLOW%Throne of Insanity %GREEN%Map{%BLUE%cold 130 %YELLOW%fire 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t33]: %YELLOW%Lost Temple %GREEN%Map{%RED%fire 120 %BLUE%cold 110 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t34]: %YELLOW%Ancestral Trial %GREEN%Map{%GREEN%poison 120 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t35]: %YELLOW%Blood Moon %GREEN%Map{%DARK_GREEN%Immunity Free Area}%MAP-84%
+ItemDisplay[RARE t36]: %YELLOW%Fall of Caldeum %GREEN%Map{%YELLOW%light 100 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t37]: %YELLOW%Pandemonium Citadel %GREEN%Map{%TAN%physical 100 %GREEN%poison 130 %YELLOW%light 135 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t38]: %YELLOW%Canyon of Sescheron %GREEN%Map{%TAN%physical 120 %YELLOW%light 160 %GREEN%poison 110 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t39]: %YELLOW%Kehjistan Marketplace %GREEN%Map{%RED%fire 125 %GREEN%poison 110 %BLUE%cold 130 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
+ItemDisplay[RARE t3a]: %YELLOW%Ashen Plains %GREEN%Map{%BLUE%cold 130 %GREEN%poison 130 %ORANGE%magic 120 %NL%%GOLD%High Immunities%WHITE%:}%MAP-84%
 
-ItemDisplay[RARE t41]: %YELLOW%Cathedral of Light {%YELLOW%light 100/180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%physical 150/180 %ORANGE%magic 180 %RED%fire 100/180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t42]: %YELLOW%Plains of Torment {%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%physical 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t43]: %YELLOW%Sanctuary of Sin {%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%physical 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
-ItemDisplay[RARE t44]: %YELLOW%Steppes of Daken-Shar {%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%physical 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:}%DOT-A8%
+ItemDisplay[RARE t41]: %YELLOW%Cathedral of Light {%YELLOW%light 100/180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%physical 150/180 %ORANGE%magic 180 %RED%fire 100/180 %NL%%GOLD%High Immunities%WHITE%:}%BORDER-62%
+ItemDisplay[RARE t42]: %YELLOW%Plains of Torment {%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%physical 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:}%BORDER-62%
+ItemDisplay[RARE t43]: %YELLOW%Sanctuary of Sin {%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%physical 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:}%BORDER-62%
+ItemDisplay[RARE t44]: %YELLOW%Steppes of Daken-Shar {%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%physical 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:}%BORDER-62%
 
 //Unique
-ItemDisplay[t51]: %GOLD%Zhar's Sanctum %ORANGE%Map%DOT-A8%
-ItemDisplay[t52]: %GOLD%Warlord of Blood %ORANGE%Map%DOT-A8%
-ItemDisplay[t53]: %GOLD%Fallen Gardens %ORANGE%Map%DOT-A8%
-ItemDisplay[t54]: %GOLD%Imperial Palace %ORANGE%Map%DOT-A8%
-ItemDisplay[t55]: %GOLD%Outer Void %ORANGE%Map%DOT-A8%
+ItemDisplay[t51]: %GOLD%Zhar's Sanctum %ORANGE%Map%DOT-64%
+ItemDisplay[t52]: %GOLD%Warlord of Blood %ORANGE%Map%DOT-64%
+ItemDisplay[t53]: %GOLD%Fallen Gardens %ORANGE%Map%DOT-64%
+ItemDisplay[t54]: %GOLD%Imperial Palace %ORANGE%Map%DOT-64%
+ItemDisplay[t55]: %GOLD%Outer Void %ORANGE%Map%DOT-64%
 
 //ESSENCES & TOKEN
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1629,8 +2416,7 @@ ItemDisplay[uba]: %TAN%Relic of the Ancients%MAP%{%TAN%Required to access Uber A
 
 //MISCELLANEOUS
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[UNI OR SET OR RW OR CRAFT]: %NAME% //Always Visible
-ItemDisplay[(ARMOR OR WEAPON OR (aqv OR cqv)) (MAG OR RARE OR SET OR UNI OR CRAFT) ID]: %NAME% //ID-ing
+ItemDisplay[UNI OR SET OR CRAFT OR RW]: %NAME% //Always visible items
 
 
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1686,7 +2472,6 @@ ItemDisplay[key]:
 ItemDisplay[MAG !ID jew ILVL<66]: 
 
 //Hide everything, but with exceptions
-ItemDisplay[(ung OR urs OR utp OR ulg OR uvg OR xvb OR ulb OR utb OR uhb OR ulc OR uvc OR umc) MAG !ID]: //Hiding normal and magic rarity
-ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG OR RARE OR UNI OR SET) !(leg OR amu OR rin OR skp OR ghm OR crn OR xap OR xkp OR xh9 OR xhm OR xrn OR uap OR ulm OR uhl OR usk OR uh9 OR ci0 OR ci1 OR ci2 OR ci3 OR uhm OR urn OR ci2 OR ci3 OR stu OR rng OR fld OR qui OR ful OR aar OR gth OR xui OR xea OR xhn OR xpl OR xth OR xtp OR xar OR xlt OR uui OR utu OR ung OR uhn OR upl OR uld OR uul OR uar OR tow OR xsh OR xow OR urg OR uit OR ush OR uow OR uts OR hgl OR tgl OR mgl OR xvg OR xtg OR xhg OR ulg OR uvg OR umg OR utg OR uhg OR lbt OR vbt OR hbt OR xlb OR xvb OR xmb OR xtb OR xhb OR ulb OR uvb OR umb OR utb OR uhb OR lbl OR vbl OR mbl OR tbl OR zlb OR zvb OR zmb OR ztb OR zhb OR ulc OR uvc OR umc OR utc OR dr2 OR dr8 OR dra OR drc OR drd OR dre OR drf OR ba5 OR ba6 OR baa OR bac OR bae OR baf OR pa3 OR pa9 OR paf OR ne6 OR ne9 OR nea OR ned OR nee OR nef OR 9mp OR 7bt OR 9gm OR 9mt OR 7sp OR 7wh OR 7gm OR scm OR sbr OR 9ss OR 9fc OR 9fb OR 7sm OR 7cr OR 7bs OR 7ls OR 7cm OR 7gs OR 7b7 OR 7fb OR 7gd OR dgr OR 7dg OR 7di OR 7kr OR 7b8 OR 7st OR 7p7 OR 7s8 OR 7pa OR 7wc OR 8s8 OR 6sw OR 6lw OR 6l7 OR 8rx OR 8hx OR 8mx OR 6hx OR 6rx OR cst OR 8ws OR 6cs OR 6bs OR 6ws OR bwn OR gwn OR 9yw OR 9bw OR 9gw OR 7bw OR 7gw OR 9qs OR 9ws OR 7sc OR 7qs OR 7ws OR 9tw OR 7cs OR 7tw OR 7qr OR ob6 OR oba OR obc OR obf OR ama OR amc OR ame OR amf) CLVL>0]: //Hiding everything, except the rarity you want
+ItemDisplay[(NORM OR EXC OR ELT) (NMAG OR MAG) !(leg OR RARE) CLVL>0]: //Choose your exception
 
 //END
