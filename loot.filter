@@ -271,7 +271,7 @@ ItemDisplay[(NMAG OR MAG OR RARE) !RW dr2]: Hawk Helm%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW dr7]: Griffon Headress%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW drc]: Sun Spirit%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW dr3]: Antlers%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE) !RW dr8]: Hunter`s Guise%CONTINUE%
+ItemDisplay[(NMAG OR MAG OR RARE) !RW dr8]: Hunter's Guise%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW drd]: Earth Spirit%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW dr4]: Falcon Mask%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW dr9]: Sacred Feathers%CONTINUE%
@@ -599,7 +599,7 @@ ItemDisplay[(NMAG OR MAG OR RARE) !RW obd]: Demon Heart%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW ob4]: Clasped Orb%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW ob9]: Sparkling Ball%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW obe]: Vortex Orb%CONTINUE%
-ItemDisplay[(NMAG OR MAG OR RARE) !RW ob5]: Jared`s Stone%CONTINUE%
+ItemDisplay[(NMAG OR MAG OR RARE) !RW ob5]: Jared's Stone%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW oba]: Swirling Crystal%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW obf]: Dimensional Shard%CONTINUE%
 ItemDisplay[(NMAG OR MAG OR RARE) !RW am1]: Stag Bow%CONTINUE%
@@ -620,11 +620,11 @@ ItemDisplay[(NMAG OR MAG OR RARE) !RW amf]: Matriarchal Javelin%CONTINUE%
 
 //Ethereals
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[ETH SET]: %GRAY%[%WHITE%eth%GRAY%] %NAME%%CONTINUE%
-ItemDisplay[ETH UNI]: %GRAY%[%WHITE%eth%GRAY%] %NAME%%CONTINUE%
-ItemDisplay[ETH RARE]: %GRAY%[%WHITE%eth%GRAY%] %NAME%%CONTINUE%
-ItemDisplay[ETH MAG]: //%GRAY%[%WHITE%eth%GRAY%] %NAME%%CONTINUE%
-ItemDisplay[ETH NMAG]: %GRAY%[%WHITE%eth%GRAY%] %NAME%%CONTINUE%
+ItemDisplay[ETH SET]: %GRAY%[%WHITE%eth%GRAY%] %GREEN%%NAME%%CONTINUE%
+ItemDisplay[ETH UNI]: %GRAY%[%WHITE%eth%GRAY%] %GOLD%%NAME%%CONTINUE%
+ItemDisplay[ETH RARE]: %GRAY%[%WHITE%eth%GRAY%] %YELLOW%%NAME%%CONTINUE%
+ItemDisplay[ETH MAG]: //%GRAY%[%WHITE%eth%GRAY%] %BLUE%%NAME%%CONTINUE%
+ItemDisplay[ETH NMAG]: %GRAY%[%WHITE%eth%GRAY%] %GRAY%%NAME%%CONTINUE%
 
 //Vendor
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1082,7 +1082,7 @@ ItemDisplay[(amu OR rin) SET !ID]: %NAME%%MAP-7D%
 ItemDisplay[(UNI !ID) cap]: //Biggin's Bonnet
 ItemDisplay[(UNI !ID) xap]: %ORANGE%oooooo %GOLD%Peasant Crown %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) uap]: %ORANGE%oooooooo %GOLD%Harlequin Crest %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI !ID) skp]: Tarnhelm
+ItemDisplay[(UNI !ID) skp]: //Tarnhelm
 ItemDisplay[(UNI !ID) xkp]: %ORANGE%oooooo %GOLD%Rockstopper %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) hlm]: //Coif of Glory
 ItemDisplay[(UNI !ID) xlm]: //%ORANGE%oooooo %GOLD%Stealskull %ORANGE%oooooo%MAP-D3%
@@ -1122,7 +1122,7 @@ ItemDisplay[(UNI !ID) rng]: //Darkglow
 ItemDisplay[(UNI !ID) xng]: //%ORANGE%oooooo %GOLD%Spirit Forge %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) ung]: %ORANGE%oooooooo %GOLD%Wraithskin %ORANGE%oooooooo%BORDER-D3% //New
 ItemDisplay[(UNI !ID) scl]: //Hawkmail
-ItemDisplay[(UNI !ID) xcl]: %ORANGE%oooooo %GOLD%Crow Caw %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI !ID) xcl]: //%ORANGE%oooooo %GOLD%Crow Caw %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) brs]: //Venom Ward
 ItemDisplay[(UNI !ID) xrs]: %ORANGE%oooooo %GOLD%Duriel's Shell %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) chn]: //Sparking Mail
@@ -1133,7 +1133,7 @@ ItemDisplay[(UNI !ID) xpl]: %ORANGE%oooooo %GOLD%Skullder's Ire %ORANGE%oooooo%M
 ItemDisplay[(UNI !ID) upl]: %ORANGE%oooooooo %GOLD%Arkaine's Valor %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) ltp]: //Heavenly Garb
 ItemDisplay[(UNI !ID) xtp]: %ORANGE%oooooo %GOLD%Que-Hegan's Wisdom %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI !ID) utp]: %ORANGE%oooooooo %GOLD%Purgatory %ORANGE%oooooooo%BORDER-D3% //New
+ItemDisplay[(UNI !ID) utp]: //%ORANGE%oooooooo %GOLD%Purgatory %ORANGE%oooooooo%BORDER-D3% //New
 ItemDisplay[(UNI !ID) fld]: Rockfleece
 ItemDisplay[(UNI !ID) xld]: //%ORANGE%oooooo %GOLD%Toothrow %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) uld]: %ORANGE%oooooooo %GOLD%Leviathan %ORANGE%oooooooo%BORDER-D3%
@@ -1166,13 +1166,13 @@ ItemDisplay[(UNI !ID) xit]: %ORANGE%oooooo %GOLD%Tiamat's Rebuke %ORANGE%oooooo%
 ItemDisplay[(UNI !ID) uit]: %ORANGE%oooooooo %GOLD%Stormshield %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) bsh]: //Wall of the Eyeless
 ItemDisplay[(UNI !ID) xsh]: %ORANGE%oooooo %GOLD%Lidless Wall %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI !ID) ush]: %ORANGE%oooooooo %GOLD%Head Hunter's Glory %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI !ID) ush]: //%ORANGE%oooooooo %GOLD%Head Hunter's Glory %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) tow]: //Bverrit Keep
 ItemDisplay[(UNI !ID) xow]: %ORANGE%oooooo %GOLD%Gerke's Sanctuary %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) uow]: %ORANGE%oooooooo %GOLD%Medusa's Gaze %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) gts]: //The Ward
 ItemDisplay[(UNI !ID) xts]: //%ORANGE%oooooo %GOLD%Radament's Sphere %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI !ID) uts]: %ORANGE%oooooooo %GOLD%	Spirit Ward %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI !ID) uts]: %ORANGE%oooooooo %GOLD%Spirit Ward %ORANGE%oooooooo%BORDER-D3%
 
 //Gloves
 ItemDisplay[(UNI !ID) lgl]: //The Hand of Broc
@@ -1223,18 +1223,21 @@ ItemDisplay[(UNI !ID) ztb]: %ORANGE%oooooo %GOLD%Snowclash %ORANGE%oooooo%MAP-D3
 ItemDisplay[(UNI !ID) rbe]: %ORANGE%oooooooo %GOLD%Band of Skulls %ORANGE%oooooooo%BORDER-D3% //New
 ItemDisplay[(UNI !ID) hbl]: //Bladebuckle
 ItemDisplay[(UNI !ID) zhb]: %ORANGE%oooooo %GOLD%Thundergod's Vigor %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI !ID) uhc]: %ORANGE%oooooooo %GOLD%Siggard's Staunch %ORANGE%oooooooo%BORDER-D3% //New
 
 //Druid Helms
-ItemDisplay[(UNI !ID) drb]: %ORANGE%oooooooo %GOLD%Cerebus' Bite %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI !ID) dr6]: %ORANGE%oooooo %GOLD%Fenris %ORANGE%oooooo%MAP-D3% //New
+ItemDisplay[(UNI !ID) drb]: //%ORANGE%oooooooo %GOLD%Cerebus' Bite %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) dr2]: //Quetzalcoatl //New
 ItemDisplay[(UNI !ID) drc]: %ORANGE%oooooooo %GOLD%Denmother %ORANGE%oooooooo%BORDER-D3% //New
 ItemDisplay[(UNI !ID) drd]: %ORANGE%oooooooo %GOLD%Spirit Keeper %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) dre]: %ORANGE%oooooooo %GOLD%Ravenlore %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) dra]: %ORANGE%oooooo %GOLD%Jalal's Mane %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI !ID) drf]: %ORANGE%oooooooo %GOLD%Ursa's Nightmare %ORANGE%oooooooo%BORDER-D3% //New
+ItemDisplay[(UNI !ID) drf]: //%ORANGE%oooooooo %GOLD%Ursa's Nightmare %ORANGE%oooooooo%BORDER-D3% //New
 
 //Barbarian Helms
 ItemDisplay[(UNI !ID) ba6]: %ORANGE%oooooo %GOLD%Cyclopean Roar %ORANGE%oooooo%MAP-D3% //New
+ItemDisplay[(UNI !ID) ba7]: %ORANGE%oooooo %GOLD%Wildspeaker %ORANGE%oooooo%MAP-D3% //New
 ItemDisplay[(UNI !ID) bac]: %ORANGE%oooooooo %GOLD%Wolfhowl %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) bad]: //%ORANGE%oooooooo %GOLD%Demonhorn's Edge %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) bae]: %ORANGE%oooooooo %GOLD%	Halaberd's Reign %ORANGE%oooooooo%BORDER-D3%
@@ -1246,9 +1249,11 @@ ItemDisplay[(UNI !ID) pac]: %ORANGE%oooooooo %GOLD%Alma Negra %ORANGE%oooooooo%B
 ItemDisplay[(UNI !ID) pa3]: //Sankekur's Fall //New
 ItemDisplay[(UNI !ID) pa9]: %ORANGE%oooooo %GOLD%Herald of Zakarum %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) pae]: //%ORANGE%oooooooo %GOLD%Dragonscale %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI !ID) paf]: %ORANGE%oooooooo %GOLD%Skywarden %ORANGE%oooooooo%BORDER-D3% //New
 
 //Necro Shields
 ItemDisplay[(UNI !ID) ne6]: %ORANGE%oooooo %GOLD%Kalan's Legacy %ORANGE%oooooo%MAP-D3% //New
+ItemDisplay[(UNI !ID) neg]: %ORANGE%oooooooo %GOLD%Sacred Totem %ORANGE%oooooooo%BORDER-D3% //New
 ItemDisplay[(UNI !ID) ned]: %ORANGE%oooooooo %GOLD%Martyrdom %ORANGE%oooooooo%BORDER-D3% //New
 ItemDisplay[(UNI !ID) nee]: %ORANGE%oooooooo %GOLD%Boneflame %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) nea]: %ORANGE%oooooo %GOLD%Homunculus %ORANGE%oooooo%MAP-D3%
@@ -1267,7 +1272,7 @@ ItemDisplay[(UNI !ID) 2ax]: //Bladebone
 ItemDisplay[(UNI !ID) 92a]: //%ORANGE%oooooo %GOLD%	Islestrike %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) 72a]: //%ORANGE%oooooooo %GOLD%Rune Master %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) mpi]: //Skull Splitter
-ItemDisplay[(UNI !ID) 9mp]: %ORANGE%oooooo %GOLD%Pompeii's Wrath %ORANGE%oooooo%MAP-D3%
+ItemDisplay[(UNI !ID) 9mp]: //%ORANGE%oooooo %GOLD%Pompeii's Wrath %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) 7mp]: //%ORANGE%oooooooo %GOLD%Cranebeak %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) wax]: //Rakescar
 ItemDisplay[(UNI !ID) 9wa]: %ORANGE%oooooo %GOLD%Guardian Naga %ORANGE%oooooo%MAP-D3%
@@ -1310,7 +1315,7 @@ ItemDisplay[(UNI !ID) 9m9]: //%ORANGE%oooooo %GOLD%Bloodtree Stump %ORANGE%ooooo
 ItemDisplay[(UNI !ID) 7m7]: //%ORANGE%oooooooo %GOLD%Windhammer %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) gma]: //Steeldriver
 ItemDisplay[(UNI !ID) 9gm]: %ORANGE%oooooo %GOLD%The Gavel of Pain %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI !ID) 7gm]: %ORANGE%oooooooo %GOLD%	Earth Shifter / The Cranium Basher %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI !ID) 7gm]: %ORANGE%oooooooo %GOLD%Earth Shifter / The Cranium Basher %ORANGE%oooooooo%BORDER-D3%
 
 //Swords
 ItemDisplay[(UNI !ID) ssd]: //Rixot's Keen
@@ -1354,7 +1359,7 @@ ItemDisplay[(UNI !ID) 7gd]: %ORANGE%oooooooo %GOLD%The Grandfather %ORANGE%ooooo
 //Daggers
 ItemDisplay[(UNI !ID) dgr]: Gull
 ItemDisplay[(UNI !ID) 9dg]: //%ORANGE%oooooo %GOLD%Spineripper %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI !ID) 7dg]: %ORANGE%oooooooo %GOLD%Wizardspike %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI !ID) 7dg]: //%ORANGE%oooooooo %GOLD%Wizardspike %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) dir]: //The Diggler
 ItemDisplay[(UNI !ID) 9di]: //%ORANGE%oooooo %GOLD%	Heart Carver %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) 7di]: %ORANGE%oooooooo %GOLD%Shatterblade %ORANGE%oooooooo%BORDER-D3% //New
@@ -1368,8 +1373,9 @@ ItemDisplay[(UNI !ID) 7bl]: //%ORANGE%oooooooo %GOLD%Ghostflame %ORANGE%oooooooo
 //Throwing Axes & Throwing Knives
 ItemDisplay[(UNI !ID) 9tk]: //%ORANGE%oooooo %GOLD%Deathbit %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) 9ta]: //%ORANGE%oooooo %GOLD%The Scalper %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI !ID) 7ta]: //%ORANGE%oooooooo %GOLD%Gimmershred %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI !ID) 7ta]: %ORANGE%oooooooo %GOLD%Gimmershred %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) 7bk]: //%ORANGE%oooooooo %GOLD%Warshrike %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI !ID) 9b8]: %ORANGE%oooooo %GOLD%Achilles Strike %ORANGE%oooooo%MAP-D3% //New
 ItemDisplay[(UNI !ID) 7b8]: %ORANGE%oooooooo %GOLD%Lacerator %ORANGE%oooooooo%BORDER-D3%
 
 //Javelins
@@ -1383,7 +1389,7 @@ ItemDisplay[(UNI !ID) 9sr]: //%ORANGE%oooooo %GOLD%The Impaler %ORANGE%oooooo%MA
 ItemDisplay[(UNI !ID) 7sr]: //%ORANGE%oooooooo %GOLD%Arioc's Needle %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) tri]: //Razortine
 ItemDisplay[(UNI !ID) 9tr]: //%ORANGE%oooooo %GOLD%Kelpie Snare %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI !ID) brn]: Bloodthief
+ItemDisplay[(UNI !ID) brn]: //Bloodthief
 ItemDisplay[(UNI !ID) 9br]: //%ORANGE%oooooo %GOLD%Soulfeast Tine %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) 7br]: //%ORANGE%oooooooo %GOLD%Viperfork %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) spt]: //Lance of Yaggai
@@ -1404,7 +1410,7 @@ ItemDisplay[(UNI !ID) 9s8]: %ORANGE%oooooo %GOLD%Athena's Wrath %ORANGE%oooooo%M
 ItemDisplay[(UNI !ID) 7s8]: %ORANGE%oooooooo %GOLD%The Reaper's Toll %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) pax]: //The Battlebranch
 ItemDisplay[(UNI !ID) 9pa]: //%ORANGE%oooooo %GOLD%Pierre Tombale Couant %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI !ID) 7pa]: %ORANGE%oooooooo %GOLD%Tomb Reaver %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI !ID) 7pa]: //%ORANGE%oooooooo %GOLD%Tomb Reaver %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) hal]: //Woestave
 ItemDisplay[(UNI !ID) 9h9]: //%ORANGE%oooooo %GOLD%Husoldal Evo %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) wsc]: //The Grim Reaper
@@ -1439,8 +1445,8 @@ ItemDisplay[(UNI !ID) mxb]: //Ichorsting
 ItemDisplay[(UNI !ID) 8mx]: %ORANGE%oooooo %GOLD%Pus Spitter %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) hxb]: //Hellcast
 ItemDisplay[(UNI !ID) 8hx]: %ORANGE%oooooo %GOLD%Buriza-Do Kyanon %ORANGE%oooooo%MAP-D3%
-ItemDisplay[(UNI !ID) 6hx]: %ORANGE%oooooooo %GOLD%Hellrack %ORANGE%oooooooo%BORDER-D3%
-ItemDisplay[(UNI !ID) rxb]: Doomslinger
+ItemDisplay[(UNI !ID) 6hx]: //%ORANGE%oooooooo %GOLD%Hellrack %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI !ID) rxb]: //Doomslinger
 ItemDisplay[(UNI !ID) 8rx]: %ORANGE%oooooo %GOLD%Demon Machine %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) 6rx]: %ORANGE%oooooooo %GOLD%Gut Siphon %ORANGE%oooooooo%BORDER-D3%
 
@@ -1483,9 +1489,9 @@ ItemDisplay[(UNI !ID) 9ws]: %ORANGE%oooooo %GOLD%Hand of Blessed Light %ORANGE%o
 ItemDisplay[(UNI !ID) 7ws]: %ORANGE%oooooooo %GOLD%Astreon's Iron Ward %ORANGE%oooooooo%BORDER-D3%
 
 //Assassin Claws
-
 ItemDisplay[(UNI !ID) 9ar]: //%ORANGE%oooooo %GOLD%Mage Slayer %ORANGE%oooooo%MAP-D3% //New
-ItemDisplay[(UNI !ID) 7wb]: //%ORANGE%oooooooo %GOLD%Jade Talon %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI !ID) 7wb]: %ORANGE%oooooooo %GOLD%Jade Talon %ORANGE%oooooooo%BORDER-D3%
+ItemDisplay[(UNI !ID) 7xf]: %ORANGE%oooooo %GOLD%Whispering Mirage %ORANGE%oooooo%MAP-D3% //New
 ItemDisplay[(UNI !ID) 7cs]: //%ORANGE%oooooooo %GOLD%Shadow Killer %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) 7lw]: %ORANGE%oooooooo %GOLD%Firelizard's Talons %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) 9tw]: %ORANGE%oooooo %GOLD%Bartuc's Cut-Throat %ORANGE%oooooo%MAP-D3%
@@ -1493,7 +1499,8 @@ ItemDisplay[(UNI !ID) 7tw]: %ORANGE%oooooooo %GOLD%Stalker's Cull  %ORANGE%ooooo
 ItemDisplay[(UNI !ID) 7qr]: %ORANGE%oooooooo %GOLD%Aidan's Scar %ORANGE%oooooooo%BORDER-D3% //New
 
 //Sorc Orbs
-ItemDisplay[(UNI !ID) ob6]: //%ORANGE%oooooo %GOLD%Tempest %ORANGE%oooooo%MAP-D3% //New
+ItemDisplay[(UNI !ID) ob6]: %ORANGE%oooooo %GOLD%Tempest %ORANGE%oooooo%MAP-D3% //New
+ItemDisplay[(UNI !ID) ob7]: %ORANGE%oooooo %GOLD%Skorn %ORANGE%oooooo%MAP-D3% //New
 ItemDisplay[(UNI !ID) obc]: %ORANGE%oooooooo %GOLD%Eschuta's Temper %ORANGE%oooooooo%BORDER-D3%
 ItemDisplay[(UNI !ID) oba]: %ORANGE%oooooo %GOLD%The Oculus %ORANGE%oooooo%MAP-D3%
 ItemDisplay[(UNI !ID) obf]: %ORANGE%oooooooo %GOLD%Death's Fathom %ORANGE%oooooooo%BORDER-D3%
@@ -1589,7 +1596,7 @@ ItemDisplay[(SET !ID) xhg]: %DARK_GREEN%ooooo %GREEN%Immortal King's Forge %DARK
 //Boots
 ItemDisplay[(SET !ID) lbt]: //Tancred's Hobnails
 ItemDisplay[(SET !ID) xlb]: %DARK_GREEN%ooooo %GREEN%Rite of Passage %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) vbt]: Cow King's Hooves // Sander's Riprap
+ItemDisplay[(SET !ID) vbt]: Cow King's Hooves / Sander's Riprap
 ItemDisplay[(SET !ID) mbt]: //Hsarus' Iron Heel
 ItemDisplay[(SET !ID) xmb]: %DARK_GREEN%ooooo %GREEN%Natalya's Soul %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) tbt]: //Vidala's Fetlock
@@ -1791,14 +1798,24 @@ ItemDisplay[SOR !leg NMAG (!INF OR ETH) SOCK=3 !RW]: %NAME%{%GOLD%Plague, Venom%
 
 //Armors
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[(uap OR uh9 OR urn OR usk OR ci3 OR uui OR uar OR uit OR ush OR urs OR utp OR uth OR ucl OR pab OR pae OR paf OR nef) NMAG (!INF OR ETH) SOCK>2 !RW]: %DOT-A8%%NAME%{%NAME%} //Best-in Slot
-ItemDisplay[(ghm OR xhm OR dr6 OR dr8) NMAG (!INF OR ETH) SOCK>1 !RW]: %DOT-A8%%NAME%{%NAME%} //Best-in Slot
-ItemDisplay[HELM (ci0 OR xsk OR xh9) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
-ItemDisplay[CHEST (xar OR uui OR uea OR ula OR utu OR ung OR ult OR xtp) NMAG (!INF OR ETH) SOCK>1 !RW]: %NAME%{%NAME%}
-ItemDisplay[SHIELD (lrg OR xsh OR uuc OR urg OR pa2 OR pac) NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}
-ItemDisplay[DRU (drb OR dr2 OR dr3) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
-ItemDisplay[BAR (bae) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
-ItemDisplay[DIN (pae) NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}
+ItemDisplay[xhm NMAG (!INF OR ETH) SOCK>1 !RW]: %NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[xtp NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[xar NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[ung NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[ucl NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[urs NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[uth NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[utp NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[uar NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[uit NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[dr6 NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[drd NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[baa NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[bae NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[pa9 NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[pae NMAG (!INF OR ETH) SOCK>2 !RW]: %NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[ne9 NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}%BORDER-1F%
+ItemDisplay[nea NMAG (!INF OR ETH) SOCK>2 !RW]: //%NAME%{%NAME%}%BORDER-1F%
 
 //Weapons
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -2061,7 +2078,7 @@ ItemDisplay[cm1 !UNI ID !(LIFE>10 OR MANA>10 OR MAXDMG>1 OR DEX>0 OR STR>0 OR FR
 ItemDisplay[NMAG INF]:
 
 //Keys, Blue Rings and Jewels
-ItemDisplay[rin MAG !ID]:
+ItemDisplay[(rin OR amu) MAG !ID]:
 ItemDisplay[aqv OR cqv]: 
 ItemDisplay[key]: 
 ItemDisplay[MAG !ID jew ILVL<66]: 
