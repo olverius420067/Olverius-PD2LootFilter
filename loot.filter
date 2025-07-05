@@ -1085,7 +1085,7 @@ ItemDisplay[(uml OR upk OR drb OR bad OR pae) UNI ETH !ID]: //Hidden
 //Weapons
 ItemDisplay[(7wa OR 7bt OR 7ga OR 7sp OR 7fl OR 7wh OR 7gm OR 7sm OR 7cr OR 7ls OR 7gs OR 7b7 OR 7gd OR 7dg OR 7kr OR 7b8 OR 7ts OR 7p7 OR 6l7 OR 6sw OR 6lw OR 6hx OR 6rx OR 6cs OR 6ws OR 7lw OR obc OR obf OR amf) UNI ETH !ID]: %ORANGE%oooooooo %NAME%%ORANGE% oooooooo%BORDER-D3% //Best-in Slot
 ItemDisplay[(7bs OR 7cm OR 7fb OR 7di OR 7st OR 6bs OR 7tw OR 7qr OR amc OR ame) UNI ETH !ID]: %ORANGE%ooooooo %NAME%%ORANGE% ooooooo%MAP-D3% //New
-ItemDisplay[(7ha OR 72a OR 7mp OR 7ba OR 7gi OR 7cl OR 7mt OR 7m7 OR 7sb OR 7bl OR 7ta OR 7bk OR 7s7 OR 7gl OR 7sr OR 7br OR 7wb 7cs OR ab OR amd OR ) UNI ETH !ID]: //Hidden
+ItemDisplay[(7ha OR 72a OR 7mp OR 7ba OR 7gi OR 7cl OR 7mt OR 7m7 OR 7sb OR 7bl OR 7ta OR 7bk OR 7s7 OR 7gl OR 7sr OR 7br OR 7wb OR 7cs OR amb OR amd) UNI ETH !ID]: //Hidden
 
 //Sets
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
