@@ -620,10 +620,11 @@ ItemDisplay[(NMAG OR MAG OR RARE) !RW amf]: Matriarchal Javelin%CONTINUE%
 
 //Ethereals
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ItemDisplay[ETH UNI]: %GRAY%[%WHITE%eth%GRAY%] %WHITE%%NAME%%CONTINUE%
-ItemDisplay[ETH RARE]: %GRAY%[%WHITE%eth%GRAY%] %YELLOW%%NAME%%CONTINUE%
-ItemDisplay[ETH MAG]: //%GRAY%[%WHITE%eth%GRAY%] %BLUE%%NAME%%CONTINUE%
-ItemDisplay[ETH NMAG]: %GRAY%[%WHITE%eth%GRAY%] %GRAY%%NAME%%CONTINUE%
+ItemDisplay[ETH SET]: %GRAY%[%WHITE%eth%GRAY%] %NAME%%CONTINUE%
+ItemDisplay[ETH UNI]: %GRAY%[%WHITE%eth%GRAY%] %NAME%%CONTINUE%
+ItemDisplay[ETH RARE]: %GRAY%[%WHITE%eth%GRAY%] %NAME%%CONTINUE%
+ItemDisplay[ETH MAG]: //%GRAY%[%WHITE%eth%GRAY%] %NAME%%CONTINUE%
+ItemDisplay[ETH NMAG]: %GRAY%[%WHITE%eth%GRAY%] %NAME%%CONTINUE%
 
 //Vendor
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -1658,7 +1659,7 @@ ItemDisplay[(SET !ID) bst]: //Cathan's Rule
 ItemDisplay[(SET !ID) wst]: //Arcanna's Deathwand
 
 //Wands
-ItemDisplay[(SET !ID) bwn]: Sander's Superstition
+ItemDisplay[(SET !ID) bwn]: //Sander's Superstition
 
 //Scepters
 ItemDisplay[(SET !ID) gsc]: //Civerb's Cudgel
@@ -1951,11 +1952,11 @@ ItemDisplay[RARE t43]: %YELLOW%Sanctuary of Sin {%YELLOW%light 180 %BLUE%cold 12
 ItemDisplay[RARE t44]: %YELLOW%Steppes of Daken-Shar {%YELLOW%light 180 %BLUE%cold 120/180 %GREEN%poison 180%NL%%TAN%physical 150/180 %ORANGE%magic 180 %RED%fire 180 %NL%%GOLD%High Immunities%WHITE%:}%BORDER-62%
 
 //Unique
-ItemDisplay[t51]: %GOLD%Zhar's Sanctum %ORANGE%Map%BORDER-64%
-ItemDisplay[t52]: %GOLD%Warlord of Blood %ORANGE%Map%DOT-64%
-ItemDisplay[t53]: %GOLD%Fallen Gardens %ORANGE%Map%DOT-64%
-ItemDisplay[t54]: %GOLD%Imperial Palace %ORANGE%Map%DOT-64%
-ItemDisplay[t55]: %GOLD%Outer Void %ORANGE%Map%DOT-64%
+ItemDisplay[t51]: %GOLD%Zhar's Sanctum %ORANGE%Map%BORDER-D3%
+ItemDisplay[t52]: %GOLD%Warlord of Blood %ORANGE%Map%BORDER-D3%
+ItemDisplay[t53]: %GOLD%Fallen Gardens %ORANGE%Map%BORDER-D3%
+ItemDisplay[t54]: %GOLD%Imperial Palace %ORANGE%Map%BORDER-D3%
+ItemDisplay[t55]: %GOLD%Outer Void %ORANGE%Map%BORDER-D3%
 
 //ESSENCES & TOKEN
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
