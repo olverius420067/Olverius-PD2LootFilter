@@ -1559,75 +1559,52 @@ ItemDisplay[(SET !ID) xar]: %DARK_GREEN%ooooo %GREEN%Griswold's Heart %DARK_GREE
 ItemDisplay[(SET !ID) uar]: %DARK_GREEN%ooooo %GREEN%Immortal King's Soul Cage %DARK_GREEN%ooooo%MAP-7D%
 
 //Shields
-ItemDisplay[(SET !ID) buc]: //
-ItemDisplay[(SET !ID) xuc]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) uuc]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) sml]: //
-ItemDisplay[(SET !ID) xml]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) uml]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) lrg]: //
-ItemDisplay[(SET !ID) xrg]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) urg]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) spk]: //
-ItemDisplay[(SET !ID) xpk]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) upk]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) kit]: //
-ItemDisplay[(SET !ID) xit]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) uit]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) bsh]: //
-ItemDisplay[(SET !ID) xsh]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) ush]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) tow]: //
-ItemDisplay[(SET !ID) xow]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) uow]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) gts]: //
-ItemDisplay[(SET !ID) xts]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) uts]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) lgl]: //
-ItemDisplay[(SET !ID) xlg]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) ulg]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) vgl]: //
-ItemDisplay[(SET !ID) xvg]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) uvg]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) mgl]: //
-ItemDisplay[(SET !ID) xmg]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) umg]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) tgl]: //
-ItemDisplay[(SET !ID) xtg]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) utg]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) hgl]: //
-ItemDisplay[(SET !ID) xhg]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) uhg]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) lbt]: //
-ItemDisplay[(SET !ID) xlb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) ulb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) vbt]: //
-ItemDisplay[(SET !ID) xvb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) uvb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) mbt]: //
-ItemDisplay[(SET !ID) xmb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) umb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) tbt]: //
-ItemDisplay[(SET !ID) xtb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) utb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) hbt]: //
-ItemDisplay[(SET !ID) xhb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) uhb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) lbl]: //
-ItemDisplay[(SET !ID) zlb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) ulc]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) vbl]: //
-ItemDisplay[(SET !ID) zvb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) uvc]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) mbl]: //
-ItemDisplay[(SET !ID) zmb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) umc]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) tbl]: //
-ItemDisplay[(SET !ID) ztb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) utc]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) hbl]: //
-ItemDisplay[(SET !ID) zhb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
-ItemDisplay[(SET !ID) uhc]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) buc]: //Hsarus' Iron Fist
+ItemDisplay[(SET !ID) sml]: //Cleglaw's Claw
+ItemDisplay[(SET !ID) xml]: %DARK_GREEN%ooooo %GREEN%Whitstan's Guard %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) lrg]: //Civerb's Ward
+ItemDisplay[(SET !ID) kit]: //Milabrega's Orb
+ItemDisplay[(SET !ID) tow]: Sigon's Guard
+ItemDisplay[(SET !ID) gts]: //Isenhart's Parry
+ItemDisplay[(SET !ID) uts]: //%DARK_GREEN%ooooo %GREEN%Taebaek's Glory %DARK_GREEN%ooooo%MAP-7D%
+
+//Gloves
+ItemDisplay[(SET !ID) lgl]: //Death's Hand
+ItemDisplay[(SET !ID) ulg]: %DARK_GREEN%ooooo %GREEN%Laying of Hands %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) vgl]: //Sander's Taboo
+ItemDisplay[(SET !ID) xvg]: %DARK_GREEN%ooooo %GREEN%Magnus' Skin %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) mgl]: //Cleglaw's Pincers
+ItemDisplay[(SET !ID) xmg]: %DARK_GREEN%ooooo %GREEN%Trang-Oul's Claws %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) tgl]: //Arctic Mitts / Iratha's Cuff
+ItemDisplay[(SET !ID) xtg]: %DARK_GREEN%ooooo %GREEN%M'avina's Icy Clutch %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) hgl]: Sigon's Gage
+ItemDisplay[(SET !ID) xhg]: %DARK_GREEN%ooooo %GREEN%Immortal King's Forge %DARK_GREEN%ooooo%MAP-7D%
+
+//Boots
+ItemDisplay[(SET !ID) lbt]: //Tancred's Hobnails
+ItemDisplay[(SET !ID) xlb]: %DARK_GREEN%ooooo %GREEN%Rite of Passage %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) vbt]: Cow King's Hooves // Sander's Riprap
+ItemDisplay[(SET !ID) mbt]: //Hsarus' Iron Heel
+ItemDisplay[(SET !ID) xmb]: %DARK_GREEN%ooooo %GREEN%Natalya's Soul %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) tbt]: //Vidala's Fetlock
+ItemDisplay[(SET !ID) xtb]: %DARK_GREEN%ooooo %GREEN%Aldur's Advance %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) hbt]: Sigon's Sabot
+ItemDisplay[(SET !ID) xhb]: %DARK_GREEN%ooooo %GREEN%Immortal King's Pillar %DARK_GREEN%ooooo%MAP-7D%
+
+//Belts
+ItemDisplay[(SET !ID) lbl]: //Death's Guard
+ItemDisplay[(SET !ID) vbl]: //Arctic Binding
+ItemDisplay[(SET !ID) zvb]: %DARK_GREEN%ooooo %GREEN%M'avina's Tenet %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) mbl]: //Hsarus' Iron Stay / Hwanin's Blessing
+ItemDisplay[(SET !ID) zmb]: %DARK_GREEN%ooooo %GREEN%Tal Rasha's Fine-Spun Cloth %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) umc]: %DARK_GREEN%ooooo %GREEN%Credendum %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) tbl]: //Infernal Sign / Iratha's Cord
+ItemDisplay[(SET !ID) ztb]: %DARK_GREEN%ooooo %GREEN%Wilhelm's Pride %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) utc]: %DARK_GREEN%ooooo %GREEN%Trang-Oul's Girth %DARK_GREEN%ooooo%MAP-7D%
+ItemDisplay[(SET !ID) hbl]: Sigon's Wrap
+ItemDisplay[(SET !ID) zhb]: %DARK_GREEN%ooooo %GREEN%Immortal King's Detail %DARK_GREEN%ooooo%MAP-7D%
+
+//Druid Helms
 ItemDisplay[(SET !ID) dr1]: //
 ItemDisplay[(SET !ID) dr6]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
 ItemDisplay[(SET !ID) drb]: //%DARK_GREEN%ooooo %GREEN% %DARK_GREEN%ooooo%MAP-7D%
