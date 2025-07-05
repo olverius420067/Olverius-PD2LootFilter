@@ -1078,33 +1078,14 @@ ItemDisplay[(amu OR rin) SET !ID]: %NAME%%MAP-7D%
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 //Armors
-ItemDisplay[(uap OR ulm OR usk OR uh9 OR uhm OR urn OR ci3 OR uui OR utu OR upl OR uar OR uit OR uow OR uvg OR umg OR uvb OR umb OR uhb OR ulc OR uvc OR umc OR drd OR bac OR bae OR pac OR nee OR nef) UNI ETH !ID]: %ORANGE%oooooooo %NAME%%ORANGE% oooooooo%BORDER-D3% //Best-in Slot
-ItemDisplay[(uhl OR rar OR uth OR utp OR rbe OR drf OR baf OR ned OR paf OR dr6 OR ba7 OR uhc OR neg) UNI !ID]: %ORANGE%ooooooo %NAME%%ORANGE% ooooooo%MAP-D3% //New
-ItemDisplay[(uld OR uul) UNI !ID]: //Chests
-ItemDisplay[(uml OR upk OR ush OR uts) UNI !ID]: //Shields
-ItemDisplay[(utg OR uhg) UNI !ID]: //Gloves
-ItemDisplay[(ulb OR utb) UNI !ID]: //Boots
-ItemDisplay[(drb OR dre) UNI !ID]: //Druid Helms
-ItemDisplay[(bad) UNI !ID]: //Barbarian Helms
-ItemDisplay[(pae) UNI !ID]: //Paladin Shields
+ItemDisplay[(uap OR ulm OR uh9 OR uhm OR urn OR uui OR utu OR upl OR uld OR uul OR uar OR uit OR ush OR uow OR uts OR uvg OR umg OR uhg OR ulc OR uvc OR umc OR drd OR dre OR bac OR bae OR pac OR nee OR nef) UNI ETH !ID]: %ORANGE%oooooooo %NAME%%ORANGE% oooooooo%BORDER-D3% //Best-in Slot
+ItemDisplay[(uhl OR ung OR rar OR uth OR urg OR ulg OR utg OR rbe OR drc OR drf OR baf OR ned) UNI ETH !ID]: %ORANGE%ooooooo %NAME%%ORANGE% ooooooo%MAP-D3% //New
+ItemDisplay[(uml OR upk OR drb OR bad OR pae) UNI ETH !ID]: //Hidden
 
 //Weapons
-ItemDisplay[(7sp OR 7wh OR 7gm OR 7cr OR 7gd OR 7b8 OR 7o7 OR 7s8 OR 7wc OR 6lw OR 6rx OR 6ws OR 7bw OR 7gw OR 7qs OR 7sc OR obc OR obf OR amf) UNI ETH !ID]: %ORANGE%oooooooo %NAME%%ORANGE% oooooooo%BORDER-D3% //Best-in Slot
-ItemDisplay[(7bs OR 7cm OR 7fb OR 7st OR 6bs OR 7tw OR 7qr OR ame OR ob7 OR 7xf OR 9b8) UNI !ID]: %ORANGE%oooooooo %NAME%%ORANGE% oooooooo%MAP-D3% //New
-ItemDisplay[(7ha OR 72a OR 7mp OR 7wa OR 7ba OR 7bt OR 7ga OR 7gl) UNI !ID]: //Axes
-ItemDisplay[(7cl OR 7mt OR 7fl OR 7m7) UNI !ID]: //Maces
-ItemDisplay[(7sm OR 7sb OR 7ls OR 7gs OR 7b7) UNI !ID]: //Swords	
-ItemDisplay[(7dg OR 7kr OR 7bl) UNI !ID]: //Daggers
-ItemDisplay[(7ta OR 7bk) UNI !ID]: //Throwing Axes & Knives
-ItemDisplay[(7s7 OR 7gl OR 7ts) UNI !ID]: //Javelins
-ItemDisplay[(7sr OR 7br OR 7p7) UNI !ID]: //Spears
-ItemDisplay[(7pa) UNI !ID]: //Polearms
-ItemDisplay[(6l7 OR 6sw) UNI !ID]: //Bows
-ItemDisplay[(6hx) UNI !ID]: //X-bows
-ItemDisplay[(6cs) UNI !ID]: //Staves
-ItemDisplay[(7ws) UNI !ID]: //Scepters
-ItemDisplay[(7wb OR 7cs OR 7lw) UNI !ID]: //Assassin Claws
-ItemDisplay[(amb OR amd) UNI !ID]: //Amazon Weapons
+ItemDisplay[(7wa OR 7bt OR 7ga OR 7sp OR 7fl OR 7wh OR 7gm OR 7sm OR 7cr OR 7ls OR 7gs OR 7b7 OR 7gd OR 7dg OR 7kr OR 7b8 OR 7ts OR 7p7 OR 6l7 OR 6sw OR 6lw OR 6hx OR 6rx OR 6cs OR 6ws OR 7lw OR obc OR obf OR amf) UNI ETH !ID]: %ORANGE%oooooooo %NAME%%ORANGE% oooooooo%BORDER-D3% //Best-in Slot
+ItemDisplay[(7bs OR 7cm OR 7fb OR 7di OR 7st OR 6bs OR 7tw OR 7qr OR amc OR ame) UNI ETH !ID]: %ORANGE%ooooooo %NAME%%ORANGE% ooooooo%MAP-D3% //New
+ItemDisplay[(7ha OR 72a OR 7mp OR 7ba OR 7gi OR 7cl OR 7mt OR 7m7 OR 7sb OR 7bl OR 7ta OR 7bk OR 7s7 OR 7gl OR 7sr OR 7br OR 7wb 7cs OR ab OR amd OR ) UNI ETH !ID]: //Hidden
 
 //Sets
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
