@@ -1064,10 +1064,15 @@ ItemDisplay[jew !UNI (STAT501>74 AND STAT91=-15)]: %RED%bleed %DARK_GREEN%-req %
 //EQUIPMENT
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-//Amulets, Rings, Jools, Circlets, Quivers
+//Jewellery, Circlets and Quivers
 //▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ItemDisplay[(aqv OR cqv) RARE !ID]: //%NAME%%DOT-0E%
-ItemDisplay[(jew OR rin OR amu OR CIRC) RARE !ID]: %NAME%%DOT-94%
+ItemDisplay[(jew OR rin OR amu OR CIRC) RARE !ID]: %NAME%%MAP-0E%
+ItemDisplay[(amu OR rin OR ram) UNI !ID]: %ORANGE%ooooooo %GOLD%%NAME% %ORANGE%ooooooo%BORDER-D3%
+ItemDisplay[(amu OR rin) SET !ID]: %NAME%%MAP-7D%
+
+//UNIQUE
+//▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 //Armors
 //▬▬▬▬▬▬▬▬▬▬▬▬▬
